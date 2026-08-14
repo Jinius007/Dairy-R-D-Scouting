@@ -1,5 +1,4 @@
 import {
-  defaultTimeline,
   getSettings,
   isAtOrAfterFourPmIst,
   loadDailyPop,
@@ -40,7 +39,7 @@ async function showDailyNotification(force = false) {
   });
   await chrome.storage.local.set({
     lastNotifyDate: todayIst,
-    timeline: defaultTimeline(pop.today.count),
+    timeline: 'week',
   });
   return { ok: true, focus: pop.focus, title: pop.notification.title };
 }

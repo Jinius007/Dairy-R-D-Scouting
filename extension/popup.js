@@ -23,7 +23,7 @@ function renderPicker(selected = '') {
   app.innerHTML = `
     <p class="kicker">One-time setup · this Chrome only</p>
     <h1>Which department?</h1>
-    <p class="lede">Choose once. At 4:00 PM IST, Chrome pops today’s briefing if anything new landed — otherwise yesterday’s.</p>
+    <p class="lede">Choose once. At 4:00 PM IST, Chrome pops how many items this week and this month for your department.</p>
     <div class="depts">
       ${DEPARTMENTS.map(
         (d) =>
@@ -62,8 +62,8 @@ function renderFeed(feed, errorText = '') {
       ).join('')}
     </div>
     <div class="counts">
-      <div class="pill"><b>${feed.todayCount}</b><span>today</span></div>
-      <div class="pill"><b>${feed.yesterdayCount}</b><span>yesterday</span></div>
+      <div class="pill"><b>${feed.weekCount}</b><span>this week</span></div>
+      <div class="pill"><b>${feed.monthCount}</b><span>this month</span></div>
       <div class="pill"><b>${feed.view.count}</b><span>in view</span></div>
     </div>
     ${list}
@@ -88,8 +88,7 @@ async function switchTimeline(slug, timeline) {
 
 async function chooseDepartment(slug) {
   await saveDepartment(slug);
-  const probe = await loadFeed(slug, 'today');
-  const timeline = defaultTimeline(probe.todayCount);
+  const timeline = defaultTimeline();
   await saveTimeline(timeline);
   renderFeed(await loadFeed(slug, timeline));
   chrome.runtime.sendMessage({ type: 'NOTIFY_NOW' });
@@ -98,7 +97,7 @@ async function chooseDepartment(slug) {
 async function notifyNow(slug) {
   const result = await chrome.runtime.sendMessage({ type: 'NOTIFY_NOW' });
   const settings = await getSettings();
-  const timeline = settings.timeline || 'yesterday';
+  const timeline = settings.timeline || 'week';
   const feed = await loadFeed(slug || settings.department, timeline);
   if (result?.error) {
     renderFeed(feed, result.error);
@@ -116,8 +115,7 @@ async function boot() {
       renderPicker();
       return;
     }
-    const probe = await loadFeed(settings.department, 'today');
-    const timeline = settings.timeline || defaultTimeline(probe.todayCount);
+    const timeline = settings.timeline || defaultTimeline();
     renderFeed(await loadFeed(settings.department, timeline));
   } catch (err) {
     app.innerHTML = `<p class="kicker">Dairy R&amp;D Scouting</p><h1>Could not load</h1><p class="lede error">${esc(err.message || err)}</p>`;

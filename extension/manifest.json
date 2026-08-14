@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Dairy R&D Department Briefing",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Daily 4:00 PM IST Chrome briefing for your dairy R&D department. Today if anything new, otherwise yesterday.",
   "homepage_url": "https://github.com/Jinius007/Dairy-R-D-Scouting",
   "action": {

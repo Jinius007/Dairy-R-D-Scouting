@@ -161,28 +161,23 @@ export async function loadDailyPop(slug) {
   const dept = departmentBySlug(slug);
   if (!dept) throw new Error('Unknown department');
   const all = await fetchDevelopments();
-  const today = itemsForTimeline(all, slug, 'today');
-  const yesterday = itemsForTimeline(all, slug, 'yesterday');
-  const useToday = today.count > 0;
-  const focus = useToday ? today : yesterday;
-  const top = focus.items[0];
-  const label = useToday ? 'Today' : 'Yesterday';
-  const head = useToday
-    ? `Today: ${today.count} new`
-    : `No new items today · Yesterday: ${yesterday.count}`;
-  const body = top ? `${head}. ${top.title}` : `${head}. Open the extension for the full briefing.`;
+  const week = itemsForTimeline(all, slug, 'week');
+  const month = itemsForTimeline(all, slug, 'month');
+  const body = `This week: ${week.count} · This month: ${month.count}`;
 
   return {
     slug: dept.slug,
     name: dept.name,
-    focus: useToday ? 'today' : 'yesterday',
-    today,
-    yesterday,
-    items: focus.items.slice(0, 20),
+    focus: 'week',
+    today: itemsForTimeline(all, slug, 'today'),
+    yesterday: itemsForTimeline(all, slug, 'yesterday'),
+    week,
+    month,
+    items: week.items.slice(0, 20),
     notification: {
-      title: `Dairy R&D · ${dept.name} · ${label}`,
-      body: body.slice(0, 220),
-      context: `${focus.startIso}${focus.startIso === focus.endIso ? '' : ` – ${focus.endIso}`}`,
+      title: `Dairy R&D · ${dept.name}`,
+      body,
+      context: 'Week and month counts',
     },
   };
 }
@@ -192,15 +187,16 @@ export async function loadFeed(slug, timeline) {
   if (!dept) throw new Error('Unknown department');
   const all = await fetchDevelopments();
   const view = itemsForTimeline(all, slug, timeline);
-  const today = itemsForTimeline(all, slug, 'today');
-  const yesterday = itemsForTimeline(all, slug, 'yesterday');
+  const week = itemsForTimeline(all, slug, 'week');
+  const month = itemsForTimeline(all, slug, 'month');
   return {
     slug: dept.slug,
     name: dept.name,
     timeline,
     view,
-    todayCount: today.count,
-    yesterdayCount: yesterday.count,
+    weekCount: week.count,
+    monthCount: month.count,
+    todayCount: itemsForTimeline(all, slug, 'today').count,
     afterFourPm: isAtOrAfterFourPmIst(),
   };
 }
@@ -221,7 +217,6 @@ export async function saveTimeline(timeline) {
   await chrome.storage.local.set({ timeline });
 }
 
-export function defaultTimeline(todayCount) {
-  if (isAtOrAfterFourPmIst() && todayCount > 0) return 'today';
-  return 'yesterday';
+export function defaultTimeline() {
+  return 'week';
 }
