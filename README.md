@@ -29,6 +29,24 @@ npm run ingest
 
 This runs automatically via GitHub Actions at 06:00 UTC daily. When new items are found, they are committed to `data/developments.json` and Vercel redeploys.
 
+## Daily email digest (Resend)
+
+Each morning a GitHub Action emails **today’s summary** and **this week’s summary** per department. Recipients do not log in. Your Outlook is not connected.
+
+1. Create a free [Resend](https://resend.com) API key and store it as the GitHub secret `RESEND_API_KEY` (never commit the key).
+2. Put work emails in `data/recipients.json` under each department.
+3. Optional: run the **Daily department digest email** workflow and enter a test address.
+4. Optional GitHub secret `RESEND_FROM` after you verify a domain (until then it uses `beth.t@example.com`).
+
+Local test (key only in gitignored `.env.local`):
+
+```bash
+# PowerShell
+$env:RESEND_API_KEY="re_..."
+$env:DIGEST_TEST_TO="you@work.org"
+npm run digest:email
+```
+
 ## Deploy to Vercel
 
 1. Push to GitHub
