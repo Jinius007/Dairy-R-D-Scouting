@@ -7,7 +7,7 @@ A running repository of research and development across the global dairy sector 
 - **12 function categories**: Animal Health, Nutrition & Feeding, Breeding & Genetics, Engineering & Automation, Robotics & AI, Quality & Food Safety, Product Development, Sustainability & Traceability, Digital Platforms, Dairy Processing, Farm Management, Animal Welfare
 - **Multi-dimensional filtering**: Region, company, academic institution, R&D type, timeline, and free-text search
 - **Visual analytics**: 24-month momentum chart and function breakdown pie chart
-- **Chrome extension**: daily 4:00 PM IST notification (today if anything new, otherwise yesterday), plus Today / Yesterday / Week / Month / Year / All time toggles
+- **Chrome extension**: daily 4:00 PM IST notification with this week’s and this month’s counts, plus timeline toggles in the popup
 - **Daily auto-update**: GitHub Action at 15:00 IST ingests OpenAlex, Europe PMC, Crossref, arXiv, dairy trade-press RSS, and a curated industry catalog
 - **Responsive design**: Clean, modern UI inspired by the reference tracker
 
@@ -22,14 +22,13 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Chrome extension
 
-Load the unpacked extension from the `extension` folder:
+Staff install from the **Chrome briefing** page, which links to the GitHub folder (not a zip):
 
-1. Chrome → `chrome://extensions` → turn on **Developer mode**
-2. **Load unpacked** → choose `extension`
-3. Pin the icon (puzzle piece → pin)
-4. Click the icon and pick your department
+https://github.com/Jinius007/Dairy-R-D-Scouting/tree/main/extension
 
-At **4:00 PM IST** each day, if Chrome is open (or the next time you open it after 4 PM), it pops **today’s** briefing when that department has new items, otherwise **yesterday’s**. In the popup you can switch Today, Yesterday, Week, Month, Year, or All time. Details: `extension/README.md`.
+That folder contains `manifest.json`. In Chrome: `chrome://extensions` → Developer mode → **Load unpacked** → select the `extension` folder. Pin the icon and pick a department.
+
+At **4:00 PM IST** the pop shows **this week** and **this month** counts. Details: `extension/README.md`.
 
 ## Daily Ingestion
 
