@@ -42,6 +42,7 @@ export function TrackingBadge() {
 
 export function Header() {
   const pathname = usePathname();
+  const onExtension = pathname === '/extension';
 
   return (
     <header className="sticky top-0 z-50 bg-white/55 backdrop-blur-md border-b border-white/70">
@@ -58,12 +59,12 @@ export function Header() {
         </Link>
         <div className="flex items-center gap-4">
           <Link
-            href="/digest"
+            href="/extension"
             className={`text-[11px] font-medium ${
-              pathname === '/digest' ? 'text-ink' : 'text-muted hover:text-ink'
+              onExtension ? 'text-ink' : 'text-muted hover:text-ink'
             }`}
           >
-            Daily + week
+            Chrome briefing
           </Link>
           <LiveClock />
           <TrackingBadge />

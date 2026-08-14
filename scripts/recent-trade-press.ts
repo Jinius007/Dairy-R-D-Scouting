@@ -1,0 +1,102 @@
+import { Development } from '../src/lib/types';
+
+/** Recent trade-press and official releases with public URLs (Aug 2026). */
+export const RECENT_TRADE_PRESS: Development[] = [
+  {
+    id: 'news-agproud-ams-kpi-2026-08-14',
+    title: 'Key performance areas to focus on with automated milking systems',
+    summary:
+      'Progressive Dairy / Ag Proud outlines AMS herd and robot KPIs: incomplete milkings, peak milk flow and box time, so farms can judge whether voluntary milking is delivering production and unit throughput.',
+    date: '2026-08-14',
+    sourceUrl: 'https://www.agproud.com/articles/63736-key-performance-areas-to-focus-on-with-automated-milking-systems',
+    sourceName: 'Ag Proud / Progressive Dairy',
+    function: 'Robotics & AI',
+    region: 'USA',
+    rdType: 'Industry News',
+    tags: ['AMS', 'KPI', 'trade press'],
+  },
+  {
+    id: 'news-agproud-forage-test-2026-08-14',
+    title: 'Don’t guess; test: Using forage analysis to stretch winter feed dollars',
+    summary:
+      'Ag Proud describes lot-based hay and haylage sampling, lab dry matter, protein and TDN values, and how forage tests replace guesswork when balancing winter dairy and cattle rations.',
+    date: '2026-08-14',
+    sourceUrl: 'https://www.agproud.com/articles/63833-dont-guess-test-using-forage-analysis-to-stretch-winter-feed-dollars',
+    sourceName: 'Ag Proud',
+    function: 'Nutrition & Feeding',
+    region: 'USA',
+    rdType: 'Industry News',
+    tags: ['forage', 'TMR', 'trade press'],
+  },
+  {
+    id: 'news-agproud-genetics-indexes-2026-08-13',
+    title: 'The marathon of genetics: Using indexes effectively',
+    summary:
+      'CDCB chief research officer John Cole tells Progressive Dairy that genetic indexes are a long-horizon tool: pick the index that matches how the farm is paid, stay consistent, and wait for daughters to express the decision.',
+    date: '2026-08-13',
+    sourceUrl: 'https://www.agproud.com/articles/63655-the-marathon-of-genetics-using-indexes-effectively',
+    sourceName: 'Ag Proud / Progressive Dairy',
+    function: 'Breeding & Genetics',
+    region: 'USA',
+    company: 'CDCB',
+    rdType: 'Industry News',
+    tags: ['genomic', 'index', 'CDCB'],
+  },
+  {
+    id: 'news-bovinevet-return-alley-water-2026-08-13',
+    title: 'How return-alley water can help dairy cows beat heat stress',
+    summary:
+      'Kansas State Extension and Bovine Veterinarian report that a water trough at the parlor exit can capture about 10% of daily intake (≈3.5 gallons) immediately after milking, supporting heat-stress management, milk yield and fertility.',
+    date: '2026-08-13',
+    sourceUrl: 'https://www.bovinevetonline.com/news/education/how-return-alley-water-can-help-dairy-cows-beat-heat-stress',
+    sourceName: 'Bovine Veterinarian',
+    function: 'Animal Welfare',
+    region: 'USA',
+    institution: 'Kansas State University',
+    rdType: 'Industry News',
+    tags: ['heat stress', 'water', 'THI'],
+  },
+  {
+    id: 'news-cdcb-calf-health-2026-08-12',
+    title: 'CDCB launches first national genetic evaluations for calf health',
+    summary:
+      'The August 2026 CDCB evaluations add Resistance to Diarrhea (DIA) and Resistance to Respiratory Problems (RSP) PTAs for Holsteins and Jerseys, built from DHI calf-health records with USDA AGIL, plus revisions to DPR, CCR, HCR and a new First Service to Conception trait.',
+    date: '2026-08-12',
+    sourceUrl: 'https://www.bovinevetonline.com/news/cdcb-launches-first-national-genetic-evaluations-calf-health',
+    sourceName: 'Bovine Veterinarian / CDCB',
+    function: 'Animal Health',
+    region: 'USA',
+    company: 'CDCB',
+    institution: 'USDA AGIL',
+    rdType: 'Industry News',
+    tags: ['calf health', 'DIA', 'RSP'],
+  },
+  {
+    id: 'news-dairybusiness-ams-bunk-2026-08-12',
+    title: 'Feed bunk space in automated milking systems',
+    summary:
+      'Penn State Extension reviews AMS research linking bunk space to intake and milk: about 25–28 inches per cow is associated with higher yield versus crowding, and feed push-ups do not fully offset a short bunk.',
+    date: '2026-08-12',
+    sourceUrl: 'https://dairybusiness.com/feed-bunk-space-in-automated-milking-systems/',
+    sourceName: 'Dairy Business / Penn State Extension',
+    function: 'Farm Management',
+    region: 'USA',
+    institution: 'Penn State University',
+    rdType: 'Industry News',
+    tags: ['AMS', 'bunk space', 'behavior'],
+  },
+  {
+    id: 'news-dairyherd-rufas-2026-08-11',
+    title: 'The future of herd decision-making may be virtual',
+    summary:
+      'University of Wisconsin–Madison’s open-source Ruminant Farm Systems (RuFaS) model is presented as a whole-farm digital twin (animals, manure, soil, crops, feed storage) so vets and advisers can test what-if herd decisions before applying them on farm.',
+    date: '2026-08-11',
+    sourceUrl: 'https://www.dairyherd.com/news/future-herd-decision-making-may-be-virtual',
+    sourceName: 'Dairy Herd Management',
+    function: 'Digital Platforms & Innovation',
+    region: 'USA',
+    institution: 'University of Wisconsin–Madison',
+    rdType: 'Industry News',
+    tags: ['RuFaS', 'digital twin', 'decision support'],
+  },
+];

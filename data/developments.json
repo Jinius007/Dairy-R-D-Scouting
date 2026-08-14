@@ -2,10 +2,272 @@
   "metadata": {
     "lastRefreshed": "2026-08-14",
     "nextRefresh": "2026-08-15",
-    "totalTracked": 648,
+    "totalTracked": 687,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-bongards-creameries-announces-135-million",
+      "title": "Bongards' Creameries Announces $135 Million Expansion of Process Cheese Facility in Bongards, Minnesota",
+      "summary": "Historic investment will increase production capacity by 180 million pounds annually, strengthen U.S. dairy manufacturing, and support growing domestic and international demand. CBongards' Creameries, one of the nation's leading farmer-owned dairy cooperatives, today announced plans to [Read More ...]",
+      "date": "2026-08-14",
+      "sourceUrl": "https://dairybusiness.com/bongards-creameries-announces-135-million-expansion-of-process-cheese-facility-in-bongards-minnesota/",
+      "sourceName": "Dairy Business",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "news-agproud-ams-kpi-2026-08-14",
+      "title": "Key performance areas to focus on with automated milking systems",
+      "summary": "Progressive Dairy / Ag Proud outlines AMS herd and robot KPIs: incomplete milkings, peak milk flow and box time, so farms can judge whether voluntary milking is delivering production and unit throughput.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://www.agproud.com/articles/63736-key-performance-areas-to-focus-on-with-automated-milking-systems",
+      "sourceName": "Ag Proud / Progressive Dairy",
+      "function": "Robotics & AI",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "AMS",
+        "KPI",
+        "trade press"
+      ]
+    },
+    {
+      "id": "news-agproud-forage-test-2026-08-14",
+      "title": "Don’t guess; test: Using forage analysis to stretch winter feed dollars",
+      "summary": "Ag Proud describes lot-based hay and haylage sampling, lab dry matter, protein and TDN values, and how forage tests replace guesswork when balancing winter dairy and cattle rations.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://www.agproud.com/articles/63833-dont-guess-test-using-forage-analysis-to-stretch-winter-feed-dollars",
+      "sourceName": "Ag Proud",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "forage",
+        "TMR",
+        "trade press"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-woolworths-phasing-out-farmers-own-direct-mil",
+      "title": "Woolworths Phasing Out Farmers’ Own Direct Milk Supply Model",
+      "summary": "Woolworths is phasing out its Farmers' Own milk brand by mid-2027, leaving direct-supply dairy farmers facing uncertain farmgate contracts.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://en.edairynews.com/woolworths-phasing-out-farmers-own-direct-milk-supply-model/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-new-zealand-feeder-calf-market-holds-firm-des",
+      "title": "New Zealand Feeder Calf Market Holds Firm Despite El Niño Weather Warnings",
+      "summary": "New Zealand feeder calf markets remain resilient against El Niño dry weather fears as strong demand and dairy-beef genetics support prices.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://en.edairynews.com/new-zealand-feeder-calf-market-holds-firm-despite-el-nino-weather-warnings/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-worlds-first-floating-dairy-farm-put-up-for-s",
+      "title": "World’s First Floating Dairy Farm Put Up for Sale in Rotterdam",
+      "summary": "Rotterdam's pioneer floating dairy farm is for sale as floor defects, strict Dutch regulations, and port lease expiration force its closure.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://en.edairynews.com/worlds-first-floating-dairy-farm-put-up-for-sale-in-rotterdam/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-saputo-dairy-australia-expands-national-partn",
+      "title": "Saputo Dairy Australia Expands National Partnership to Fight Youth Food Insecurity",
+      "summary": "Saputo Dairy Australia partners with Eat Up to donate 400,000 cheese slices annually, helping feed students in 1,200 schools nationwide.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://en.edairynews.com/saputo-dairy-australia-expands-national-partnership-to-fight-youth-food-insecurity/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "Australia",
+      "company": "Saputo",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-new-zealand-dairy-farmer-launches-grocery-pri",
+      "title": "New Zealand Dairy Farmer Launches Grocery Price-Comparison App",
+      "summary": "Otago dairy farmer Will Duff launches CheckMyTrolley, an app helping New Zealand shoppers compare supermarket cart prices and cut food costs.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://en.edairynews.com/new-zealand-dairy-farmer-launches-grocery-price-comparison-app/",
+      "sourceName": "eDairyNews",
+      "function": "Digital Platforms & Innovation",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-edairymarket-renews-its-technological-infrast",
+      "title": "eDairyMarket Renews Its Technological Infrastructure to Support the Global Growth of Dairy Trade",
+      "summary": "The renowned B2B marketplace by DairyCorp completely revamped the technological architecture it has operated on for over a decade. Without interrupting service, the platform migrated more than 2,700 user accounts, added self-management tools for sellers, advanced search filters, and a secure environment operating in four languages.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://en.edairynews.com/edairymarket-renews-its-technological-infrastructure-to-support-the-global-growth-of-dairy-trade/",
+      "sourceName": "eDairyNews",
+      "function": "Sustainability & Traceability",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-naidc-elects-new-leadership-for-2026-2027",
+      "title": "NAIDC Elects New Leadership for 2026-2027",
+      "summary": "&#160; North American Intercollegiate Dairy Challenge® (NAIDC) recently elected new leadership, including one new board member and the 2026 – 2027 Executive Committee. As stated in the NAIDC mission statement, the organization strives to “Develop [Read More ...]",
+      "date": "2026-08-13",
+      "sourceUrl": "https://dairybusiness.com/naidc-elects-new-leadership-for-2026-2027/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-what-farmers-need-to-know-about-the-new-w",
+      "title": "DairyVoice Podcast: What Farmer’s Need to Know About The New World Screwworm",
+      "summary": "In this episode of DairyVoice, host Connie Kuber with Sealpro Silage Barrier Films interviews Dr. Jamie Jonker, Chief Science Officer and Vice President of Sustainability &#38; Scientific Affairs with the National Milk Producers Federation. They [Read More ...]",
+      "date": "2026-08-13",
+      "sourceUrl": "https://dairybusiness.com/what-farmers-need-to-know-about-the-new-world-screwworm/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-calculate-your-pounds-of-components-and-e",
+      "title": "Calculate Your Pounds of Components and Energy Corrected Milk",
+      "summary": "Free Tool Available On Our Website Did you know the Center has an interactive tool to help dairy producers calculate their pounds of components and energy corrected milk (ECM)? The free tool is designed to help [Read More ...]",
+      "date": "2026-08-13",
+      "sourceUrl": "https://dairybusiness.com/calculate-your-pounds-of-components-and-energy-corrected-milk-2/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "news-agproud-genetics-indexes-2026-08-13",
+      "title": "The marathon of genetics: Using indexes effectively",
+      "summary": "CDCB chief research officer John Cole tells Progressive Dairy that genetic indexes are a long-horizon tool: pick the index that matches how the farm is paid, stay consistent, and wait for daughters to express the decision.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://www.agproud.com/articles/63655-the-marathon-of-genetics-using-indexes-effectively",
+      "sourceName": "Ag Proud / Progressive Dairy",
+      "function": "Breeding & Genetics",
+      "region": "USA",
+      "company": "CDCB",
+      "rdType": "Industry News",
+      "tags": [
+        "genomic",
+        "index",
+        "CDCB"
+      ]
+    },
+    {
+      "id": "news-bovinevet-return-alley-water-2026-08-13",
+      "title": "How return-alley water can help dairy cows beat heat stress",
+      "summary": "Kansas State Extension and Bovine Veterinarian report that a water trough at the parlor exit can capture about 10% of daily intake (≈3.5 gallons) immediately after milking, supporting heat-stress management, milk yield and fertility.",
+      "date": "2026-08-13",
+      "sourceUrl": "https://www.bovinevetonline.com/news/education/how-return-alley-water-can-help-dairy-cows-beat-heat-stress",
+      "sourceName": "Bovine Veterinarian",
+      "function": "Animal Welfare",
+      "region": "USA",
+      "institution": "Kansas State University",
+      "rdType": "Industry News",
+      "tags": [
+        "heat stress",
+        "water",
+        "THI"
+      ]
+    },
+    {
+      "id": "news-cdcb-calf-health-2026-08-12",
+      "title": "CDCB launches first national genetic evaluations for calf health",
+      "summary": "The August 2026 CDCB evaluations add Resistance to Diarrhea (DIA) and Resistance to Respiratory Problems (RSP) PTAs for Holsteins and Jerseys, built from DHI calf-health records with USDA AGIL, plus revisions to DPR, CCR, HCR and a new First Service to Conception trait.",
+      "date": "2026-08-12",
+      "sourceUrl": "https://www.bovinevetonline.com/news/cdcb-launches-first-national-genetic-evaluations-calf-health",
+      "sourceName": "Bovine Veterinarian / CDCB",
+      "function": "Animal Health",
+      "region": "USA",
+      "company": "CDCB",
+      "institution": "USDA AGIL",
+      "rdType": "Industry News",
+      "tags": [
+        "calf health",
+        "DIA",
+        "RSP"
+      ]
+    },
+    {
+      "id": "news-dairybusiness-ams-bunk-2026-08-12",
+      "title": "Feed bunk space in automated milking systems",
+      "summary": "Penn State Extension reviews AMS research linking bunk space to intake and milk: about 25–28 inches per cow is associated with higher yield versus crowding, and feed push-ups do not fully offset a short bunk.",
+      "date": "2026-08-12",
+      "sourceUrl": "https://dairybusiness.com/feed-bunk-space-in-automated-milking-systems/",
+      "sourceName": "Dairy Business / Penn State Extension",
+      "function": "Farm Management",
+      "region": "USA",
+      "institution": "Penn State University",
+      "rdType": "Industry News",
+      "tags": [
+        "AMS",
+        "bunk space",
+        "behavior"
+      ]
+    },
     {
       "id": "openalex-10-52973-rcfcv-e363981",
       "title": "Seroepidemiology and biochemical alterations associated with Neospora caninum infection in dairy cows from the northeastern region of Algeria",
@@ -136,6 +398,23 @@
       "tags": [
         "precision fermentation",
         "alternative proteins"
+      ]
+    },
+    {
+      "id": "news-dairyherd-rufas-2026-08-11",
+      "title": "The future of herd decision-making may be virtual",
+      "summary": "University of Wisconsin–Madison’s open-source Ruminant Farm Systems (RuFaS) model is presented as a whole-farm digital twin (animals, manure, soil, crops, feed storage) so vets and advisers can test what-if herd decisions before applying them on farm.",
+      "date": "2026-08-11",
+      "sourceUrl": "https://www.dairyherd.com/news/future-herd-decision-making-may-be-virtual",
+      "sourceName": "Dairy Herd Management",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "institution": "University of Wisconsin–Madison",
+      "rdType": "Industry News",
+      "tags": [
+        "RuFaS",
+        "digital twin",
+        "decision support"
       ]
     },
     {
@@ -1940,6 +2219,22 @@
       ]
     },
     {
+      "id": "rss-ScienceDaily-Agriculture-https-www-sciencedaily-com-releases-2026-07-26072905151",
+      "title": "Ant brains reveal how evolution turned hunger into parenting",
+      "summary": "Ant parenting may have evolved from the same brain systems that once controlled hunger. Researchers found that two chemical signals push clonal raider ants toward either caring for larvae or leaving to forage, with the balance changing as the ants grow older. Similar signals are involved in mammalian caregiving, suggesting that evolution may have followed the same basic blueprint across very diffe",
+      "date": "2026-08-01",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+      "sourceName": "ScienceDaily Agriculture",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "ScienceDaily Agriculture",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1016-j-atech-2026-102473",
       "title": "Early Fusion Multi-View Aggregation for Multi-Camera Cattle Tracking",
       "summary": "Intensive dairy farming operations require automated monitoring solutions to efficiently manage large herds across expansive areas. However, existing approaches face significant limitations. Single-camera systems provide insufficient coverage due to blind spots and reduced spatial resolution at greater distances. Current multi-camera tracking methods depend on detecting animals in individual views",
@@ -3258,6 +3553,22 @@
       ]
     },
     {
+      "id": "rss-ScienceDaily-Agriculture-https-www-sciencedaily-com-releases-2026-07-26070702504",
+      "title": "Bumblebees collect up to 7 times more toxic metals than honeybees",
+      "summary": "Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their ability to find food, reproduce, and keep colonies healthy.",
+      "date": "2026-07-07",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260707025044.htm",
+      "sourceName": "ScienceDaily Agriculture",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "ScienceDaily Agriculture",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1186-s41936-026-00613-2",
       "title": "Casein protein from Gir and Jersey cow milk: biochemical profiling, MALDI-TOF/MS peptide fingerprinting, and cytotoxic effects on HT-29 cells",
       "summary": "Abstract Dietary chemoprevention offers a low-toxicity strategy to complement traditional cancer therapies. Bovine casein, the primary milk protein fraction, can produce bioactive peptides with reported anticancer properties. However, the influence of cattle genetic lineage on casein composition and activity remains insufficiently understood. This study compared the characteristics of casein-deriv",
@@ -3849,6 +4160,22 @@
         "homogenization",
         "hybrid beverages",
         "ultrasonic"
+      ]
+    },
+    {
+      "id": "rss-ScienceDaily-Agriculture-https-www-sciencedaily-com-releases-2026-06-26062010031",
+      "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
+      "summary": "Researchers uncovered why H5N1 bird flu attacks cows’ udders instead of their lungs: the virus’s preferred receptors are concentrated in mammary tissue. The breakthrough could help scientists predict future bird flu jumps and spot unusual infections before they spread widely.",
+      "date": "2026-06-23",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
+      "sourceName": "ScienceDaily Agriculture",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "ScienceDaily Agriculture",
+        "auto-ingested"
       ]
     },
     {
@@ -9271,6 +9598,23 @@
       ]
     },
     {
+      "id": "ind-illinois-calf-2025",
+      "title": "University of Illinois Automated Calf Feeder Behaviour as Disease Predictor",
+      "summary": "Illinois researchers showed that drinking-speed and visit patterns on automated calf feeders predict BRD 24–48 hours before clinical scoring.",
+      "date": "2025-08-19",
+      "sourceUrl": "https://aces.illinois.edu",
+      "sourceName": "University of Illinois",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "University of Illinois",
+      "rdType": "Research Paper",
+      "tags": [
+        "calf feeder",
+        "BRD",
+        "behaviour"
+      ]
+    },
+    {
       "id": "epmc-10-3390-s25164987",
       "title": "In-Field Performance Evaluation of an IoT Monitoring System for Fine Particulate Matter in Livestock Buildings.",
       "summary": "The livestock sector significantly contributes to atmospheric emissions of various pollutants, such as ammonia (NH<sub>3</sub>) and particulate matter of diameter under 2.5 µm (PM2.5) from activity and barn management. The objective of this study was to evaluate the reliability of low-cost sensors integrated with an IoT system for monitoring PM2.5 concentrations in a dairy barn. To this end, data ",
@@ -9456,6 +9800,23 @@
       ]
     },
     {
+      "id": "ind-minnesota-manure-2025",
+      "title": "University of Minnesota Manure Digester Co-op Model for Midwest Dairies",
+      "summary": "University of Minnesota researchers modelled multi-farm manure digester co-ops for Midwest dairies, covering RNG offtake, nutrients and community acceptance.",
+      "date": "2025-07-01",
+      "sourceUrl": "https://extension.umn.edu",
+      "sourceName": "University of Minnesota",
+      "function": "Sustainability & Traceability",
+      "region": "USA",
+      "institution": "University of Minnesota",
+      "rdType": "Research Paper",
+      "tags": [
+        "RNG",
+        "digester",
+        "manure"
+      ]
+    },
+    {
       "id": "ind-vietnam-thmilk-2025",
       "title": "TH Milk Mega-Farm in Nghe An Adds Robotic Milking and Cooling Upgrades",
       "summary": "TH True Milk reported robotic milking and energy-efficient cooling upgrades at Nghe An mega-farms supplying UHT brands across Vietnam.",
@@ -9552,6 +9913,22 @@
         "Europe PMC",
         "PubMed",
         "auto-ingested"
+      ]
+    },
+    {
+      "id": "ind-gea-nyrpic-2025",
+      "title": "GEA DairyProcessing Skid for ESL Milk with Reduced Heat Load",
+      "summary": "GEA launched an ESL milk processing skid using gentler heat profiles and sterile filling interfaces aimed at 30–60 day refrigerated life.",
+      "date": "2025-05-20",
+      "sourceUrl": "https://www.gea.com",
+      "sourceName": "GEA",
+      "function": "Dairy Processing",
+      "region": "Germany",
+      "company": "GEA",
+      "rdType": "Product Launch",
+      "tags": [
+        "ESL",
+        "heat treatment"
       ]
     },
     {
@@ -9684,6 +10061,23 @@
         "CCTV",
         "lameness",
         "Korea"
+      ]
+    },
+    {
+      "id": "ind-delaval-plus-2025",
+      "title": "DeLaval Plus Adds Open API for Third-Party Nutrition Models",
+      "summary": "DeLaval Plus opened APIs so nutrition consultancies can pull milk, activity and robot-visit data into custom ration and health models.",
+      "date": "2025-04-02",
+      "sourceUrl": "https://www.delaval.com",
+      "sourceName": "DeLaval",
+      "function": "Digital Platforms & Innovation",
+      "region": "Sweden",
+      "company": "DeLaval",
+      "rdType": "Product Launch",
+      "tags": [
+        "API",
+        "nutrition",
+        "cloud"
       ]
     },
     {
@@ -9834,6 +10228,22 @@
         "Europe PMC",
         "PubMed",
         "auto-ingested"
+      ]
+    },
+    {
+      "id": "ind-valio-carbo-2025",
+      "title": "Valio Carbo Farm Tools Opened to More Finnish Producer Co-ops",
+      "summary": "Valio opened Carbo farm calculation tools to additional Finnish producer groups, standardising farm-gate carbon intensity for milk pricing discussions.",
+      "date": "2025-02-11",
+      "sourceUrl": "https://www.valio.com",
+      "sourceName": "Valio",
+      "function": "Digital Platforms & Innovation",
+      "region": "Finland",
+      "company": "Valio",
+      "rdType": "Product Launch",
+      "tags": [
+        "carbon intensity",
+        "pricing"
       ]
     },
     {
@@ -10005,6 +10415,23 @@
       ]
     },
     {
+      "id": "ind-amul-solar-2024",
+      "title": "GCMMF/Amul Pilots Solar-Powered BMC Clusters in Gujarat Villages",
+      "summary": "Amul (GCMMF) piloted solar-assisted bulk milk coolers at village collection centres to cut diesel use and improve evening-milk quality during grid outages.",
+      "date": "2024-12-04",
+      "sourceUrl": "https://amul.com",
+      "sourceName": "Amul / GCMMF",
+      "function": "Engineering & Automation",
+      "region": "India",
+      "company": "Amul",
+      "rdType": "Technology Demo",
+      "tags": [
+        "BMC",
+        "solar",
+        "cold chain"
+      ]
+    },
+    {
       "id": "epmc-10-3390-ani14233488",
       "title": "Effect of 3-Nitrooxypropanol Combined with Different Feed Additives on Growth Performance, Carcass Traits, Enteric Methane Emissions, and Physiological Responses in Feedlot Beef Cattle Fed a High-Conc",
       "summary": "The objective of this study was to evaluate the effect of 3-nitrooxypropanol (3-NOP) in combination with different feed additives on growth performance, carcass traits, meat quality, enteric methane (CH<sub>4</sub>) emissions, nutrient intake and digestibility, and blood parameters in feedlot beef cattle. In experiment (Exp.) 1, one hundred sixty-eight Nellore bulls (initial bodyweight (BW) 410 ± ",
@@ -10035,6 +10462,22 @@
       "tags": [
         "cheddar",
         "energy recovery"
+      ]
+    },
+    {
+      "id": "ind-nedap-cowcontrol-2024",
+      "title": "Nedap CowControl Integrates Heat Detection with Sorting Gates",
+      "summary": "Nedap linked CowControl SmartTag data to automatic sorting gates so cows flagged for AI, vet check or lame trim are drafted without extra labour.",
+      "date": "2024-11-27",
+      "sourceUrl": "https://www.nedap-livestockmanagement.com",
+      "sourceName": "Nedap",
+      "function": "Engineering & Automation",
+      "region": "Netherlands",
+      "company": "Nedap",
+      "rdType": "Product Launch",
+      "tags": [
+        "sorting gate",
+        "heat detection"
       ]
     },
     {
@@ -10251,6 +10694,22 @@
       ]
     },
     {
+      "id": "ind-reading-welfare-2024",
+      "title": "University of Reading Cow-Calf Contact Systems Assessed for UK Dairies",
+      "summary": "Reading researchers assessed cow-calf contact systems for UK dairies, measuring calf growth, cow milk yield, labour and public-acceptance implications versus early separation.",
+      "date": "2024-09-09",
+      "sourceUrl": "https://www.reading.ac.uk",
+      "sourceName": "University of Reading",
+      "function": "Animal Welfare",
+      "region": "UK",
+      "institution": "University of Reading",
+      "rdType": "Academic Study",
+      "tags": [
+        "cow-calf",
+        "welfare"
+      ]
+    },
+    {
       "id": "epmc-10-3390-ani14172576",
       "title": "Performance, Meat Quality and Meat Metabolomics Outcomes: Efficacy of 3-Nitrooxypropanol in Feedlot Beef Cattle Diets.",
       "summary": "30 Nellore animals with an average weight of 407.25 ± 2.04 kg, were distributed in a completely randomized design across the following treatments: 1-Control (without inclusion of 3-NOP); 2-BV75 (inclusion of 3-NOP at 75 mg/kg DM); 3-BV100 (inclusion of 3-NOP at 100 mg/kg DM). No significant effects were observed between treatments on ingestive behavior. However, the notable effect on the BWfinal a",
@@ -10397,6 +10856,22 @@
       ]
     },
     {
+      "id": "ind-cowmanager-ear-2024",
+      "title": "CowManager Ear Sensor Adds Heat-Stress Module from Temperature Data",
+      "summary": "CowManager added a heat-stress module using ear-sensor temperature and activity, alerting when cooling should be intensified in the holding pen and stalls.",
+      "date": "2024-08-07",
+      "sourceUrl": "https://www.cowmanager.com",
+      "sourceName": "CowManager",
+      "function": "Animal Welfare",
+      "region": "Netherlands",
+      "company": "CowManager",
+      "rdType": "Product Launch",
+      "tags": [
+        "ear sensor",
+        "heat stress"
+      ]
+    },
+    {
       "id": "ind-nddb-inaph-2024",
       "title": "NDDB INAPH Platform Expands AI-Assisted Disease and Breeding Records",
       "summary": "India’s National Dairy Development Board expanded Information Network for Animal Productivity and Health (INAPH) with mobile AI prompts for AI technicians covering heat, AI timing and calf registration.",
@@ -10478,6 +10953,22 @@
       "tags": [
         "sexed semen",
         "fertility"
+      ]
+    },
+    {
+      "id": "ind-glanbia-ireland-2024",
+      "title": "Glanbia Ireland Rolls Out Milk Quality Rapid Test Network",
+      "summary": "Glanbia Ireland expanded rapid antibiotic and SCC testing at intake, shortening tanker-hold times and improving residue-risk segregation.",
+      "date": "2024-07-03",
+      "sourceUrl": "https://www.glanbiaireland.com",
+      "sourceName": "Glanbia Ireland",
+      "function": "Quality & Food Safety",
+      "region": "Ireland",
+      "company": "Glanbia",
+      "rdType": "Product Launch",
+      "tags": [
+        "antibiotics",
+        "intake testing"
       ]
     },
     {
@@ -10563,6 +11054,22 @@
       ]
     },
     {
+      "id": "ind-adisseo-methionine-2024",
+      "title": "Adisseo Smartamine MetaSmart Guidance for High-Producing Holsteins",
+      "summary": "Adisseo updated metabolisable methionine recommendations for high-yielding Holsteins, linking amino-acid balance to milk protein and nitrogen efficiency.",
+      "date": "2024-06-05",
+      "sourceUrl": "https://www.adisseo.com",
+      "sourceName": "Adisseo",
+      "function": "Nutrition & Feeding",
+      "region": "France",
+      "company": "Adisseo",
+      "rdType": "Industry News",
+      "tags": [
+        "methionine",
+        "milk protein"
+      ]
+    },
+    {
       "id": "ind-delaval-vms-v300-2024",
       "title": "DeLaval VMS V300 Rollout Adds DeLaval Plus Herd Navigator Integration",
       "summary": "DeLaval bundled the VMS V300 voluntary milking system with Plus cloud analytics and Herd Navigator in-line progesterone, LDH and BHB sensing for fertility, mastitis and ketosis alerts.",
@@ -10630,6 +11137,23 @@
       ]
     },
     {
+      "id": "ind-ornua-kerry-gold-2024",
+      "title": "Ornua Research on Pasture-Fed Butter Fatty Acid Fingerprinting",
+      "summary": "Ornua reported analytical work fingerprinting pasture-fed Irish butter fatty acids for origin claims and seasonal quality control of Kerrygold-style products.",
+      "date": "2024-05-21",
+      "sourceUrl": "https://www.ornua.com",
+      "sourceName": "Ornua",
+      "function": "Quality & Food Safety",
+      "region": "Ireland",
+      "company": "Ornua",
+      "rdType": "Academic Study",
+      "tags": [
+        "butter",
+        "pasture-fed",
+        "authenticity"
+      ]
+    },
+    {
       "id": "epmc-10-3168-jds-2023-24460",
       "title": "Effects of 3-nitrooxypropanol (Bovaer10) and whole cottonseed on milk production and enteric methane emissions from dairy cows under Swiss management conditions.",
       "summary": "The objective of this study was to determine the potential effect and interaction of 3-nitrooxypropanol (3-NOP; Bovaer, DSM-Firmenich Nutrition Products Ltd.) and whole cottonseed (WCS) on lactational performance and enteric methane (CH<sub>4</sub>) emission of dairy cows. A total of 16 multiparous cows, including 8 Holstein Friesian (HF) and 8 Brown Swiss (BS; 224 ± 36 DIM, 26 ± 3.7 kg milk yield",
@@ -10682,6 +11206,22 @@
       ]
     },
     {
+      "id": "ind-fullwood-merlin-2024",
+      "title": "Fullwood JOZ Merlin Robot Software Update for Grazing Herds",
+      "summary": "Fullwood JOZ released Merlin software for seasonal grazing dairies, improving fetch-cow logic and pasture-access gates for Irish and UK robot herds.",
+      "date": "2024-05-06",
+      "sourceUrl": "https://www.fullwoodjoz.com",
+      "sourceName": "Fullwood JOZ",
+      "function": "Robotics & AI",
+      "region": "UK",
+      "company": "Fullwood",
+      "rdType": "Product Launch",
+      "tags": [
+        "grazing",
+        "AMS"
+      ]
+    },
+    {
       "id": "ind-patent-uf-cheese-2024",
       "title": "Patent Filing: Cold Ultrafiltration Pre-Concentration for Pasta Filata Cheese",
       "summary": "A process patent describes cold UF pre-concentration of milk for mozzarella/pasta filata, reducing vat energy and increasing moisture control.",
@@ -10714,6 +11254,23 @@
       ]
     },
     {
+      "id": "ind-tetrapak-homogenizer-2024",
+      "title": "Tetra Pak Launches Next-Gen Homogenizer Line for Energy-Efficient UHT Milk",
+      "summary": "Tetra Pak introduced a homogenizer series claiming double-digit energy savings on UHT white milk lines, with digital condition monitoring for seals and pistons.",
+      "date": "2024-04-16",
+      "sourceUrl": "https://www.tetrapak.com",
+      "sourceName": "Tetra Pak",
+      "function": "Dairy Processing",
+      "region": "Sweden",
+      "company": "Tetra Pak",
+      "rdType": "Product Launch",
+      "tags": [
+        "UHT",
+        "homogenizer",
+        "energy"
+      ]
+    },
+    {
       "id": "ind-synlait-canterbury-2024",
       "title": "Synlait Lead With Pride Programme Adds Animal Welfare Audits",
       "summary": "Synlait’s Lead With Pride farm assurance added tighter animal-welfare audits covering lameness, body condition and calf management for infant-formula milk supply.",
@@ -10728,6 +11285,40 @@
         "assurance",
         "calves",
         "infant formula"
+      ]
+    },
+    {
+      "id": "ind-arla-farmahead-2024",
+      "title": "Arla Foods FarmAhead Check Becomes Mandatory Climate Tool for Farmer Owners",
+      "summary": "Arla made FarmAhead Check the standard on-farm climate assessment for owner-members, covering feed, manure, energy and land use. Aggregated data feeds the co-op’s science-based targets and farmer incentive payments.",
+      "date": "2024-04-08",
+      "sourceUrl": "https://www.arla.com",
+      "sourceName": "Arla Foods",
+      "function": "Sustainability & Traceability",
+      "region": "Denmark",
+      "company": "Arla",
+      "rdType": "Product Launch",
+      "tags": [
+        "LCA",
+        "farmer incentives",
+        "climate"
+      ]
+    },
+    {
+      "id": "ind-slusweden-feed-2024",
+      "title": "SLU Uppsala Evaluates Nordic Red Methane and Feed Efficiency Breeding",
+      "summary": "Swedish University of Agricultural Sciences evaluated combining residual methane and residual feed intake in Nordic Red breeding goals without large milk-yield trade-offs.",
+      "date": "2024-04-02",
+      "sourceUrl": "https://www.slu.se",
+      "sourceName": "SLU",
+      "function": "Breeding & Genetics",
+      "region": "Sweden",
+      "institution": "Swedish University of Agricultural Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "Nordic Red",
+        "RFI",
+        "methane"
       ]
     },
     {
@@ -10793,6 +11384,23 @@
       "tags": [
         "ultrafiltered milk",
         "protein"
+      ]
+    },
+    {
+      "id": "ind-fonterra-amti-2024",
+      "title": "Fonterra Scales On-Farm Methane Measurement Across New Zealand Supplier Herds",
+      "summary": "Fonterra expanded farm-level methane and nitrogen efficiency measurement through its Co-operative Difference programme, pairing GreenFeed-style spot sampling with milk mid-infrared proxies to rank herds for low-emission genetics and feeding.",
+      "date": "2024-03-12",
+      "sourceUrl": "https://www.fonterra.com",
+      "sourceName": "Fonterra",
+      "function": "Sustainability & Traceability",
+      "region": "New Zealand",
+      "company": "Fonterra",
+      "rdType": "Industry News",
+      "tags": [
+        "methane",
+        "MIR",
+        "co-op"
       ]
     },
     {
@@ -10946,6 +11554,23 @@
       ]
     },
     {
+      "id": "ind-zoetis-clarifide-plus-2024",
+      "title": "Zoetis Clarifide Plus Adds Wellness and Residual Feed Intake Indexes",
+      "summary": "Zoetis expanded Clarifide Plus genomic testing for US Holsteins with wellness trait and residual feed intake indexes, letting herds select for health and feed efficiency alongside production.",
+      "date": "2024-01-18",
+      "sourceUrl": "https://www.zoetisus.com",
+      "sourceName": "Zoetis",
+      "function": "Breeding & Genetics",
+      "region": "USA",
+      "company": "Zoetis",
+      "rdType": "Product Launch",
+      "tags": [
+        "genomics",
+        "RFI",
+        "wellness"
+      ]
+    },
+    {
       "id": "ind-inta-argentina-2024",
       "title": "INTA Argentina Grazing Dairy Systems Trial Silvopastoral Shade for Heat",
       "summary": "INTA evaluated silvopastoral shade trees in Argentine grazing dairies, measuring THI, milk yield and lying behaviour during summer heat waves.",
@@ -10960,6 +11585,23 @@
         "silvopasture",
         "heat",
         "grazing"
+      ]
+    },
+    {
+      "id": "ind-frieslandcampina-n2-2024",
+      "title": "FrieslandCampina Foqus Future Planet Tightens On-Farm Nitrogen Rules",
+      "summary": "FrieslandCampina’s Foqus planet programme tightened nitrogen and biodiversity criteria for member farms in the Netherlands, linking milk price extras to measured performance.",
+      "date": "2024-01-09",
+      "sourceUrl": "https://www.frieslandcampina.com",
+      "sourceName": "FrieslandCampina",
+      "function": "Sustainability & Traceability",
+      "region": "Netherlands",
+      "company": "FrieslandCampina",
+      "rdType": "Industry News",
+      "tags": [
+        "nitrogen",
+        "milk price",
+        "biodiversity"
       ]
     }
   ]

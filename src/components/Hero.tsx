@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { FunctionCategory, FUNCTION_COLORS } from '@/lib/types';
 import { FUNCTION_ICONS, FUNCTION_SHORT } from '@/lib/icons';
 import { formatDate } from '@/lib/utils';
@@ -70,6 +71,12 @@ export function Hero({
             >
               SEE YESTERDAY
             </button>
+            <Link
+              href="/extension"
+              className="px-6 py-3 border border-ink/15 bg-white/40 text-ink text-xs font-semibold tracking-[0.14em] hover:bg-white/70 transition-colors"
+            >
+              DAILY CHROME BRIEFING
+            </Link>
           </div>
         </div>
 

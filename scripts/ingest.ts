@@ -13,6 +13,7 @@ import {
   DevelopmentsData,
 } from '../src/lib/types';
 import { CURATED_INDUSTRY } from './curated-industry';
+import { RECENT_TRADE_PRESS } from './recent-trade-press';
 
 const DATA_PATH = path.join(process.cwd(), 'data', 'developments.json');
 const MAILTO = 'dairy-rd-scouting@example.com';
@@ -408,10 +409,88 @@ function mergeUnique(existing: Development[], incoming: Development[]): { merged
   return { merged: [...extra, ...existing], added };
 }
 
+const RSS_FEEDS: { name: string; url: string; region: string }[] = [
+  { name: 'eDairyNews', url: 'https://en.edairynews.com/feed', region: 'Global' },
+  { name: 'Dairy Business', url: 'https://dairybusiness.com/feed/', region: 'USA' },
+  { name: 'The Cattle Site', url: 'https://www.thecattlesite.com/news/rss/', region: 'Global' },
+  { name: 'ScienceDaily Agriculture', url: 'https://www.sciencedaily.com/rss/plants_animals/agriculture_and_food.xml', region: 'Global' },
+  { name: 'MDPI Animals', url: 'https://www.mdpi.com/rss/journal/animals', region: 'Global' },
+];
+
+function decodeXml(value: string): string {
+  return value
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function rssDate(raw?: string): string | undefined {
+  if (!raw) return undefined;
+  const d = new Date(raw);
+  if (Number.isNaN(d.getTime())) return undefined;
+  return d.toISOString().slice(0, 10);
+}
+
+async function fetchRssFeed(feed: { name: string; url: string; region: string }): Promise<Development[]> {
+  try {
+    const res = await fetch(feed.url, { headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml' } });
+    if (!res.ok) return [];
+    const xml = await res.text();
+    const chunks = xml.split(/<item[\s>]/i).slice(1);
+    const entries = chunks.length ? chunks : xml.split(/<entry[\s>]/i).slice(1);
+    const out: Development[] = [];
+    for (const chunk of entries) {
+      const title = decodeXml(extractTag(chunk, 'title') || '');
+      const summary = decodeXml(extractTag(chunk, 'description') || extractTag(chunk, 'summary') || extractTag(chunk, 'content') || title);
+      const link = decodeXml(
+        extractTag(chunk, 'link') ||
+          chunk.match(/<link[^>]+href="([^"]+)"/i)?.[1] ||
+          '',
+      );
+      const published = rssDate(extractTag(chunk, 'pubDate') || extractTag(chunk, 'published') || extractTag(chunk, 'updated'));
+      if (!title || !link || !published) continue;
+      if (!isPlausibleDate(published) || !isDairyRelevant(title, summary || title)) continue;
+      const text = `${title} ${summary}`;
+      out.push({
+        id: slugId('rss', `${feed.name}-${link}`),
+        title: title.slice(0, 200),
+        summary: (summary || title).slice(0, 400),
+        date: published,
+        sourceUrl: link.startsWith('http') ? link : `https://${link}`,
+        sourceName: feed.name,
+        function: classifyFunction(text),
+        region: inferRegion(text, undefined) === 'Global' ? feed.region : inferRegion(text),
+        company: inferCompany(text),
+        rdType: feed.name.includes('MDPI') || feed.name.includes('Journal') ? 'Research Paper' : 'Industry News',
+        tags: ['RSS', feed.name, 'auto-ingested'],
+      });
+    }
+    return out;
+  } catch {
+    return [];
+  }
+}
+
 async function harvest(mode: 'daily' | 'bulk'): Promise<Development[]> {
   const perQuery = mode === 'bulk' ? 25 : 8;
   const queries = mode === 'bulk' ? SEARCH_QUERIES : SEARCH_QUERIES.slice(0, 6);
   const collected: Development[] = [];
+
+  console.log('Fetching dairy trade-press RSS…');
+  for (const feed of RSS_FEEDS) {
+    const items = await fetchRssFeed(feed);
+    console.log(`  ${feed.name} → ${items.length} dairy-relevant items`);
+    collected.push(...items);
+    await sleep(300);
+  }
 
   const runners: { name: string; fn: (q: string, n: number) => Promise<Development[]> }[] = [
     { name: 'OpenAlex', fn: fetchOpenAlex },
@@ -420,13 +499,16 @@ async function harvest(mode: 'daily' | 'bulk'): Promise<Development[]> {
     { name: 'arXiv', fn: fetchArXiv },
   ];
 
-  for (const source of runners) {
-    for (const query of queries) {
-      console.log(`Fetching ${source.name}: ${query}`);
-      const items = await source.fn(query, perQuery);
-      console.log(`  → ${items.length} dairy-relevant items`);
-      collected.push(...items);
-      await sleep(source.name === 'Crossref' ? 1100 : 400);
+  const skipApis = process.argv.includes('--rss');
+  if (!skipApis) {
+    for (const source of runners) {
+      for (const query of queries) {
+        console.log(`Fetching ${source.name}: ${query}`);
+        const items = await source.fn(query, perQuery);
+        console.log(`  → ${items.length} dairy-relevant items`);
+        collected.push(...items);
+        await sleep(source.name === 'Crossref' ? 1100 : 400);
+      }
     }
   }
 
@@ -457,6 +539,9 @@ async function main() {
   const curated = mergeUnique(working, CURATED_INDUSTRY);
   working = curated.merged;
   console.log(`Merged curated industry catalog: +${curated.added}`);
+  const recent = mergeUnique(working, RECENT_TRADE_PRESS);
+  working = recent.merged;
+  console.log(`Merged recent trade press: +${recent.added}`);
 
   const forceBulk = process.argv.includes('--bulk');
   const mode: 'daily' | 'bulk' = forceBulk || working.length < 220 ? 'bulk' : 'daily';

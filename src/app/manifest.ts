@@ -5,11 +5,10 @@ export default function manifest(): MetadataRoute.Manifest {
     name: 'Dairy R&D Scouting',
     short_name: 'Dairy R&D',
     description:
-      'Daily and weekly dairy R&D briefing for your department. Install once, choose once, no login.',
-    start_url: '/digest',
+      'A running repository of research and development across the global dairy sector.',
+    start_url: '/',
     scope: '/',
-    display: 'standalone',
-    orientation: 'portrait-primary',
+    display: 'browser',
     background_color: '#e8f0fb',
     theme_color: '#0f766e',
     icons: [
@@ -18,18 +17,6 @@ export default function manifest(): MetadataRoute.Manifest {
         sizes: '192x192',
         type: 'image/png',
         purpose: 'any',
-      },
-      {
-        src: '/icons/icon-512.png',
-        sizes: '512x512',
-        type: 'image/png',
-        purpose: 'any',
-      },
-      {
-        src: '/icons/icon-512.png',
-        sizes: '512x512',
-        type: 'image/png',
-        purpose: 'maskable',
       },
     ],
   };

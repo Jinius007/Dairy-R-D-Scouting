@@ -2,8 +2,8 @@ name: Daily R&D Ingestion
 
 on:
   schedule:
-    # Run daily at 06:00 UTC
-    - cron: '0 6 * * *'
+    # 15:00 IST = 09:30 UTC, so data is ready before the 16:00 IST Chrome pop
+    - cron: '30 9 * * *'
   workflow_dispatch:
 
 permissions:

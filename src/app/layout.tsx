@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter, Playfair_Display, JetBrains_Mono } from 'next/font/google';
 import './globals.css';
-import { DesktopApp } from '@/components/DesktopApp';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const playfair = Playfair_Display({
@@ -39,7 +38,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.variable} ${playfair.variable} ${jetbrains.variable} font-sans text-ink antialiased`}>
-        <DesktopApp />
         {children}
       </body>
     </html>
