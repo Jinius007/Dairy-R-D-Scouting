@@ -7,7 +7,7 @@
     "nutrition-and-feeding": { "emails": [] },
     "breeding-and-genetics": { "emails": [] },
     "engineering-and-automation": { "emails": [] },
-    "robotics-and-ai": { "emails": [] },
+    "robotics-and-ai": { "emails": ["sinjini@nddb.coop"] },
     "quality-and-food-safety": { "emails": [] },
     "product-development": { "emails": [] },
     "sustainability-and-traceability": { "emails": [] },
