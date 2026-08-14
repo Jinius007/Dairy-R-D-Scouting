@@ -5,18 +5,18 @@ import { Footer } from '@/components/Footer';
 const STEPS = [
   {
     n: '01',
-    title: 'Install on this Chrome',
-    body: 'Use the browser you actually work in. Each person installs once on their own Chrome — Animal Health on one machine, Robotics on another, and so on.',
+    title: 'Download the folder from this page',
+    body: 'Use the button below. Unzip it. You will get a folder named dairy-rd-extension with manifest.json inside. That is the folder Chrome loads — not the zip file.',
   },
   {
     n: '02',
-    title: 'Choose your department',
-    body: 'Click the teal RD icon and pick your function. That choice stays on this Chrome. You will not be asked again.',
+    title: 'Load unpacked in Chrome',
+    body: 'Open chrome://extensions, turn on Developer mode, then Load unpacked and select the dairy-rd-extension folder.',
   },
   {
     n: '03',
-    title: 'Allow notifications, then leave it',
-    body: 'When Chrome asks, allow notifications and pin the icon. After that it updates itself. At 4:00 PM IST it pops this week’s and this month’s counts for your department.',
+    title: 'Choose your department',
+    body: 'Pin the teal RD icon, pick your function once, and allow notifications. At 4:00 PM IST it pops this week’s and this month’s counts.',
   },
 ];
 
@@ -33,19 +33,18 @@ export default function ExtensionPage() {
           <span className="font-serif italic font-medium text-accent-gold">It briefs you daily.</span>
         </h1>
         <p className="text-muted text-[15px] leading-relaxed mb-8 max-w-2xl">
-          This is not email and not a desktop app. Each colleague adds a small Chrome extension,
-          sets their department, and gets a 4:00 PM IST pop with that function’s latest items.
-          The feed behind it refreshes every afternoon on its own.
+          Download the extension folder from this site, load it in Chrome, and set your department.
+          At 4:00 PM IST you get that function’s latest items. The feed behind it refreshes every
+          afternoon on its own.
         </p>
 
         <div className="flex flex-wrap gap-3 mb-12">
           <a
-            href="https://github.com/Jinius007/Dairy-R-D-Scouting/tree/main/extension"
-            target="_blank"
-            rel="noreferrer"
+            href="/dairy-rd-extension.zip"
+            download="dairy-rd-extension.zip"
             className="px-6 py-3 bg-ink text-white text-xs font-semibold tracking-[0.14em] hover:bg-ink/90"
           >
-            OPEN EXTENSION FOLDER
+            DOWNLOAD EXTENSION FOLDER
           </a>
           <Link
             href="/"
@@ -66,26 +65,18 @@ export default function ExtensionPage() {
         </ol>
 
         <div className="glass rounded-2xl p-6 mb-8">
-          <h2 className="text-lg font-semibold text-ink mb-3">Install from the GitHub folder (about a minute)</h2>
+          <h2 className="text-lg font-semibold text-ink mb-3">Install from this download (about a minute)</h2>
           <ol className="list-decimal pl-5 space-y-2 text-sm text-muted leading-relaxed">
             <li>
-              Open the{' '}
-              <a
-                className="text-ink font-medium underline"
-                href="https://github.com/Jinius007/Dairy-R-D-Scouting/tree/main/extension"
-                target="_blank"
-                rel="noreferrer"
-              >
-                extension folder on GitHub
-              </a>
-              . You should see <span className="font-mono text-ink">manifest.json</span> in that list.
+              Click <span className="font-medium text-ink">Download extension folder</span> on this
+              page. Save <span className="font-mono text-ink">dairy-rd-extension.zip</span>.
             </li>
             <li>
-              On the repository, click the green <span className="font-medium text-ink">Code</span> button
-              → <span className="font-medium text-ink">Download ZIP</span>. Unzip it. Inside you will
-              have a folder named <span className="font-mono text-ink">Dairy-R-D-Scouting-main</span>, and
-              inside that an <span className="font-mono text-ink">extension</span> folder. Keep that
-              <span className="font-mono text-ink"> extension</span> folder (do not load a .zip file into Chrome).
+              Right-click the zip → <span className="font-medium text-ink">Extract All</span>. You
+              should now have a folder named{' '}
+              <span className="font-mono text-ink">dairy-rd-extension</span>. Open it —{' '}
+              <span className="font-mono text-ink">manifest.json</span> must be inside that folder,
+              not sitting loose in Downloads.
             </li>
             <li>
               In Chrome open <span className="font-mono text-ink">chrome://extensions</span>
@@ -93,8 +84,9 @@ export default function ExtensionPage() {
             <li>Turn on Developer mode (top right).</li>
             <li>
               Click <span className="font-medium text-ink">Load unpacked</span> and select the{' '}
-              <span className="font-mono text-ink">extension</span> folder — the one that contains{' '}
-              <span className="font-mono text-ink">manifest.json</span>.
+              <span className="font-mono text-ink">dairy-rd-extension</span> folder — the unzipped
+              folder that contains <span className="font-mono text-ink">manifest.json</span>. Do not
+              pick the <span className="font-mono text-ink">.zip</span> file.
             </li>
             <li>Click the puzzle-piece icon → pin Dairy R&amp;D Department Briefing.</li>
             <li>Click the RD icon → choose your department → Allow notifications.</li>
@@ -129,11 +121,10 @@ export default function ExtensionPage() {
         <div className="rounded-2xl border border-ink/10 bg-white/50 p-6">
           <h2 className="text-lg font-semibold text-ink mb-2">When you roll this out to everyone</h2>
           <p className="text-sm text-muted leading-relaxed">
-            Chrome will not let a website silently install an extension. Send colleagues this page.
-            They open the GitHub <span className="font-mono text-ink">extension</span> folder, download
-            the repository, and Load unpacked that folder (it contains{' '}
-            <span className="font-mono text-ink">manifest.json</span>). Developer mode is required until
-            there is an unlisted Chrome Web Store listing.
+            Send colleagues this page. They download the zip here, unzip it, and Load unpacked the{' '}
+            <span className="font-mono text-ink">dairy-rd-extension</span> folder. Chrome will not
+            install an extension from a website by itself. Developer mode is required until there is
+            an unlisted Chrome Web Store listing.
           </p>
         </div>
       </section>

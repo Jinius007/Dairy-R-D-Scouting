@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "ingest": "tsx scripts/ingest.ts"
+    "ingest": "tsx scripts/ingest.ts",
+    "pack-extension": "node scripts/pack-extension.js",
+    "prebuild": "node scripts/pack-extension.js"
   },
   "dependencies": {
     "next": "^14.2.5",

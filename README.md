@@ -22,11 +22,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Chrome extension
 
-Staff install from the **Chrome briefing** page, which links to the GitHub folder (not a zip):
-
-https://github.com/Jinius007/Dairy-R-D-Scouting/tree/main/extension
-
-That folder contains `manifest.json`. In Chrome: `chrome://extensions` → Developer mode → **Load unpacked** → select the `extension` folder. Pin the icon and pick a department.
+Staff install from the **Chrome briefing** page on the site (`/extension`). That page downloads `dairy-rd-extension.zip`, which unzips to a folder named `dairy-rd-extension` containing `manifest.json`. In Chrome: `chrome://extensions` → Developer mode → **Load unpacked** → select that unzipped folder (not the zip file). Pin the icon and pick a department.
 
 At **4:00 PM IST** the pop shows **this week** and **this month** counts. Details: `extension/README.md`.
 

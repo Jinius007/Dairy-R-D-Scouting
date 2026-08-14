@@ -12,9 +12,11 @@ If Chrome is closed at 4 PM, the pop happens the next time you open Chrome after
 
 ## Install
 
+From the tracker site, open **Chrome briefing** and download `dairy-rd-extension.zip`. Unzip it — you get a folder named `dairy-rd-extension` with `manifest.json` inside.
+
 1. Open Chrome → `chrome://extensions`
 2. Turn **Developer mode** on
-3. **Load unpacked** → select this `extension` folder
+3. **Load unpacked** → select the unzipped `dairy-rd-extension` folder (not the zip)
 4. Click the puzzle-piece icon → pin **Dairy R&D Department Briefing**
 5. Click the teal **RD** icon and pick your department
 
