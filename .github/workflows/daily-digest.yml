@@ -30,6 +30,5 @@ jobs:
       - name: Send daily + weekly digest
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          RESEND_FROM: ${{ secrets.RESEND_FROM }}
           DIGEST_TEST_TO: ${{ github.event.inputs.test_to }}
         run: npm run digest:email

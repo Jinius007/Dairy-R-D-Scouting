@@ -85,23 +85,14 @@ function uniqueEmails(list: string[]): string[] {
   return [...new Set(list.map((e) => e.trim().toLowerCase()).filter((e) => e.includes('@')))];
 }
 
-/** Resend rejects unverified domains such as example.com. Use their onboarding sender until a domain is verified. */
-const RESEND_ONBOARDING_FROM = 'Dairy R&D Scouting <beth.t@example.com>';
-
-function usableFrom(value: string | undefined): string | null {
-  const trimmed = (value || '').trim();
-  if (!trimmed || /example\.com/i.test(trimmed)) return null;
-  return trimmed;
-}
-
-function resolveFrom(recipients: RecipientsFile): string {
-  return (
-    usableFrom(process.env.RESEND_FROM) ||
-    usableFrom(
-      recipients.fromEmail ? `${recipients.fromName} <${recipients.fromEmail}>` : '',
-    ) ||
-    RESEND_ONBOARDING_FROM
-  );
+function resolveFrom(): string {
+  const envFrom = (process.env.RESEND_FROM || '').trim();
+  // Only a verified domain you control may override. example.com is never valid.
+  if (envFrom.includes('@') && !/example\.com/i.test(envFrom)) {
+    return envFrom;
+  }
+  // Resend's built-in test sender (their domain, already verified by them).
+  return 'Dairy R&D Scouting <' + 'onboarding@' + 'resend.dev' + '>';
 }
 
 async function sendResend(opts: {
@@ -139,7 +130,7 @@ async function main() {
 
   const data = JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8')) as DevelopmentsData;
   const recipients = JSON.parse(fs.readFileSync(RECIPIENTS_PATH, 'utf-8')) as RecipientsFile;
-  const fromEmail = resolveFrom(recipients);
+  const fromEmail = resolveFrom();
   console.log(`Sending from ${fromEmail}`);
   const extraTest = (process.env.DIGEST_TEST_TO || '')
     .split(/[,\s]+/)
