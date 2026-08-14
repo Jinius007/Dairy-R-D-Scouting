@@ -5,6 +5,7 @@ import {
   departmentBySlug,
   getSettings,
   loadFeed,
+  normalizeTimeline,
   saveDepartment,
   saveTimeline,
 } from './lib.js';
@@ -55,7 +56,7 @@ function renderFeed(feed, errorText = '') {
   const list =
     feed.view.items.length > 0
       ? `<div class="items">${feed.view.items.slice(0, limit).map(itemHtml).join('')}</div>`
-      : `<p class="empty">Nothing in this window. Try Yesterday or Week.</p>`;
+      : `<p class="empty">Nothing in this window. Try Week or Month.</p>`;
 
   app.innerHTML = `
     <p class="kicker">${isFullView ? 'Department briefing · full view' : 'Pops daily at 4:00 PM IST'}</p>
@@ -125,7 +126,9 @@ async function boot() {
       renderPicker();
       return;
     }
-    const timeline = settings.timeline || defaultTimeline();
+    const requested = settings.timeline || defaultTimeline();
+    const timeline = normalizeTimeline(requested);
+    if (timeline !== requested) await saveTimeline(timeline);
     renderFeed(await loadFeed(settings.department, timeline));
   } catch (err) {
     app.innerHTML = `<p class="kicker">Dairy R&amp;D Scouting</p><h1>Could not load</h1><p class="lede error">${esc(err.message || err)}</p>`;

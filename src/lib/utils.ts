@@ -35,15 +35,6 @@ function getDateRange(preset: TimelinePreset, customDate?: string): [Date, Date]
   }
 
   switch (preset) {
-    case 'today':
-      return [today, now];
-    case 'yesterday': {
-      const y = new Date(today);
-      y.setDate(y.getDate() - 1);
-      const yEnd = new Date(today);
-      yEnd.setMilliseconds(-1);
-      return [y, yEnd];
-    }
     case 'week': {
       const w = new Date(today);
       w.setDate(w.getDate() - 7);
@@ -188,10 +179,6 @@ export function formatRelativeDate(dateStr: string): string {
 export function timelineHeading(preset: TimelinePreset, customDate?: string): string {
   if (customDate) return formatDate(customDate);
   switch (preset) {
-    case 'today':
-      return "Today's pulse";
-    case 'yesterday':
-      return 'Yesterday';
     case 'week':
       return "This week's pulse";
     case 'month':

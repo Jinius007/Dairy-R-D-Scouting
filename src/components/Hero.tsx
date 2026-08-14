@@ -9,7 +9,7 @@ interface HeroProps {
   totalTracked: number;
   functionCounts: Record<FunctionCategory, number>;
   onExploreFeed: () => void;
-  onSeeYesterday: () => void;
+  onSeeThisWeek: () => void;
   onFunctionClick: (fn: FunctionCategory) => void;
 }
 
@@ -37,7 +37,7 @@ export function Hero({
   totalTracked,
   functionCounts,
   onExploreFeed,
-  onSeeYesterday,
+  onSeeThisWeek,
   onFunctionClick,
 }: HeroProps) {
   return (
@@ -66,10 +66,10 @@ export function Hero({
               EXPLORE THE FEED
             </button>
             <button
-              onClick={onSeeYesterday}
+              onClick={onSeeThisWeek}
               className="px-6 py-3 border border-ink/15 bg-white/40 text-ink text-xs font-semibold tracking-[0.14em] hover:bg-white/70 transition-colors"
             >
-              SEE YESTERDAY
+              SEE THIS WEEK
             </button>
             <Link
               href="/extension"

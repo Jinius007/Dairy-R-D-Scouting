@@ -6,7 +6,7 @@ Install on **Chrome** (or Edge). No email and no desktop app.
 
 - Choose your department once
 - At **4:00 PM IST** each day, Chrome pops: **this week: N · this month: M**
-- In the popup, toggle **Today / Yesterday / Week / Month / Year / All time**
+- In the popup, toggle **Week / Month / Year / All time**
 
 If Chrome is closed at 4 PM, the pop happens the next time you open Chrome after 4:00 PM IST that day.
 

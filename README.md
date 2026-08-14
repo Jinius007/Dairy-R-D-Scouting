@@ -7,7 +7,7 @@ A running repository of research and development across the global dairy sector 
 - **12 function categories**: Animal Health, Nutrition & Feeding, Breeding & Genetics, Engineering & Automation, Robotics & AI, Quality & Food Safety, Product Development, Sustainability & Traceability, Digital Platforms, Dairy Processing, Farm Management, Animal Welfare
 - **Multi-dimensional filtering**: Region, company, academic institution, R&D type, timeline, and free-text search
 - **Visual analytics**: 24-month momentum chart and function breakdown pie chart
-- **Chrome extension**: daily 4:00 PM IST notification with this week’s and this month’s counts, plus timeline toggles in the popup
+- **Chrome extension**: daily 4:00 PM IST notification with this week’s and this month’s counts, plus Week / Month / Year / All time toggles in the popup
 - **Daily auto-update**: GitHub Action at 15:00 IST ingests OpenAlex, Europe PMC, Crossref, arXiv, dairy trade-press RSS, and a curated industry catalog
 - **Responsive design**: Clean, modern UI inspired by the reference tracker
 

@@ -91,8 +91,6 @@ export const ALL_RD_TYPES: RDType[] = [
 ];
 
 export type TimelinePreset =
-  | 'today'
-  | 'yesterday'
   | 'week'
   | 'month'
   | '12months'

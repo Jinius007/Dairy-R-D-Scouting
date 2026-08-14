@@ -17,8 +17,6 @@ export const DEPARTMENTS = [
 ];
 
 export const TIMELINES = [
-  { id: 'today', label: 'Today' },
-  { id: 'yesterday', label: 'Yesterday' },
   { id: 'week', label: 'Week' },
   { id: 'month', label: 'Month' },
   { id: 'year', label: 'Year' },
@@ -58,12 +56,6 @@ export function todayLocalIso(now = new Date()) {
   return istParts(now).dateIso;
 }
 
-export function yesterdayIsoIst(now = new Date()) {
-  const noonIst = new Date(`${istParts(now).dateIso}T12:00:00+05:30`);
-  noonIst.setUTCDate(noonIst.getUTCDate() - 1);
-  return istParts(noonIst).dateIso;
-}
-
 export function isAtOrAfterFourPmIst(now = new Date()) {
   const p = istParts(now);
   return p.hour * 60 + p.minute >= 16 * 60;
@@ -90,20 +82,9 @@ function shiftIstDays(iso, days) {
 
 export function rangeFor(timeline, now = new Date()) {
   const todayIso = todayLocalIso(now);
-  const yestIso = yesterdayIsoIst(now);
   const end = new Date(`${todayIso}T23:59:59+05:30`);
 
   switch (timeline) {
-    case 'today':
-      return { start: startOfIso(todayIso), end, startIso: todayIso, endIso: todayIso, heading: 'Today' };
-    case 'yesterday':
-      return {
-        start: startOfIso(yestIso),
-        end: new Date(`${yestIso}T23:59:59+05:30`),
-        startIso: yestIso,
-        endIso: yestIso,
-        heading: 'Yesterday',
-      };
     case 'week': {
       const startIso = shiftIstDays(todayIso, -6);
       return { start: startOfIso(startIso), end, startIso, endIso: todayIso, heading: 'This week' };
@@ -150,7 +131,7 @@ export async function fetchDevelopments() {
 }
 
 export function itemsForTimeline(all, slug, timeline) {
-  const range = rangeFor(timeline);
+  const range = rangeFor(normalizeTimeline(timeline));
   const items = departmentItems(all, slug)
     .filter((d) => inRange(d.date, range.start, range.end))
     .sort((a, b) => b.date.localeCompare(a.date));
@@ -169,8 +150,6 @@ export async function loadDailyPop(slug) {
     slug: dept.slug,
     name: dept.name,
     focus: 'week',
-    today: itemsForTimeline(all, slug, 'today'),
-    yesterday: itemsForTimeline(all, slug, 'yesterday'),
     week,
     month,
     items: week.items.slice(0, 20),
@@ -185,18 +164,18 @@ export async function loadDailyPop(slug) {
 export async function loadFeed(slug, timeline) {
   const dept = departmentBySlug(slug);
   if (!dept) throw new Error('Unknown department');
+  const range = normalizeTimeline(timeline);
   const all = await fetchDevelopments();
-  const view = itemsForTimeline(all, slug, timeline);
+  const view = itemsForTimeline(all, slug, range);
   const week = itemsForTimeline(all, slug, 'week');
   const month = itemsForTimeline(all, slug, 'month');
   return {
     slug: dept.slug,
     name: dept.name,
-    timeline,
+    timeline: range,
     view,
     weekCount: week.count,
     monthCount: month.count,
-    todayCount: itemsForTimeline(all, slug, 'today').count,
     afterFourPm: isAtOrAfterFourPmIst(),
   };
 }
@@ -219,4 +198,9 @@ export async function saveTimeline(timeline) {
 
 export function defaultTimeline() {
   return 'week';
+}
+
+export function normalizeTimeline(timeline) {
+  if (TIMELINES.some((t) => t.id === timeline)) return timeline;
+  return defaultTimeline();
 }

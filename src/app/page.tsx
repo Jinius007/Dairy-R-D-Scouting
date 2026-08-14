@@ -66,10 +66,10 @@ export default function HomePage() {
     feedRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, []);
 
-  const handleSeeYesterday = useCallback(() => {
+  const handleSeeThisWeek = useCallback(() => {
     setFilters((f) => ({
       ...f,
-      timeline: 'yesterday',
+      timeline: 'week',
       customDate: undefined,
     }));
     setTimeout(scrollToFeed, 100);
@@ -96,7 +96,7 @@ export default function HomePage() {
         totalTracked={data.metadata.totalTracked}
         functionCounts={allFunctionCounts}
         onExploreFeed={scrollToFeed}
-        onSeeYesterday={handleSeeYesterday}
+        onSeeThisWeek={handleSeeThisWeek}
         onFunctionClick={handleFunctionClick}
       />
 

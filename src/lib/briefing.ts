@@ -51,33 +51,16 @@ export function lastWeekDevelopments(all: Development[], now = new Date()): Deve
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
-export function dayWindow(now = new Date()): { start: Date; end: Date; startIso: string } {
-  const start = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-  const end = new Date(start);
-  end.setHours(23, 59, 59, 999);
-  return { start, end, startIso: isoDate(start) };
-}
-
-export function lastDayDevelopments(all: Development[], now = new Date()): Development[] {
-  const { start, end } = dayWindow(now);
-  return all
-    .filter((d) => {
-      const date = new Date(d.date + 'T00:00:00');
-      return date >= start && date <= end;
-    })
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-}
-
 export function departmentItems(all: Development[], slug: string): Development[] {
   const dept = departmentBySlug(slug);
   if (!dept) return [];
   return all.filter((d) => dept.functions.includes(d.function));
 }
 
-export function notificationCopy(name: string, todayCount: number, weekCount: number, topTitle?: string) {
+export function notificationCopy(name: string, weekCount: number, monthCount: number, topTitle?: string) {
   const title = `Dairy R&D · ${name}`;
-  const head = `Today: ${todayCount} new · This week: ${weekCount}`;
-  const body = topTitle ? `${head}. ${topTitle}` : `${head}. Open for the full daily and weekly briefing.`;
+  const head = `This week: ${weekCount} · This month: ${monthCount}`;
+  const body = topTitle ? `${head}. ${topTitle}` : `${head}. Open for the weekly briefing.`;
   return { title, body: body.slice(0, 220) };
 }
 

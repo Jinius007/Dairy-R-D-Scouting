@@ -22,8 +22,6 @@ interface FilterBarProps {
 }
 
 const TIMELINE_OPTIONS: { value: TimelinePreset; label: string }[] = [
-  { value: 'today', label: 'Today' },
-  { value: 'yesterday', label: 'Yesterday' },
   { value: 'week', label: 'This Week' },
   { value: 'month', label: 'This Month' },
   { value: '12months', label: 'Last 12 Mo.' },
