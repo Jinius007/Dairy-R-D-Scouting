@@ -36,7 +36,7 @@ Each morning a GitHub Action emails **today’s summary** and **this week’s su
 1. Create a free [Resend](https://resend.com) API key and store it as the GitHub secret `RESEND_API_KEY` (never commit the key).
 2. Put work emails in `data/recipients.json` under each department.
 3. Optional: run the **Daily department digest email** workflow and enter a test address.
-4. Optional GitHub secret `RESEND_FROM` after you verify a domain (until then it uses `beth.t@example.com`).
+4. Until you verify a domain at [resend.com/domains](https://resend.com/domains), mail is sent from `beth.t@example.com` (Resend’s test sender). After you verify a domain, set GitHub secret `RESEND_FROM` to something like `Dairy R&D Scouting <digest@yourdomain.org>`. Do not use `example.com`.
 
 Local test (key only in gitignored `.env.local`):
 
