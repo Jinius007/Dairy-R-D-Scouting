@@ -10,6 +10,10 @@ import {
 } from './lib.js';
 
 const app = document.getElementById('app');
+const isFullView =
+  new URLSearchParams(location.search).get('view') === 'full' || window.innerWidth > 500;
+
+if (isFullView) document.documentElement.classList.add('full');
 
 function esc(value) {
   return String(value)
@@ -38,21 +42,23 @@ function renderPicker(selected = '') {
 
 function itemHtml(item) {
   const who = [item.region, item.institution || item.company, item.sourceName].filter(Boolean).join(' · ');
+  const summary = (item.summary || '').slice(0, isFullView ? 360 : 180);
   return `<article class="item">
     <a href="${esc(item.sourceUrl)}" target="_blank" rel="noreferrer">${esc(item.title)}</a>
     <div class="meta">${esc(item.date)} · ${esc(who)}</div>
-    <div class="summary">${esc((item.summary || '').slice(0, 180))}</div>
+    <div class="summary">${esc(summary)}</div>
   </article>`;
 }
 
 function renderFeed(feed, errorText = '') {
+  const limit = isFullView ? feed.view.items.length : 25;
   const list =
     feed.view.items.length > 0
-      ? feed.view.items.slice(0, 25).map(itemHtml).join('')
+      ? `<div class="items">${feed.view.items.slice(0, limit).map(itemHtml).join('')}</div>`
       : `<p class="empty">Nothing in this window. Try Yesterday or Week.</p>`;
 
   app.innerHTML = `
-    <p class="kicker">Pops daily at 4:00 PM IST</p>
+    <p class="kicker">${isFullView ? 'Department briefing · full view' : 'Pops daily at 4:00 PM IST'}</p>
     <h1>${esc(feed.name)}</h1>
     <p class="lede">${esc(feed.view.heading)}${feed.view.startIso === feed.view.endIso ? ` · ${esc(feed.view.startIso)}` : ` · ${esc(feed.view.startIso)} – ${esc(feed.view.endIso)}`}</p>
     <div class="toggles" role="tablist">
@@ -70,6 +76,7 @@ function renderFeed(feed, errorText = '') {
     ${errorText ? `<p class="hint error">${esc(errorText)}</p>` : ''}
     <div class="actions">
       <button type="button" class="primary" id="notify">Pop notification now</button>
+      ${isFullView ? '' : '<button type="button" class="ghost" id="expand">Open full view</button>'}
       <button type="button" class="ghost" id="change">Change department</button>
     </div>
   `;
@@ -78,6 +85,9 @@ function renderFeed(feed, errorText = '') {
   });
   document.getElementById('notify').addEventListener('click', () => notifyNow(feed.slug));
   document.getElementById('change').addEventListener('click', () => renderPicker(feed.slug));
+  document.getElementById('expand')?.addEventListener('click', () => {
+    chrome.tabs.create({ url: chrome.runtime.getURL('popup.html?view=full') });
+  });
 }
 
 async function switchTimeline(slug, timeline) {

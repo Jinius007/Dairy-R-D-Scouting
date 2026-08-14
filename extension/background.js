@@ -75,8 +75,10 @@ chrome.alarms.onAlarm.addListener(async (alarm) => {
   }
 });
 
-chrome.notifications.onClicked.addListener(() => {
-  chrome.tabs.create({ url: chrome.runtime.getURL('popup.html') });
+chrome.notifications.onClicked.addListener(async () => {
+  const url = chrome.runtime.getURL('popup.html?view=full');
+  await chrome.tabs.create({ url });
+  await chrome.notifications.clear('dairy-rd-daily');
 });
 
 chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {

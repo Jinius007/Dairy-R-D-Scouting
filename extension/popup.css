@@ -29,6 +29,77 @@ body {
   padding: 16px 16px 18px;
 }
 
+html.full,
+html.full body {
+  width: 100%;
+  max-width: none;
+  max-height: none;
+  min-height: 100vh;
+  overflow: auto;
+}
+
+html.full body {
+  background:
+    radial-gradient(900px 420px at 12% -10%, rgba(186, 220, 255, 0.55), transparent 60%),
+    radial-gradient(800px 380px at 88% 8%, rgba(232, 214, 255, 0.4), transparent 55%),
+    radial-gradient(700px 360px at 70% 100%, rgba(255, 236, 179, 0.4), transparent 50%),
+    var(--cream);
+}
+
+html.full #app {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 40px 28px 72px;
+}
+
+html.full h1 {
+  font-size: 40px;
+  letter-spacing: -0.02em;
+}
+
+html.full .lede {
+  font-size: 16px;
+  max-width: 42rem;
+}
+
+html.full .counts {
+  max-width: 520px;
+}
+
+html.full .pill b {
+  font-size: 28px;
+}
+
+html.full .depts {
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 10px;
+}
+
+html.full .items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px;
+}
+
+html.full .item {
+  margin-bottom: 0;
+  height: 100%;
+}
+
+html.full .item a {
+  font-size: 16px;
+  line-height: 1.35;
+}
+
+html.full .summary {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+html.full .actions {
+  max-width: 420px;
+}
+
 .kicker {
   margin: 0 0 6px;
   font-family: ui-sans-serif, system-ui, sans-serif;
