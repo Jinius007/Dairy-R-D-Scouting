@@ -117,16 +117,6 @@ export default function ExtensionPage() {
             is closed</span>.
           </p>
         </div>
-
-        <div className="rounded-2xl border border-ink/10 bg-white/50 p-6">
-          <h2 className="text-lg font-semibold text-ink mb-2">When you roll this out to everyone</h2>
-          <p className="text-sm text-muted leading-relaxed">
-            Send colleagues this page. They download the zip here, unzip it, and Load unpacked the{' '}
-            <span className="font-mono text-ink">dairy-rd-extension</span> folder. Chrome will not
-            install an extension from a website by itself. Developer mode is required until there is
-            an unlisted Chrome Web Store listing.
-          </p>
-        </div>
       </section>
       <Footer />
     </main>
