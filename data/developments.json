@@ -1,11 +1,188 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-08-14",
-    "nextRefresh": "2026-08-15",
-    "totalTracked": 687,
+    "lastRefreshed": "2026-08-15",
+    "nextRefresh": "2026-08-16",
+    "totalTracked": 712,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-silo-gases-the-hidden-danger-2-",
+      "title": "Silo Gases – The Hidden Danger",
+      "summary": "As long as silage remains a common livestock feed, the risk of an injury or fatality from silo gases is present. Every farm worker must understand the dangers associated with silo gases and how to [Read More ...]",
+      "date": "2026-08-15",
+      "sourceUrl": "https://dairybusiness.com/silo-gases-the-hidden-danger-2/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-canadian-processors-accelerate-capital-invest",
+      "title": "Canadian Processors Accelerate Capital Investments Amid National Cottage Cheese Shortage",
+      "summary": "Canadian dairy processors invest millions, led by Gay Lea Foods' $200M Toronto expansion, to address surging cottage cheese demand.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://en.edairynews.com/canadian-processors-accelerate-capital-investments-amid-national-cottage-cheese-shortage/",
+      "sourceName": "eDairyNews",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-whole-farm-digital-twins-emerge-to-simulate-h",
+      "title": "Whole-Farm Digital Twins Emerge to Simulate Herd Decision-Making",
+      "summary": "UW-Madison's RuFaS model creates digital twins of dairy farms, allowing veterinarians to simulate herd management decisions before implementation.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://en.edairynews.com/whole-farm-digital-twins-emerge-to-simulate-herd-decision-making/",
+      "sourceName": "eDairyNews",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-california-dairies-test-vermifiltration-as-al",
+      "title": "California Dairies Test Vermifiltration as Alternative to Anaerobic Digesters",
+      "summary": "California dairy farms adopt earthworm and microbe biofilters as a scalable, low-cost alternative to anaerobic digesters for manure remediation.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://en.edairynews.com/california-dairies-test-vermifiltration-as-alternative-to-anaerobic-digesters/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "California Dairies",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-canadian-dairy-sector-urges-ottawa-to-defend-",
+      "title": "Canadian Dairy Sector Urges Ottawa to Defend Food Sovereignty in U.S. Trade Negotiations",
+      "summary": "Canadian dairy leaders urge Ottawa to defend supply management and resist further market access concessions in ongoing U.S. trade negotiations.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://en.edairynews.com/canadian-dairy-sector-urges-ottawa-to-defend-food-sovereignty-in-u-s-trade-negotiations/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-new-zealands-10-million-rma-fines-create-lega",
+      "title": "New Zealand’s $10 Million RMA Fines Create Legal Uncertainty for Dairy Operators",
+      "summary": "New Zealand's new $10M RMA fine cap creates legal uncertainty for dairy farmers as the Environment Court evaluates sentencing proportionality for SMEs.",
+      "date": "2026-08-14",
+      "sourceUrl": "https://en.edairynews.com/new-zealands-10-million-rma-fines-create-legal-uncertainty-for-dairy-operators/",
+      "sourceName": "eDairyNews",
+      "function": "Sustainability & Traceability",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-california-dairy-on-display-at-the-califo",
+      "title": "California Dairy on Display at the California Restaurant Show",
+      "summary": "The California Milk Advisory Board (CMAB) is bringing culinary inspiration with California dairy to the California Restaurant Show, August 23-25 at the Anaheim Convention Center. MAB will showcase the diversity of dairy products – from [Read More ...]",
+      "date": "2026-08-14",
+      "sourceUrl": "https://dairybusiness.com/california-dairy-on-display-at-the-california-restaurant-show-4/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-join-us-for-our-q3-milk-check-in-",
+      "title": "Join Us for Our Q3 Milk Check-In",
+      "summary": "Wednesday, Aug. 26, 2026 2-3 p.m. ET Join the NMPF team for its quarterly update on policy, economics and on-farm best practices—an informal chance to hear what’s top of mind in the dairy industry. This [Read More ...]",
+      "date": "2026-08-14",
+      "sourceUrl": "https://dairybusiness.com/join-us-for-our-q3-milk-check-in/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-support-msus-dairy-programs-through-mmpa-",
+      "title": "Support MSU’s Dairy Programs through MMPA match campaigns",
+      "summary": "MMPA’s history with Michigan State University (MSU) goes back to the beginning with our founding in MSU’s Agriculture Hall, and for generations MSU has helped strengthen the dairy industry through research, education and outreach. In [Read More ...]",
+      "date": "2026-08-14",
+      "sourceUrl": "https://dairybusiness.com/support-msus-dairy-programs-through-mmpa-match-campaigns/",
+      "sourceName": "Dairy Business",
+      "function": "Robotics & AI",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-more-than-10000-awarded-to-dairy-students",
+      "title": "More Than $10,000 Awarded to Dairy Students through Klussendorf and McKown Scholarships",
+      "summary": "Seven dairy students from across the U.S. have been awarded a total of $10,500 in scholarships from the Arthur B. Klussendorf Memorial Association and the McKown/Klussendorf Fund. The Klussendorf Scholarships have been granted to students [Read More ...]",
+      "date": "2026-08-14",
+      "sourceUrl": "https://dairybusiness.com/more-than-10000-awarded-to-dairy-students-through-klussendorf-and-mckown-scholarships/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-fall-crop-sales-closing-deadline-is-septe",
+      "title": "Fall Crop Sales Closing Deadline is September 30",
+      "summary": "The deadline to insure fall crops in the Northeast for the 2027 crop year is September 30, 2026. Insurable fall crops include barley, forage production and wheat. Coverage availability varies by county. Visit CropGrowers.com for [Read More ...]",
+      "date": "2026-08-14",
+      "sourceUrl": "https://dairybusiness.com/fall-crop-sales-closing-deadline-is-september-30/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-Dairy-Business-https-dairybusiness-com-bongards-creameries-announces-135-million",
       "title": "Bongards' Creameries Announces $135 Million Expansion of Process Cheese Facility in Bongards, Minnesota",
@@ -52,6 +229,90 @@
         "forage",
         "TMR",
         "trade press"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fpubh-2026-1894809",
+      "title": "Genomic characterization of non-CC398 methicillin-resistant Staphylococcus aureus from Belgian livestock reveals high similarity to human-associated lineages",
+      "summary": "Introduction Methicillin-resistant Staphylococcus aureus (MRSA) is a bacterial pathogen resistant to several widely used antibiotics. Although MRSA has historically been associated with hospital- and community-associated infections, livestock-associated MRSA (LA-MRSA) has emerged as a public health concern worldwide. While the majority of studies on LA-MRSA have focused on the CC398 lineage, littl",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1894809",
+      "sourceName": "Frontiers in Public Health",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "ID Genomics (United States)",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-30574-wjbphs-2026-27-2-0415",
+      "title": "Raw milk as a reservoir: Exploring the drug resistance profile of Staphylococcus aureus",
+      "summary": "Introduction: Staphylococcus aureus is a significant food-borne pathogen commonly found in raw milk and has growing public health relevance due to its increasing antibiotic resistance. Especially, MRSA is recognized as a priority pathogen globally and in India, with increasingly resistant complicated treatment efforts. This study aimed to isolate from raw milk samples using Mannitol Salt Agar (MSA",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.30574/wjbphs.2026.27.2.0415",
+      "sourceName": "World Journal of Biology Pharmacy and Health Sciences",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3390-vetsci13080799",
+      "title": "Genetic Determinants of Milk Production Phenotypes in Dairy Goats: A Review",
+      "summary": "Dairy goats sustain milk production across marginal environments worldwide, yet genetic improvement of milk yield and composition remains slower than in cattle, constrained by smaller reference populations and limited functional validation. This review consolidates current evidence on the genes and polymorphisms governing milk production traits in dairy goats. Whole-genome resequencing and selecti",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.3390/vetsci13080799",
+      "sourceName": "Veterinary Sciences",
+      "function": "Breeding & Genetics",
+      "region": "China",
+      "institution": "Henan University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fpubh-2026-1835528",
+      "title": "Camel milk consumption, perceptions, and knowledge of health and food safety among adults in Saudi Arabia: a cross-sectional study",
+      "summary": "Objective Camel milk is a culturally important food in many arid regions and has gained increasing attention due to its distinctive nutritional composition and potential health-related properties. However, limited information is available regarding consumer perceptions, knowledge, and consumption patterns of camel milk in Saudi Arabia. This study aimed to assess camel milk consumption patterns, co",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1835528",
+      "sourceName": "Frontiers in Public Health",
+      "function": "Quality & Food Safety",
+      "region": "Saudi Arabia",
+      "institution": "Princess Nourah bint Abdulrahman University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1128-jcm-01907-25",
+      "title": "Development of a multi-species luciferase-based double-antigen ELISA for the detection of antibodies against influenza A virus H5 clade 2.3.4.4b",
+      "summary": "ABSTRACT The highly pathogenic avian influenza viruses of subtype H5N1 represent a major threat to animal and public health. The current panzootic with H5 clade 2.3.4.4b has caused numerous, widespread outbreaks in various domestic and wild avian species with high mortalities, massive losses, and a high frequency of spillover events to unexpected novel mammalian hosts, such as dairy cows. The glob",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.1128/jcm.01907-25",
+      "sourceName": "Journal of Clinical Microbiology",
+      "function": "Animal Health",
+      "region": "Germany",
+      "institution": "Friedrich-Loeffler-Institut",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
       ]
     },
     {
@@ -231,6 +492,74 @@
         "heat stress",
         "water",
         "THI"
+      ]
+    },
+    {
+      "id": "openalex-10-31285-agro-30-1848",
+      "title": "Additives and their Effect on Fiber Utilization and Ruminal Fermentation Profile in Grazing Dairy Cows",
+      "summary": "The objective of this study was to evaluate the effects of sodium monensin (MON) and a phytochemical mixture (PHY) in dairy cows grazing alfalfa and supplemented with total mixed rations (TMR) on the: 1) neutral detergent fiber (NDF) degradability of alfalfa hay (AH), 2) in-situ organic matter digestibility (ISDom) of different feeds (four cultivated pastures, AH, pre- and postpartum TMR, and a si",
+      "date": "2026-08-12",
+      "sourceUrl": "https://doi.org/10.31285/agro.30.1848",
+      "sourceName": "Agrociencia Uruguay",
+      "function": "Nutrition & Feeding",
+      "region": "Uruguay",
+      "institution": "Universidad de la República de Uruguay",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fmicb-2026-1894607",
+      "title": "Effect of increasing organic loading rate on hydrolytic enzyme activities and microbial communities during anaerobic digestion of energy crops",
+      "summary": "Introduction Efficiency and stability of anaerobic digestion (AD) processes strongly depend on maintaining a balance between microbial conversion steps. Operational stress can disrupt this balance, leading to shifts in the microbial community, accumulation of intermediate metabolites, and changes in overall process performance. Therefore, the objective of the study was to better understand the rol",
+      "date": "2026-08-12",
+      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1894607",
+      "sourceName": "Frontiers in Microbiology",
+      "function": "Nutrition & Feeding",
+      "region": "Germany",
+      "institution": "Helmholtz Centre for Environmental Research",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s11250-026-05278-1",
+      "title": "Genetic evaluation of growth and reproductive traits in Nelore cattle under humid tropical conditions",
+      "summary": "Abstract Assessing the genetic variability of economically important traits is key to guiding selection strategies, and monitoring its changes over time provides critical support for decision-making. The study aimed to estimate genetic parameters and evaluate genetic and phenotypic trends for growth and reproductive traits in Nelore cattle raised under humid tropical conditions. Growth traits incl",
+      "date": "2026-08-12",
+      "sourceUrl": "https://doi.org/10.1007/s11250-026-05278-1",
+      "sourceName": "Tropical Animal Health and Production",
+      "function": "Breeding & Genetics",
+      "region": "Brazil",
+      "institution": "Universidade Federal de Roraima",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-65460-1",
+      "title": "Inferring genetic values and variances from pre-processed phenotypes",
+      "summary": "It is common in quantitative genetics to submit phenotypes to pre-processing prior to data analysis. The objective is to make computations simpler. In areas where field data is observational, e.g., studies of complex traits, records are often pre-adjusted for nuisance factors such as location, demographical structure and macroenvironments, that may mask expression of genetic values. The nuisance e",
+      "date": "2026-08-12",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-65460-1",
+      "sourceName": "Scientific Reports",
+      "function": "Breeding & Genetics",
+      "region": "USA",
+      "institution": "University of Wisconsin–Madison",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
       ]
     },
     {
@@ -922,6 +1251,23 @@
       "tags": [
         "arXiv",
         "preprint",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-W7202104803",
+      "title": "Vrednotenje fenomike v govedoreji",
+      "summary": "The progress of technology, namely in the realm of computer science, has resulted in the capability to handle extensive sets of information, sometimes referred to as big data, which has substantially influenced the field of genetic science.The discipline of livestock farming has witnessed the emergence of several branches of study, including genomics, proteomics, transcriptomics, and metabolomics.",
+      "date": "2026-08-07",
+      "sourceUrl": "https://openalex.org/W7202104803",
+      "sourceName": "Repository of the University of Ljubljana (University of Ljubljana)",
+      "function": "Breeding & Genetics",
+      "region": "India",
+      "institution": "Animal Husbandry and Veterinary Department",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -2907,6 +3253,23 @@
       ]
     },
     {
+      "id": "arxiv-2607.22071v1",
+      "title": "ReCowGnition: A Realistic Biometric Benchmark for Cow Face Recognition",
+      "summary": "With the development of precision livestock farming and the advances in computer vision, visual animal biometrics has gained attention. Using biometric technologies that have been proven effective for humans to identify livestock can increase animal welfare as well as production efficiency. However, challenges such as complex scenarios, similar appearances, occlusions, and non-cooperative behavior",
+      "date": "2026-07-24",
+      "sourceUrl": "http://arxiv.org/abs/2607.22071v1",
+      "sourceName": "arXiv",
+      "function": "Animal Welfare",
+      "region": "Global",
+      "institution": "Marco Huber",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-3390-dairy7040057",
       "title": "Interrelationships Between Behavioural and Physiological Responses and Milk Production in Dairy Cows",
       "summary": "Dairy cattle are particularly susceptible to welfare challenges that can negatively impact their behaviour, physiological responses, milk yield, and overall health. These challenges include rough handling by unfamiliar people, extreme climatic conditions, inconsistent feeding, regrouping, and transportation. This pilot study investigated the interrelationships between behavioural and physiological",
@@ -4028,6 +4391,23 @@
       ]
     },
     {
+      "id": "arxiv-2606.30877v1",
+      "title": "A Systematic Approach to Multi-Agent AI from Advanced Regulatory Control Theory: Safe and Auditable LLM Operator Agents for Process Control",
+      "summary": "Recent literature shows that large language models (LLMs) are useful for general-purpose tasks yet perform poorly on specific domain ones. One reason is the difficulty of supplying narrow context to a general-purpose model and of bounding the task it is asked to perform. It is possible to hypothesise that a multi-agent reformulation under process-control principles offers a route to address those ",
+      "date": "2026-06-29",
+      "sourceUrl": "http://arxiv.org/abs/2606.30877v1",
+      "sourceName": "arXiv",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Idelfonso B. R. Nogueira",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "epmc-10-14202-vetworld-2026-2619-2633",
       "title": "Multi-pathogen epidemiological survey of subclinical mastitis, gastrointestinal parasitism, and zoonotic diseases in smallholder dairy cattle in South Sulawesi, Indonesia.",
       "summary": "<h4>Background and aim</h4>Smallholder dairy cattle systems in Indonesia face persistent health challenges that compromise productivity, milk quality, and public health. This study aimed to investigate the prevalence of subclinical mastitis, gastrointestinal parasitism, and selected zoonotic diseases (<i>Mycobacterium bovis</i> and <i>Brucella abortus</i>) in smallholder dairy cattle in Enrekang R",
@@ -4810,6 +5190,23 @@
       ]
     },
     {
+      "id": "epmc-10-3389-fvets-2026-1835236",
+      "title": "Sanitation of &lt;i&gt;Staphylococcus aureus&lt;/i&gt; genotype B as a model for community of practice for improving food safety and animal health.",
+      "summary": "Improving food safety and sustainability requires knowledge transfer from scientific studies to real-world applications, yet this process often faces significant barriers. This paper presents a seven-step model applied to a sanitation program that shows how focused scientific innovation can be successfully translated into practice to address complex food safety and animal health challenges. This m",
+      "date": "2026-06-09",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1835236",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Switzerland",
+      "institution": "Agroscope",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-20473-amnt-v10i2-2026-314-326",
       "title": "Yogurt Berbasis Kecambah Kacang Tanah (Arachis hypogaea) dan Akar Alang-Alang (Imperata cylindrica) Kaya Antioksidan serta Nutrisi Esensial: Minuman Fungsional Dislipidemia",
       "summary": "Latar Belakang: Makanan yang kaya antioksidan dapat membantu mengurangi stres oksidatif yang terkait dengan dislipidemia. Tujuan: Penelitian ini mengevaluasi pengaruh rasio susu kecambah kacang tanah susu skim, konsentrasi akar rumput cogon (Imperata cylindrica), dan bakteri asam laktat (LAB), serta interaksinya, terhadap sifat fisikokimia dan bioaktif PeaSco Go, minuman fungsional yang ditujukan ",
@@ -5142,6 +5539,23 @@
       "function": "Nutrition & Feeding",
       "region": "Global",
       "institution": "Department of Animal Science",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1111-1750-3841-71179",
+      "title": "Effects of Lysozyme and Silver Anode Treatment on Pseudomonas aeruginosa Growth and Biofilm Formation in Raw Milk.",
+      "summary": "Pseudomonas aeruginosa is an important spoilage‑associated and opportunistic pathogen in raw milk, producing heat‑stable enzymes and robust biofilms that resist conventional sanitation. The limitations of existing decontamination methods necessitate novel, nonthermal, and ecofriendly strategies. This study evaluated the antibacterial and anti‑biofilm effects of lysozyme combined with the silver an",
+      "date": "2026-06-01",
+      "sourceUrl": "https://doi.org/10.1111/1750-3841.71179",
+      "sourceName": "Europe PMC",
+      "function": "Quality & Food Safety",
+      "region": "Turkey",
+      "institution": "Department of Food Engineering",
       "rdType": "Academic Study",
       "tags": [
         "Europe PMC",
