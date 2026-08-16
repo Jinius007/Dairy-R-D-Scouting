@@ -1,11 +1,63 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-08-15",
-    "nextRefresh": "2026-08-16",
-    "totalTracked": 712,
+    "lastRefreshed": "2026-08-16",
+    "nextRefresh": "2026-08-17",
+    "totalTracked": 721,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "openalex-10-1007-s10123-026-00862-9",
+      "title": "Isolation, genomic characterization, and biocontrol potential of a bacteriophage cocktail against Staphylococcus aureus in milk",
+      "summary": "The objectives of this study were to isolate, characterize, and evaluate the biocontrol potential of Staphylococcus aureus -targeting bacteriophages in milk. From wastewater and raw milk samples, a total of 19 lytic phages were isolated. Among them SAKAY1298 and SAKAY1306 phages were selected for detailed phenotypic and genomic analysis based on their lytic profiles, host range and growth kinetics",
+      "date": "2026-08-15",
+      "sourceUrl": "https://doi.org/10.1007/s10123-026-00862-9",
+      "sourceName": "International Microbiology",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "institution": "Instituto de Nutricion e Higiene de los Alimentos",
+      "company": "Genus",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-67173-x",
+      "title": "Metabolic indicators as predictors of reproductive disorders in holstein dairy cows: a field-based study",
+      "summary": "The aim of this study was to investigate associations between pre- and post-partum serum metabolites and reproductive and health outcomes and finding critical thresholds of serum metabolites to predict future reproductive outcomes in Holstein dairy cows from two commercial dairy farms in Tehran province, Iran. In total, 366 Holstein dairy cows (207 from Farm A and 159 from Farm B) were enrolled in",
+      "date": "2026-08-15",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-67173-x",
+      "sourceName": "Scientific Reports",
+      "function": "Nutrition & Feeding",
+      "region": "Iran",
+      "institution": "Ferdowsi University of Mashhad",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-5281-zenodo-21942557",
+      "title": "Comparative Genomic Annotation Gap Analysis: Feed-Efficiency Candidate Genes in Cattle vs. Water Buffalo (Bubalus bubalis)",
+      "summary": "Genomic selection tools for feed efficiency have been extensively developed and validated in high-input cattle breeds, but it is unclear whether the same candidate genes are equally well characterized in water buffalo (Bubalus bubalis), the dominant dairy species across Pakistani smallholder systems. This note reports a small-scale, self-directed annotation audit of five feed-efficiency candidate ",
+      "date": "2026-08-15",
+      "sourceUrl": "https://doi.org/10.5281/zenodo.21942557",
+      "sourceName": "Zenodo (CERN European Organization for Nuclear Research)",
+      "function": "Breeding & Genetics",
+      "region": "Pakistan",
+      "institution": "Bahauddin Zakariya University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-Dairy-Business-https-dairybusiness-com-silo-gases-the-hidden-danger-2-",
       "title": "Silo Gases – The Hidden Danger",
@@ -19,6 +71,91 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-21423-bpj20269511",
+      "title": "A beginner’s guide to some applications and issues of using generative artificial intelligence in mastitis control on dairy farms",
+      "summary": "Generative artificial intelligence (AI), in the form of large language models (LLM), is rapidly emerging as an influential tool, yet most veterinarians have limited training in its effec­tive and responsible use. This paper provides an introductory overview of how LLM chatbots can support mastitis man­agement by synthesizing information, generating treatment protocols and assisting with clinical d",
+      "date": "2026-08-14",
+      "sourceUrl": "https://doi.org/10.21423/bpj20269511",
+      "sourceName": "The Bovine Practitioner",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "Michigan State University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-30972-vet-3719609",
+      "title": "Staphylococcus aureus y Streptococcus agalactiae bacterias predominantes en casos de mastitis en hatos lecheros del sur de La Guajira, Colombia",
+      "summary": "El objetivo de este estudio fue determinar la prevalencia de mastitis bovina y su relación con las prácticas de ordeño, las bacterias patógenas y el recuento de células somáticas en hatos lecheros del sur de La Guajira, Colombia. Se realizó un estudio descriptivo de corte transversal mediante un muestreo no probabilístico por conveniencia. Se caracterizaron los factores que influyen en la calidad ",
+      "date": "2026-08-14",
+      "sourceUrl": "https://doi.org/10.30972/vet.3719609",
+      "sourceName": "Revista Veterinaria",
+      "function": "Animal Health",
+      "region": "Colombia",
+      "institution": "Popular University of Cesar",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s44274-026-00971-2",
+      "title": "Methane mitigation in ruminants for sustainable livestock production in tropical climates",
+      "summary": "Livestock production plays a vital role in food security and rural livelihoods, particularly in tropical regions, where methane emissions from ruminant animals contribute significantly to global greenhouse gas outputs. In addition to its environmental impact, enteric methane produced during rumen fermentation represents an energy loss that reduces feed efficiency. Consequently, mitigating methane ",
+      "date": "2026-08-14",
+      "sourceUrl": "https://doi.org/10.1007/s44274-026-00971-2",
+      "sourceName": "Discover Environment",
+      "function": "Nutrition & Feeding",
+      "region": "Nigeria",
+      "institution": "Federal University of Agriculture, Abeokuta",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1868627",
+      "title": "Effects of sweet chestnut (Castanea sativa Mill.) hydrolysable tannins on animal performance, health and manure ammonia and nitrous oxide emissions in preweaning holstein calves",
+      "summary": "Tannins are plant-derived compounds that can improve animal health by modulating gut health, and reducing the incidence of diarrhea, also influencing the emissions of nitrous oxide and ammonia in animal manure. This study evaluated the effects of hydrolysable tannins from sweet chestnut ( Castanea sativa Mill. ) on growth performance, intestinal health, clinical insights, and ammonia and nitrous o",
+      "date": "2026-08-14",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1868627",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Nutrition & Feeding",
+      "region": "Italy",
+      "institution": "University of Brescia",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-jpn-70105",
+      "title": "Associations Between Benzoxazinoids, Plant Development and Nutritional Parameters in Different Maize Maturing Genotypes",
+      "summary": "ABSTRACT Maize ( Zea mays L.) silage is a major energy source in ruminant diets and provides fermentable substrate for the rumen microbiota. In addition, forage maize contains benzoxazinoids (BXs), defence‐related secondary metabolites with antimicrobial activity that remain detectable after ensiling. For ruminant nutrition, it is important to know whether variation in BX is associated with change",
+      "date": "2026-08-14",
+      "sourceUrl": "https://doi.org/10.1111/jpn.70105",
+      "sourceName": "Journal of Animal Physiology and Animal Nutrition",
+      "function": "Nutrition & Feeding",
+      "region": "Switzerland",
+      "institution": "University of Bern",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -232,6 +369,40 @@
       ]
     },
     {
+      "id": "openalex-10-1016-j-tvjl-2026-106825",
+      "title": "The use of infrared thermography for diagnosing limb disorders in dairy cattle",
+      "summary": "The use of infrared thermography for diagnosing limb disorders in dairy cattle",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.1016/j.tvjl.2026.106825",
+      "sourceName": "The Veterinary Journal",
+      "function": "Farm Management",
+      "region": "Global",
+      "institution": "Research Institute of Animal Husbandry",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-12691-jaem-14-2-1",
+      "title": "Microbial Source Tracking for Monitoring Pest Bird Contamination in Dairy Farm Settings",
+      "summary": "Pest bird intrusion into British Columbia (BC) dairy farms has become increasingly problematic in recent years due to changes in agricultural land use practices and habitat disruption. These birds are reservoirs of diverse microbial agents that can contribute to the transmission of zoonotic and livestock diseases, including avian influenza and Salmonellosis. In addition to health impacts on both h",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.12691/jaem-14-2-1",
+      "sourceName": "Journal of Applied & Environmental Microbiology",
+      "function": "Animal Health",
+      "region": "Canada",
+      "institution": "Western University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-3389-fpubh-2026-1894809",
       "title": "Genomic characterization of non-CC398 methicillin-resistant Staphylococcus aureus from Belgian livestock reveals high similarity to human-associated lineages",
       "summary": "Introduction Methicillin-resistant Staphylococcus aureus (MRSA) is a bacterial pathogen resistant to several widely used antibiotics. Although MRSA has historically been associated with hospital- and community-associated infections, livestock-associated MRSA (LA-MRSA) has emerged as a public health concern worldwide. While the majority of studies on LA-MRSA have focused on the CC398 lineage, littl",
@@ -249,31 +420,15 @@
       ]
     },
     {
-      "id": "openalex-10-30574-wjbphs-2026-27-2-0415",
-      "title": "Raw milk as a reservoir: Exploring the drug resistance profile of Staphylococcus aureus",
-      "summary": "Introduction: Staphylococcus aureus is a significant food-borne pathogen commonly found in raw milk and has growing public health relevance due to its increasing antibiotic resistance. Especially, MRSA is recognized as a priority pathogen globally and in India, with increasingly resistant complicated treatment efforts. This study aimed to isolate from raw milk samples using Mannitol Salt Agar (MSA",
+      "id": "openalex-10-1093-tas-txag127",
+      "title": "High Shear Dry Extruded Corn in Feedlot Receiving Diets",
+      "summary": "Lay Summary Corn is the primary energy source in feedlot cattle diets, but how it is processed before feeding affects how well cattle can digest and use it. Steam flaking is one of the most effective processing methods but requires significant infrastructure investment. High shear dry extrusion is a novel processing method that cracks the corn kernel and applies heat and pressure to make starch mo",
       "date": "2026-08-13",
-      "sourceUrl": "https://doi.org/10.30574/wjbphs.2026.27.2.0415",
-      "sourceName": "World Journal of Biology Pharmacy and Health Sciences",
-      "function": "Animal Health",
-      "region": "Global",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3390-vetsci13080799",
-      "title": "Genetic Determinants of Milk Production Phenotypes in Dairy Goats: A Review",
-      "summary": "Dairy goats sustain milk production across marginal environments worldwide, yet genetic improvement of milk yield and composition remains slower than in cattle, constrained by smaller reference populations and limited functional validation. This review consolidates current evidence on the genes and polymorphisms governing milk production traits in dairy goats. Whole-genome resequencing and selecti",
-      "date": "2026-08-13",
-      "sourceUrl": "https://doi.org/10.3390/vetsci13080799",
-      "sourceName": "Veterinary Sciences",
-      "function": "Breeding & Genetics",
-      "region": "China",
-      "institution": "Henan University",
+      "sourceUrl": "https://doi.org/10.1093/tas/txag127",
+      "sourceName": "Translational Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "institution": "Iowa State University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -291,6 +446,23 @@
       "function": "Quality & Food Safety",
       "region": "Saudi Arabia",
       "institution": "Princess Nourah bint Abdulrahman University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3390-vetsci13080799",
+      "title": "Genetic Determinants of Milk Production Phenotypes in Dairy Goats: A Review",
+      "summary": "Dairy goats sustain milk production across marginal environments worldwide, yet genetic improvement of milk yield and composition remains slower than in cattle, constrained by smaller reference populations and limited functional validation. This review consolidates current evidence on the genes and polymorphisms governing milk production traits in dairy goats. Whole-genome resequencing and selecti",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.3390/vetsci13080799",
+      "sourceName": "Veterinary Sciences",
+      "function": "Breeding & Genetics",
+      "region": "China",
+      "institution": "Henan University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -495,6 +667,24 @@
       ]
     },
     {
+      "id": "news-cdcb-calf-health-2026-08-12",
+      "title": "CDCB launches first national genetic evaluations for calf health",
+      "summary": "The August 2026 CDCB evaluations add Resistance to Diarrhea (DIA) and Resistance to Respiratory Problems (RSP) PTAs for Holsteins and Jerseys, built from DHI calf-health records with USDA AGIL, plus revisions to DPR, CCR, HCR and a new First Service to Conception trait.",
+      "date": "2026-08-12",
+      "sourceUrl": "https://www.bovinevetonline.com/news/cdcb-launches-first-national-genetic-evaluations-calf-health",
+      "sourceName": "Bovine Veterinarian / CDCB",
+      "function": "Animal Health",
+      "region": "USA",
+      "company": "CDCB",
+      "institution": "USDA AGIL",
+      "rdType": "Industry News",
+      "tags": [
+        "calf health",
+        "DIA",
+        "RSP"
+      ]
+    },
+    {
       "id": "openalex-10-31285-agro-30-1848",
       "title": "Additives and their Effect on Fiber Utilization and Ruminal Fermentation Profile in Grazing Dairy Cows",
       "summary": "The objective of this study was to evaluate the effects of sodium monensin (MON) and a phytochemical mixture (PHY) in dairy cows grazing alfalfa and supplemented with total mixed rations (TMR) on the: 1) neutral detergent fiber (NDF) degradability of alfalfa hay (AH), 2) in-situ organic matter digestibility (ISDom) of different feeds (four cultivated pastures, AH, pre- and postpartum TMR, and a si",
@@ -504,23 +694,6 @@
       "function": "Nutrition & Feeding",
       "region": "Uruguay",
       "institution": "Universidad de la República de Uruguay",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fmicb-2026-1894607",
-      "title": "Effect of increasing organic loading rate on hydrolytic enzyme activities and microbial communities during anaerobic digestion of energy crops",
-      "summary": "Introduction Efficiency and stability of anaerobic digestion (AD) processes strongly depend on maintaining a balance between microbial conversion steps. Operational stress can disrupt this balance, leading to shifts in the microbial community, accumulation of intermediate metabolites, and changes in overall process performance. Therefore, the objective of the study was to better understand the rol",
-      "date": "2026-08-12",
-      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1894607",
-      "sourceName": "Frontiers in Microbiology",
-      "function": "Nutrition & Feeding",
-      "region": "Germany",
-      "institution": "Helmholtz Centre for Environmental Research",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -543,41 +716,6 @@
         "OpenAlex",
         "peer-reviewed",
         "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1038-s41598-026-65460-1",
-      "title": "Inferring genetic values and variances from pre-processed phenotypes",
-      "summary": "It is common in quantitative genetics to submit phenotypes to pre-processing prior to data analysis. The objective is to make computations simpler. In areas where field data is observational, e.g., studies of complex traits, records are often pre-adjusted for nuisance factors such as location, demographical structure and macroenvironments, that may mask expression of genetic values. The nuisance e",
-      "date": "2026-08-12",
-      "sourceUrl": "https://doi.org/10.1038/s41598-026-65460-1",
-      "sourceName": "Scientific Reports",
-      "function": "Breeding & Genetics",
-      "region": "USA",
-      "institution": "University of Wisconsin–Madison",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "news-cdcb-calf-health-2026-08-12",
-      "title": "CDCB launches first national genetic evaluations for calf health",
-      "summary": "The August 2026 CDCB evaluations add Resistance to Diarrhea (DIA) and Resistance to Respiratory Problems (RSP) PTAs for Holsteins and Jerseys, built from DHI calf-health records with USDA AGIL, plus revisions to DPR, CCR, HCR and a new First Service to Conception trait.",
-      "date": "2026-08-12",
-      "sourceUrl": "https://www.bovinevetonline.com/news/cdcb-launches-first-national-genetic-evaluations-calf-health",
-      "sourceName": "Bovine Veterinarian / CDCB",
-      "function": "Animal Health",
-      "region": "USA",
-      "company": "CDCB",
-      "institution": "USDA AGIL",
-      "rdType": "Industry News",
-      "tags": [
-        "calf health",
-        "DIA",
-        "RSP"
       ]
     },
     {
@@ -2562,6 +2700,23 @@
         "solar",
         "smallholder",
         "milking equipment"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-anifeedsci-2026-117009",
+      "title": "Effects of replacing two-thirds of grass silage with red clover silage on milk production and ruminal methane emissions in dairy cows",
+      "summary": "This study investigated the effects of red clover ( Trifolium pratense ) silage on dairy cow lactational performance and ruminal methane emissions through complementary in vivo and in vitro experiments. In the single-sequence switch-back animal experiment, two-thirds of grass silage ( Phleum pratense, Lolium spp., Schedonorus spp.) was replaced with red clover silage. Nineteen Nordic Red cows [109",
+      "date": "2026-08-01",
+      "sourceUrl": "https://doi.org/10.1016/j.anifeedsci.2026.117009",
+      "sourceName": "Animal Feed Science and Technology",
+      "function": "Nutrition & Feeding",
+      "region": "Finland",
+      "institution": "University of Helsinki",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
       ]
     },
     {
