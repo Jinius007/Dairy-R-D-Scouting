@@ -1,11 +1,59 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-08-16",
-    "nextRefresh": "2026-08-17",
-    "totalTracked": 721,
+    "lastRefreshed": "2026-08-17",
+    "nextRefresh": "2026-08-18",
+    "totalTracked": 726,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-glp-1-weight-loss-medications-drive-global-su",
+      "title": "GLP-1 Weight-Loss Medications Drive Global Surge in New Zealand Whey Protein Demand",
+      "summary": "Surging use of GLP-1 weight-loss drugs and fitness trends drives global demand and higher prices for New Zealand whey and bioactive milk proteins.",
+      "date": "2026-08-16",
+      "sourceUrl": "https://en.edairynews.com/glp-1-weight-loss-medications-drive-global-surge-in-new-zealand-whey-protein-demand/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-southland-dairy-family-scales-artisanal-panee",
+      "title": "Southland Dairy Family Scales Artisanal Paneer Operation to Major Retail Channels",
+      "summary": "Southland's Good Guise family scales artisanal, fresh paneer processing in New Zealand to supply major food service chains and Costco.",
+      "date": "2026-08-16",
+      "sourceUrl": "https://en.edairynews.com/southland-dairy-family-scales-artisanal-paneer-operation-to-major-retail-channels/",
+      "sourceName": "eDairyNews",
+      "function": "Dairy Processing",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-south-australian-dairy-industry-honors-automa",
+      "title": "South Australian Dairy Industry Honors Automation, Genetics, and Supply Partnerships at 2026 Awards",
+      "summary": "SADA honors top 2026 South Australian dairy producers for excellence in robotic milking, genomic breeding, processor ties, and sustainability.",
+      "date": "2026-08-16",
+      "sourceUrl": "https://en.edairynews.com/south-australian-dairy-industry-honors-automation-genetics-and-supply-partnerships-at-2026-awards/",
+      "sourceName": "eDairyNews",
+      "function": "Breeding & Genetics",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "openalex-10-1007-s10123-026-00862-9",
       "title": "Isolation, genomic characterization, and biocontrol potential of a bacteriophage cocktail against Staphylococcus aureus in milk",
@@ -369,6 +417,57 @@
       ]
     },
     {
+      "id": "openalex-10-3389-fpubh-2026-1894809",
+      "title": "Genomic characterization of non-CC398 methicillin-resistant Staphylococcus aureus from Belgian livestock reveals high similarity to human-associated lineages",
+      "summary": "Introduction Methicillin-resistant Staphylococcus aureus (MRSA) is a bacterial pathogen resistant to several widely used antibiotics. Although MRSA has historically been associated with hospital- and community-associated infections, livestock-associated MRSA (LA-MRSA) has emerged as a public health concern worldwide. While the majority of studies on LA-MRSA have focused on the CC398 lineage, littl",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1894809",
+      "sourceName": "Frontiers in Public Health",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "ID Genomics (United States)",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fpubh-2026-1835528",
+      "title": "Camel milk consumption, perceptions, and knowledge of health and food safety among adults in Saudi Arabia: a cross-sectional study",
+      "summary": "Objective Camel milk is a culturally important food in many arid regions and has gained increasing attention due to its distinctive nutritional composition and potential health-related properties. However, limited information is available regarding consumer perceptions, knowledge, and consumption patterns of camel milk in Saudi Arabia. This study aimed to assess camel milk consumption patterns, co",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1835528",
+      "sourceName": "Frontiers in Public Health",
+      "function": "Quality & Food Safety",
+      "region": "Saudi Arabia",
+      "institution": "Princess Nourah bint Abdulrahman University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1016-j-tvjl-2026-106825",
+      "title": "The use of infrared thermography for diagnosing limb disorders in dairy cattle.",
+      "summary": "Limb disorders in dairy cattle, along with mastitis and reproductive disorders, are among the most serious health problems in dairy farming. They negatively affect animal welfare, reduce milk yield and cause substantial economic losses for farmers. Traditional diagnostic methods, such as visual locomotion scoring and hoof trimming, are limited by subjectivity, infrequent use and low effectiveness ",
+      "date": "2026-08-13",
+      "sourceUrl": "https://doi.org/10.1016/j.tvjl.2026.106825",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Poland",
+      "institution": "Institute of Animal Husbandry and Breeding",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1016-j-tvjl-2026-106825",
       "title": "The use of infrared thermography for diagnosing limb disorders in dairy cattle",
       "summary": "The use of infrared thermography for diagnosing limb disorders in dairy cattle",
@@ -403,23 +502,6 @@
       ]
     },
     {
-      "id": "openalex-10-3389-fpubh-2026-1894809",
-      "title": "Genomic characterization of non-CC398 methicillin-resistant Staphylococcus aureus from Belgian livestock reveals high similarity to human-associated lineages",
-      "summary": "Introduction Methicillin-resistant Staphylococcus aureus (MRSA) is a bacterial pathogen resistant to several widely used antibiotics. Although MRSA has historically been associated with hospital- and community-associated infections, livestock-associated MRSA (LA-MRSA) has emerged as a public health concern worldwide. While the majority of studies on LA-MRSA have focused on the CC398 lineage, littl",
-      "date": "2026-08-13",
-      "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1894809",
-      "sourceName": "Frontiers in Public Health",
-      "function": "Animal Health",
-      "region": "USA",
-      "institution": "ID Genomics (United States)",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1093-tas-txag127",
       "title": "High Shear Dry Extruded Corn in Feedlot Receiving Diets",
       "summary": "Lay Summary Corn is the primary energy source in feedlot cattle diets, but how it is processed before feeding affects how well cattle can digest and use it. Steam flaking is one of the most effective processing methods but requires significant infrastructure investment. High shear dry extrusion is a novel processing method that cracks the corn kernel and applies heat and pressure to make starch mo",
@@ -429,23 +511,6 @@
       "function": "Nutrition & Feeding",
       "region": "USA",
       "institution": "Iowa State University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fpubh-2026-1835528",
-      "title": "Camel milk consumption, perceptions, and knowledge of health and food safety among adults in Saudi Arabia: a cross-sectional study",
-      "summary": "Objective Camel milk is a culturally important food in many arid regions and has gained increasing attention due to its distinctive nutritional composition and potential health-related properties. However, limited information is available regarding consumer perceptions, knowledge, and consumption patterns of camel milk in Saudi Arabia. This study aimed to assess camel milk consumption patterns, co",
-      "date": "2026-08-13",
-      "sourceUrl": "https://doi.org/10.3389/fpubh.2026.1835528",
-      "sourceName": "Frontiers in Public Health",
-      "function": "Quality & Food Safety",
-      "region": "Saudi Arabia",
-      "institution": "Princess Nourah bint Abdulrahman University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -2226,6 +2291,23 @@
         "lactose-free",
         "A2 milk",
         "functional foods"
+      ]
+    },
+    {
+      "id": "epmc-10-3390-ani16152401",
+      "title": "Knowledge, Perceptions and Acceptance of Selective Dry Cow Therapy Among Romanian Dairy Farmers and Veterinarians.",
+      "summary": "Reducing antimicrobial use in dairy cattle is essential for limiting antimicrobial resistance while maintaining udder health. Selective dry cow therapy (SDCT), in which antibiotics are administered only to cows at increased risk of intramammary infection, has become an important antimicrobial stewardship strategy, yet information regarding its acceptance in Romania is lacking. This cross-sectional",
+      "date": "2026-08-04",
+      "sourceUrl": "https://doi.org/10.3390/ani16152401",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Romania",
+      "institution": "Department of Reproduction",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
       ]
     },
     {
