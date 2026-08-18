@@ -14,6 +14,7 @@ export const DEPARTMENTS = [
   { slug: 'dairy-processing', name: 'Dairy Processing' },
   { slug: 'farm-management', name: 'Farm Management' },
   { slug: 'animal-welfare', name: 'Animal Welfare' },
+  { slug: 'marketing', name: 'Marketing' },
 ];
 
 export const TIMELINES = [

@@ -11,6 +11,7 @@ import {
   Factory,
   Tractor,
   PawPrint,
+  Megaphone,
   type LucideIcon,
 } from 'lucide-react';
 import { FunctionCategory } from './types';
@@ -28,6 +29,7 @@ export const FUNCTION_ICONS: Record<FunctionCategory, LucideIcon> = {
   'Dairy Processing': Factory,
   'Farm Management': Tractor,
   'Animal Welfare': PawPrint,
+  'Marketing': Megaphone,
 };
 
 export const FUNCTION_SHORT: Record<FunctionCategory, string> = {
@@ -43,4 +45,5 @@ export const FUNCTION_SHORT: Record<FunctionCategory, string> = {
   'Dairy Processing': 'Processing',
   'Farm Management': 'Farm Mgmt',
   'Animal Welfare': 'Welfare',
+  'Marketing': 'Marketing',
 };

@@ -1,6 +1,7 @@
 /**
  * Daily / bulk ingestion — arXiv, Crossref, OpenAlex, Europe PMC, dairy trade-press RSS
- * (DairyNews.today, eDairyNews, Dairy Business, and others)
+ * (DairyNews.today, eDairyNews, DairyReporter, Food Navigator, Just Food, and others)
+ * plus curated industry and marketing catalogs (milk & milk products only for marketing feeds).
  * Run: npm run ingest              (daily: APIs + RSS + DairyNews.today new items)
  *      npm run ingest -- --bulk    (deeper API harvest + full DairyNews.today archive)
  *      npm run ingest -- --dairynews --rss   (DairyNews.today 2024+ archive only)
@@ -15,6 +16,7 @@ import {
   DevelopmentsData,
 } from '../src/lib/types';
 import { CURATED_INDUSTRY } from './curated-industry';
+import { CURATED_MARKETING } from './curated-marketing';
 import { RECENT_TRADE_PRESS } from './recent-trade-press';
 
 const DATA_PATH = path.join(process.cwd(), 'data', 'developments.json');
@@ -26,6 +28,30 @@ const DAIRY_RE =
 
 const NOT_DAIRY_RE =
   /\b(breastfeed|breast-feed|breastfeeding|breast milk|human milk|lactation consultant|term infant|newborn infant|maternal lactation)\b/i;
+
+/** Exclude beef/meat-focused stories — Marketing covers milk & milk products only. */
+const MEAT_FOCUS_RE =
+  /\b(beef cattle|beef industry|beef market|beef export|beef production|red meat|meat processing|meatpacking|slaughterhouse|abattoir|pork|poultry meat|chicken meat|lamb chop|mutton|steakhouse|ground beef|beef burger|meat substitute(?! dairy))\b/i;
+
+const MILK_PRODUCTS_RE =
+  /\b(milk|dairy|cheese|yogurt|yoghurt|butter|ghee|cream|whey|casein|lactose|curd|paneer|kefir|mozzarella|cheddar|ice cream|dairy drink|lassi|buttermilk|milk powder|skim milk|whole milk|uht milk|flavou?red milk|dairy product|milk product|dairy brand|milk brand|dairy packaging|milk packaging)\b/i;
+
+const MARKETING_PRIORITY_TERMS = [
+  'advertising campaign',
+  'ad campaign',
+  'marketing campaign',
+  'brand campaign',
+  'social media campaign',
+  'tv commercial',
+  'brand ambassador',
+  'rebrand',
+  'packaging design',
+  'packaging innovation',
+  'new packaging',
+  'product launch',
+  'goes viral',
+  'influencer',
+];
 
 const FUNCTION_KEYWORDS: Record<FunctionCategory, string[]> = {
   'Animal Health': ['mastitis', 'disease', 'vaccine', 'health', 'lameness', 'respiratory', 'antibiotic', 'immun', 'ketosis', 'metritis', 'pathogen', 'infection', 'scc', 'somatic'],
@@ -40,6 +66,14 @@ const FUNCTION_KEYWORDS: Record<FunctionCategory, string[]> = {
   'Dairy Processing': ['cheese', 'whey', 'homogenization', 'pasteurization', 'membrane', 'processing', 'ultrafiltration', 'spray dry', 'evaporat'],
   'Farm Management': ['pasture', 'grazing', 'farm management', 'herd', 'precision agriculture', 'drone', 'irrigation', 'labor', 'workforce'],
   'Animal Welfare': ['welfare', 'stress', 'behavior', 'behaviour', 'cow-calf', 'comfort', 'heat stress', 'lying time', 'stocking', 'enrichment'],
+  Marketing: [
+    'campaign', 'advertising', 'advertisement', 'brand', 'marketing', 'social media',
+    'instagram', 'influencer', 'packaging design', 'packaging innovation', 'new packaging',
+    'product launch', 'rebrand', 'consumer', 'retail shelf', 'promotion', 'sponsorship',
+    'ad campaign', 'tv commercial', 'digital marketing', 'market share', 'brand ambassador',
+    'billboard', 'creative agency', 'brand equity', 'point of sale', 'trade marketing',
+    'fmcg', 'brand recall', 'media spend', 'viral', 'tiktok', 'youtube ad',
+  ],
 };
 
 const COUNTRY_CODES: Record<string, string> = {
@@ -123,12 +157,25 @@ const SEARCH_QUERIES = [
   '3-NOP Bovaer dairy methane',
   'lactose-free dairy processing',
   'lameness detection dairy cattle',
+  'dairy milk product launch marketing',
+  'milk packaging innovation sustainable',
+  'dairy brand advertising campaign',
+  'Amul milk advertising India',
+  'yogurt cheese product launch retail',
 ];
 
 function isDairyRelevant(title: string, summary: string): boolean {
   const text = `${title} ${summary}`;
   if (NOT_DAIRY_RE.test(text)) return false;
+  if (MEAT_FOCUS_RE.test(text) && !MILK_PRODUCTS_RE.test(text)) return false;
   return DAIRY_RE.test(text);
+}
+
+function isMilkProductRelevant(title: string, summary: string): boolean {
+  const text = `${title} ${summary}`;
+  if (NOT_DAIRY_RE.test(text)) return false;
+  if (MEAT_FOCUS_RE.test(text) && !MILK_PRODUCTS_RE.test(text)) return false;
+  return MILK_PRODUCTS_RE.test(text) || DAIRY_RE.test(text);
 }
 
 function isPlausibleDate(date: string): boolean {
@@ -140,6 +187,9 @@ function isPlausibleDate(date: string): boolean {
 
 function classifyFunction(text: string): FunctionCategory {
   const lower = text.toLowerCase();
+  for (const term of MARKETING_PRIORITY_TERMS) {
+    if (lower.includes(term)) return 'Marketing';
+  }
   let bestMatch: FunctionCategory = 'Farm Management';
   let bestScore = 0;
   for (const [fn, keywords] of Object.entries(FUNCTION_KEYWORDS)) {
@@ -150,6 +200,18 @@ function classifyFunction(text: string): FunctionCategory {
     }
   }
   return bestMatch;
+}
+
+function reclassifyDevelopments(items: Development[]): number {
+  let updated = 0;
+  for (const item of items) {
+    const fn = classifyFunction(`${item.title} ${item.summary}`);
+    if (fn !== item.function) {
+      item.function = fn;
+      updated++;
+    }
+  }
+  return updated;
 }
 
 function inferRegion(text: string, countryCode?: string): string {
@@ -623,7 +685,14 @@ function mergeUnique(existing: Development[], incoming: Development[]): { merged
   return { merged: [...extra, ...existing], added };
 }
 
-type RssFeed = { name: string; url: string; region: string; alwaysDairy?: boolean };
+type RssFeed = {
+  name: string;
+  url: string;
+  region: string;
+  alwaysDairy?: boolean;
+  /** Stricter filter: milk & milk products only (excludes beef/meat-focused stories). */
+  milkProductsOnly?: boolean;
+};
 
 const RSS_FEEDS: RssFeed[] = [
   { name: 'DairyNews.today', url: 'https://dairynews.today/rss/', region: 'Global', alwaysDairy: true },
@@ -632,6 +701,11 @@ const RSS_FEEDS: RssFeed[] = [
   { name: 'The Cattle Site', url: 'https://www.thecattlesite.com/news/rss/', region: 'Global' },
   { name: 'ScienceDaily Agriculture', url: 'https://www.sciencedaily.com/rss/plants_animals/agriculture_and_food.xml', region: 'Global' },
   { name: 'MDPI Animals', url: 'https://www.mdpi.com/rss/journal/animals', region: 'Global' },
+  // Marketing & consumer dairy — milk/milk products, packaging, launches, campaigns
+  { name: 'DairyReporter', url: 'https://www.dairyreporter.com/arc/outboundfeeds/rss/', region: 'Global', alwaysDairy: true, milkProductsOnly: true },
+  { name: 'Food Navigator', url: 'https://www.foodnavigator.com/arc/outboundfeeds/rss/', region: 'Global', milkProductsOnly: true },
+  { name: 'Just Food', url: 'https://www.just-food.com/feed/', region: 'Global', milkProductsOnly: true },
+  { name: 'Moneycontrol Business', url: 'https://www.moneycontrol.com/rss/business.xml', region: 'India', milkProductsOnly: true },
 ];
 
 function decodeXml(value: string): string {
@@ -677,6 +751,9 @@ async function fetchRssFeed(feed: RssFeed): Promise<Development[]> {
       // Dedicated dairy outlets (e.g. DairyNews.today) are already in-sector; still drop infant/human-milk hits.
       if (feed.alwaysDairy) {
         if (NOT_DAIRY_RE.test(`${title} ${summary}`)) continue;
+        if (feed.milkProductsOnly && !isMilkProductRelevant(title, summary || title)) continue;
+      } else if (feed.milkProductsOnly) {
+        if (!isMilkProductRelevant(title, summary || title)) continue;
       } else if (!isDairyRelevant(title, summary || title)) {
         continue;
       }
@@ -691,7 +768,12 @@ async function fetchRssFeed(feed: RssFeed): Promise<Development[]> {
         function: classifyFunction(text),
         region: inferRegion(text, undefined) === 'Global' ? feed.region : inferRegion(text),
         company: inferCompany(text),
-        rdType: feed.name.includes('MDPI') || feed.name.includes('Journal') ? 'Research Paper' : 'Industry News',
+        rdType: feed.name.includes('MDPI') || feed.name.includes('Journal')
+          ? 'Research Paper'
+          : classifyFunction(text) === 'Marketing' &&
+              /\b(launch|campaign|advertis|packaging|rebrand|promotion)\b/i.test(text)
+            ? 'Product Launch'
+            : 'Industry News',
         tags: ['RSS', feed.name, 'auto-ingested'],
       });
     }
@@ -769,6 +851,11 @@ async function main() {
   const recent = mergeUnique(working, RECENT_TRADE_PRESS);
   working = recent.merged;
   console.log(`Merged recent trade press: +${recent.added}`);
+  const marketing = mergeUnique(working, CURATED_MARKETING);
+  working = marketing.merged;
+  console.log(`Merged curated marketing catalog: +${marketing.added}`);
+  const reclassified = reclassifyDevelopments(working);
+  console.log(`Reclassified ${reclassified} items by updated function keywords`);
 
   const forceBulk = process.argv.includes('--bulk');
   const forceDairyNews = process.argv.includes('--dairynews');

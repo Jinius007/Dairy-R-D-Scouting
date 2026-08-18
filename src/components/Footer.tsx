@@ -20,12 +20,13 @@ export function Footer() {
             </h4>
             <p className="text-xs text-muted leading-relaxed">
               Coverage spans AI & robotics, animal health, nutrition, genetics, engineering,
-              processing, sustainability, digital platforms, farm management, and animal welfare.
-              New items are ingested daily at 15:00 IST from OpenAlex, Europe PMC / PubMed, Crossref, arXiv,
-              dairy trade-press RSS (DairyNews.today, eDairyNews, Dairy Business, The Cattle Site, and others),
-              and a curated industry catalog via a GitHub Action. Department staff can install the Chrome
-              briefing from this site — it pops at 16:00 IST. This page redeploys automatically
-              when updates land on main.
+              processing, sustainability, marketing, digital platforms, farm management, and animal
+              welfare. New items are ingested daily at 15:00 IST from OpenAlex, Europe PMC / PubMed,
+              Crossref, arXiv, dairy trade-press RSS (DairyNews.today, DairyReporter, Food Navigator,
+              Just Food, eDairyNews, Dairy Business, and others), and curated industry and marketing
+              catalogs via a GitHub Action. Department staff can install the Chrome briefing from
+              this site — it pops at 16:00 IST. This page redeploys automatically when updates land
+              on main.
             </p>
           </div>
           <div>

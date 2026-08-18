@@ -10,7 +10,8 @@ export type FunctionCategory =
   | 'Digital Platforms & Innovation'
   | 'Dairy Processing'
   | 'Farm Management'
-  | 'Animal Welfare';
+  | 'Animal Welfare'
+  | 'Marketing';
 
 export type RDType =
   | 'Research Paper'
@@ -62,6 +63,7 @@ export const FUNCTION_COLORS: Record<FunctionCategory, string> = {
   'Dairy Processing': '#06b6d4',
   'Farm Management': '#84cc16',
   'Animal Welfare': '#a855f7',
+  'Marketing': '#e11d48',
 };
 
 export const ALL_FUNCTIONS: FunctionCategory[] = [
@@ -77,6 +79,7 @@ export const ALL_FUNCTIONS: FunctionCategory[] = [
   'Dairy Processing',
   'Farm Management',
   'Animal Welfare',
+  'Marketing',
 ];
 
 export const ALL_RD_TYPES: RDType[] = [

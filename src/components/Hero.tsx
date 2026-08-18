@@ -18,17 +18,18 @@ interface HeroProps {
 
 const FUNCTION_POSITIONS: { fn: FunctionCategory; angle: number }[] = [
   { fn: 'Engineering & Automation', angle: 0 },
-  { fn: 'Digital Platforms & Innovation', angle: 30 },
-  { fn: 'Quality & Food Safety', angle: 60 },
-  { fn: 'Nutrition & Feeding', angle: 90 },
-  { fn: 'Product Development', angle: 120 },
-  { fn: 'Dairy Processing', angle: 150 },
-  { fn: 'Sustainability & Traceability', angle: 180 },
-  { fn: 'Farm Management', angle: 210 },
-  { fn: 'Breeding & Genetics', angle: 240 },
-  { fn: 'Animal Welfare', angle: 270 },
-  { fn: 'Animal Health', angle: 300 },
-  { fn: 'Robotics & AI', angle: 330 },
+  { fn: 'Digital Platforms & Innovation', angle: 27.7 },
+  { fn: 'Quality & Food Safety', angle: 55.4 },
+  { fn: 'Nutrition & Feeding', angle: 83.1 },
+  { fn: 'Product Development', angle: 110.8 },
+  { fn: 'Dairy Processing', angle: 138.5 },
+  { fn: 'Sustainability & Traceability', angle: 166.2 },
+  { fn: 'Farm Management', angle: 193.8 },
+  { fn: 'Breeding & Genetics', angle: 221.5 },
+  { fn: 'Animal Welfare', angle: 249.2 },
+  { fn: 'Animal Health', angle: 276.9 },
+  { fn: 'Robotics & AI', angle: 304.6 },
+  { fn: 'Marketing', angle: 332.3 },
 ];
 
 const SIZE = 440;
@@ -59,9 +60,9 @@ export function Hero({
           </h1>
           <p className="text-muted text-[15px] leading-relaxed mb-8 max-w-lg">
             A running, function-by-function repository of research and development reshaping dairy
-            worldwide — health, genetics, feed, robotics, processing, sustainability and platforms —
-            pulled from research papers, patents, industry press and academic institutions, and
-            refreshed daily.
+            worldwide — health, genetics, feed, robotics, processing, sustainability, marketing and
+            platforms — pulled from research papers, patents, industry press and academic
+            institutions, and refreshed daily.
           </p>
           <form
             className="relative mb-6 max-w-lg"
