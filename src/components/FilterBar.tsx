@@ -11,6 +11,7 @@ import {
   ALL_RD_TYPES,
 } from '@/lib/types';
 import { ChevronDown, X, Search } from 'lucide-react';
+import { tokenizeQuery } from '@/lib/utils';
 
 interface FilterBarProps {
   filters: Filters;
@@ -137,8 +138,45 @@ export function FilterBar({
       customDate: undefined,
     });
 
+  const searchTokens = tokenizeQuery(filters.search);
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-6">
+      <div className="relative mb-4">
+        <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-muted" />
+        <input
+          type="search"
+          placeholder="Search related articles by keyword — e.g. mastitis robot, methane, Fonterra, genomic"
+          value={filters.search}
+          onChange={(e) => update({ search: e.target.value })}
+          className="w-full pl-12 pr-12 py-3.5 text-sm border border-gray-200 rounded-2xl bg-white/90 shadow-sm focus:outline-none focus:ring-2 focus:ring-accent-blue/30"
+          aria-label="Search related articles"
+        />
+        {filters.search && (
+          <button
+            type="button"
+            onClick={() => update({ search: '' })}
+            className="absolute right-3 top-1/2 -translate-y-1/2 p-1.5 text-muted hover:text-ink rounded-full hover:bg-gray-100"
+            aria-label="Clear search"
+          >
+            <X className="w-4 h-4" />
+          </button>
+        )}
+      </div>
+      {searchTokens.length > 0 && (
+        <p className="text-xs text-muted mb-3">
+          Showing articles related to{' '}
+          {searchTokens.map((token) => (
+            <span
+              key={token}
+              className="inline-block mx-0.5 px-2 py-0.5 rounded-full bg-ink/5 text-ink font-medium"
+            >
+              {token}
+            </span>
+          ))}
+          <span className="ml-1">· ranked by relevance</span>
+        </p>
+      )}
       <div className="flex flex-wrap items-center gap-2 mb-3">
         {TIMELINE_OPTIONS.map(({ value, label }) => (
           <button
@@ -187,17 +225,6 @@ export function FilterBar({
           selected={filters.rdTypes}
           onChange={(rdTypes) => update({ rdTypes })}
         />
-
-        <div className="relative flex-1 min-w-[180px] max-w-xs">
-          <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-muted" />
-          <input
-            type="text"
-            placeholder="Search developments..."
-            value={filters.search}
-            onChange={(e) => update({ search: e.target.value })}
-            className="w-full pl-9 pr-3 py-2 text-xs border border-gray-200 rounded-lg bg-white/80 focus:outline-none focus:ring-2 focus:ring-accent-blue/30"
-          />
-        </div>
 
         {activeFilterCount > 0 && (
           <button

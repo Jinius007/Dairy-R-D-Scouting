@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { Search } from 'lucide-react';
 import { FunctionCategory, FUNCTION_COLORS } from '@/lib/types';
 import { FUNCTION_ICONS, FUNCTION_SHORT } from '@/lib/icons';
 import { formatDate } from '@/lib/utils';
@@ -8,6 +9,8 @@ import { formatDate } from '@/lib/utils';
 interface HeroProps {
   totalTracked: number;
   functionCounts: Record<FunctionCategory, number>;
+  search: string;
+  onSearch: (query: string) => void;
   onExploreFeed: () => void;
   onSeeThisWeek: () => void;
   onFunctionClick: (fn: FunctionCategory) => void;
@@ -36,6 +39,8 @@ const NODE = 168;
 export function Hero({
   totalTracked,
   functionCounts,
+  search,
+  onSearch,
   onExploreFeed,
   onSeeThisWeek,
   onFunctionClick,
@@ -58,6 +63,23 @@ export function Hero({
             pulled from research papers, patents, industry press and academic institutions, and
             refreshed daily.
           </p>
+          <form
+            className="relative mb-6 max-w-lg"
+            onSubmit={(e) => {
+              e.preventDefault();
+              onExploreFeed();
+            }}
+          >
+            <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-muted" />
+            <input
+              type="search"
+              value={search}
+              onChange={(e) => onSearch(e.target.value)}
+              placeholder="Search related articles by keyword"
+              className="w-full pl-10 pr-4 py-3 text-sm border border-gray-200 rounded-xl bg-white/80 focus:outline-none focus:ring-2 focus:ring-accent-blue/30"
+              aria-label="Search related articles"
+            />
+          </form>
           <div className="flex flex-wrap gap-3">
             <button
               onClick={onExploreFeed}

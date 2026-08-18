@@ -24,6 +24,64 @@ export function getUniqueValues(developments: Development[]) {
   };
 }
 
+const SEARCH_STOPWORDS = new Set([
+  'a', 'an', 'the', 'of', 'and', 'or', 'in', 'on', 'for', 'to', 'with', 'from',
+  'by', 'at', 'as', 'is', 'are', 'was', 'be', 'this', 'that', 'into', 'over',
+]);
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+export function tokenizeQuery(raw: string): string[] {
+  return raw
+    .toLowerCase()
+    .split(/[^a-z0-9+]+/i)
+    .map((t) => t.trim())
+    .filter((t) => t.length >= 2 && !SEARCH_STOPWORDS.has(t));
+}
+
+function fieldHitsToken(haystack: string, token: string): boolean {
+  if (token.length <= 2) {
+    return new RegExp(`\\b${escapeRegExp(token)}\\b`, 'i').test(haystack);
+  }
+  return haystack.includes(token) || new RegExp(`\\b${escapeRegExp(token)}`, 'i').test(haystack);
+}
+
+function scoreDevelopment(d: Development, tokens: string[]): number {
+  const title = d.title.toLowerCase();
+  const summary = d.summary.toLowerCase();
+  const extra = [
+    d.company,
+    d.institution,
+    d.region,
+    d.sourceName,
+    d.function,
+    d.rdType,
+    ...(d.tags ?? []),
+  ]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+
+  let score = 0;
+  let hits = 0;
+  for (const token of tokens) {
+    let hit = 0;
+    if (fieldHitsToken(title, token)) hit += 8;
+    if (fieldHitsToken(summary, token)) hit += 3;
+    if (fieldHitsToken(extra, token)) hit += 2;
+    if (hit > 0) {
+      hits += 1;
+      score += hit;
+    }
+  }
+  if (hits === 0) return 0;
+  score += hits * 10;
+  if (hits === tokens.length) score += 24;
+  return score;
+}
+
 function getDateRange(preset: TimelinePreset, customDate?: string): [Date, Date] {
   const now = new Date();
   const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -65,9 +123,12 @@ export function filterDevelopments(
   developments: Development[],
   filters: Filters
 ): Development[] {
-  const [start, end] = getDateRange(filters.timeline, filters.customDate);
+  const searching = tokenizeQuery(filters.search).length > 0;
+  const [start, end] = searching
+    ? [new Date('2020-01-01'), new Date()]
+    : getDateRange(filters.timeline, filters.customDate);
 
-  return developments.filter((d) => {
+  const matched = developments.filter((d) => {
     const date = new Date(d.date);
     if (date < start || date > end) return false;
 
@@ -90,24 +151,39 @@ export function filterDevelopments(
       return false;
 
     if (filters.search) {
-      const q = filters.search.toLowerCase();
-      const haystack = [
-        d.title,
-        d.summary,
-        d.company,
-        d.institution,
-        d.region,
-        d.sourceName,
-        ...(d.tags ?? []),
-      ]
-        .filter(Boolean)
-        .join(' ')
-        .toLowerCase();
-      if (!haystack.includes(q)) return false;
+      const tokens = tokenizeQuery(filters.search);
+      if (tokens.length > 0) {
+        if (scoreDevelopment(d, tokens) <= 0) return false;
+      } else {
+        const q = filters.search.toLowerCase().trim();
+        const haystack = [
+          d.title,
+          d.summary,
+          d.company,
+          d.institution,
+          d.region,
+          d.sourceName,
+          ...(d.tags ?? []),
+        ]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase();
+        if (!haystack.includes(q)) return false;
+      }
     }
 
     return true;
   });
+
+  if (!filters.search) return matched;
+
+  const tokens = tokenizeQuery(filters.search);
+  if (tokens.length === 0) return matched;
+
+  return matched
+    .map((d) => ({ d, score: scoreDevelopment(d, tokens) }))
+    .sort((a, b) => b.score - a.score || new Date(b.d.date).getTime() - new Date(a.d.date).getTime())
+    .map((row) => row.d);
 }
 
 export function countByFunction(

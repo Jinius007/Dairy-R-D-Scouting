@@ -48,8 +48,8 @@ export function DevelopmentGrid({ developments }: { developments: Development[] 
   if (developments.length === 0) {
     return (
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
-        <p className="text-muted text-sm">No developments match your current filters.</p>
-        <p className="text-xs text-muted mt-1">Try adjusting the timeline or clearing some filters.</p>
+        <p className="text-muted text-sm">No related articles match those keywords.</p>
+        <p className="text-xs text-muted mt-1">Try different terms, or clear search and adjust filters.</p>
       </div>
     );
   }

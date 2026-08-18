@@ -95,6 +95,8 @@ export default function HomePage() {
       <Hero
         totalTracked={data.metadata.totalTracked}
         functionCounts={allFunctionCounts}
+        search={filters.search}
+        onSearch={(search) => setFilters((f) => ({ ...f, search }))}
         onExploreFeed={scrollToFeed}
         onSeeThisWeek={handleSeeThisWeek}
         onFunctionClick={handleFunctionClick}
@@ -127,7 +129,9 @@ export default function HomePage() {
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-4">
           <h2 className="text-xl font-serif italic text-ink">
-            {timelineHeading(filters.timeline, filters.customDate)}
+            {filters.search.trim()
+              ? 'Related articles'
+              : timelineHeading(filters.timeline, filters.customDate)}
           </h2>
         </div>
 

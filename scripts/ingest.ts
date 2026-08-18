@@ -1,7 +1,9 @@
 /**
- * Daily / bulk ingestion — arXiv, Crossref, OpenAlex, Europe PMC
- * Run: npm run ingest          (fills to 200+ if the catalog is short)
- *      npm run ingest -- --bulk
+ * Daily / bulk ingestion — arXiv, Crossref, OpenAlex, Europe PMC, dairy trade-press RSS
+ * (DairyNews.today, eDairyNews, Dairy Business, and others)
+ * Run: npm run ingest              (daily: APIs + RSS + DairyNews.today new items)
+ *      npm run ingest -- --bulk    (deeper API harvest + full DairyNews.today archive)
+ *      npm run ingest -- --dairynews --rss   (DairyNews.today 2024+ archive only)
  */
 
 import * as fs from 'fs';
@@ -393,23 +395,238 @@ function sleep(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+const DEDICATED_DAIRY_SOURCES = new Set(['DairyNews.today']);
+const DAIRYNEWS_SITEMAP = 'https://dairynews.today/sitemap-iblock-91.xml';
+const DAIRYNEWS_LISTING = 'https://dairynews.today/news/';
+
+function keepCatalogItem(d: Development): boolean {
+  if (!isPlausibleDate(d.date)) return false;
+  const text = `${d.title} ${d.summary}`;
+  if (DEDICATED_DAIRY_SOURCES.has(d.sourceName)) {
+    return !NOT_DAIRY_RE.test(text);
+  }
+  return isDairyRelevant(d.title, d.summary);
+}
+
+function toIsoDate(ddmmyyyy: string): string | undefined {
+  const m = ddmmyyyy.trim().match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+  if (!m) return undefined;
+  return `${m[3]}-${m[2].padStart(2, '0')}-${m[1].padStart(2, '0')}`;
+}
+
+function dairyNewsRegion(listed: string, text: string): string {
+  const inferred = inferRegion(`${listed} ${text}`);
+  if (inferred !== 'Global') return inferred;
+  const cleaned = listed.replace(/\s+/g, ' ').trim();
+  if (!cleaned || /^world$/i.test(cleaned)) return 'Global';
+  return cleaned;
+}
+
+function dairyNewsItem(opts: {
+  url: string;
+  title: string;
+  summary: string;
+  date: string;
+  regionListed?: string;
+}): Development | null {
+  const title = opts.title.replace(/\s+/g, ' ').trim();
+  const summary = (opts.summary || title).replace(/\s+/g, ' ').trim();
+  if (!title || !opts.url || !isPlausibleDate(opts.date)) return null;
+  if (NOT_DAIRY_RE.test(`${title} ${summary}`)) return null;
+  const text = `${title} ${summary}`;
+  const link = opts.url.startsWith('http') ? opts.url : `https://dairynews.today${opts.url}`;
+  return {
+    id: slugId('rss', `DairyNews.today-${link}`),
+    title: title.slice(0, 200),
+    summary: summary.slice(0, 400),
+    date: opts.date,
+    sourceUrl: link,
+    sourceName: 'DairyNews.today',
+    function: classifyFunction(text),
+    region: dairyNewsRegion(opts.regionListed ?? '', text),
+    company: inferCompany(text),
+    rdType: 'Industry News',
+    tags: ['RSS', 'DairyNews.today', 'auto-ingested'],
+  };
+}
+
+function parseDairyNewsListing(html: string): Development[] {
+  const chunks = html.split(/news-list-item-height-2x/);
+  const out: Development[] = [];
+  for (const chunk of chunks.slice(1)) {
+    const href =
+      chunk.match(/class="title h-4"[^>]*href="([^"]+)"/i)?.[1] ||
+      chunk.match(/href="(\/news\/[^"?#]+\.html)"/i)?.[1];
+    const title = decodeXml(chunk.match(/class="title h-4"[^>]*>\s*([\s\S]*?)<\/a>/i)?.[1] || '');
+    const regionListed = decodeXml(chunk.match(/<span class="region">\s*([\s\S]*?)<\/span>/i)?.[1] || '');
+    const date = toIsoDate(decodeXml(chunk.match(/<span class="data">\s*([\s\S]*?)<\/span>/i)?.[1] || ''));
+    if (!href || !title || !date) continue;
+    const item = dairyNewsItem({ url: href, title, summary: title, date, regionListed });
+    if (item) out.push(item);
+  }
+  return out;
+}
+
+function parseDairyNewsArticle(html: string, url: string): Development | null {
+  const title = decodeXml(
+    html.match(/<h1[^>]*news-element-title[^>]*>([\s\S]*?)<\/h1>/i)?.[1] ||
+      html.match(/data-title="([^"]+)"/i)?.[1] ||
+      '',
+  );
+  const regionListed = decodeXml(html.match(/<span class="region">\s*([\s\S]*?)<\/span>/i)?.[1] || '');
+  const date = toIsoDate(decodeXml(html.match(/<span class="data">\s*([\s\S]*?)<\/span>/i)?.[1] || ''));
+  const summary = decodeXml(html.match(/class="preview-text">([\s\S]*?)<\/div>/i)?.[1] || title);
+  if (!title || !date) return null;
+  return dairyNewsItem({ url, title, summary, date, regionListed });
+}
+
+async function fetchHtml(url: string, attempts = 3): Promise<string | null> {
+  for (let i = 0; i < attempts; i++) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': UA, Accept: 'text/html,application/xhtml+xml,application/rss+xml,application/xml' },
+        signal: AbortSignal.timeout(20000),
+      });
+      if (res.status === 503 || res.status === 429 || res.status === 502) {
+        await sleep(600 * (i + 1));
+        continue;
+      }
+      if (!res.ok) return null;
+      return await res.text();
+    } catch {
+      await sleep(400 * (i + 1));
+    }
+  }
+  return null;
+}
+
+function titleFromDairyNewsUrl(url: string): string {
+  const slug = decodeURIComponent(url.split('/').pop() || '')
+    .replace(/\.html$/i, '')
+    .replace(/_\d+$/, '');
+  const words = slug.replace(/[-_]+/g, ' ').replace(/\s+/g, ' ').trim();
+  if (!words) return '';
+  return words.replace(/\b([a-z])/g, (ch) => ch.toUpperCase());
+}
+
+async function fetchDairyNewsListingPages(maxPages: number): Promise<Development[]> {
+  const collected: Development[] = [];
+  const seen = new Set<string>();
+  let prevSignature = '';
+  let stalled = 0;
+  for (let page = 1; page <= maxPages; page++) {
+    const url = page === 1 ? DAIRYNEWS_LISTING : `${DAIRYNEWS_LISTING}?PAGEN_1=${page}`;
+    const html = await fetchHtml(url);
+    if (!html) {
+      stalled++;
+      if (stalled >= 3) break;
+      await sleep(400);
+      continue;
+    }
+    const items = parseDairyNewsListing(html);
+    const signature = items[0] ? `${items[0].sourceUrl}|${items[0].date}` : '';
+    if (signature && signature === prevSignature) {
+      stalled++;
+      if (stalled >= 2) {
+        console.log(`  DairyNews.today listing pagination capped at page ${page}`);
+        break;
+      }
+    } else {
+      stalled = 0;
+      prevSignature = signature;
+    }
+    let added = 0;
+    for (const item of items) {
+      if (seen.has(item.sourceUrl)) continue;
+      seen.add(item.sourceUrl);
+      collected.push(item);
+      added++;
+    }
+    const oldest = items.reduce((min, item) => (item.date < min ? item.date : min), '9999-99-99');
+    console.log(`  DairyNews.today listing p${page} → ${added} new (oldest ${oldest === '9999-99-99' ? 'n/a' : oldest})`);
+    if (items.length > 0 && items.every((item) => item.date < '2024-01-01')) break;
+    await sleep(250);
+  }
+  return collected;
+}
+
+async function loadDairyNewsSitemapUrls(): Promise<{ loc: string; lastmod: string }[]> {
+  try {
+    const res = await fetch(DAIRYNEWS_SITEMAP, { headers: { 'User-Agent': UA, Accept: 'application/xml, text/xml' } });
+    if (!res.ok) return [];
+    const xml = await res.text();
+    const urls: { loc: string; lastmod: string }[] = [];
+    const blocks = xml.split(/<url>/i).slice(1);
+    for (const block of blocks) {
+      const loc = extractTag(block, 'loc')?.trim();
+      const lastmod = (extractTag(block, 'lastmod') || '').slice(0, 10);
+      if (!loc || !/^https:\/\/dairynews\.today\/news\/[^/?#]+\.html$/i.test(loc)) continue;
+      urls.push({ loc, lastmod });
+    }
+    return urls;
+  } catch {
+    return [];
+  }
+}
+
+async function fetchDairyNewsSitemapArchive(skipUrls: Set<string>): Promise<Development[]> {
+  const sitemap = await loadDairyNewsSitemapUrls();
+  const collected: Development[] = [];
+  let skipped = 0;
+  for (const row of sitemap) {
+    if (skipUrls.has(row.loc)) {
+      skipped++;
+      continue;
+    }
+    if (!row.lastmod || !isPlausibleDate(row.lastmod)) continue;
+    const title = titleFromDairyNewsUrl(row.loc);
+    const item = dairyNewsItem({
+      url: row.loc,
+      title,
+      summary: title,
+      date: row.lastmod,
+      regionListed: 'Global',
+    });
+    if (item) collected.push(item);
+  }
+  console.log(`  DairyNews.today sitemap: ${sitemap.length} urls, skipped ${skipped} existing, +${collected.length} archive items`);
+  return collected;
+}
+
 function mergeUnique(existing: Development[], incoming: Development[]): { merged: Development[]; added: number } {
-  const ids = new Set(existing.map((d) => d.id));
-  const titles = new Set(existing.map((d) => d.title.toLowerCase().replace(/\s+/g, ' ')));
+  const ids = new Map(existing.map((d) => [d.id, d]));
+  const titles = new Map(existing.map((d) => [d.title.toLowerCase().replace(/\s+/g, ' '), d]));
   let added = 0;
   const extra: Development[] = [];
   for (const item of incoming) {
     const t = item.title.toLowerCase().replace(/\s+/g, ' ');
-    if (ids.has(item.id) || titles.has(t)) continue;
-    ids.add(item.id);
-    titles.add(t);
+    const prev = ids.get(item.id) || titles.get(t);
+    if (prev) {
+      const incomingRicher =
+        item.summary.length > prev.summary.length ||
+        (item.summary !== item.title && prev.summary === prev.title);
+      if (incomingRicher) {
+        prev.title = item.title;
+        prev.summary = item.summary;
+        prev.date = item.date;
+        prev.function = item.function;
+        if (item.region && (prev.region === 'Global' || !prev.region)) prev.region = item.region;
+        if (item.company && !prev.company) prev.company = item.company;
+      }
+      continue;
+    }
+    ids.set(item.id, item);
+    titles.set(t, item);
     extra.push(item);
     added++;
   }
   return { merged: [...extra, ...existing], added };
 }
 
-const RSS_FEEDS: { name: string; url: string; region: string }[] = [
+type RssFeed = { name: string; url: string; region: string; alwaysDairy?: boolean };
+
+const RSS_FEEDS: RssFeed[] = [
+  { name: 'DairyNews.today', url: 'https://dairynews.today/rss/', region: 'Global', alwaysDairy: true },
   { name: 'eDairyNews', url: 'https://en.edairynews.com/feed', region: 'Global' },
   { name: 'Dairy Business', url: 'https://dairybusiness.com/feed/', region: 'USA' },
   { name: 'The Cattle Site', url: 'https://www.thecattlesite.com/news/rss/', region: 'Global' },
@@ -439,11 +656,10 @@ function rssDate(raw?: string): string | undefined {
   return d.toISOString().slice(0, 10);
 }
 
-async function fetchRssFeed(feed: { name: string; url: string; region: string }): Promise<Development[]> {
+async function fetchRssFeed(feed: RssFeed): Promise<Development[]> {
   try {
-    const res = await fetch(feed.url, { headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml' } });
-    if (!res.ok) return [];
-    const xml = await res.text();
+    const xml = await fetchHtml(feed.url);
+    if (!xml) return [];
     const chunks = xml.split(/<item[\s>]/i).slice(1);
     const entries = chunks.length ? chunks : xml.split(/<entry[\s>]/i).slice(1);
     const out: Development[] = [];
@@ -457,7 +673,13 @@ async function fetchRssFeed(feed: { name: string; url: string; region: string })
       );
       const published = rssDate(extractTag(chunk, 'pubDate') || extractTag(chunk, 'published') || extractTag(chunk, 'updated'));
       if (!title || !link || !published) continue;
-      if (!isPlausibleDate(published) || !isDairyRelevant(title, summary || title)) continue;
+      if (!isPlausibleDate(published)) continue;
+      // Dedicated dairy outlets (e.g. DairyNews.today) are already in-sector; still drop infant/human-milk hits.
+      if (feed.alwaysDairy) {
+        if (NOT_DAIRY_RE.test(`${title} ${summary}`)) continue;
+      } else if (!isDairyRelevant(title, summary || title)) {
+        continue;
+      }
       const text = `${title} ${summary}`;
       out.push({
         id: slugId('rss', `${feed.name}-${link}`),
@@ -491,6 +713,13 @@ async function harvest(mode: 'daily' | 'bulk'): Promise<Development[]> {
     collected.push(...items);
     await sleep(300);
   }
+
+  // Daily: a few pages catch items RSS may miss. Bulk walks until Bitrix caps pagination (~Sep 2025).
+  const listingPages = mode === 'bulk' ? 110 : 5;
+  console.log(`Fetching DairyNews.today listing (up to ${listingPages} pages)…`);
+  const listing = await fetchDairyNewsListingPages(listingPages);
+  console.log(`  DairyNews.today listing total → ${listing.length}`);
+  collected.push(...listing);
 
   const runners: { name: string; fn: (q: string, n: number) => Promise<Development[]> }[] = [
     { name: 'OpenAlex', fn: fetchOpenAlex },
@@ -532,9 +761,7 @@ async function main() {
     existing = JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'));
   }
 
-  let working = existing.developments.filter(
-    (d) => isPlausibleDate(d.date) && isDairyRelevant(d.title, d.summary)
-  );
+  let working = existing.developments.filter(keepCatalogItem);
   console.log(`Kept ${working.length}/${existing.developments.length} after date + dairy filters`);
   const curated = mergeUnique(working, CURATED_INDUSTRY);
   working = curated.merged;
@@ -544,29 +771,66 @@ async function main() {
   console.log(`Merged recent trade press: +${recent.added}`);
 
   const forceBulk = process.argv.includes('--bulk');
-  const mode: 'daily' | 'bulk' = forceBulk || working.length < 220 ? 'bulk' : 'daily';
+  const forceDairyNews = process.argv.includes('--dairynews');
+  const mode: 'daily' | 'bulk' = forceBulk || forceDairyNews || working.length < 220 ? 'bulk' : 'daily';
   console.log(`Mode: ${mode}`);
+
+  const persist = (developments: Development[]) => {
+    const sorted = [...developments].sort(
+      (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    );
+    const updated: DevelopmentsData = {
+      metadata: {
+        lastRefreshed: new Date().toISOString().slice(0, 10),
+        nextRefresh: new Date(Date.now() + 86400000).toISOString().slice(0, 10),
+        totalTracked: sorted.length,
+        coverageStart: existing.metadata.coverageStart || '2024-01-01',
+      },
+      developments: sorted,
+    };
+    fs.writeFileSync(DATA_PATH, JSON.stringify(updated, null, 2));
+    return sorted;
+  };
 
   const harvested = await harvest(mode);
   const api = mergeUnique(working, harvested);
-  working = api.merged;
-  console.log(`Merged API harvest: +${api.added}`);
+  working = persist(api.merged);
+  console.log(`Merged API/RSS harvest: +${api.added} (catalog ${working.length})`);
 
-  const merged = working.sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  );
+  const dairyNewsCount = working.filter((d) => d.sourceName === 'DairyNews.today').length;
+  const skip = new Set(working.map((d) => d.sourceUrl));
+  console.log(`DairyNews.today in catalog: ${dairyNewsCount}; loading sitemap archive`);
+  const archive = await fetchDairyNewsSitemapArchive(skip);
+  const mergedArchive = mergeUnique(working, archive);
+  working = mergedArchive.merged;
+  console.log(`Merged DairyNews.today sitemap archive: +${mergedArchive.added}`);
 
-  const updated: DevelopmentsData = {
-    metadata: {
-      lastRefreshed: new Date().toISOString().slice(0, 10),
-      nextRefresh: new Date(Date.now() + 86400000).toISOString().slice(0, 10),
-      totalTracked: merged.length,
-      coverageStart: existing.metadata.coverageStart || '2024-01-01',
-    },
-    developments: merged,
-  };
+  const weekAgo = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
+  const toEnrich = working
+    .filter(
+      (d) =>
+        d.sourceName === 'DairyNews.today' &&
+        d.date >= weekAgo &&
+        d.summary.replace(/\s+/g, ' ') === d.title.replace(/\s+/g, ' '),
+    )
+    .slice(0, 40);
+  if (toEnrich.length) {
+    console.log(`Enriching ${toEnrich.length} recent DairyNews.today items from article pages…`);
+    for (const row of toEnrich) {
+      const html = await fetchHtml(row.sourceUrl, 2);
+      const parsed = html ? parseDairyNewsArticle(html, row.sourceUrl) : null;
+      if (parsed) {
+        row.summary = parsed.summary;
+        if (parsed.region !== 'Global') row.region = parsed.region;
+        if (parsed.company && !row.company) row.company = parsed.company;
+        if (parsed.date) row.date = parsed.date;
+        row.function = parsed.function;
+      }
+      await sleep(200);
+    }
+  }
 
-  fs.writeFileSync(DATA_PATH, JSON.stringify(updated, null, 2));
+  const merged = persist(working);
   console.log(`Ingestion complete. Total: ${merged.length}`);
 }
 

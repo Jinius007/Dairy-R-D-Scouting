@@ -22,7 +22,7 @@ export function Footer() {
               Coverage spans AI & robotics, animal health, nutrition, genetics, engineering,
               processing, sustainability, digital platforms, farm management, and animal welfare.
               New items are ingested daily at 15:00 IST from OpenAlex, Europe PMC / PubMed, Crossref, arXiv,
-              dairy trade-press RSS (eDairyNews, Dairy Business, The Cattle Site, and others),
+              dairy trade-press RSS (DairyNews.today, eDairyNews, Dairy Business, The Cattle Site, and others),
               and a curated industry catalog via a GitHub Action. Department staff can install the Chrome
               briefing from this site — it pops at 16:00 IST. This page redeploys automatically
               when updates land on main.

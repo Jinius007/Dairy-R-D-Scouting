@@ -8,7 +8,7 @@ A running repository of research and development across the global dairy sector 
 - **Multi-dimensional filtering**: Region, company, academic institution, R&D type, timeline, and free-text search
 - **Visual analytics**: 24-month momentum chart and function breakdown pie chart
 - **Chrome extension**: daily 4:00 PM IST notification with this week’s and this month’s counts, plus Week / Month / Year / All time toggles in the popup
-- **Daily auto-update**: GitHub Action at 15:00 IST ingests OpenAlex, Europe PMC, Crossref, arXiv, dairy trade-press RSS, and a curated industry catalog
+- **Daily auto-update**: GitHub Action at 15:00 IST ingests OpenAlex, Europe PMC, Crossref, arXiv, dairy trade-press RSS (including DairyNews.today), and a curated industry catalog
 - **Responsive design**: Clean, modern UI inspired by the reference tracker
 
 ## Quick Start
@@ -33,6 +33,8 @@ npm run ingest
 ```
 
 This runs automatically via GitHub Actions at **15:00 IST** (09:30 UTC) so the feed is ready before the 16:00 IST Chrome pop. When new items are found, they are committed to `data/developments.json`.
+
+Trade-press sources include **DairyNews.today** (`https://dairynews.today/news/`): the English archive from 2024-01-01 is loaded from the site sitemap, and the daily GitHub Action adds/upgrades stories from RSS, the latest listing pages, and any new sitemap URLs — same 15:00 IST job as the other sources.
 
 ## Deploy to Vercel
 
