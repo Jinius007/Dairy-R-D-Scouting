@@ -1,11 +1,45 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-08-22",
-    "nextRefresh": "2026-08-23",
-    "totalTracked": 13798,
+    "lastRefreshed": "2026-08-23",
+    "nextRefresh": "2026-08-24",
+    "totalTracked": 13814,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "openalex-10-1186-s41936-026-00639-6",
+      "title": "Growth performance, feed utilization, and immunity of Damascus growing goats fed different levels of Azolla",
+      "summary": "Abstract Background Azolla has gained increasing interest as a sustainable alternative to conventional feed resources due to its nutrients and bioactive substances. This study evaluated the effect of the replacement of traditional concentrate feed mixture (CFM) with dried Azolla pinnata (AZ) on feed utilization, rumen fermentation, blood metabolites, immunity, and growth of growing Damascus kids. ",
+      "date": "2026-08-22",
+      "sourceUrl": "https://doi.org/10.1186/s41936-026-00639-6",
+      "sourceName": "The Journal of Basic and Applied Zoology",
+      "function": "Nutrition & Feeding",
+      "region": "Egypt",
+      "institution": "Ministry of Agriculture and Land Reclamation",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-foodcont-2026-112576",
+      "title": "Microbial ecology of salted food products: Preservation, safety, and innovation",
+      "summary": "This article provides a critical, integrated analysis of the role of salt (NaCl) in the microbial ecology of salted food matrices, including meat, dairy, fish, and vegetable products, with particular emphasis on the emerging technologies capable of reconciling sodium reduction with microbiological safety. Salt acts as a fundamental selective agent, inhibiting sensitive microorganisms through incre",
+      "date": "2026-08-22",
+      "sourceUrl": "https://doi.org/10.1016/j.foodcont.2026.112576",
+      "sourceName": "Food Control",
+      "function": "Quality & Food Safety",
+      "region": "Brazil",
+      "institution": "Universidade Estadual de Campinas (UNICAMP)",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-Dairy-Business-https-dairybusiness-com-early-life-management-focus-of-pdp-calf-c",
       "title": "Early Life Management Focus of PDP Calf Care Connection",
@@ -19,6 +53,108 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s13028-026-00875-4",
+      "title": "Antibiotic susceptibility of mastitis pathogens in Finnish dairy cows in 2022–2023: concerning changes in the penicillin susceptibility of Streptococcus uberis",
+      "summary": "Abstract Background Intramammary infections are the most common reason for antibiotic use in dairy cattle. A multiplex PCR has become the mainstay in determining the causative mastitis pathogens in Finland. However, this method does not allow the monitoring of antibiotic resistance among mastitis pathogens. The aim of this study was to assess antibiotic susceptibility among common bacterial pathog",
+      "date": "2026-08-21",
+      "sourceUrl": "https://doi.org/10.1186/s13028-026-00875-4",
+      "sourceName": "Acta veterinaria Scandinavica",
+      "function": "Animal Health",
+      "region": "Finland",
+      "institution": "Finnish Food Authority",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fmicb-2026-1912454",
+      "title": "Rumen-host crosstalk: an amplifier of systemic pathology in heat-stressed ruminants",
+      "summary": "Heat stress (HS) is a primary environmental constraint threatening ruminant production, welfare and reproductive efficiency amid global warming. Current studies mostly focus on either systemic physiological damage or local ruminal dysfunction separately, while the bidirectional crosstalk between the rumen and host, as well as its amplifying effect on systemic pathology, remains to be systematicall",
+      "date": "2026-08-21",
+      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1912454",
+      "sourceName": "Frontiers in Microbiology",
+      "function": "Animal Welfare",
+      "region": "China",
+      "institution": "Yunnan Agricultural University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-15316-selcukjafsci-1906865",
+      "title": "Effect of in Ovo Bovine Colostrum Powder Administration on Embryonic Growth, Yolk Sac Resorption, and Blood Biochemical Profiles in Anadolu-T Broiler Chickens",
+      "summary": "This study evaluated embryonic responses to in ovo administration of bovine colostrum powder (Cp) during late incubation in broiler embryos. A total of 450 fertilized Anadolu-T broiler eggs were randomly allocated to six groups as a non-injected control (NC), a saline-injected control (PC), and groups receiving 1, 2, 3, or 4 mg of Cp per egg. Injections were performed into the amniotic cavity on d",
+      "date": "2026-08-21",
+      "sourceUrl": "https://doi.org/10.15316/selcukjafsci.1906865",
+      "sourceName": "Selcuk Journal of Agricultural and Food Sciences",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Eskişehir Osmangazi University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-64969-9",
+      "title": "Faecal microbiota composition associates with systemic inflammatory marker and cytokine profiles in periparturient dairy cattle",
+      "summary": "The period around calving is challenging for dairy cattle, as many diseases and metabolic issues manifest, alongside major endocrine changes. A plethora of physiological modifications have been described at this time, including hormonal, metabolic, immunological and even gut microbiota-related changes. Nevertheless, there is little evidence regarding the potential relationships between these facto",
+      "date": "2026-08-21",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-64969-9",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "France",
+      "institution": "École Nationale Vétérinaire de Toulouse",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1080-10942912-2026-2715837",
+      "title": "Whey protein-chicory nanoparticles enhance antioxidant activity, fungal inhibition, and shelf life of Rayeb milk",
+      "summary": "This study evaluated whey protein isolate nanoparticles loaded with chicory extract as a functional ingredient for fermented milk, such as Rayeb. Chicory aerial parts were extracted by ultrasound-assisted extraction (20 kHz, 50% amplitude, and 10 s on/5 s off), and the extracts were encapsulated in whey protein isolate nanoparticles using the desolvation method. Rayeb milk was prepared as an untre",
+      "date": "2026-08-21",
+      "sourceUrl": "https://doi.org/10.1080/10942912.2026.2715837",
+      "sourceName": "International Journal of Food Properties",
+      "function": "Dairy Processing",
+      "region": "Egypt",
+      "institution": "National Research Centre",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1869964",
+      "title": "Tumor necrosis factor alpha triggers mitochondrial dysfunction and ROS-driven cytokine amplification in bovine fibroblast-like synoviocytes",
+      "summary": "Lameness in dairy cattle, driven by joint inflammation, involves fibroblast-like synoviocytes (FLS) that produce inflammatory mediators and reactive oxygen species (ROS). Tumor necrosis factor alpha (TNF- α ) has been proposed as an early systemic inflammatory marker that precedes and accompanies the development of lameness in transition cows. TNF- α signaling promotes ROS production and amplifies",
+      "date": "2026-08-21",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1869964",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Animal Health",
+      "region": "Chile",
+      "institution": "Austral University of Chile",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -422,6 +558,142 @@
       "tags": [
         "RSS",
         "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-cimid-2026-102515",
+      "title": "Genomic and phenotypic characterization of mcr-9 carrying Enterobacter oligotrophicus recovered from bovine mastitis",
+      "summary": "Bovine mastitis (BM) is a leading cause of economic loss in the dairy industry, driven by decreased milk yields, involuntary culling, and substantial veterinary costs. A single Gram-negative isolate recovered from BM was characterized in this study. For this, antimicrobial susceptibility testing (AST) was performed using the Neg-Urine-Combo 98 panel. Whole-genome sequencing (WGS) was employed to i",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.1016/j.cimid.2026.102515",
+      "sourceName": "Comparative Immunology Microbiology and Infectious Diseases",
+      "function": "Animal Health",
+      "region": "Portugal",
+      "institution": "Universidade do Porto",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12711-026-01080-7",
+      "title": "Genome-wide association study reveals key genomic regions underlying colostrability in Italian Holstein cattle",
+      "summary": "BACKGROUND: Colostrum yield (CY, L) and concentration of immunoglobulin G (IgG, g/L) are important phenotypes to monitor in dairy farms because of their association with the risk of failure of the passive transfer of immunity in the newborn calf. This can occur when the CY of the parturient cow is insufficient or when the IgG concentration is low. Given that both of these traits are heritable, the",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.1186/s12711-026-01080-7",
+      "sourceName": "Genetics Selection Evolution",
+      "function": "Breeding & Genetics",
+      "region": "Italy",
+      "institution": "University of Bologna",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s44279-026-00680-7",
+      "title": "Phenotypic determinants of milk yield and reproductive performance of stud British Alpine goats across agro-ecological zones in South Africa",
+      "summary": "Phenotypic determinants of milk production, reproductive performance, and dairy value of stud British Alpine dairy goats across South African agro-ecological zones (AEZs) were evaluated using 2422 performance records from 3037 pedigreed animals spanning 1960–2024, extracted from the national Integrated Registration and Genetic Information System (INTERGIS). Data were analysed using a restricted ma",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.1007/s44279-026-00680-7",
+      "sourceName": "Discover Agriculture",
+      "function": "Animal Health",
+      "region": "South Africa",
+      "institution": "University of Limpopo",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3897-ejfa-2026-205814",
+      "title": "Evaluation of rumen undegradable protein supplementation on racing dromedary camel performance",
+      "summary": "Racing camels are a symbol of Emirati heritage and hold modern economic importance. While the benefits of rumen undegradable protein (RUP) are well-established in cattle, a significant research gap exists for RUP requirements in dromedary camels. This study examined effects of increased dietary RUP on racing performance and serology in UAE racing camels. Twelve racing camels (~1.5 years) underwent",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.3897/ejfa.2026.205814",
+      "sourceName": "Emirates Journal of Food and Agriculture",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "institution": "Southern Illinois University Carbondale",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-66367-7",
+      "title": "In utero hyperthermia impacts the histological and transcriptomic signature of the mammary fat pad of newborn heifers",
+      "summary": "Abstract Development of the mammary gland begins in utero and requires coordinated interactions between the epithelial rich parenchyma and the surrounding mammary fat pad (mFP). In this study we investigated how maternal heat stress (HS) during gestation impacts the development of the offspring mFP. Mammary fat pad tissue was collected from Holstein heifers at birth that were gestated under either",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-66367-7",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Welfare",
+      "region": "USA",
+      "institution": "University of Wisconsin–Madison",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1371-journal-pcbi-1014603",
+      "title": "A portable recalibration workflow for reference-based variant calling in non-human genomes",
+      "summary": "A key computational step in reference-based variant calling is distinguishing true genetic variants from sequencing errors. Advanced tools and workflows have been developed to handle this by computational modelling of technical errors from the sequencing machines. However, these recalibration workflows have largely been evaluated for human data only and its exact applicability for non-human data r",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.1371/journal.pcbi.1014603",
+      "sourceName": "PLoS Computational Biology",
+      "function": "Breeding & Genetics",
+      "region": "South Korea",
+      "institution": "Korea Advanced Institute of Science and Technology",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s12559-026-10642-2",
+      "title": "A Fermatean Fuzzy Opportunity Losses-Based Polar Coordinate Distance Method for Artificial Intelligence-Enhanced Custom-Made Print Advertisements",
+      "summary": "The increasing adoption of artificial intelligence (AI) across industries has also extended to the field of advertising, where AI is being utilized in various aspects of advertisement design. AI bots employing text-to-image techniques have emerged as an effective approach for generating customized print advertisements. Drawing on the principles of Social Cognitive Theory, this study conceptualizes",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.1007/s12559-026-10642-2",
+      "sourceName": "Cognitive Computation",
+      "function": "Marketing",
+      "region": "Turkey",
+      "institution": "Ostim Technical University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fevo-2026-1883681",
+      "title": "In-silico characterization of HspBP1 gene for identification of SNPs associated with silent estrus behavior in buffalo",
+      "summary": "Silent estrus behavior in buffalo is a great challenge to the sustainability of the dairy sector in Pakistan. To deal with reproductive failure, selection of animals with good estrus signs is crucial at the time of breeding. The current study analyzed the heat shock binding protein 1 ( HspBP1 ) to identify the single nucleotide polymorphisms (SNPs) that may interfere with the normal expression of ",
+      "date": "2026-08-20",
+      "sourceUrl": "https://doi.org/10.3389/fevo.2026.1883681",
+      "sourceName": "Frontiers in Ecology and Evolution",
+      "function": "Breeding & Genetics",
+      "region": "UAE",
+      "institution": "Al Ain University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -1065,7 +1337,7 @@
       "date": "2026-08-19",
       "sourceUrl": "https://doi.org/10.3389/fvets.2026.1906488",
       "sourceName": "Frontiers in Veterinary Science",
-      "function": "Animal Health",
+      "function": "Digital Platforms & Innovation",
       "region": "Italy",
       "institution": "University of Padua",
       "rdType": "Research Paper",
@@ -1119,23 +1391,6 @@
       "function": "Animal Health",
       "region": "Russia",
       "institution": "Bryansk State Agrarian University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-52419-issn2072-2419-2026-2-317",
-      "title": "Clinical and biochemical monitoring of reproductive health of cows in farms of different organizational forms of the Udmurt republic",
-      "summary": "Holsteinized black-and-white cows aged 4—5 years were studied in the conditions of a peasant farm and a large agricultural enterprise in the Udmurt Republic. A total of 40 cows were examined at each enterprise, subdivided into 4 groups of 10 cows each. The first group included newly-calved cows; the second group included grassy animals but not tested for pregnancy; the third group included pregnan",
-      "date": "2026-08-19",
-      "sourceUrl": "https://doi.org/10.52419/issn2072-2419.2026.2.317",
-      "sourceName": "International Journal of Veterinary Medicine",
-      "function": "Animal Health",
-      "region": "Russia",
-      "institution": "Bashkir State Agrarian University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -1288,7 +1543,7 @@
       "date": "2026-08-19",
       "sourceUrl": "https://doi.org/10.3168/jds.2026-28849",
       "sourceName": "Europe PMC",
-      "function": "Animal Health",
+      "function": "Breeding & Genetics",
       "region": "France",
       "institution": "Université Paris-Saclay",
       "rdType": "Academic Study",
@@ -1305,7 +1560,7 @@
       "date": "2026-08-19",
       "sourceUrl": "https://doi.org/10.3168/jds.2026-28436",
       "sourceName": "Europe PMC",
-      "function": "Sustainability & Traceability",
+      "function": "Animal Health",
       "region": "Global",
       "institution": "School of Veterinary Medicine and Science",
       "rdType": "Academic Study",
@@ -44016,6 +44271,23 @@
       "tags": [
         "RSS",
         "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3168-jdsc-2026-1018",
+      "title": "Data processing pipeline for managing enteric methane emissions from sniffer: Application on dairy farming systems.",
+      "summary": "Accurate quantification of enteric methane (CH<sub>4</sub>) emissions from ruminants is essential to support global strategies aimed at mitigating GHG outputs from the livestock sector. Among the available in vivo techniques, the sniffer method offers a noninvasive and cost-effective solution for large-scale monitoring, but lacks standardized procedures for data processing and validation. This stu",
+      "date": "2026-05-20",
+      "sourceUrl": "https://doi.org/10.3168/jdsc.2026-1018",
+      "sourceName": "Europe PMC",
+      "function": "Sustainability & Traceability",
+      "region": "Italy",
+      "institution": "Department of Agriculture and Forest Sciences",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
