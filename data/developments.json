@@ -1,11 +1,125 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-08-28",
-    "nextRefresh": "2026-08-29",
-    "totalTracked": 14063,
+    "lastRefreshed": "2026-08-29",
+    "nextRefresh": "2026-08-30",
+    "totalTracked": 14075,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-5-ways-to-unlock-better-herd-management-d",
+      "title": "5 ways to unlock better herd management decisions",
+      "summary": "Small workflow changes can save time, improve accuracy and support better decisions. Herd management software supports nearly every decision and workflow across a dairy. But even the most capable system only delivers value when accurate [Read More ...]",
+      "date": "2026-08-29",
+      "sourceUrl": "https://dairybusiness.com/5-ways-to-unlock-better-herd-management-decisions/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-new-england-dairy-farmers-use-data-to",
+      "title": "New England dairy farmers use data to time silage harvest",
+      "summary": "Dairy farmers across New England are using portable laboratory tests to identify when corn silage should be harvested. The testing measures moisture, plant maturity and nutritional potential, giving farms a narrower harvesting window for feed intended for their cows.",
+      "date": "2026-08-28",
+      "sourceUrl": "https://dairynews.today/news/new_england_dairy_farmers_use_data_to_time_silage_harvest_8278490.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-13-billion-in-dairy-processing-investment-res",
+      "title": "$13 Billion in Dairy Processing Investment Reshapes U.S. Industry, Says NMPF",
+      "summary": "NMPF CEO Gregg Doud highlights a historic $13B investment wave in U.S. dairy processing, expanding capacity while creating new supply chain challenges.",
+      "date": "2026-08-28",
+      "sourceUrl": "https://en.edairynews.com/13-billion-in-dairy-processing-investment-reshapes-u-s-industry-says-nmpf/",
+      "sourceName": "eDairyNews",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-cull-cow-checks-grow-as-market-peaks-promptin",
+      "title": "Cull Cow Checks Grow as Market Peaks, Prompting Expansion in LRP Risk Protection",
+      "summary": "Cull cow prices near historic highs prompt dairy farmers to secure downside revenue using expanded 52-week Livestock Risk Protection (LRP) policies.",
+      "date": "2026-08-28",
+      "sourceUrl": "https://en.edairynews.com/cull-cow-checks-grow-as-market-peaks-prompting-expansion-in-lrp-risk-protection/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-2026-dairy-top-100-dfa-retains-top-spot-as-la",
+      "title": "2026 Dairy Top 100: DFA Retains Top Spot as Lactalis USA Surges to Third on Yogurt Deal",
+      "summary": "DFA retains the No. 1 spot with $23.1B in the 2026 Dairy Top 100, while Lactalis USA jumps to No. 3 and The Magnum Ice Cream Co. debuts at No. 5.",
+      "date": "2026-08-28",
+      "sourceUrl": "https://en.edairynews.com/2026-dairy-top-100-dfa-retains-top-spot-as-lactalis-usa-surges-to-third-on-yogurt-deal/",
+      "sourceName": "eDairyNews",
+      "function": "Product Development",
+      "region": "USA",
+      "company": "Lactalis",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-eja-2026-128310",
+      "title": "Co-evolution of plants, livestock and farming practices during dairy farm transformation to agroecology: an in-depth case study in France",
+      "summary": "Agriculture contributes to and is impacted by global changes. Agroecology is recommended as a framework for transforming farming systems to address these challenges. However, research has not extensively documented transformations to agroecology, which could limit adoption by farmers. The objective of this study was to analyse the co-evolution of plants, livestock and farming practices during dair",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.1016/j.eja.2026.128310",
+      "sourceName": "European Journal of Agronomy",
+      "function": "Animal Health",
+      "region": "France",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1177-09544062261479379",
+      "title": "A closed-loop calibrated digital twin for vibration suppression and performance enhancement of the milking robot manipulator",
+      "summary": "The Automatic Milking System (AMS) has significantly improved dairy farming efficiency. However, residual vibrations generated by the high-speed motion of the milking manipulator continue to pose significant challenges, particularly by compromising positioning accuracy and cup attachment performance. This paper proposes a Closed-Loop Calibrated Digital Twin (CLCDT) framework to achieve low-cost, r",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.1177/09544062261479379",
+      "sourceName": "Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science",
+      "function": "Robotics & AI",
+      "region": "China",
+      "institution": "Beijing University of Technology",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-new-york-opens-applications-for-8-5m-",
       "title": "New York Opens Applications for $8.5m Dairy Grants",
@@ -180,6 +294,106 @@
       "tags": [
         "RSS",
         "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-fonterra-drops-to-10th-in-global-dairy-rankin",
+      "title": "Fonterra Drops to 10th in Global Dairy Rankings Following Consumer Business Divestment to Lactalis",
+      "summary": "Fonterra drops to 10th in Rabobank’s Global Dairy Top 20 after selling its consumer unit to Lactalis, pivoting toward B2B ingredients and foodservice.",
+      "date": "2026-08-27",
+      "sourceUrl": "https://en.edairynews.com/fonterra-drops-to-10th-in-global-dairy-rankings-following-consumer-business-divestment-to-lactalis/",
+      "sourceName": "eDairyNews",
+      "function": "Marketing",
+      "region": "Global",
+      "company": "Fonterra",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-ausnutria-dairy-swings-to-h1-loss-as-declinin",
+      "title": "Ausnutria Dairy Swings to H1 Loss as Declining Chinese Birth Rate and Channel Adjustments Hit Revenue",
+      "summary": "Ausnutria Dairy posts an 18.6% revenue drop and H1 loss as China's falling birth rate and Kabrita channel adjustments pressure infant formula sales.",
+      "date": "2026-08-27",
+      "sourceUrl": "https://en.edairynews.com/ausnutria-dairy-swings-to-h1-loss-as-declining-chinese-birth-rate-and-channel-adjustments-hit-revenue/",
+      "sourceName": "eDairyNews",
+      "function": "Product Development",
+      "region": "China",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-fsai-issues-recall-warning-for-macroom-buffal",
+      "title": "FSAI Issues Recall Warning for Macroom Buffalo Cheese Batches Over Listeria Concerns",
+      "summary": "FSAI issues a recall for Macroom Buffalo Cheese mozzarella, bocconcini, and burrata batches over Listeria monocytogenes contamination concerns.",
+      "date": "2026-08-27",
+      "sourceUrl": "https://en.edairynews.com/fsai-issues-recall-warning-for-macroom-buffalo-cheese-batches-over-listeria-concerns/",
+      "sourceName": "eDairyNews",
+      "function": "Quality & Food Safety",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-22358-jafs-225576-2026",
+      "title": "Small-intestinal microbiota patterns in growing Hu sheep fed low-protein diets with rumen-protected lysine and methionine",
+      "summary": "Dietary crude protein reduction and supplementation with rumen-protected amino acids may improve nitrogen utilisation in sheep; however, their effects on different small-intestinal sites remain unknown.This study investigated the digesta microbiota in paired duodenal and jejunal samples from 38 growing male Hu sheep fed one of four experimental diets: a conventional protein control diet, a low-pro",
+      "date": "2026-08-27",
+      "sourceUrl": "https://doi.org/10.22358/jafs/225576/2026",
+      "sourceName": "Journal of Animal and Feed Sciences",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Yangzhou University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1080-1828051x-2026-2720270",
+      "title": "Effects of tannins and drying methods on in vitro dry matter and crude protein degradability and digestibility in rapeseed meal",
+      "summary": "The extensive ruminal degradability of rapeseed meal limits its efficiency as a protein source in ruminant diets by reducing the proportion of dietary protein available for post-ruminal absorption. This study, conducted entirely in vitro, investigated the interactive effects of two tannin types: chestnut water extract (CWE) and quebracho extract (QUE), two tannin inclusion levels (50 or 100 g/kg),",
+      "date": "2026-08-27",
+      "sourceUrl": "https://doi.org/10.1080/1828051x.2026.2720270",
+      "sourceName": "Italian Journal of Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Slovenia",
+      "institution": "University of Ljubljana",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1093-tas-txag129",
+      "title": "Methionine supplementation during late gestation in March calving Angus crossbred beef heifers and cows",
+      "summary": "Abstract The objectives of these two studies were to evaluate the impact of excess Met (methionine) supplementation during late gestation on intake, body weight (BW), average daily gain (ADG), reproductive performance, and subsequent calf performance in artificially inseminated heifers and naturally bred cows. In Exp. 1, a 3-yr study used 38 pregnant Black Angus crossbred heifers/yr (n = 113) in a",
+      "date": "2026-08-27",
+      "sourceUrl": "https://doi.org/10.1093/tas/txag129",
+      "sourceName": "Translational Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "institution": "University of Nebraska–Lincoln",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -816,6 +1030,23 @@
       ]
     },
     {
+      "id": "openalex-10-1007-s44338-026-00239-2",
+      "title": "Tracking progress toward livestock sector transformation in Tanzania using national and international datasets",
+      "summary": "Livestock plays a central role in Tanzania’s rural economy, yet productivity remains constrained by low-input production systems, limited genetic improvement, suboptimal management practices, and weak market integration. This study assesses the extent and pace of livestock-sector transformation using a multi-source approach that integrates FAOSTAT time-series data, the National Sample Census of Ag",
+      "date": "2026-08-26",
+      "sourceUrl": "https://doi.org/10.1007/s44338-026-00239-2",
+      "sourceName": "Discover Animals",
+      "function": "Nutrition & Feeding",
+      "region": "Tanzania",
+      "institution": "Mbeya University of Science and Technology",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-fda-authorizes-generic-ivermectin-to-",
       "title": "FDA Authorizes Generic Ivermectin to Prevent Screwworm in Cattle",
       "summary": "The US Food and Drug Administration has issued an emergency-use authorization for Bimectin, an ivermectin injection, to help prevent New World screwworm infestations in cattle. The authorization applies when the drug is given within 24 hours of birth, during castration or when an animal develops a wound.",
@@ -858,40 +1089,6 @@
       "function": "Nutrition & Feeding",
       "region": "Nigeria",
       "institution": "University of Jos",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1007-s44338-026-00239-2",
-      "title": "Tracking progress toward livestock sector transformation in Tanzania using national and international datasets",
-      "summary": "Livestock plays a central role in Tanzania’s rural economy, yet productivity remains constrained by low-input production systems, limited genetic improvement, suboptimal management practices, and weak market integration. This study assesses the extent and pace of livestock-sector transformation using a multi-source approach that integrates FAOSTAT time-series data, the National Sample Census of Ag",
-      "date": "2026-08-26",
-      "sourceUrl": "https://doi.org/10.1007/s44338-026-00239-2",
-      "sourceName": "Discover Animals",
-      "function": "Nutrition & Feeding",
-      "region": "Tanzania",
-      "institution": "Mbeya University of Science and Technology",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1007-s43555-026-00097-9",
-      "title": "Mycotoxin Risk in Transition: Climate Change, Emerging Diets, and Adaptive Mitigation Strategies",
-      "summary": "Abstract Purpose of Review Climate change and dietary transition are reshaping mycotoxin exposure pathways and challenging current food safety frameworks. This review examines how shifts in fungal ecology, together with the increasing adoption of plant-based and alternative protein systems, are influencing the occurrence and distribution of mycotoxins. The review also explores emerging mitigation ",
-      "date": "2026-08-26",
-      "sourceUrl": "https://doi.org/10.1007/s43555-026-00097-9",
-      "sourceName": "Current Food Science and Technology Reports",
-      "function": "Quality & Food Safety",
-      "region": "UK",
-      "institution": "University of Hertfordshire",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
