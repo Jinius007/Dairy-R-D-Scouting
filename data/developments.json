@@ -1,11 +1,45 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-08-29",
-    "nextRefresh": "2026-08-30",
-    "totalTracked": 14075,
+    "lastRefreshed": "2026-08-30",
+    "nextRefresh": "2026-08-31",
+    "totalTracked": 14081,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "openalex-10-64617-kreyat-v4i3-1-16",
+      "title": "TEKNOLOGI PENGOLAHAN LIMBAH BATANG PISANG MENJADI RANSUM KOMPLIT SEBAGAI UPAYA PENINGKATAN USAHA PETERNAKAN",
+      "summary": "Feed availability is one of the crucial factors in the sustainability of cattle farming, particularly in regions with limited forage resources. Abaca banana (Musa textilis) decortication activities generate pseudostem waste that has not been optimally utilized as a feed ingredient. This Community Service (Pengabdian kepada Masyarakat / PkM) activity aims to introduce the processing technology of p",
+      "date": "2026-08-29",
+      "sourceUrl": "https://doi.org/10.64617/kreyat.v4i3.1-16",
+      "sourceName": "JURNAL KREASI RAKYAT",
+      "function": "Nutrition & Feeding",
+      "region": "Indonesia",
+      "institution": "Universitas Abulyatama",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-22266-ijies2026-0930-30",
+      "title": "Yolov8-based Cow Detection and Identification Using Cattle-Oriented Triplet Attention Module for Precision Livestock Farming",
+      "summary": "In recent years, Precision Livestock Farming (PLF) has increasingly integrated accurate and non-invasive monitoring systems to optimize cattle welfare and improve farm operational efficiency.However, cow detection and identification remain difficult tasks in realistic farm settings due to variations in cow poses, frequent occlusions, cluttered backgrounds and high visual similarity among individua",
+      "date": "2026-08-29",
+      "sourceUrl": "https://doi.org/10.22266/ijies2026.0930.30",
+      "sourceName": "International journal of intelligent engineering and systems",
+      "function": "Sustainability & Traceability",
+      "region": "India",
+      "institution": "Visvesvaraya Technological University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-Dairy-Business-https-dairybusiness-com-5-ways-to-unlock-better-herd-management-d",
       "title": "5 ways to unlock better herd management decisions",
@@ -19,6 +53,108 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-5194-aab-69-469-2026",
+      "title": "Assessment of reproductive performance in dairy cows using explainable machine learning",
+      "summary": "Abstract. Reproductive performance is a key determinant of productivity and economic sustainability in dairy farming and is influenced by a complex interaction of biological and management-related factors. This study aimed to evaluate reproductive performance in dairy cows and to identify the most influential risk factors at both global and individual animal levels using an explainable machine lea",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.5194/aab-69-469-2026",
+      "sourceName": "Archives animal breeding/Archiv für Tierzucht",
+      "function": "Animal Health",
+      "region": "Turkey",
+      "institution": "Erciyes University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1371-journal-pone-0356779",
+      "title": "Effect of longevity genotype on acute phase response to a lipopolysaccharide challenge in dairy goats",
+      "summary": "The present study aims to explore the phenotypic variability of the inflammatory response to a lipopolysaccharide (LPS) challenge in goats and compare the reaction between two lines divergently selected for functional longevity. Hyper-selection based on functional longevity successfully created two groups of goats with different lifespans (High_LGV and Low_LGV). Primiparous goats were injected int",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.1371/journal.pone.0356779",
+      "sourceName": "PLoS ONE",
+      "function": "Breeding & Genetics",
+      "region": "France",
+      "institution": "AgroParisTech",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1371-journal-pone-0356688",
+      "title": "Variation in nutritional quality of Vicia sativa across climatic gradients and development of a comprehensive forage quality index",
+      "summary": "Vicia sativa is a leguminous forage crop with important ecological and feeding value, and its nutritional quality is closely influenced by its growing environment. Field experiments were conducted over one growing season across three ecological zones: the cold, humid alpine region of the Qinghai-Tibet Plateau (XH), the humid transitional zone between the Qinghai-Tibet and Loess Plateaus (MX), and ",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.1371/journal.pone.0356688",
+      "sourceName": "PLoS ONE",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Xi’an University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s13567-026-01806-x",
+      "title": "The calf holobiont under challenge: longitudinal microbiota–pathogen dynamics and respiratory health",
+      "summary": "The bovine respiratory disease complex (BRDC) is a major health and welfare challenge driven by multifactorial interactions among pathogens, the host, the microbiota, and environmental pressures, reflecting the holobiont nature of the calf. Many implicated bacterial pathogens are also respiratory tract commensals, complicating diagnosis, risk assessment, and prevention. Although the potential asso",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.1186/s13567-026-01806-x",
+      "sourceName": "Veterinary Research",
+      "function": "Animal Health",
+      "region": "France",
+      "institution": "École Nationale Vétérinaire de Toulouse",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fmicb-2026-1826781",
+      "title": "Molecular epidemiology of Theileria parva in cattle, factors associated with the positivity in northern Malawi, and efficacy of traditional medicine",
+      "summary": "Introduction East Coast fever (ECF), caused by Theileria parva , remains endemic in Malawi. ECF vaccines and chemical treatments are regarded as expensive by small-holder farmers. The aims of this study were to clarify the epidemiology of ECF and to evaluate the efficacy of ethnoveterinary medicine, Synadenium cupulare on T. parva infection. Methods A cross-sectional study was conducted in three d",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1826781",
+      "sourceName": "Frontiers in Microbiology",
+      "function": "Animal Health",
+      "region": "Tanzania",
+      "institution": "Ministry of Livestock and Fisheries",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-26599-fshw-2026-9251178",
+      "title": "Lactoferrin Hydrolysate Mitigates Azoxymethane/Dextran Sulfate Sodium–Induced Colon Cancer by Modulating Gut Microbiota and Microbial Metabolites",
+      "summary": "Abstract Colon cancer is one of the most common malignant tumors worldwide and is associated with high morbidity and mortality. Conventional treatments are typically administered at advanced stages and often lead to severe adverse effects. Therefore, developing safe and effective nutritional interventions from natural food sources is of great importance for the prevention and management of colon c",
+      "date": "2026-08-28",
+      "sourceUrl": "https://doi.org/10.26599/fshw.2026.9251178",
+      "sourceName": "Food Science and Human Wellness",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Southwest University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -94,7 +230,7 @@
       "date": "2026-08-28",
       "sourceUrl": "https://doi.org/10.1016/j.eja.2026.128310",
       "sourceName": "European Journal of Agronomy",
-      "function": "Animal Health",
+      "function": "Farm Management",
       "region": "France",
       "rdType": "Research Paper",
       "tags": [
@@ -298,6 +434,40 @@
       ]
     },
     {
+      "id": "openalex-10-1016-j-applanim-2026-107166",
+      "title": "Evaluation of maternal protective behaviour in dairy cows housed in a cow–calf contact (CCC) system",
+      "summary": "There is an increased interest among dairy farmers in management systems allowing cow–calf contact (CCC). This study evaluated maternal protective behaviour in dairy cows using Qualitative Behaviour Assessment (QBA) in combination with categorical behavioural scoring systems, selected objective recordings from the automatic milking system (AMS) and computer-controlled smart gates (SG). Maternal pr",
+      "date": "2026-08-27",
+      "sourceUrl": "https://doi.org/10.1016/j.applanim.2026.107166",
+      "sourceName": "Applied Animal Behaviour Science",
+      "function": "Animal Health",
+      "region": "Norway",
+      "institution": "Norwegian Food Safety Authority",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1080-1828051x-2026-2720270",
+      "title": "Effects of tannins and drying methods on in vitro dry matter and crude protein degradability and digestibility in rapeseed meal",
+      "summary": "The extensive ruminal degradability of rapeseed meal limits its efficiency as a protein source in ruminant diets by reducing the proportion of dietary protein available for post-ruminal absorption. This study, conducted entirely in vitro, investigated the interactive effects of two tannin types: chestnut water extract (CWE) and quebracho extract (QUE), two tannin inclusion levels (50 or 100 g/kg),",
+      "date": "2026-08-27",
+      "sourceUrl": "https://doi.org/10.1080/1828051x.2026.2720270",
+      "sourceName": "Italian Journal of Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Slovenia",
+      "institution": "University of Ljubljana",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-eDairyNews-https-en-edairynews-com-fonterra-drops-to-10th-in-global-dairy-rankin",
       "title": "Fonterra Drops to 10th in Global Dairy Rankings Following Consumer Business Divestment to Lactalis",
       "summary": "Fonterra drops to 10th in Rabobank’s Global Dairy Top 20 after selling its consumer unit to Lactalis, pivoting toward B2B ingredients and foodservice.",
@@ -356,23 +526,6 @@
       "function": "Nutrition & Feeding",
       "region": "China",
       "institution": "Yangzhou University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1080-1828051x-2026-2720270",
-      "title": "Effects of tannins and drying methods on in vitro dry matter and crude protein degradability and digestibility in rapeseed meal",
-      "summary": "The extensive ruminal degradability of rapeseed meal limits its efficiency as a protein source in ruminant diets by reducing the proportion of dietary protein available for post-ruminal absorption. This study, conducted entirely in vitro, investigated the interactive effects of two tannin types: chestnut water extract (CWE) and quebracho extract (QUE), two tannin inclusion levels (50 or 100 g/kg),",
-      "date": "2026-08-27",
-      "sourceUrl": "https://doi.org/10.1080/1828051x.2026.2720270",
-      "sourceName": "Italian Journal of Animal Science",
-      "function": "Nutrition & Feeding",
-      "region": "Slovenia",
-      "institution": "University of Ljubljana",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -1026,23 +1179,6 @@
       "tags": [
         "RSS",
         "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1007-s44338-026-00239-2",
-      "title": "Tracking progress toward livestock sector transformation in Tanzania using national and international datasets",
-      "summary": "Livestock plays a central role in Tanzania’s rural economy, yet productivity remains constrained by low-input production systems, limited genetic improvement, suboptimal management practices, and weak market integration. This study assesses the extent and pace of livestock-sector transformation using a multi-source approach that integrates FAOSTAT time-series data, the National Sample Census of Ag",
-      "date": "2026-08-26",
-      "sourceUrl": "https://doi.org/10.1007/s44338-026-00239-2",
-      "sourceName": "Discover Animals",
-      "function": "Nutrition & Feeding",
-      "region": "Tanzania",
-      "institution": "Mbeya University of Science and Technology",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -2784,40 +2920,6 @@
       ]
     },
     {
-      "id": "openalex-10-1038-s41598-026-67803-4",
-      "title": "A modular open-source computer vision pipeline enables individual-level behavior analysis of group-housed pigs",
-      "summary": "Abstract Animal behavior analysis is central to understanding welfare, health, and productivity in livestock, yet manual observation is time-consuming, subjective, and difficult to scale. We present a modular pipeline that integrates open-source, state-of-the-art computer vision models to automate individual-level behavior analysis in group-housing environments. The pipeline does not introduce a n",
-      "date": "2026-08-24",
-      "sourceUrl": "https://doi.org/10.1038/s41598-026-67803-4",
-      "sourceName": "Scientific Reports",
-      "function": "Animal Welfare",
-      "region": "USA",
-      "institution": "Cornell University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-past-2026-16335",
-      "title": "Characterization of mixed livestock systems applied by small-scale breeders in the high Andean region of Ayacucho, Peru",
-      "summary": "Mixed livestock production is a widespread practice among small breeders in many parts of the world. Describing and characterizing these farms is a valuable approach, as it makes it possible to design targeted strategies suited to the wide diversity of production systems present in the region. This research aimed to characterize the mixed livestock systems of small-scale breeders in the high Andea",
-      "date": "2026-08-24",
-      "sourceUrl": "https://doi.org/10.3389/past.2026.16335",
-      "sourceName": "Pastoralism Research Policy and Practice",
-      "function": "Farm Management",
-      "region": "Global",
-      "institution": "National Agrarian University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-argentina-s-milk-output-rose-9-while-",
       "title": "Argentina's milk output rose 9%, while farmers' income fell 10.8%",
       "summary": "Argentina produced about 9% more milk from January through July 2026 than in the same period of 2025. The increase did not offset lower milk prices: average producer revenue fell 10.8% in real terms and 6.1% in dollar terms.",
@@ -4063,6 +4165,23 @@
       ]
     },
     {
+      "id": "openalex-10-1016-j-atech-2026-102496",
+      "title": "DynaSeedFusion: A real-time object-level dynamic obstacle detection system for agricultural robots",
+      "summary": "Reliable dynamic obstacle detection is essential for agricultural robots in unstructured farm environments. Light detection and ranging (LiDAR) returns are often sparse, and vegetation and fence boundaries, partial occlusion, and slow or intermittent motion further challenge lightweight methods based on instantaneous velocity thresholds. This paper presents DynaSeedFusion, a real-time system that ",
+      "date": "2026-08-22",
+      "sourceUrl": "https://doi.org/10.1016/j.atech.2026.102496",
+      "sourceName": "Smart Agricultural Technology",
+      "function": "Robotics & AI",
+      "region": "UK",
+      "institution": "University of Sussex",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-17113-ftb-64-03-26-9519",
       "title": "Olive Leaf, Thyme and Green Walnut Husk Extracts as Functional Ingredients in Dairy Products: A Review",
       "summary": "Oxidative stress and the inflammation associated with it play key roles in the development of many chronic diseases. As alternatives to synthetic antioxidants, plant-derived materials with potential anti-inflammatory and antioxidant properties—such as olive leaves (Olea europaea), thyme (Thymus vulgaris) and green walnut husks (Juglans regia)—have attracted increasing scientific interest. These ma",
@@ -4825,23 +4944,6 @@
       "tags": [
         "RSS",
         "DairyReporter",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1007-s12559-026-10642-2",
-      "title": "A Fermatean Fuzzy Opportunity Losses-Based Polar Coordinate Distance Method for Artificial Intelligence-Enhanced Custom-Made Print Advertisements",
-      "summary": "The increasing adoption of artificial intelligence (AI) across industries has also extended to the field of advertising, where AI is being utilized in various aspects of advertisement design. AI bots employing text-to-image techniques have emerged as an effective approach for generating customized print advertisements. Drawing on the principles of Social Cognitive Theory, this study conceptualizes",
-      "date": "2026-08-20",
-      "sourceUrl": "https://doi.org/10.1007/s12559-026-10642-2",
-      "sourceName": "Cognitive Computation",
-      "function": "Marketing",
-      "region": "Turkey",
-      "institution": "Ostim Technical University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
