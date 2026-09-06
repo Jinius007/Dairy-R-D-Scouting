@@ -1,11 +1,43 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-05",
-    "nextRefresh": "2026-09-06",
-    "totalTracked": 14417,
+    "lastRefreshed": "2026-09-06",
+    "nextRefresh": "2026-09-07",
+    "totalTracked": 14422,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-tesco-northern-ireland-expands-ice-cr",
+      "title": "Tesco Northern Ireland Expands Ice Cream Offerings with Drayne's Farm",
+      "summary": "Tesco Northern Ireland is broadening its assortment of locally sourced products by including Drayne's Farm ice cream in its stores. The move brings the award-winning Madagascan Vanilla and Honeycomb Crunch flavors to Tesco customers across the region.",
+      "date": "2026-09-05",
+      "sourceUrl": "https://dairynews.today/news/tesco_northern_ireland_expands_ice_cream_offerings_with_drayne_s_farm_9669250.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-predstavil-krupneyshuyu-in",
+      "title": "Kazakhstan Showcases Largest Foreign Agricultural Exhibition in China",
+      "summary": "Kazakhstan presented the largest exhibition among foreign participants at the Chinese Grain and Oil Products Expo. In the first six months of 2026, the country exported agricultural products worth $1.1 billion to China.",
+      "date": "2026-09-05",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_predstavil_krupneyshuyu_inostrannuyu_agroekspozitsiyu_v_kitae_6162581.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "China",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-Dairy-Business-https-dairybusiness-com-long-time-dairy-advocate-jaime-castaneda-",
       "title": "Long-Time Dairy Advocate Jaime Castaneda Announces Retirement Plans",
@@ -19,6 +51,38 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-cabrales-cheese-sold-for-37-500-at-",
+      "title": "A Cabrales Cheese Sold for €37,500 at Auction",
+      "summary": "A Cabrales cheese weighing just over two kilograms fetched €37,500 at an auction in Asturias, setting a new record for the competition. La Montera Picona, a restaurant in Gijón, bought the winning entry.",
+      "date": "2026-09-04",
+      "sourceUrl": "https://dairynews.today/news/a_cabrales_cheese_sold_for_37_500_at_auction_8049283.html",
+      "sourceName": "DairyNews.today",
+      "function": "Robotics & AI",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-abbott-launches-new-whole-milk-simila",
+      "title": "Abbott Launches New Whole Milk Similac Formula in Ready-to-Feed Format",
+      "summary": "Abbott Launches New Whole Milk Similac Formula in Ready-to-Feed Format",
+      "date": "2026-09-04",
+      "sourceUrl": "https://dairynews.today/news/abbott_launches_new_whole_milk_similac_formula_in_ready_to_feed_format_2368493.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
         "auto-ingested"
       ]
     },
@@ -235,6 +299,56 @@
       ]
     },
     {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-chobani-introduces-limited-edition-ub",
+      "title": "Chobani introduces limited-edition ube coffee creamer in the US",
+      "summary": "Chobani has launched a new limited-edition Ube Sweet Cream Coffee Creamer in the United States. This product is made with ube, milk, cream, and cane sugar, and features no artificial ingredients. The packaging, designed by Filipino artist Patricia Doria, highlights ube's origins.",
+      "date": "2026-09-03",
+      "sourceUrl": "https://dairynews.today/news/chobani_introduces_limited_edition_ube_coffee_creamer_in_the_us_4936698.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "USA",
+      "company": "Chobani",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Food-Navigator-https-www-foodnavigator-com-Article-2026-09-03-after-eights-and-t",
+      "title": "Why are single-flavour brands branching out?",
+      "summary": "Terry's Chocolate Orange had historically been a single-flavour brand, in the sense that once, its only flavour was orange, albeit with different variants. Yet it recently added milk, caramel and mint. Nestlé has also announced caramel, orange and raspberry variants of its After Eights brand. Why are traditionally single-flavour brands being given new flavours?",
+      "date": "2026-09-03",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/03/after-eights-and-terrys-chocolate-orange-new-flavours-for-single-flavour-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "Food Navigator",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Food Navigator",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-64440-ibnsina-sina0029",
+      "title": "The Characterization and Development of Innovative Functional Foods from Jordanian Agro-Food Resources: Bioactive, Sensory, Nutritional, and Functional Properties",
+      "summary": "Various scientific studies highlight the benefits of Functional Foods (FFs) as dietary supplements that provide protein, vitamins, and fiber. It is imperative to have a good understanding of the nutritional realm to address human physical and physiological health and overall wellness. This study aimed to explore consumers’ knowledge of the variable biochemical composition of FFs and their dietary ",
+      "date": "2026-09-03",
+      "sourceUrl": "https://doi.org/10.64440/ibnsina/sina0029",
+      "sourceName": "Ibn Sina Journal of Medical Science Health & Pharmacy",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "University of Jordan",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-uruguay-s-dairy-exports-fell-29-as-al",
       "title": "Uruguay’s Dairy Exports Fell 29% as Algerian Purchases Collapsed",
       "summary": "Uruguay’s dairy exports amounted to US$64m in August, down from US$90m a year earlier. Algerian purchases fell by 88%, declining from US$41m to US$5m.",
@@ -429,29 +543,13 @@
       ]
     },
     {
-      "id": "rss-Food-Navigator-https-www-foodnavigator-com-Article-2026-09-03-after-eights-and-t",
-      "title": "Why are single-flavour brands branching out?",
-      "summary": "Terry's Chocolate Orange had historically been a single-flavour brand, in the sense that once, its only flavour was orange, albeit with different variants. Yet it recently added milk, caramel and mint. Nestlé has also announced caramel, orange and raspberry variants of its After Eights brand. Why are traditionally single-flavour brands being given new flavours?",
-      "date": "2026-09-03",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/03/after-eights-and-terrys-chocolate-orange-new-flavours-for-single-flavour-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "Food Navigator",
-      "function": "Marketing",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Food Navigator",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1038-s41598-026-69966-6",
       "title": "Relationships between temperature-humidity index and the cheese-making potential of dairy milk in temperate environments",
       "summary": "Abstract In response to climate change, indoor stalling challenges, and the sensitivity of dairy cows to elevated temperatures (often initiated at THI > 68), previous research has primarily targeted the effects of elevated THI, creating a gap in knowledge regarding low THI. Yet, freezing winters still reduce milk quality and productivity of high-yielding cows. This study investigates the associati",
       "date": "2026-09-03",
       "sourceUrl": "https://doi.org/10.1038/s41598-026-69966-6",
       "sourceName": "Scientific Reports",
-      "function": "Animal Health",
+      "function": "Quality & Food Safety",
       "region": "Poland",
       "institution": "Institute of Genetics and Animal Biotechnology of the Polish Academy of Sciences",
       "rdType": "Research Paper",
@@ -519,7 +617,7 @@
       "date": "2026-09-03",
       "sourceUrl": "https://doi.org/10.1371/journal.pone.0343484",
       "sourceName": "PLoS ONE",
-      "function": "Breeding & Genetics",
+      "function": "Animal Welfare",
       "region": "Egypt",
       "institution": "Arish University",
       "rdType": "Research Paper",
@@ -539,23 +637,6 @@
       "function": "Animal Health",
       "region": "Brazil",
       "institution": "Universidade Estadual de Londrina",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-64440-ibnsina-sina0029",
-      "title": "The Characterization and Development of Innovative Functional Foods from Jordanian Agro-Food Resources: Bioactive, Sensory, Nutritional, and Functional Properties",
-      "summary": "Various scientific studies highlight the benefits of Functional Foods (FFs) as dietary supplements that provide protein, vitamins, and fiber. It is imperative to have a good understanding of the nutritional realm to address human physical and physiological health and overall wellness. This study aimed to explore consumers’ knowledge of the variable biochemical composition of FFs and their dietary ",
-      "date": "2026-09-03",
-      "sourceUrl": "https://doi.org/10.64440/ibnsina/sina0029",
-      "sourceName": "Ibn Sina Journal of Medical Science Health & Pharmacy",
-      "function": "Nutrition & Feeding",
-      "region": "Global",
-      "institution": "University of Jordan",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -1275,23 +1356,6 @@
       ]
     },
     {
-      "id": "openalex-10-1007-s44163-026-01938-1",
-      "title": "Improving interpretability and applicability of welfare management decisions in dairy cows through explainable artificial intelligence",
-      "summary": "Abstract Background Improving animal welfare and health is a key objective in modern dairy systems. However, translating routinely available dairy herd improvement records into transparent and actionable welfare-related decisions remains challenging, particularly when using complex machine learning (ML) models. This study was designed as a proof of concept to evaluate whether explainable artificia",
-      "date": "2026-09-02",
-      "sourceUrl": "https://doi.org/10.1007/s44163-026-01938-1",
-      "sourceName": "Discover Artificial Intelligence",
-      "function": "Animal Health",
-      "region": "Spain",
-      "institution": "Instituto de Ganadería de Montaña",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-31413-nat-v14i3-20912",
       "title": "MÉTODOS PARA MENSURAÇÃO DE METANO ENTÉRICO EM RUMINANTES: UMA REVISÃO",
       "summary": "Este artigo revisa os principais métodos utilizados para mensurar a emissão de metano entérico (CH₄) em ruminantes, destacando sua importância ambiental como gás de efeito estufa e sua origem como subproduto da fermentação ruminal. São abordadas as principais rotas bioquímicas da metanogênese, com ênfase na atuação das arqueas metanogênicas e na necessidade de remoção do hidrogênio para a manutenç",
@@ -1301,6 +1365,23 @@
       "function": "Nutrition & Feeding",
       "region": "Brazil",
       "institution": "Universidade Federal de Mato Grosso",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s44163-026-01938-1",
+      "title": "Improving interpretability and applicability of welfare management decisions in dairy cows through explainable artificial intelligence",
+      "summary": "Abstract Background Improving animal welfare and health is a key objective in modern dairy systems. However, translating routinely available dairy herd improvement records into transparent and actionable welfare-related decisions remains challenging, particularly when using complex machine learning (ML) models. This study was designed as a proof of concept to evaluate whether explainable artificia",
+      "date": "2026-09-02",
+      "sourceUrl": "https://doi.org/10.1007/s44163-026-01938-1",
+      "sourceName": "Discover Artificial Intelligence",
+      "function": "Robotics & AI",
+      "region": "Spain",
+      "institution": "Instituto de Ganadería de Montaña",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
