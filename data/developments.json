@@ -1,11 +1,853 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-09",
-    "nextRefresh": "2026-09-10",
-    "totalTracked": 14562,
+    "lastRefreshed": "2026-09-10",
+    "nextRefresh": "2026-09-11",
+    "totalTracked": 14628,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-protein-focused-milk-brands-are-gaini",
+      "title": "Protein-focused milk brands are gaining sales in the US",
+      "summary": "US consumers are buying more milk products positioned around protein as plant-based beverages lose ground. Dairy companies are responding with high-protein, ultrafiltered and lactose-free products, while brands are also using partnerships, packaging and new flavours to broaden milk’s appeal.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairynews.today/news/protein_focused_milk_brands_are_gaining_sales_in_the_us_5400279.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Product Launch",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-us-dairy-coalition-urges-congress-to-",
+      "title": "US Dairy Coalition Urges Congress to Reject S. 5026",
+      "summary": "A coalition representing 76 US dairy processors, cooperatives and producer associations has asked congressional leaders to reject the Childhood Diabetes Reduction Act of 2026. Led by the National Milk Producers Federation and the International Dairy Foods Association, the group opposes proposed definitions of ultra-processed foods and related front-of-package warnings for products including milk, ",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairynews.today/news/us_dairy_coalition_urges_congress_to_reject_s_5026_5491709.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-claudia-sheinbaum-defends-t-mec-s-tri",
+      "title": "Claudia Sheinbaum Defends T-MEC’s Trilateral Structure",
+      "summary": "Mexico’s president, Claudia Sheinbaum, has called for the North American trade agreement to retain its three-country framework amid rising commercial tensions between the United States and Canada. She said disputes should be handled through the agreement’s institutional mechanisms rather than retaliatory measures.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairynews.today/news/claudia_sheinbaum_defends_t_mec_s_trilateral_structure_8111138.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-u-s-milk-production-continues-its-exp",
+      "title": "U.S. Milk Production Continues Its Expansion",
+      "summary": "Milk output in the United States is continuing to grow as farms increase yields per cow and processors add capacity for cheese and dairy ingredients. The expansion is tied to larger-scale farms, higher milk-solids content and export demand for products including skimmed milk powder, whey and cheese.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairynews.today/news/u_s_milk_production_continues_its_expansion_5650413.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairynz-outlines-policy-priorities-be",
+      "title": "DairyNZ outlines policy priorities before New Zealand’s general election",
+      "summary": "DairyNZ has set out policy priorities for New Zealand’s dairy industry ahead of the general election. Its programme focuses on regulatory stability, freshwater rules, biosecurity, rural infrastructure and higher value from each kilogram of milksolids.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairynews.today/news/dairynz_outlines_policy_priorities_before_new_zealand_s_general_election_6781320.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-bice-allocated-67bn-in-credit-with-da",
+      "title": "BICE Allocated $67bn in Credit, with Dairy Taking 35%",
+      "summary": "Argentina’s BICE provided 67 billion pesos in credit to 440 producers, with dairy accounting for 35% of the funds. Dairy investments focused on automated milking and monitoring technologies, while milk production exceeded 11.6 billion litres in 2025.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairynews.today/news/bice_allocated_67bn_in_credit_with_dairy_taking_35_7546980.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Argentina",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-us-tariffs-drive-montreal-push-for-local-queb",
+      "title": "US Tariffs Drive Montreal Push for Local Quebec Cheese",
+      "summary": "Looming 50% US tariffs on Canadian cheese spark a buy-local surge in Montreal, shifting retail demand toward Quebec dairy processors.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://en.edairynews.com/us-tariffs-drive-montreal-push-for-local-quebec-cheese/",
+      "sourceName": "eDairyNews",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-fairlife-begins-production-at-650m-new-york-d",
+      "title": "Fairlife Begins Production at $650M New York Dairy Facility",
+      "summary": "Fairlife begins production at its $650M Webster, NY plant, scaling to process up to 6M pounds of milk daily for high-protein, ultra-filtered beverages.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://en.edairynews.com/fairlife-begins-production-at-650m-new-york-dairy-facility/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "company": "Fairlife",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-us-dairy-sector-urges-congress-to-reject-s-50",
+      "title": "US Dairy Sector Urges Congress to Reject S. 5026",
+      "summary": "US dairy groups urge Congress to reject S. 5026, warning that ultra-processed labels on milk, cheese, and yogurt mislead consumers on nutrition.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://en.edairynews.com/us-dairy-sector-urges-congress-to-reject-s-5026/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-uk-dairy-herds-urged-to-capitalize-on-market-",
+      "title": "UK Dairy Herds Urged to Capitalize on Market Swings",
+      "summary": "UK dairy herds hit record 8,848L milk yields in 2025/26, but rising replacement costs and weather volatility demand stronger business resilience.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://en.edairynews.com/uk-dairy-herds-urged-to-capitalize-on-market-swings/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-consortium-trains-future-large-herd-dairy-man",
+      "title": "Consortium Trains Future Large-Herd Dairy Managers",
+      "summary": "The US Dairy Education and Training Consortium equips students with hands-on large-herd management skills across Texas and New Mexico commercial dairies.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://en.edairynews.com/consortium-trains-future-large-herd-dairy-managers/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Mexico",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-tour-leading-dairies-innovative-companies",
+      "title": "Tour Leading Dairies, Innovative Companies and Scenic Idaho Views",
+      "summary": "PDP’s “Experience Idaho” Tour set for October 19-23, 2026 Dairy producers have a unique opportunity to go behind the scenes at cutting-edge dairies and innovative agricultural businesses while experiencing the beautiful scenery of Idaho’s Magic [Read More ...]",
+      "date": "2026-09-10",
+      "sourceUrl": "https://dairybusiness.com/tour-leading-dairies-innovative-companies-and-scenic-idaho-views/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-09-10-us-and-europe-vie-f",
+      "title": "GLP-1 nutrition trend fuels premium whey demand",
+      "summary": "Rising GLP-1 use and protein demand are keeping premium whey markets tight, boosting prices and spurring capacity investment.",
+      "date": "2026-09-10",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/09/10/us-and-europe-vie-for-premium-whey-as-demand-climbs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-news-magnum-ice-cream-glp-1-agentic-ai-",
+      "title": "Magnum seeks to reap GLP-1 benefits, seize agentic AI opportunities",
+      "summary": "The Magnum Ice Cream Company is looking to seize opportunities in GLP-1s and make sure the category is top of the tree in AI-driven searches. The post Magnum seeks to reap GLP-1 benefits, seize agentic AI opportunities appeared first on Just Food .",
+      "date": "2026-09-10",
+      "sourceUrl": "https://www.just-food.com/news/magnum-ice-cream-glp-1-agentic-ai/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-sponsored-why-hrb-hold-the-key-to-lifelong-wel",
+      "title": "Why HRB hold the key to lifelong wellness and age-defying health",
+      "summary": "Supported by over 50 years of clinical research, Morinaga Milk’s premier probiotic strain B. longum BB536 is redefining healthy longevity. The post Why HRB hold the key to lifelong wellness and age-defying health appeared first on Just Food .",
+      "date": "2026-09-10",
+      "sourceUrl": "https://www.just-food.com/sponsored/why-hrb-hold-the-key-to-lifelong-wellness-and-age-defying-health/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "company": "Morinaga",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-argentina-s-dairy-sector-produced-6-m",
+      "title": "Argentina’s Dairy Sector Produced 6% More as Milk Prices Lagged Inflation",
+      "summary": "Argentina’s accumulated dairy production increased by 6%, while dairy exports rose by 19%. The price paid to milk producers reached 527 pesos per litre in July, up 11.5% from a year earlier, compared with inflation of 33.8%, according to CONINAGRO.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/argentina_s_dairy_sector_produced_6_more_as_milk_prices_lagged_inflation_5720574.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Argentina",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-usdetc-trains-students-in-large-herd-",
+      "title": "USDETC Trains Students in Large-Herd Dairy Management",
+      "summary": "The U.S. Dairy Education and Training Consortium runs an intensive six-week summer programme linking university students with commercial dairy operations in the American Southwest. Based in Clovis, New Mexico, it combines classroom teaching with visits to dairies, calf ranches, feed mills and milk-processing facilities.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/usdetc_trains_students_in_large_herd_dairy_management_1771450.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Mexico",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-danone-expands-yopro-high-protein-yog",
+      "title": "Danone Expands YoPro High-Protein Yoghurt Brand into New Zealand",
+      "summary": "Danone has launched its YoPro high-protein yoghurt range in New Zealand, extending the brand’s retail presence to 35 countries. Foodstuffs North Island will distribute the products through Pak’nSave and New World supermarkets.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/danone_expands_yopro_high_protein_yoghurt_brand_into_new_zealand_4515357.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "New Zealand",
+      "company": "Danone",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-banco-do-brasil-bulletin-gives-dairy-",
+      "title": "Banco do Brasil bulletin gives dairy farming a separate path",
+      "summary": "Banco do Brasil’s September Agro Bulletin describes a broadly positive final quarter of 2026 for Brazilian livestock, with export demand supporting beef, poultry and pork. Dairy farming is assessed differently, with domestic supply and producer management carrying greater weight than foreign sales.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/banco_do_brasil_bulletin_gives_dairy_farming_a_separate_path_9747114.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-uk-dairy-herds-are-urged-to-capitaliz",
+      "title": "UK Dairy Herds Are Urged to Capitalize on Market Swings",
+      "summary": "UK dairy producers recorded exceptional returns during the first half of the 2025/26 production season, as strong milk prices relative to feed costs supported record margins. Higher milk volumes, summer drought and changes in wholesale demand later produced a sharp market correction, according to Kingshay’s annual Dairy Costings Focus Report.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/uk_dairy_herds_are_urged_to_capitalize_on_market_swings_8964607.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-herd-i-launches-ai-cow-monitoring-sys",
+      "title": "Herd-i Launches AI Cow Monitoring System in America",
+      "summary": "New Zealand dairy-technology company Herd-i has introduced its artificial-intelligence cow-monitoring system in the United States. The platform uses cameras and software to provide dairy producers with animal-level scores, herd patterns and video after each milking.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/herd_i_launches_ai_cow_monitoring_system_in_america_4203875.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-teagasc-launches-grodairy-programme-t",
+      "title": "Teagasc launches GROdairy programme to tackle 38% dairy succession gap",
+      "summary": "Teagasc has launched GROdairy, a programme addressing succession on Irish dairy farms. The agency says 38% of dairy farmers aged over 50 have not identified a successor, while more than 60% of all Irish dairy farmers are over 55.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/teagasc_launches_grodairy_programme_to_tackle_38_dairy_succession_gap_8440976.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-lactalis-nestl-and-six-firms-advance-",
+      "title": "Lactalis, Nestlé and Six Firms Advance in Mais Leite Saudável",
+      "summary": "Brazil’s Federal Revenue Secretariat granted definitive qualification to eight dairy companies under the Mais Leite Saudável programme on September 10th 2026. The approved investment projects had previously been reviewed by the Ministry of Agriculture and Livestock.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/lactalis_nestl_and_six_firms_advance_in_mais_leite_saud_vel_3392069.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Brazil",
+      "company": "Lactalis",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-rainfall-raises-expectations-for-regi",
+      "title": "Rainfall Raises Expectations for Regional Cheese Production in Baja California Sur",
+      "summary": "Recent rainfall in Baja California Sur has restored pasture and water supplies in rural areas after prolonged dry periods. Ranchers expect higher milk yields and increased production of regional cheese and other dairy products.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/rainfall_raises_expectations_for_regional_cheese_production_in_baja_california_sur_6828224.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-alileche-begins-distribution-in-edome",
+      "title": "Alileche Begins Distribution in Edomex, Mexico City and Colima",
+      "summary": "Alileche, a dairy company backed by milk producers in Aguascalientes, has announced the start of distribution in the State of Mexico, Mexico City and Colima. The company will sell pasteurised and ultra-pasteurised milk made from 100% cow’s milk in those markets.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/alileche_begins_distribution_in_edomex_mexico_city_and_colima_3268219.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Mexico",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-dairy-educator-wins-australian-rura",
+      "title": "A Dairy Educator Wins Australian Rural Woman of the Year",
+      "summary": "Zanker, a former classroom teacher, has been named Australian Rural Woman of the Year for combining dairy production with farm-based education. Her 4,000-acre enterprise milks 300 cows and attracted more than 1,200 visitors in its first year.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/a_dairy_educator_wins_australian_rural_woman_of_the_year_7163214.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-glanbia-appoints-wendy-chang-smith-as",
+      "title": "Glanbia appoints Wendy Chang Smith as CFO as Mark Garvey retires",
+      "summary": "Glanbia will appoint Wendy Chang Smith as chief financial officer and an executive director on March 31st 2027. Mark Garvey will leave the CFO role and the board the day before, retiring from the group on April 30th.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/glanbia_appoints_wendy_chang_smith_as_cfo_as_mark_garvey_retires_9126018.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "company": "Glanbia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-bryce-cunningham-explains-how-he-foun",
+      "title": "Bryce Cunningham Explains How He Founded Mossgiel Organic Dairy",
+      "summary": "Bryce Cunningham founded Mossgiel Organic Dairy after seeing his family farm fail when low milk prices left it bankrupt. He developed a certified-organic dairy model based on pasture-fed cattle, reusable packaging and a closer connection between milk and its source.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/bryce_cunningham_explains_how_he_founded_mossgiel_organic_dairy_8368491.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-uttar-pradesh-orders-100-crore-probe-",
+      "title": "Uttar Pradesh Orders ₹100 Crore Probe Into Parag Dairy",
+      "summary": "Uttar Pradesh’s dairy commissioner has ordered an inquiry into alleged financial irregularities exceeding ₹100 crore at the Parag Dairy facility in Meerut. The investigation will examine suspected grant misuse, fabricated milk-transport records and unpaid dues owed to farmers.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/uttar_pradesh_orders_100_crore_probe_into_parag_dairy_3234382.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Parag",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-farms-adopt-automation-to-raise",
+      "title": "Dairy Farms Adopt Automation to Raise Shed Productivity",
+      "summary": "Commercial dairy operators are expanding their use of robotic milking, biometric wearables and automated feeding systems. The global smart-dairy-farming market is projected to reach $9.8 billion in 2026, with forecasts estimating a 14% compound annual growth rate through 2034.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/dairy_farms_adopt_automation_to_raise_shed_productivity_1835300.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-pune-federation-raises-farm-milk-pric",
+      "title": "Pune Federation Raises Farm Milk Prices by Re 1, Leaves Retail Rates Unchanged",
+      "summary": "The Pune District Cooperative Milk Producers’ Federation will pay farmers Re 1 more per litre for cow and buffalo milk from September 11. Consumer prices will not change under the decision, which comes before Ganeshotsav.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/pune_federation_raises_farm_milk_prices_by_re_1_leaves_retail_rates_unchanged_6690612.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-salmonella-outbreaks-prompt-warnings-",
+      "title": "Salmonella Outbreaks Prompt Warnings for Dairy Herds",
+      "summary": "A rise in Salmonella outbreaks has prompted warnings on protecting dairy herds from rapid transmission. The disease can affect milking cows and replacement calves, while vaccination and early veterinary treatment are identified as key measures.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/salmonella_outbreaks_prompt_warnings_for_dairy_herds_6200280.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-tirol-launches-sugar-free-lactose-fre",
+      "title": "Tirol launches sugar-free, lactose-free dulce de leche",
+      "summary": "Brazilian dairy company Tirol has introduced a 250g dulce de leche made without added sugar or lactose. The product is designed to retain the creamy texture and pronounced flavour associated with the traditional version while serving consumers seeking alternatives to it.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/tirol_launches_sugar_free_lactose_free_dulce_de_leche_1325895.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-drought-cuts-el-salvador-s-milk-produ",
+      "title": "Drought Cuts El Salvador’s Milk Production by Up to 75%",
+      "summary": "Livestock organisations in El Salvador have reported milk-production declines ranging from 25% to 75%. The largest reductions have been recorded mainly in the country’s eastern region, while a shortage of pasture has raised the cost of producing a bottle of milk to $0.63.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/drought_cuts_el_salvador_s_milk_production_by_up_to_75_4014854.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-lactose-free-milk-tastes-sweeter-afte",
+      "title": "Lactose-Free Milk Tastes Sweeter After Lactose Is Broken Down",
+      "summary": "Lactose-free milk can taste sweeter even when no sugar has been added. The difference comes from converting lactose into glucose and galactose, which the human palate perceives more intensely.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/lactose_free_milk_tastes_sweeter_after_lactose_is_broken_down_5640978.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kak-stado-opredelyaet-budushchiy-dokh",
+      "title": "Marzhan Zhulanova to Discuss How Herds Determine Farm Revenue at AqAltyn 2026",
+      "summary": "The Director of CRI Kazakhstan, Marzhan Zhulanova, will speak at the IV Central Asian Dairy Congress AqAltyn 2026 in Shymkent. Her presentation topic is 'The Herd as the Farm's Main Asset: What Determines Income in Three Years'.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/kak-stado-opredelyaet-budushchiy-dokhod-fermy-marzhan-zhulanova-vystupit-na-aqaltyn-2026.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-proposed-south-dakota-mega-dairy-tr",
+      "title": "A proposed South Dakota mega-dairy triggers a regulatory dispute",
+      "summary": "A proposed 25,000-cow dairy in South Dakota has become the focus of a dispute over livestock zoning and local oversight. A state inquiry into an elected local official began shortly after he questioned planning figures linked to the project.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/a_proposed_south_dakota_mega_dairy_triggers_a_regulatory_dispute_3645149.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-danone-plans-measured-expansion-in-in",
+      "title": "Danone plans measured expansion in India",
+      "summary": "Danone intends to make India a significant long-term growth market while maintaining a focus on profitability. Chief executive Antoine de Saint-Affrique said the company would expand cautiously in a competitive market, with specialised nutrition at the centre of its strategy.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/danone_plans_measured_expansion_in_india_4680965.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "company": "Danone",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nestl-and-danone-are-reshaping-growth",
+      "title": "Nestlé and Danone are reshaping growth around health and efficiency",
+      "summary": "Nestlé is concentrating investment on faster-growing categories, while Danone is building its next phase around health, science and specialised nutrition. Both companies are also addressing production capacity, margins and changing consumer behaviour across major markets.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/nestl_and_danone_are_reshaping_growth_around_health_and_efficiency_3381513.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "company": "Danone",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-salmonella-outbreak-surge-prompts-dairy-herd-",
+      "title": "Salmonella Outbreak Surge Prompts Dairy Herd Warnings",
+      "summary": "A sharp rise in dairy herd salmonella cases prompts urgent warnings for farmers to strengthen biosecurity and monitor stock for clinical symptoms.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://en.edairynews.com/salmonella-outbreak-surge-prompts-dairy-herd-warnings/",
+      "sourceName": "eDairyNews",
+      "function": "Quality & Food Safety",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-ildex-indonesia-new-strategic-partner-edairyn",
+      "title": "ILDEX Indonesia is Also a New Strategic Partner of eDairyNews",
+      "summary": "eDairyNews and VNU Asia Pacific, organizer of ILDEX Indonesia 2026, have signed a strategic media partnership agreement. This cooperation will boost the global presence of the livestock, dairy, meat processing, and aquaculture industries across the Asia-Pacific region during the trade exhibition in Jakarta.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://en.edairynews.com/ildex-indonesia-new-strategic-partner-edairynews/",
+      "sourceName": "eDairyNews",
+      "function": "Dairy Processing",
+      "region": "Indonesia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-dairy-educator-named-australian-rural-woman-o",
+      "title": "Dairy Educator Named Australian Rural Woman of the Year",
+      "summary": "Dairy farmer and educator Narelle Zanker wins the national AgriFutures Rural Women’s Award for bridging the gap between consumers and dairy farming.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://en.edairynews.com/dairy-educator-named-australian-rural-woman-of-the-year/",
+      "sourceName": "eDairyNews",
+      "function": "Marketing",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-smart-automation-tools-reshape-dairy-shed-pro",
+      "title": "Smart Automation Tools Reshape Dairy Shed Productivity",
+      "summary": "Smart dairy farming tools, from milking robots to wearable sensors, drive herd efficiency as the sector targets $29.4B in global value by 2034.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://en.edairynews.com/smart-automation-tools-reshape-dairy-shed-productivity/",
+      "sourceName": "eDairyNews",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-experience-jersey-youth-academy-class-x-",
+      "title": "Experience Jersey Youth Academy – Class X",
+      "summary": "Applications now available for Class X of Jersey Youth Academy! Apply here for the best youth program in the industry! The tenth Jersey Youth Academy will be held July 11-16, 2027. The application period for [Read More ...]",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairybusiness.com/experience-jersey-youth-academy-class-x/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-milks-got-game-mason-walters-fuels-with-m",
+      "title": "Milk’s Got Game®: Mason Walters Fuels with Milk Post-Workout",
+      "summary": "Real dairy milk post-workout (and pre-) provides high-quality protein that helps support muscle recovery and strength for athletes of every age. Performance isn’t just important on race day. What you do off the track matters. The Milk’s Got Game campaign highlights how [Read More ...]",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairybusiness.com/milks-got-game-mason-walters-fuels-with-milk-post-workout/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-news-trump-bans-canadian-imports-",
+      "title": "Trump bans Canadian alcohol, dairy imports in tariffs tit-for-tat",
+      "summary": "Trump has blocked Canadian alcohol and dairy imports, marking an escalation of the trade conflict between the neighbouring countries. The post Trump bans Canadian alcohol, dairy imports in tariffs tit-for-tat appeared first on Just Food .",
+      "date": "2026-09-09",
+      "sourceUrl": "https://www.just-food.com/news/trump-bans-canadian-imports/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-camponesa-builds-dairy-campaign-aroun",
+      "title": "Camponesa Builds Dairy Campaign Around Product Fat Content",
+      "summary": "Brazilian dairy company Camponesa has launched a national campaign for its Cream and Whole Condensed Milk products, with activities in Minas Gerais and Pernambuco. The campaign uses fat content, recipes and confectioners’ demonstrations as its central marketing elements.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/camponesa_builds_dairy_campaign_around_product_fat_content_8351870.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-yakult-leads-fermented-milk-ranking-f",
+      "title": "Yakult Leads Fermented Milk Ranking for Fifth Year",
+      "summary": "Yakult retained first place in Brazil’s fermented-milk category at the 11th MESC Awards. The company received the category’s top position for the fifth consecutive year and ranked 23rd overall.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/yakult_leads_fermented_milk_ranking_for_fifth_year_2466130.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-protein-expands-into-everyday-dairy-p",
+      "title": "Protein Expands into Everyday Dairy Products",
+      "summary": "Protein ingredients, including soy protein, are being incorporated into a wider range of food categories, including dairy products and plant-based alternatives. Yogurts, desserts and ice creams are among the dairy categories receiving protein reformulations, while manufacturers must maintain texture, stability, taste, processing performance and shelf life.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/protein_expands_into_everyday_dairy_products_8950760.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-farm-dairy-turns-pasture-fed-milk-i",
+      "title": "A Farm Dairy Turns Pasture-Fed Milk into Distinctive Butter",
+      "summary": "A dairy operating on a farm in Serra Negra makes butter directly from milk produced by its pasture-fed herd. The process uses no ingredients other than salt in the salted version, while the product’s natural yellow colour comes from beta-carotene in the milk.",
+      "date": "2026-09-09",
+      "sourceUrl": "https://dairynews.today/news/a_farm_dairy_turns_pasture_fed_milk_into_distinctive_butter_4817595.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-64681-8",
+      "title": "Theoretical investigation of the adsorption and sensing behavior of cephapirin on transition metal doped gallium nitride single-walled nanotubes",
+      "summary": "The extensive use of cephapirin (CPP) in the treatment of mastitis in dairy cattle has raised environmental concerns because residues excreted in an unchanged form can enter soil and water systems, where they promote the survival and spread of antibiotic-resistant bacteria. These resistant microorganisms may transfer resistance genes to other bacterial populations, creating environmental reservoir",
+      "date": "2026-09-09",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-64681-8",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "Nigeria",
+      "institution": "University of Calabar",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1896469",
+      "title": "What ‘smart’ dairy farming technologies are Irish dairy farmers using and why? Exploring perceived benefits and barriers to technology adoption in a pasture-based system",
+      "summary": "The availability of ‘smart’ agricultural technologies -- automated, digital, precision, robotics -- has risen. While they promise to improve myriad pressures faced by European livestock farmers (e.g., improving productivity, easing labour challenges, reducing environmental impacts, enhancing social wellbeing), adoption levels by Irish pasture-based dairy farmers remains varied. This study examines",
+      "date": "2026-09-09",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1896469",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Farm Management",
+      "region": "Ireland",
+      "institution": "Teagasc - The Irish Agriculture and Food Development Authority",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-us-bans-canadian-dairy-alcohol-and-mo",
       "title": "US bans Canadian dairy, alcohol and motorcycles",
@@ -149,6 +991,189 @@
       "tags": [
         "RSS",
         "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-muhoho-kenyatta-identifies-brookside-",
+      "title": "Muhoho Kenyatta identifies Brookside as his best-known investment",
+      "summary": "Muhoho Kenyatta has named Brookside Dairy as the business most closely associated with his investment career. He also urged entrepreneurs to reinvest early profits instead of using them for luxury spending.",
+      "date": "2026-09-08",
+      "sourceUrl": "https://dairynews.today/news/muhoho_kenyatta_identifies_brookside_as_his_best_known_investment_8901299.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Kenya",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-us-dairy-markets-are-sending-mixed-co",
+      "title": "US Dairy Markets Are Sending Mixed Commodity Signals",
+      "summary": "US dairy markets are showing opposing trends across major commodities. Higher values for nonfat dry milk and dry whey are offsetting weaker domestic prices for bulk cheese and butter, while plentiful milk supplies and rising farm costs are limiting financial gains for producers.",
+      "date": "2026-09-08",
+      "sourceUrl": "https://dairynews.today/news/us_dairy_markets_are_sending_mixed_commodity_signals_2947452.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-automation-becomes-a-market-requireme",
+      "title": "Automation Becomes a Market Requirement in Pasteurisation",
+      "summary": "Automation in pasteurisation was presented as a market-entry requirement rather than a competitive advantage at Fispal Tecnologia 2026. Equipment makers showcased systems designed to raise capacity, reduce steam use, improve traceability and address shortages of qualified labour.",
+      "date": "2026-09-08",
+      "sourceUrl": "https://dairynews.today/news/automation_becomes_a_market_requirement_in_pasteurisation_6916172.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1937866",
+      "title": "Development and biomarker-based validation of a novel feed formulation for managing production diseases in dairy buffaloes",
+      "summary": "Introduction The critical period from 3 weeks prepartum to 3 weeks postpartum is considered the transition period and is characterized by major endocrinological and metabolic changes that can lead to production and infectious diseases. In addition, decreased dry matter intake and altered nutritional requirements are evident during this period. The objective of our study was to analyze the effects ",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1937866",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "institution": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1128-mra-00865-26",
+      "title": "Draft genome sequence of Enterococcus casseliflavus strain MBBL_MP4 isolated from healthy bovine milk",
+      "summary": "ABSTRACT We report the draft genome sequence of Enterococcus casseliflavus MBBL_MP4, recovered from healthy bovine milk. The 3.45-Mbp genome assembly comprises 27 contigs and indicates low pathogenic potential, with no acquired antimicrobial resistance or known virulence genes. This genome provides a valuable resource for the genomic characterization of bovine-associated E. casseliflavus .",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.1128/mra.00865-26",
+      "sourceName": "Microbiology Resource Announcements",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-jpn-70110",
+      "title": "Expression of Mineral and Urea Transport‐Related Genes in the Salivary Glands and Ruminal Epithelium of Young Goats Fed Nitrogen‐ and/or Calcium‐Reduced Diets",
+      "summary": "ABSTRACT An adequate supply of protein and minerals, particularly nitrogen (N) and calcium (Ca), is essential for ruminant growth and metabolic function. The rumen and salivary glands are crucial for nutrient and electrolyte homoeostasis via specialised transport proteins. Dietary reductions in N and Ca may elicit adaptive molecular and physiological responses, but their effects on epithelial tran",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.1111/jpn.70110",
+      "sourceName": "Journal of Animal Physiology and Animal Nutrition",
+      "function": "Nutrition & Feeding",
+      "region": "Germany",
+      "institution": "University of Veterinary Medicine Hannover, Foundation",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-anbehav-2026-123642",
+      "title": "Are individual differences in social behaviour a cause or a consequence of endoparasite infection in feral cattle?",
+      "summary": "Host–parasite interactions are often described as ‘vicious circles’, with infected hosts differing from their noninfected conspecifics in ways that can increase their parasitic load and risk of concurrent infections. However, the question of whether individual differences are a cause or a consequence of infection remains challenging to address, as it requires simultaneous quantification of infecti",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.1016/j.anbehav.2026.123642",
+      "sourceName": "Animal Behaviour",
+      "function": "Animal Health",
+      "region": "Hong Kong",
+      "institution": "City University of Hong Kong",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1002-ppj2-70106",
+      "title": "Evaluation of uncrewed aerial system‐derived vegetation indices for forage trait phenomic prediction in oat–pea intercrop breeding trials",
+      "summary": "Abstract Accelerating genetic gain in intercrop forage breeding requires scalable phenotyping approaches that can capture both yield and quality variation across complex genotype combinations. This study evaluated the use of uncrewed aerial system (UAS)‐derived multispectral vegetation indices (VIs) for predicting forage yield and nutritive quality in oat ( Avena sativa L.)‐pea ( Pisum sativum L.)",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.1002/ppj2.70106",
+      "sourceName": "The Plant Phenome Journal",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "institution": "University of Illinois Urbana-Champaign",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1017-s0022029926102647",
+      "title": "Microbiological properties, biogenic amines, total phenolic contents and antioxidant activities of goat kefir fortified with locust bean gum",
+      "summary": "Abstract Kefir from goat milk is a functional fermented dairy product with probiotics, enhanced digestibility and a distinct nutritional profile. This study aimed to investigate the effects of the addition of different concentrations (0.05%, 0.1% and 0.2%) of locust bean gum (LBG) on some biofunctional and microbiological properties of goat milk kefir during 28 days of storage. Storage time was th",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.1017/s0022029926102647",
+      "sourceName": "Journal of Dairy Research",
+      "function": "Quality & Food Safety",
+      "region": "Turkey",
+      "institution": "Bolu Abant İzzet Baysal University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s43014-026-00419-3",
+      "title": "Probiotic soy yogurt: a review of microbial metabolism, strain selection, and biotechnological advances in plant-based fermentation",
+      "summary": "The growing demand for plant-based functional foods has positioned soy yogurt as a promising alternative to dairy products. This review provides a critical, microbiology-focused examination of functional probiotic soy yogurt, covering the period from 2016 to 2026. Unlike previous broad nutritional surveys, this work uniquely synthesizes the microbiological determinants of fermentation, including s",
+      "date": "2026-09-08",
+      "sourceUrl": "https://doi.org/10.1186/s43014-026-00419-3",
+      "sourceName": "Food Production Processing and Nutrition",
+      "function": "Product Development",
+      "region": "Egypt",
+      "institution": "National Research Centre",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "arxiv-2609.09381v1",
+      "title": "Extracting Semantics from Cattle Reporting Categories for Data Interoperability and Findability",
+      "summary": "Livestock population data disaggregated by age, sex, and production are important inputs to calculations and models that inform our understanding of global health, yet these data are fragmented across disparate sources. Bridging data siloes to improve the findability of data requires interoperability. Conventional approaches to improving the findability and interoperability of data include indexin",
+      "date": "2026-09-08",
+      "sourceUrl": "http://arxiv.org/abs/2609.09381v1",
+      "sourceName": "arXiv",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Kassy Raymond",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
         "auto-ingested"
       ]
     },
@@ -667,22 +1692,6 @@
       ]
     },
     {
-      "id": "rss-Just-Food-https-www-just-food-com-news-omg-strikes-deal-with-slades-",
-      "title": "Oat-milk firm OMG strikes equity-and-production deal",
-      "summary": "Australian food-and-drinks company OMG Group has struck an equity-and-manufacturing deal with beverage manufacturer Slades Beverages. The post Oat-milk firm OMG strikes equity-and-production deal appeared first on Just Food .",
-      "date": "2026-09-08",
-      "sourceUrl": "https://www.just-food.com/news/omg-strikes-deal-with-slades/",
-      "sourceName": "Just Food",
-      "function": "Digital Platforms & Innovation",
-      "region": "Australia",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-cme-group-agrees-to-enter-european-da",
       "title": "CME Group Agrees to Enter European Dairy Market",
       "summary": "CME Group and the European Energy Exchange have agreed that EEX will transfer its European dairy business to CME Group. EEX plans to phase out the business and support the migration of the indices behind its existing futures contracts by the end of 2027.",
@@ -840,6 +1849,91 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-68051-2",
+      "title": "Genomic characterization of Mammaliicoccus sciuri associated with bovine mastitis in India: resistome, virulome, and phylogenetic diversity",
+      "summary": "Mammaliicoccus sciuri (formerly Staphylococcus sciuri ) is an emerging opportunistic pathogen associated with bovine mastitis and a recognized reservoir of antimicrobial resistance (AMR) genes. However, region-specific genomic data from India remain limited. This study provides comprehensive genomic characterization of mastitis-associated M. sciuri isolates from Karnataka, southern India. A total ",
+      "date": "2026-09-07",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-68051-2",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "India",
+      "institution": "National Institute Of Veterinary Epidemiology And Disease Informatics",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1088-2515-7620-aea3be",
+      "title": "Life cycle assessment in conventional dairy production and processing: A bibliometric and thematic review",
+      "summary": "Abstract Life cycle assessment is widely used to evaluate the environmental performance of conventional dairy production and processing. Beyond established environmental findings, however, less attention has been paid to how recent knowledge is structured, which research lines dominate the literature, and which dimensions remain weakly integrated. This study examines publications between 2020 and ",
+      "date": "2026-09-07",
+      "sourceUrl": "https://doi.org/10.1088/2515-7620/aea3be",
+      "sourceName": "Environmental Research Communications",
+      "function": "Sustainability & Traceability",
+      "region": "Mexico",
+      "institution": "Universidad Autónoma Metropolitana",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1893001",
+      "title": "Associations between temperature–humidity index and rumination time in lactating and periparturient Holstein cows in a New England conventional dairy herd",
+      "summary": "Introduction Heat stress (HS) is a growing concern within the dairy industry as temperatures increase worldwide, negatively affecting dairying regions previously unthreatened by extreme heat. Heat stress has been shown to negatively impact health, production, and rumination time (RT) in dairy cows. The objective of this study was to 1) explore differences in rumination time at differing HS levels,",
+      "date": "2026-09-07",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1893001",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Animal Welfare",
+      "region": "USA",
+      "institution": "University of New Hampshire",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s00122-026-05371-x",
+      "title": "Genomic selection in timothy (Phleum pratense L.): a comprehensive evaluation of prediction models, multi-trait strategies, and forward validation across Norwegian environments",
+      "summary": "KEY MESSAGE: This study presents a comprehensive evaluation of genomic selection (GS) in timothy (Phleum pratense L.), comparing nine prediction models across yield and quality traits at two Norwegian locations. Forward validation with independent full-sib (FS2) families revealed a substantial generalization gap, highlighting the need for realistic accuracy assessment in polyploid forage breeding.",
+      "date": "2026-09-07",
+      "sourceUrl": "https://doi.org/10.1007/s00122-026-05371-x",
+      "sourceName": "Theoretical and Applied Genetics",
+      "function": "Breeding & Genetics",
+      "region": "Norway",
+      "institution": "Norwegian University of Life Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1016-j-rvsc-2026-106391",
+      "title": "Evaluation of machine learning models for predicting mastitis in dairy cows using dielectric properties and other milk quality parameters. ",
+      "summary": "Early and accurate detection of mastitis is essential for improving udder health, milk quality and dairy farm productivity. This study evaluated machine learning models for estimating somatic cell count (SCC) from physico-chemical milk parameters integrated with dielectric properties and for assigning SCC derived udder health categories. A total of 982 longitudinal milk samples obtained from 100 d",
+      "date": "2026-09-07",
+      "sourceUrl": "https://doi.org/10.1016/j.rvsc.2026.106391",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "India",
+      "institution": "Department of Dairy Engineering",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -2529,23 +3623,6 @@
       "tags": [
         "RSS",
         "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1016-j-applanim-2026-107175",
-      "title": "Defining a distance threshold for utilising positioning data from a real-time location system to estimate affiliative dam-calf interactions in a freestall cow-calf contact system",
-      "summary": "ABSTRACT Behavioural data is often collected using direct observations, requiring dedicated labour commitments from observers. Technology provides opportunities to more efficiently monitor behaviour and, consequently, welfare, but external validation of technology-assisted solutions is essential. This project investigated whether filtering positioning data from a real-time location system (RTLS) b",
-      "date": "2026-09-03",
-      "sourceUrl": "https://doi.org/10.1016/j.applanim.2026.107175",
-      "sourceName": "Applied Animal Behaviour Science",
-      "function": "Animal Welfare",
-      "region": "Sweden",
-      "institution": "Swedish University of Agricultural Sciences",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -18237,6 +19314,23 @@
       ]
     },
     {
+      "id": "epmc-10-3390-foods15162815",
+      "title": "A Review of Machine Learning and AI Applications in Enhancing HACCP Systems for Ice Cream Manufacturing.",
+      "summary": "Hazard analysis and critical control point (HACCP) systems provide a preventive framework for food safety by implementing quality assurance plans, continuous monitoring, corrective actions, and risk mitigation strategies at critical control points throughout food processing, including dairy products such as ice cream. Artificial intelligence (AI) is increasingly transforming food safety management",
+      "date": "2026-08-12",
+      "sourceUrl": "https://doi.org/10.3390/foods15162815",
+      "sourceName": "Europe PMC",
+      "function": "Robotics & AI",
+      "region": "South Korea",
+      "institution": "School of Food Science and Technology",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "news-cdcb-calf-health-2026-08-12",
       "title": "CDCB launches first national genetic evaluations for calf health",
       "summary": "The August 2026 CDCB evaluations add Resistance to Diarrhea (DIA) and Resistance to Respiratory Problems (RSP) PTAs for Holsteins and Jerseys, built from DHI calf-health records with USDA AGIL, plus revisions to DPR, CCR, HCR and a new First Service to Conception trait.",
@@ -30355,23 +31449,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "epmc-10-3389-fmicb-2026-1892513",
-      "title": "Bacteriophage lysins: a promising strategy for combating foodborne pathogens in food safety.",
-      "summary": "Food safety is a major public concern, with foodborne pathogens such as <i>Staphylococcus aureus</i>, <i>Listeria monocytogenes</i>, <i>Clostridium perfringens</i>, and <i>Vibrio parahaemolyticus</i> causing millions of infections and significant economic losses annually. Phage and endolysin therapies have emerged as promising environmentally friendly strategies for pathogen control. Bacteriophage",
-      "date": "2026-07-17",
-      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1892513",
-      "sourceName": "Europe PMC",
-      "function": "Quality & Food Safety",
-      "region": "China",
-      "institution": "School of Pharmaceutical Sciences and Food Engineering",
-      "rdType": "Academic Study",
-      "tags": [
-        "Europe PMC",
-        "PubMed",
         "auto-ingested"
       ]
     },
