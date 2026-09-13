@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-12",
-    "nextRefresh": "2026-09-13",
-    "totalTracked": 14710,
+    "lastRefreshed": "2026-09-13",
+    "nextRefresh": "2026-09-14",
+    "totalTracked": 14707,
     "coverageStart": "2024-01-01"
   },
   "developments": [
@@ -487,6 +487,56 @@
       ]
     },
     {
+      "id": "rss-Just-Food-https-www-just-food-com-news-magnum-ice-cream-glp-1-agentic-ai-",
+      "title": "Magnum seeks to reap GLP-1 benefits, seize agentic AI opportunities",
+      "summary": "The Magnum Ice Cream Company is looking to seize opportunities in GLP-1s and make sure the category is top of the tree in AI-driven searches. The post Magnum seeks to reap GLP-1 benefits, seize agentic AI opportunities appeared first on Just Food .",
+      "date": "2026-09-10",
+      "sourceUrl": "https://www.just-food.com/news/magnum-ice-cream-glp-1-agentic-ai/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-sponsored-why-hrb-hold-the-key-to-lifelong-wel",
+      "title": "Why HRB hold the key to lifelong wellness and age-defying health",
+      "summary": "Supported by over 50 years of clinical research, Morinaga Milk’s premier probiotic strain B. longum BB536 is redefining healthy longevity. The post Why HRB hold the key to lifelong wellness and age-defying health appeared first on Just Food .",
+      "date": "2026-09-10",
+      "sourceUrl": "https://www.just-food.com/sponsored/why-hrb-hold-the-key-to-lifelong-wellness-and-age-defying-health/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "company": "Morinaga",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-chemosphere-2026-145093",
+      "title": "A machine learning approach to estimating nitrate-nitrogen concentrations in shallow groundwater across New Zealand",
+      "summary": "Nitrate contamination of shallow groundwater is a concern for drinking water safety and ecosystem health globally, yet national-scale prediction techniques remain limited. Here, we describe the development and evaluation of an ensemble machine learning framework to estimate median nitrate (NO 3 -N) concentrations in shallow groundwater across New Zealand. From 957 state of the environment monitori",
+      "date": "2026-09-10",
+      "sourceUrl": "https://doi.org/10.1016/j.chemosphere.2026.145093",
+      "sourceName": "Chemosphere",
+      "function": "Quality & Food Safety",
+      "region": "New Zealand",
+      "institution": "University of Otago",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-pennsylvania-dairy-farmers-face-risin",
       "title": "Pennsylvania Dairy Farmers Face Rising Production Costs",
       "summary": "Pennsylvania dairy producers are absorbing higher costs for feed, fuel and equipment maintenance while milk prices have provided only brief relief. Consumers are responding to elevated dairy prices by buying less fluid milk or switching to private-label products.",
@@ -551,39 +601,6 @@
       ]
     },
     {
-      "id": "rss-Just-Food-https-www-just-food-com-news-magnum-ice-cream-glp-1-agentic-ai-",
-      "title": "Magnum seeks to reap GLP-1 benefits, seize agentic AI opportunities",
-      "summary": "The Magnum Ice Cream Company is looking to seize opportunities in GLP-1s and make sure the category is top of the tree in AI-driven searches. The post Magnum seeks to reap GLP-1 benefits, seize agentic AI opportunities appeared first on Just Food .",
-      "date": "2026-09-10",
-      "sourceUrl": "https://www.just-food.com/news/magnum-ice-cream-glp-1-agentic-ai/",
-      "sourceName": "Just Food",
-      "function": "Digital Platforms & Innovation",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "rss-Just-Food-https-www-just-food-com-sponsored-why-hrb-hold-the-key-to-lifelong-wel",
-      "title": "Why HRB hold the key to lifelong wellness and age-defying health",
-      "summary": "Supported by over 50 years of clinical research, Morinaga Milk’s premier probiotic strain B. longum BB536 is redefining healthy longevity. The post Why HRB hold the key to lifelong wellness and age-defying health appeared first on Just Food .",
-      "date": "2026-09-10",
-      "sourceUrl": "https://www.just-food.com/sponsored/why-hrb-hold-the-key-to-lifelong-wellness-and-age-defying-health/",
-      "sourceName": "Just Food",
-      "function": "Digital Platforms & Innovation",
-      "region": "Global",
-      "company": "Morinaga",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-3390-antibiotics15090889",
       "title": "Mastitis-Associated Bacterial Isolates and Antimicrobial Resistance in a Single Dairy Herd in the Akmola Region, Kazakhstan",
       "summary": "Background/Objectives: Bovine mastitis is a common infection in cattle causing significant economic losses globally in the dairy industry. While bacterial profiles and antimicrobial resistance (AMR) patterns are generally consistent worldwide, comprehensive epidemiological and AMR data from Kazakhstan are lacking. This study characterized mastitis-associated bacterial isolates and their AMR profil",
@@ -609,23 +626,6 @@
       "sourceName": "Journal of Animal Science and Biotechnology/Journal of animal science and biotechnology",
       "function": "Nutrition & Feeding",
       "region": "Global",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1016-j-chemosphere-2026-145093",
-      "title": "A machine learning approach to estimating nitrate-nitrogen concentrations in shallow groundwater across New Zealand",
-      "summary": "Nitrate contamination of shallow groundwater is a concern for drinking water safety and ecosystem health globally, yet national-scale prediction techniques remain limited. Here, we describe the development and evaluation of an ensemble machine learning framework to estimate median nitrate (NO 3 -N) concentrations in shallow groundwater across New Zealand. From 957 state of the environment monitori",
-      "date": "2026-09-10",
-      "sourceUrl": "https://doi.org/10.1016/j.chemosphere.2026.145093",
-      "sourceName": "Chemosphere",
-      "function": "Quality & Food Safety",
-      "region": "New Zealand",
-      "institution": "University of Otago",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -1409,6 +1409,23 @@
       ]
     },
     {
+      "id": "openalex-10-3389-fnut-2026-1897549",
+      "title": "Spontaneous fermentation of Tunisian dromedary milk: VASE™-GC–MS volatile profiling, physicochemical and mineral composition, bioactivities, and lactic acid bacteria enumeration",
+      "summary": "Introduction Fermented dromedary camel milk is a traditional food in arid and semi-arid regions, yet the kinetics of spontaneous fermentation remain insufficiently characterized, particularly for Tunisian milk. This study investigated the 72 h spontaneous fermentation of raw Tunisian dromedary milk using an integrated kinetic approach combining physicochemical, compositional, microbiological, and ",
+      "date": "2026-09-09",
+      "sourceUrl": "https://doi.org/10.3389/fnut.2026.1897549",
+      "sourceName": "Frontiers in Nutrition",
+      "function": "Product Development",
+      "region": "Tunisia",
+      "institution": "Institut des Régions Arides",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1016-j-anopes-2026-100156",
       "title": "Population structure, genetic variability, and influence of inbreeding on stillbirth in South African Holstein dairy cattle",
       "summary": "This study quantified inbreeding trends and evaluated their association with stillbirth incidence in South African Holstein dairy cattle using pedigree records of 1 357 200 animals born between 1945 and 2020, extracted from the integrated registration and genetic information system ( INTERGIS ) database. Genetic variability across generations was assessed using Endog 4.2, while population structur",
@@ -1432,7 +1449,7 @@
       "date": "2026-09-09",
       "sourceUrl": "https://doi.org/10.1111/jtxs.70115",
       "sourceName": "Journal of Texture Studies",
-      "function": "Quality & Food Safety",
+      "function": "Farm Management",
       "region": "Malaysia",
       "institution": "Universiti Malaysia Terengganu",
       "rdType": "Research Paper",
@@ -1452,23 +1469,6 @@
       "function": "Animal Health",
       "region": "Uganda",
       "institution": "National Agricultural Research Organisation",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fnut-2026-1897549",
-      "title": "Spontaneous fermentation of Tunisian dromedary milk: VASE™-GC–MS volatile profiling, physicochemical and mineral composition, bioactivities, and lactic acid bacteria enumeration",
-      "summary": "Introduction Fermented dromedary camel milk is a traditional food in arid and semi-arid regions, yet the kinetics of spontaneous fermentation remain insufficiently characterized, particularly for Tunisian milk. This study investigated the 72 h spontaneous fermentation of raw Tunisian dromedary milk using an integrated kinetic approach combining physicochemical, compositional, microbiological, and ",
-      "date": "2026-09-09",
-      "sourceUrl": "https://doi.org/10.3389/fnut.2026.1897549",
-      "sourceName": "Frontiers in Nutrition",
-      "function": "Product Development",
-      "region": "Tunisia",
-      "institution": "Institut des Régions Arides",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -4639,23 +4639,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2609.04866v1",
-      "title": "LLM-Assisted Behavioural and Scenario Augmentation for Agent-Based Energy Adoption Models",
-      "summary": "Recent advances in large language models (LLMs) create opportunities to enrich simulation-based energy policy analysis, particularly by supporting structured behavioural assumptions and exploratory techno-economic scenarios. However, directly replacing adoption models with LLM reasoning raises concerns regarding interpretability, reproducibility, and behavioural validity. This paper proposes a hyb",
-      "date": "2026-09-04",
-      "sourceUrl": "http://arxiv.org/abs/2609.04866v1",
-      "sourceName": "arXiv",
-      "function": "Engineering & Automation",
-      "region": "Global",
-      "institution": "Iias Faiud",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
@@ -9821,23 +9804,6 @@
       ]
     },
     {
-      "id": "arxiv-2608.28209v1",
-      "title": "Generalized Context in Cross Attention for Transfer Learning of Disjoint Tabular Data",
-      "summary": "Unlike images and text, applying transfer learning to tabular data is challenging due to heterogeneity in feature types, structures, and semantics across disparate domains. Existing methods assume shared features across data tables to enable knowledge transfer between domains, which is unrealistic in practice. \\mds{This paper introduces generalized context learning to remove the requirement of sha",
-      "date": "2026-08-28",
-      "sourceUrl": "http://arxiv.org/abs/2608.28209v1",
-      "sourceName": "arXiv",
-      "function": "Robotics & AI",
-      "region": "Global",
-      "institution": "Kazi F. Akhter",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-nestl-and-coca-cola-lead-2026-most-va",
       "title": "Nestlé and Coca-Cola Lead 2026 Most Valuable Food and Beverage Brands",
       "summary": "Brand Finance has named Nestlé and Coca-Cola as the most valuable food and non-alcoholic drinks brands for 2026. Nestlé's brand value increased by 23% to $24.6 billion, while Coca-Cola retains its top position despite a slight decrease in brand value.",
@@ -10975,23 +10941,6 @@
       "tags": [
         "RSS",
         "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "epmc-10-1016-j-crfs-2026-101546",
-      "title": "Pilot-scale ultraviolet-C and nano-second pulsed electric field processing of milk: Microbial inactivation and preservation of serum proteins.",
-      "summary": "Non-thermal processing methods are increasingly used as alternatives to heat treatment for milk due to their potential to preserve heat-sensitive components. In this study, pilot-scale ultraviolet-C (UVC) and nano-second pulsed electric field (nanoPEF) equipment, as opposed to lab-scale instruments, were used to treat milk. The effects of these two non-thermal processing methods on microbial reduc",
-      "date": "2026-08-26",
-      "sourceUrl": "https://doi.org/10.1016/j.crfs.2026.101546",
-      "sourceName": "Europe PMC",
-      "function": "Nutrition & Feeding",
-      "region": "Netherlands",
-      "institution": "Dairy Science and Technology",
-      "rdType": "Academic Study",
-      "tags": [
-        "Europe PMC",
-        "PubMed",
         "auto-ingested"
       ]
     },
@@ -18813,24 +18762,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2608.15082v1",
-      "title": "Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems",
-      "summary": "Cold chain logistics has advanced technologically, yet most deployed systems remain reactive monitors, not decision-making agents: thresholds trigger alerts, but nothing relates violations to cumulative product degradation or converts degradation signals into logistics decisions. We address this gap with a Quality-Aware Decision Intelligence (QADI) framework combining three capabilities: a structu",
-      "date": "2026-08-15",
-      "sourceUrl": "http://arxiv.org/abs/2608.15082v1",
-      "sourceName": "arXiv",
-      "function": "Engineering & Automation",
-      "region": "Global",
-      "institution": "Aashna Sofat",
-      "company": "Microsoft",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
@@ -42126,6 +42057,23 @@
       "tags": [
         "RSS",
         "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3168-jdsc-2026-1016",
+      "title": "Bioavailability of rumen-protected L-methionine supplement in lactating dairy cows.",
+      "summary": "Rumen-protected AA are largely used to supply the MP in dairy diets. Rumen-protected methionine (RP-Met) supplements differ in their proportion of the biologically active L-form isomer and in their bioavailability. Based on the plasma free AA dose-response approach, we determined the bioavailability of L-Met60 (LipoAktiv L-methionine 60), a rumen-protected L-Met supplement, and evaluated its effec",
+      "date": "2026-06-25",
+      "sourceUrl": "https://doi.org/10.3168/jdsc.2026-1016",
+      "sourceName": "Europe PMC",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Department of Agriculture",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
