@@ -1,11 +1,220 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-18",
-    "nextRefresh": "2026-09-19",
-    "totalTracked": 15021,
+    "lastRefreshed": "2026-09-19",
+    "nextRefresh": "2026-09-20",
+    "totalTracked": 15050,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-adecoagro-founder-says-argentina-coul",
+      "title": "Adecoagro Founder Says Argentina Could Triple Milk Production",
+      "summary": "Adecoagro’s co-founder said Argentina could substantially expand its milk output, with industrial processing needed to capture more value than raw agricultural exports. He said producers must compete internationally through more efficient, technologically advanced and automated plants.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/adecoagro_founder_says_argentina_could_triple_milk_production_5289807.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Argentina",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-scientists-estimate-precision-ferment",
+      "title": "Scientists Estimate Precision-Fermented Milk Could Use 96% Less Land",
+      "summary": "Researchers at Imperial College London estimate that milk made through precision fermentation could require up to 96% less land than conventional dairy milk. Replacing 20% of the United Kingdom’s cow’s-milk production with the technology could release about 859,000 hectares by 2050.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/scientists_estimate_precision_fermented_milk_could_use_96_less_land_2406382.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-more-than-400-ffa-students-attended-i",
+      "title": "More than 400 FFA students attended Iowa dairy expo",
+      "summary": "More than 400 high-school members of Future Farmers of America from 36 schools in Iowa, Minnesota and Wisconsin attended the annual Tri-State Ag and Dairy Expo at Northeast Iowa Community College. The September 15 event combined competitions, agricultural technology demonstrations and safety instruction at Iowa’s Dairy Center.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/more_than_400_ffa_students_attended_iowa_dairy_expo_6269083.html",
+      "sourceName": "DairyNews.today",
+      "function": "Quality & Food Safety",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-india-s-dairy-industry-must-move-beyo",
+      "title": "India’s dairy industry must move beyond volume growth",
+      "summary": "India produces more milk than any other country, but its dairy industry captures only part of the value generated across the supply chain. An article by the chief executive of Heritage Foods says changing consumption, farmer incomes and demand-supply pressures require greater emphasis on value creation.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/india_s_dairy_industry_must_move_beyond_volume_growth_7874918.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "India",
+      "company": "Heritage Foods",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-sow-s-milk-outperforms-cow-s-in-prote",
+      "title": "Sow’s Milk Outperforms Cow’s in Protein but Remains Unmarketed",
+      "summary": "A Chinese study found that sow’s milk contains nearly three times as much protein as cow’s milk, along with more calcium and less lactose. Despite this nutritional profile, it has never become a commercial product because production presents physiological and economic barriers.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/sow_s_milk_outperforms_cow_s_in_protein_but_remains_unmarketed_7916269.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-gulfood-manufacturing-2026-to-bring-t",
+      "title": "Gulfood Manufacturing 2026 to Bring Together Food Producers and Technology Providers in Dubai",
+      "summary": "Gulfood Manufacturing 2026 will take place at the Dubai World Trade Centre from November 3 to 5, 2026. The event will bring together food and beverage manufacturers, suppliers of ingredients and equipment, investors, and government representatives. The exhibition’s central theme will be strengthening food security through technological advances in manufacturing.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/gulfood-manufacturing-2026-to-bring-together-food-producers-and-technology-providers-in-dubai.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-research-shows-how-cheese-affects-chi",
+      "title": "Research Shows How Cheese Affects Children’s Mouths",
+      "summary": "A study involving adolescents found that eating cheese raised oral pH, making the mouth less acidic after consumption. Nutritionist Mariana Chaves says cheese can also provide protein and calcium in a balanced school snack, although it does not replace brushing.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/research_shows_how_cheese_affects_children_s_mouths_9775145.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-turkey-becomes-main-outlet-for-urugua",
+      "title": "Turkey Becomes Main Outlet for Uruguayan Dairy Heifers",
+      "summary": "Turkey has become the principal foreign destination for surplus dairy heifers from Uruguay, supporting prices as fewer animals come to market. Chinese buyers have made inquiries, but no sale has proceeded because shipping to China costs 40%–50% more than transport to Turkey.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/turkey_becomes_main_outlet_for_uruguayan_dairy_heifers_7460517.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "China",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-online-dairy-sales-grow-as-yogurt-and",
+      "title": "Online Dairy Sales Grow as Yogurt and Cottage Cheese Lead",
+      "summary": "Dairy purchases are shifting towards ecommerce, with yogurt and cottage cheese among the strongest-growing categories. Circana reported that online sales are expanding across store formats, including mass retailers, grocers, dollar stores and value chains.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/online_dairy_sales_grow_as_yogurt_and_cottage_cheese_lead_5053642.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-senate-agriculture-committee-clears-farm-",
+      "title": "Senate Agriculture Committee Clears Farm Bill; IDFA Calls for Swift, Bipartisan Path to Passage",
+      "summary": "The Senate Committee on Agriculture, Nutrition, and Forestry today moved a new five-year Farm Bill to the full Senate. Michael Dykes, D.V.M., president and CEO of the International Dairy Foods Association (IDFA), issued the following [Read More ...]",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairybusiness.com/senate-agriculture-committee-clears-farm-bill-idfa-calls-for-swift-bipartisan-path-to-passage/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-nmpf-applauds-senate-farm-bill-committee-",
+      "title": "NMPF Applauds Senate Farm Bill Committee Passage",
+      "summary": "“We applaud Chairman Boozman and members of the Senate Agriculture Committee for advancing the 2026 Senate Farm Bill, which includes key provisions that support and strengthen the dairy industry. With a farm bill already through the House, we’re hopeful that both chambers can now work together on full congressional [Read More ...]",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairybusiness.com/nmpf-applauds-senate-farm-bill-committee-passage/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-save-the-date-for-2027-pdp-business-confe",
+      "title": "Save the Date for 2027 PDP Business Conference",
+      "summary": "“Team Dairy” theme, world-class education take center stage for dairy professionals March 16-17, 2027. Dairy professionals don’t succeed in isolation. It takes producers, employees, families, advisors, industry partners and a strong network of peers working [Read More ...]",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairybusiness.com/save-the-date-for-2027-pdp-business-conference/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-feeling-the-language-or-culture-gap-get-2",
+      "title": "Feeling the Language or Culture Gap? Get $200 Discount on “Spanish for Dairy” Course",
+      "summary": "If you’ve felt the language or culture gap on your farm or in your agricultural workplace, don’t forget to sign up by Sept. 18 to get a $200 discount on Katie Dotterer’s “Spanish for Dairy” fall course! Here’s [Read More ...]",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairybusiness.com/feeling-the-language-or-culture-gap-get-200-discount-on-spanish-for-dairy-course/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-greggs-overtakes-costa-as-leading-cof",
       "title": "Greggs Overtakes Costa as Leading Coffee Chain in the UK",
@@ -289,6 +498,287 @@
       "function": "Animal Health",
       "region": "China",
       "institution": "Guangxi University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-wpc80-prices-have-nearly-sextupled-as",
+      "title": "WPC80 Prices Have Nearly Sextupled as Supply Lags Demand",
+      "summary": "The price of whey protein concentrate containing 80% protein has risen to $32,000 per tonne, from about $5,500 in 2023. Demand is expanding across sports nutrition, GLP-1 users and everyday foods, while whey-processing capacity and raw whey volumes are growing more slowly.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/wpc80_prices_have_nearly_sextupled_as_supply_lags_demand_9286450.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-francisco-beltr-o-plans-tests-for-nea",
+      "title": "Francisco Beltrão Plans Tests for Nearly Its Entire Dairy Herd",
+      "summary": "Francisco Beltrão in Paraná is expanding testing for bovine brucellosis and tuberculosis across its dairy farms. Officials say the programme aims to examine almost the entire herd, while infected cattle are removed under sanitary procedures.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/francisco_beltr_o_plans_tests_for_nearly_its_entire_dairy_herd_7347637.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milk-purchases-in-acre-fell-16-6-as-b",
+      "title": "Milk purchases in Acre fell 16.6% as Brazil's rose 1%",
+      "summary": "Dairy plants and other inspected establishments in Acre bought 2.191m litres of raw milk in the second quarter of 2026, down 16.6% year on year. Brazil recorded a 1% increase over the same period, according to the Brazilian Institute of Geography and Statistics.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/milk_purchases_in_acre_fell_16_6_as_brazil_s_rose_1_3189913.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-el-ni-o-may-pressure-dairy-margins-in",
+      "title": "El Niño May Pressure Dairy Margins in Bahia",
+      "summary": "Researchers and dairy producers reviewed milk-production costs at an event in Miguel Calmon, Bahia, on September 17. The discussion highlighted low productivity, fixed costs and animal-feed expenses, while a researcher said El Niño conditions could make forage production more difficult in the agreste.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/el_ni_o_may_pressure_dairy_margins_in_bahia_3212939.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-agreste-produces-250-000kg-of-coalho-",
+      "title": "Agreste Produces 250,000kg of Coalho Cheese Daily and Seeks Origin Seal",
+      "summary": "The Agreste region of Pernambuco produces about 250,000kg of coalho cheese a day, according to the regional certification association. Producers are also pursuing geographical-indication status for coalho cheese from the Agreste and Sertão do Araripe.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/agreste_produces_250_000kg_of_coalho_cheese_daily_and_seeks_origin_seal_7838081.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-tirl-n-sets-a-milk-price-floor-for-la",
+      "title": "Tirlán sets a milk-price floor for late 2026",
+      "summary": "Tirlán has confirmed an August milk price of 39.08c per litre, including VAT, a temporary weather payment and a sustainability payment. It will set a minimum price of 40.08c per litre for supplies delivered from September through December, subject to unforeseen events.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/tirl_n_sets_a_milk_price_floor_for_late_2026_3090301.html",
+      "sourceName": "DairyNews.today",
+      "function": "Sustainability & Traceability",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-trial-found-no-weight-change-after-",
+      "title": "A trial found no weight change after three daily full-fat dairy servings",
+      "summary": "A 12-week clinical trial involving 74 adults with overweight or obesity found no significant changes in body weight, body composition or cardiometabolic markers among its three dietary groups. Participants who consumed three daily servings of full-fat dairy reported greater satiety and consumed more protein and calcium.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/a_trial_found_no_weight_change_after_three_daily_full_fat_dairy_servings_8532314.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kosovo-inspectors-withdraw-banned-dai",
+      "title": "Kosovo Inspectors Withdraw Banned Dairy Products from Sale",
+      "summary": "Kosovo’s Central Market Surveillance Inspectorate continued inspections of dairy products on August 12, 2026. Inspectors found that some retailers were still offering products previously prohibited by the Food and Veterinary Agency and ordered their immediate removal.",
+      "date": "2026-09-17",
+      "sourceUrl": "https://dairynews.today/news/kosovo_inspectors_withdraw_banned_dairy_products_from_sale_5457018.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3329-ralf-v13i2-93307",
+      "title": "Bovine Mastitis in Bangladesh: Epidemiology, Etiology, Diagnosis, Antimicrobial Resistance and Sustainable Management Strategies",
+      "summary": "Bovine mastitis is a major health, welfare, milk-quality, and economic constraint on dairy production in Bangladesh. It occurs as clinical mastitis, characterized by visible udder or milk abnormalities, and as subclinical mastitis (SCM), which causes inflammation and loss of production without obvious signs. Bangladesh studies report widely varying cow-level SCM prevalence, generally 20-60%, refle",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.3329/ralf.v13i2.93307",
+      "sourceName": "Research in Agriculture Livestock and Fisheries",
+      "function": "Animal Health",
+      "region": "Bangladesh",
+      "institution": "Bangladesh Agricultural University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s00484-026-03306-1",
+      "title": "Transcriptomic analysis reveals physiological adaptations and immune system modulation in Romanian Holstein cattle during heat stress exposure",
+      "summary": "Heat stress represents a significant impairment to productivity, health, and reproductive efficiency of dairy cattle globally. The present study aimed to investigate genes and molecular mechanisms involved in physiological response to heat stress in Romanian Holstein dairy cows, by conducting a whole-blood transcriptomic and bioinformatics analysis. RNA sequencing (RNA-Seq) was performed on sample",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.1007/s00484-026-03306-1",
+      "sourceName": "International Journal of Biometeorology",
+      "function": "Animal Welfare",
+      "region": "Romania",
+      "institution": "National Research Development Institute for Animal Biology and Nutrition",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3329-ralf-v13i2-93336",
+      "title": "Comparison of Cow-Side Diagnostic Tests for the Prevalence of Estimating Bovine Subclinical Mastitis in Sirajganj District of Bangladesh",
+      "summary": "Subclinical mastitis (SCM) is a major udder health problem in dairy cows because affected quarters show no visible abnormality in milk or udder appearance, yet milk yield and milk quality may be reduced. In Bangladesh, routine laboratory confirmation of SCM is not always accessible to smallholder and semi-intensive farms; therefore, practical cow-side screening tools are important for early detect",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.3329/ralf.v13i2.93336",
+      "sourceName": "Research in Agriculture Livestock and Fisheries",
+      "function": "Animal Health",
+      "region": "Bangladesh",
+      "institution": "Bangladesh Agricultural University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-5194-aab-69-517-2026",
+      "title": "Metabolic, adipokine (irisin, spexin, visfatin), and ER stress (GRP78) responses in multiparous Brown Swiss cows: a multivariate approach across physiological stages and body condition scores",
+      "summary": "This study investigated the responses of novel adipokines (irisin, spexin, visfatin), an endoplasmic reticulum (ER) stress marker (GRP78), and traditional metabolic parameters (non-esterified fatty acids (NEFAs), beta-hydroxybutyrate (BHBA), urea, albumin, globulin, total cholesterol) in 360 healthy Brown Swiss dairy cattle. The animals were categorized into 18 subgroups based on pregnancy stages ",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.5194/aab-69-517-2026",
+      "sourceName": "Archives animal breeding/Archiv für Tierzucht",
+      "function": "Animal Health",
+      "region": "Turkey",
+      "institution": "Hitit Üniversitesi",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-24925-turjaf-v14i9-2718-2724-9347",
+      "title": "Dietary factors affecting milk fat synthesis and composition in dairy cows",
+      "summary": "In recent years, there has been a trend towards increasing and/or maintaining the milk fat content in dairy production. The main reasons for this include the fact that milk pricing is based on milk fat content, the increased demand for dairy products such as cheese and butter, and the obligation to maintain milk fat at certain levels to ensure profitability in dairy farming. Milk fat is the most v",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.24925/turjaf.v14i9.2718-2724.9347",
+      "sourceName": "Turkish Journal of Agriculture - Food Science and Technology",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Eskişehir Osmangazi University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-56201-rjfsqc-vol-11-no7-2025-pg42-65",
+      "title": "Effect of Feed Additives (E.G., Seaweed, Essential Oils) on Methane Emissions in Nigerian Dairy Cows",
+      "summary": "The impact of feed additives, specifically seaweed and essential oils, on methane emissions in Nigerian dairy cows is examined in this study. One of the main sources of methane (CH₄), a powerful greenhouse gas that contributes greatly to global warming, is enteric fermentation in animals. Finding efficient mitigation techniques is crucial in light of Nigeria's expanding dairy sector and the need t",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.56201/rjfsqc.vol.11.no7.2025.pg42.65",
+      "sourceName": "RESEARCH JOURNAL OF FOOD SCIENCE AND QUALITY CONTROL",
+      "function": "Nutrition & Feeding",
+      "region": "Nigeria",
+      "institution": "Ladoke Akintola University of Technology",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-67048-qxju2026ai128iss7m1009",
+      "title": "XORIJDAN KELTIRILGAN GERMANIYA SELEKSIYASIGA MANSUB GOLSHTIN ZOTLI SIGIRLARNING TURLI NASLLI BUQALAR AVLODI BO‘YICHA I LAKTATSIYADAGI SUT MAHSULDORLIGI VA XO‘JALIK UCHUN FOYDALI BELGILARINI BAHOLASH",
+      "summary": "This article presents the results of a comprehensive assessment of the milk productivity and economically beneficial traits of German-bred Holstein cows imported from abroad, broken down by offspring of breeding bulls of different lines during the first lactation period. The research was conducted between 2025 and 2026 at the «Tumaris Nur» farm in the Urgench district of the Khorezm region. For th",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.67048/qxju2026ai128iss7m1009",
+      "sourceName": "Agro ilm",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Samarkand State University of Veterinary Medicine, Livestock and Biotechnologies",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1017-s0022029926102684",
+      "title": "Comparison of drying methods for instant colostrum powder production: fluid bed dryer as post-drying approach",
+      "summary": "Colostrum is a valuable functional ingredient thanks to its rich composition of bioactive compounds, particularly immunoglobulins and growth factors, as well as its nutritional value. In addition to its use for calf nutrition and immune system support, colostrum is used to produce functional foods for human consumption. Various methods are available to prevent colostrum waste and to process it int",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.1017/s0022029926102684",
+      "sourceName": "Journal of Dairy Research",
+      "function": "Animal Health",
+      "region": "Turkey",
+      "institution": "Ondokuz Mayıs University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-34257-ljrs232897uk",
+      "title": "Plant-Based Bases for Cheese Production: A Review of Formulation, Physicochemical Properties, and Sensory Characteristics",
+      "summary": "The plant-based cheese market has been driven by consumers’ growing desire for more ethical, sustainable, and healthy food options, addressing issues such as lactose intolerance and cow’s milk protein allergy. This review provides a comprehensive analysis of various plant matrices, including oilseeds (such as cashew nuts, almonds, and coconut), legumes (soybeans, chickpeas, lentils, and white bean",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.34257/ljrs232897uk",
+      "sourceName": "London Journal of Research in Science Natural & Formal",
+      "function": "Product Development",
+      "region": "Brazil",
+      "institution": "Universidade Federal do Ceará",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -921,7 +1411,7 @@
       "date": "2026-09-17",
       "sourceUrl": "https://doi.org/10.3168/jds.2026-28888",
       "sourceName": "Europe PMC",
-      "function": "Nutrition & Feeding",
+      "function": "Product Development",
       "region": "Global",
       "institution": "School of Animal Sciences",
       "rdType": "Academic Study",
@@ -1214,7 +1704,7 @@
       "date": "2026-09-16",
       "sourceUrl": "https://doi.org/10.1049/aie2.70027",
       "sourceName": "Artificial Intelligence for Engineering",
-      "function": "Quality & Food Safety",
+      "function": "Farm Management",
       "region": "Ireland",
       "institution": "Ollscoil na Gaillimhe – University of Galway",
       "rdType": "Research Paper",
@@ -2017,11 +2507,11 @@
     {
       "id": "openalex-10-5713-ab-260506",
       "title": "The effects of different vitamin mixtures on growth performance, rumen fermentation parameters, serum metabolites, and heat stress biomarkers in Hanwoo heifers under high temperature-humidity conditio",
-      "summary": "in Hanwoo heifers under high temperature-humidity condition",
+      "summary": "Objective: Heat stress impairs feed intake, metabolic balance, and productivity in cattle, and nutritional strategies are needed to maintain productivity under hot conditions. This study evaluated the effects of two complete commercial vitamin premixes on growth performance, rumen fermentation, blood profiles, and stress-related biomarkers in Hanwoo heifers under high temperature-humidity conditio",
       "date": "2026-09-16",
       "sourceUrl": "https://doi.org/10.5713/ab.260506",
       "sourceName": "Animal Bioscience",
-      "function": "Animal Welfare",
+      "function": "Nutrition & Feeding",
       "region": "South Korea",
       "institution": "Pusan National University",
       "rdType": "Research Paper",
@@ -2156,22 +2646,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fanim-2026-1827413",
-      "title": "UK farmers opinions and challenges regarding fitness for transport and emergency slaughter",
-      "summary": "Background Fitness for transport decisions are essential for safeguarding livestock welfare, yet the UK’s current legislation leaves room for subjective judgement. Previous studies indicate that farmers often lack confidence when assessing borderline cases, and although emergency slaughter provides an option for animals unfit for transport, eligibility is narrow and access is limited. This study e",
-      "date": "2026-09-15",
-      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1827413",
-      "sourceName": "Frontiers in Animal Science",
-      "function": "Marketing",
-      "region": "UK",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
