@@ -1,11 +1,124 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-19",
-    "nextRefresh": "2026-09-20",
-    "totalTracked": 15050,
+    "lastRefreshed": "2026-09-20",
+    "nextRefresh": "2026-09-21",
+    "totalTracked": 15060,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-lactic-nios-tirol-has-grown-from-80-l",
+      "title": "Lacticínios Tirol has grown from 80 litres to 2m daily",
+      "summary": "Lacticínios Tirol now processes more than 2m litres of milk each day across facilities in Santa Catarina and Paraná, compared with 80 litres when the business began. The Brazilian dairy company is also building a powdered-milk and milk-protein plant in Pinhalzinho, with an estimated investment of R$200m.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/lactic_nios_tirol_has_grown_from_80_litres_to_2m_daily_1432158.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-flavoured-milk-accounts-for-nearly-ha",
+      "title": "Flavoured Milk Accounts for Nearly Half of Generation Z’s Dairy Consumption",
+      "summary": "Nearly half of the dairy products consumed by Generation Z in beverage form are flavoured milk or chocolate milk, according to an Embrapa Gado de Leite analysis of Brazilian statistics. The age group also recorded the highest overall dairy consumption among those studied.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/flavoured_milk_accounts_for_nearly_half_of_generation_z_s_dairy_consumption_5721186.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-rangeelo-rural-fest-2026-opens-at-bhu",
+      "title": "Rangeelo Rural Fest 2026 opens at BHU",
+      "summary": "Rangeelo Rural Fest 2026 began at Banaras Hindu University in Varanasi as a two-day event focused on dairy farming, animal husbandry and rural development. Organised by the National Dairy Development Board and NDDB Dairy Services, it brought together farmers, researchers, students and industry representatives.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/rangeelo_rural_fest_2026_opens_at_bhu_3618560.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "NDDB",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-brooklands-dairy-will-move-across-the",
+      "title": "Brooklands Dairy Will Move Across the Road to a New Gelato Shop",
+      "summary": "Brooklands Dairy will relocate from its current site near Dudleston Heath to Deefields Farm for the 2027 season. The new premises will include a refurbished gelato shop, a tea room and an outdoor seating area, while the business will remain fully organic.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/brooklands_dairy_will_move_across_the_road_to_a_new_gelato_shop_4832395.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-bidley-dairy-creates-christmas-puddin",
+      "title": "Bidley Dairy Creates Christmas Puddings from Ice Cream",
+      "summary": "Family-run Bidley Dairy has developed two Christmas puddings using ice cream instead of a traditional mixture. The products were trialled last year, sold out, and are being made in larger quantities for the coming season.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/bidley_dairy_creates_christmas_puddings_from_ice_cream_3180755.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-brands-use-cap-colours-to-disti",
+      "title": "Dairy Brands Use Cap Colours to Distinguish Milk Varieties",
+      "summary": "Dairy brands use different colours on milk containers to distinguish whole, partially skimmed and reduced-lactose varieties. The colours can help shoppers choose between products, but no mandatory universal colour code exists.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/dairy_brands_use_cap_colours_to_distinguish_milk_varieties_7064558.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-study-finds-yogurt-and-cheese-affec",
+      "title": "A Study Finds Yogurt and Cheese Affect Morning Performance",
+      "summary": "Researchers reported a direct association between yogurt and cheese at breakfast and performance during the day. The findings highlight differences in protein content among dairy products and the role of breakfast composition in satiety before lunch.",
+      "date": "2026-09-19",
+      "sourceUrl": "https://dairynews.today/news/a_study_finds_yogurt_and_cheese_affect_morning_performance_2548047.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-adecoagro-founder-says-argentina-coul",
       "title": "Adecoagro Founder Says Argentina Could Triple Milk Production",
@@ -15,6 +128,86 @@
       "sourceName": "DairyNews.today",
       "function": "Dairy Processing",
       "region": "Argentina",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-ventimiglia-builds-a-new-plant-and-ma",
+      "title": "Ventimiglia Builds a New Plant and Maturation Cellar",
+      "summary": "Quesería Ventimiglia in Río Negro is building a larger production facility and a maturation cellar as it prepares to return to the World Cheese Awards in November. The family-run dairy currently processes about 2,000 litres of milk a day and will enter cheeses including Cuatro Esquinas, Toscano and Patagonzola.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/ventimiglia_builds_a_new_plant_and_maturation_cellar_1969020.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-belarus-narashchivaet-eksport-sukhogo",
+      "title": "Belarus Increases Export of Dry Milk to Algeria",
+      "summary": "A Belarusian delegation discussed increasing shipments of dry milk to Algeria. In 2026, Belarus sold over 20,000 tons of products in the country, and contracts for the delivery of skimmed and whole dry milk worth $18 million have been signed for 2027.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/belarus_narashchivaet_eksport_sukhogo_moloka_v_alzhir_1850493.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-the-ai-agent-era-why-your-agribusines",
+      "title": "The AI Agent Era: Why Your Agribusiness Might Brand-Vanish by 2027 and How to Stop It",
+      "summary": "The traditional B2B marketing funnel in the global agricultural sector is fundamentally broken.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/the-ai-agent-era-why-your-agribusiness-might-brand-vanish-by-2027-and-how-to-stop-it.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-world-dairy-expo-will-showcase-innova",
+      "title": "World Dairy Expo will showcase innovation through virtual farm tours",
+      "summary": "World Dairy Expo attendees will be able to explore dairy farms in Washington, Michigan and Texas through the event’s annual Virtual Farm Tour series. The programme will present farming practices and technologies without requiring visitors to leave the Alliant Energy Center.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/world_dairy_expo_will_showcase_innovation_through_virtual_farm_tours_5121594.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milma-s-malabar-union-is-dissolved-ov",
+      "title": "Milma’s Malabar union is dissolved over milk and theft allegations",
+      "summary": "Kerala’s Dairy Development director has dissolved the Malabar Regional Co-operative Milk Producers’ Union, citing a rejected-milk incident in Kasaragod, alleged theft at a Malappuram dairy and financial and administrative lapses. The union’s chairman, K S Mani, called the decision politically motivated and said it would be challenged in court.",
+      "date": "2026-09-18",
+      "sourceUrl": "https://dairynews.today/news/milma_s_malabar_union_is_dissolved_over_milk_and_theft_allegations_2781632.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
       "rdType": "Industry News",
       "tags": [
         "RSS",
@@ -506,6 +699,23 @@
       ]
     },
     {
+      "id": "openalex-10-1016-j-vas-2026-100873",
+      "title": "Influence of postpartum disorders, parity, and season on estimated methane emissions in dairy cows in northwest of Spain",
+      "summary": "This study evaluated the influence of postpartum disorders, parity, stage of lactation, and season on estimated enteric methane emissions in dairy cows from northwestern Spain using dairy herd improvement (DHI) data. A total of 2,440 lactating Holstein cows from 50 commercial dairy farms were included. Data from four official monthly DHI controls conducted in 2017 included daily milk yield, milk c",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.1016/j.vas.2026.100873",
+      "sourceName": "Veterinary and Animal Science",
+      "function": "Animal Health",
+      "region": "Spain",
+      "institution": "Universidade de Santiago de Compostela",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-wpc80-prices-have-nearly-sextupled-as",
       "title": "WPC80 Prices Have Nearly Sextupled as Supply Lags Demand",
       "summary": "The price of whey protein concentrate containing 80% protein has risen to $32,000 per tonne, from about $5,500 in 2023. Demand is expanding across sports nutrition, GLP-1 users and everyday foods, while whey-processing capacity and raw whey volumes are growing more slowly.",
@@ -657,7 +867,7 @@
       "date": "2026-09-17",
       "sourceUrl": "https://doi.org/10.1007/s00484-026-03306-1",
       "sourceName": "International Journal of Biometeorology",
-      "function": "Animal Welfare",
+      "function": "Animal Health",
       "region": "Romania",
       "institution": "National Research Development Institute for Animal Biology and Nutrition",
       "rdType": "Research Paper",
@@ -742,7 +952,7 @@
       "date": "2026-09-17",
       "sourceUrl": "https://doi.org/10.67048/qxju2026ai128iss7m1009",
       "sourceName": "Agro ilm",
-      "function": "Nutrition & Feeding",
+      "function": "Breeding & Genetics",
       "region": "Global",
       "institution": "Samarkand State University of Veterinary Medicine, Livestock and Biotechnologies",
       "rdType": "Research Paper",
@@ -776,7 +986,7 @@
       "date": "2026-09-17",
       "sourceUrl": "https://doi.org/10.34257/ljrs232897uk",
       "sourceName": "London Journal of Research in Science Natural & Formal",
-      "function": "Product Development",
+      "function": "Animal Health",
       "region": "Brazil",
       "institution": "Universidade Federal do Ceará",
       "rdType": "Research Paper",
@@ -10092,23 +10302,6 @@
       ]
     },
     {
-      "id": "arxiv-2609.04866v1",
-      "title": "LLM-Assisted Behavioural and Scenario Augmentation for Agent-Based Energy Adoption Models",
-      "summary": "Recent advances in large language models (LLMs) create opportunities to enrich simulation-based energy policy analysis, particularly by supporting structured behavioural assumptions and exploratory techno-economic scenarios. However, directly replacing adoption models with LLM reasoning raises concerns regarding interpretability, reproducibility, and behavioural validity. This paper proposes a hyb",
-      "date": "2026-09-04",
-      "sourceUrl": "http://arxiv.org/abs/2609.04866v1",
-      "sourceName": "arXiv",
-      "function": "Engineering & Automation",
-      "region": "Global",
-      "institution": "Iias Faiud",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1007-s44338-026-00241-8",
       "title": "Risk factors that undermine reproductive efficiency of cattle in smallholder production systems in Namayingo district in Uganda",
       "summary": "Reproductive performance is a crucial determinant of the productivity and profitability of cattle farming. Suboptimal cattle reproductive performance implies failure to achieve the target of a calf annually, a recommended reproduction index. The cattle farming system in the study area, Namayingo district, is comprised mainly of small-scale farmers. There are limited studies done to assess cattle r",
@@ -15265,23 +15458,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2608.28209v1",
-      "title": "Generalized Context in Cross Attention for Transfer Learning of Disjoint Tabular Data",
-      "summary": "Unlike images and text, applying transfer learning to tabular data is challenging due to heterogeneity in feature types, structures, and semantics across disparate domains. Existing methods assume shared features across data tables to enable knowledge transfer between domains, which is unrealistic in practice. \\mds{This paper introduces generalized context learning to remove the requirement of sha",
-      "date": "2026-08-28",
-      "sourceUrl": "http://arxiv.org/abs/2608.28209v1",
-      "sourceName": "arXiv",
-      "function": "Robotics & AI",
-      "region": "Global",
-      "institution": "Kazi F. Akhter",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
@@ -24328,24 +24504,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2608.15082v1",
-      "title": "Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems",
-      "summary": "Cold chain logistics has advanced technologically, yet most deployed systems remain reactive monitors, not decision-making agents: thresholds trigger alerts, but nothing relates violations to cumulative product degradation or converts degradation signals into logistics decisions. We address this gap with a Quality-Aware Decision Intelligence (QADI) framework combining three capabilities: a structu",
-      "date": "2026-08-15",
-      "sourceUrl": "http://arxiv.org/abs/2608.15082v1",
-      "sourceName": "arXiv",
-      "function": "Engineering & Automation",
-      "region": "Global",
-      "institution": "Aashna Sofat",
-      "company": "Microsoft",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
