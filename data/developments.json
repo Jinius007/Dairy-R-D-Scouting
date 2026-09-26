@@ -1,11 +1,173 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-25",
-    "nextRefresh": "2026-09-26",
-    "totalTracked": 15386,
+    "lastRefreshed": "2026-09-26",
+    "nextRefresh": "2026-09-27",
+    "totalTracked": 15404,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-santa-fe-bans-lechevit-powdered-milk-",
+      "title": "Santa Fe bans Lechevit powdered milk after counterfeit finding",
+      "summary": "Santa Fe has prohibited a batch of Lechevit powdered milk after tests identified characteristics inconsistent with dairy milk. The restriction covers the product’s production, possession, transport and sale across the province.",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairynews.today/news/santa_fe_bans_lechevit_powdered_milk_after_counterfeit_finding_7764983.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-mccarty-family-farms-mvp-dairy-and-cargil",
+      "title": "McCarty Family Farms, MVP Dairy and Cargill Invest in the Next Generation of Agriculture With New Interactive Dairy Nutrition Exhibits",
+      "summary": "New learning experiences in Kansas and Ohio expand agricultural education, showing visitors how animal nutrition, science and innovation support healthy cows, dairy farm performance and the milk they enjoy. Interactive dairy nutrition exhibits are now [Read More ...]",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairybusiness.com/mccarty-family-farms-mvp-dairy-and-cargill-invest-in-the-next-generation-of-agriculture-with-new-interactive-dairy-nutrition-exhibits/",
+      "sourceName": "Dairy Business",
+      "function": "Animal Health",
+      "region": "USA",
+      "company": "Cargill",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-russia-keeps-armenian-fish-and-dairy-",
+      "title": "Russia keeps Armenian fish and dairy import curbs",
+      "summary": "Russia is continuing to bar imports of fish and dairy products from Armenia, according to Rosselkhoznadzor. The agency said Armenia had not supplied documents showing that previously identified violations at businesses had been corrected.",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairynews.today/news/russia_keeps_armenian_fish_and_dairy_import_curbs_1788382.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nexia-biotechnologies-tried-to-make-s",
+      "title": "Nexia Biotechnologies Tried to Make Spider Silk from Goat Milk",
+      "summary": "Canadian company Nexia Biotechnologies genetically modified goats so that their milk would contain proteins used to produce spider silk. The project attracted $40m in 2000, but the proteins proved too small and fragile for commercial-scale production, and Nexia filed for bankruptcy in 2009.",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairynews.today/news/nexia_biotechnologies_tried_to_make_spider_silk_from_goat_milk_8619999.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-the-laughing-cow-changes-its-expressi",
+      "title": "The Laughing Cow Changes Its Expression in US Campaign",
+      "summary": "Bel Brands US has replaced The Laughing Cow’s familiar smile with a serious expression on selected cheese packaging. The company has temporarily renamed the character “The Not Laughing Cow” while withholding the reason for the change.",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairynews.today/news/the_laughing_cow_changes_its_expression_in_us_campaign_6581482.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Product Launch",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-airas-moniz-s-savel-won-spain-s-best-",
+      "title": "Airas Moniz’s Savel Won Spain’s Best Cheese Award in 2026",
+      "summary": "Savel, made by the Galician cheesemaker Airas Moniz, was named Spain’s Best Cheese in 2026. Its production is linked to a livestock conversion begun in 2011 that uses Jersey cows, grazing and milk with higher fat and protein content.",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairynews.today/news/airas_moniz_s_savel_won_spain_s_best_cheese_award_in_2026_1539258.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Spain",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-tillamook-automates-nearly-300000-annual-",
+      "title": "Tillamook Automates Nearly 300,000 Annual EDI Transactions with TrueCommerce",
+      "summary": "Farmer-owned dairy cooperative builds enterprise-ready EDI foundation, enabling near-zero touch order processing and seamless management of 40+ 3PL partners. TrueCommerce, a global provider of supply chain and trading partner connectivity, integration and omnichannel solutions, [Read More ...]",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairybusiness.com/tillamook-automates-nearly-300000-annual-edi-transactions-with-truecommerce/",
+      "sourceName": "Dairy Business",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "company": "Tillamook",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-international-year-of-the-woman-farmer-2-",
+      "title": "International Year of the Woman Farmer",
+      "summary": "In recognition of 2026 being the United Nations International Year of the Woman Farmer, the U.S. Dairy Export Council (USDEC) is pleased to launch a podcast, Voices from the Barn. Hosted by USDEC President and CEO, [Read More ...]",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairybusiness.com/international-year-of-the-woman-farmer-2/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-build-financial-confidence-for-more-profi",
+      "title": "Build Financial Confidence for More Profitable Dairy Decisions",
+      "summary": "Financial Literacy for Dairy® provides tools, hands-on practice to better understand business numbers. Strong financial management starts with understanding what the numbers are indicating. Professional Dairy Producers® (PDP) developed Financial Literacy for Dairy® to empower [Read More ...]",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairybusiness.com/build-financial-confidence-for-more-profitable-dairy-decisions/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-three-upcoming-dairy-internship-opportuni",
+      "title": "Three Upcoming Dairy Internship Opportunities",
+      "summary": "As we welcome the fall season, there are three upcoming internships for college students who are pursuing careers in dairy and looking to gain real-world experience. Whether they want to enhance their skills at the farm [Read More ...]",
+      "date": "2026-09-25",
+      "sourceUrl": "https://dairybusiness.com/three-upcoming-dairy-internship-opportunities-2/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-georgia-must-first-ensure-its-milk-su",
       "title": "Georgia Must First Ensure Its Milk Supply Before Considering Export, Says Kaha Koniashvili",
@@ -294,6 +456,107 @@
       "tags": [
         "RSS",
         "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-ice-cream-alliance-invites-uk-makers-",
+      "title": "Ice Cream Alliance invites UK makers to enter 2027 Golden Scoop Awards",
+      "summary": "The Ice Cream Alliance has opened invitations for UK ice-cream businesses to enter the 2027 Golden Scoop Awards. The competition will name one business as Golden Scoop National Champion, with entries closing on 1 December and winners announced on 16 March 2027.",
+      "date": "2026-09-24",
+      "sourceUrl": "https://dairynews.today/news/ice_cream_alliance_invites_uk_makers_to_enter_2027_golden_scoop_awards_1244009.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12982-026-02907-w",
+      "title": "Transforming raw milk safety in Ethiopia through an integrated tiered strategy to address public health threats and economic losses",
+      "summary": "Abstract Ethiopia’s widespread raw milk consumption, coupled with regulatory gaps, inadequate infrastructure, and dysfunctional market incentives, creates public health and economic crisis. While individual studies and recent systematic reviews have documented these crises separately, an integrated analytical synthesis that explicitly connects these distinct technical, economic, and policy dimensi",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.1186/s12982-026-02907-w",
+      "sourceName": "Discover Public Health",
+      "function": "Animal Health",
+      "region": "Ethiopia",
+      "institution": "Samara University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-71162-001c-170252",
+      "title": "Inside the Dairy Industry’s Push for Lower Emissions: Insights from US Dairy Processors",
+      "summary": "This study examines how US dairy processors are responding to the Net Zero Initiative’s (NZI) 2050 goal through semistructured interviews. Findings suggest advancing decarbonization requires harmonized accounting and reporting standards, sustained financial support, and positioning sustainability as an industry baseline rather than market differentiator.",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.71162/001c.170252",
+      "sourceName": "Applied Economics Education and Extension",
+      "function": "Sustainability & Traceability",
+      "region": "USA",
+      "institution": "University of Idaho",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-agsy-2026-104993",
+      "title": "Carbon footprint of Creole goat milk production in Peru under crop-residue and Andean shrubland systems",
+      "summary": "CONTEXT Goat farming in Peru is economically marginal yet essential for rural livelihoods and food security. Creole goats are managed extensively on native rangelands or crop residues, but their greenhouse gas emissions remain poorly quantified. OBJECTIVE To assess the carbon footprint (CFP) of Creole goat milk production under two contrasting extensive systems in Lima (crop-residue based) and Anc",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.1016/j.agsy.2026.104993",
+      "sourceName": "Agricultural Systems",
+      "function": "Nutrition & Feeding",
+      "region": "Peru",
+      "institution": "Universidad Científica del Sur",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-15237-gida-gd26083",
+      "title": "ISOLATION of Escherichia coli FROM TULUM CHEESE, PATHOTYPING, AND DETERMINATION OF ANTIBIOTIC RESISTANCE PROFILES",
+      "summary": "Within the scope of this study, the presence of Escherichia coli, its pathotype characteristics, and antimicrobial resistance profiles were investigated in a total of 70 Tulum cheese samples obtained from local markets in the provinces of Isparta and Konya, Türkiye. A total of 25 presumptive E. coli isolates were recovered using Chromogenic Coliform agar. Morphological characterization of the isol",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.15237/gida.gd26083",
+      "sourceName": "GIDA / THE JOURNAL OF FOOD",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Suleyman Demirel University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s42770-026-02081-w",
+      "title": "Biocontrol of Staphylococcus aureus in dairy products using lytic bacteriophage UHP46: efficacy in milk, cheese, and yogurt",
+      "summary": "Staphylococcus aureus is a major public health concern in the dairy industry. It is a well-recognized pathogen responsible for bovine mastitis and raw milk contamination; certain strains produce heat-stable enterotoxin capable of causing staphylococcal food poisoning in humans. The emergence of multiple drug-resistant strains of S. aureus has rendered ineffective the use of antibiotics for control",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.1007/s42770-026-02081-w",
+      "sourceName": "Brazilian Journal of Microbiology",
+      "function": "Animal Health",
+      "region": "Pakistan",
+      "institution": "University of Haripur",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -1352,6 +1615,23 @@
       ]
     },
     {
+      "id": "openalex-10-4081-ijfs-2026-14926",
+      "title": "Regional and seasonal influences on the microbiological quality of raw milk in northwestern Tunisia: insights into total flora, psychrotrophs, Pseudomonas spp., and heat-resistant spores",
+      "summary": "To our knowledge, this study provides the first comprehensive investigation in Tunisia of the combined influence of region and season on the microbiological quality of raw milk collected from the governorates of Jendouba, Béja, and Kef in northwestern Tunisia. A total of 1224 samples (102/month) were analyzed over a 12-month period from March 2023 to February 2024. Significant regional and seasona",
+      "date": "2026-09-23",
+      "sourceUrl": "https://doi.org/10.4081/ijfs.2026.14926",
+      "sourceName": "Italian Journal of Food Safety",
+      "function": "Quality & Food Safety",
+      "region": "Tunisia",
+      "institution": "University of Jendouba",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-supply-chain-pressures-are-testing-da",
       "title": "Supply Chain Pressures Are Testing Dairy S Resilience",
       "summary": "Dairy producers are contending with constrained feed supplies, uncertainty over fertiliser and firm demand for protein. These conditions could limit herd expansion and keep milk prices high beyond the usual dairy market cycle.",
@@ -1428,23 +1708,6 @@
       "function": "Nutrition & Feeding",
       "region": "Turkey",
       "institution": "Atatürk University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-4081-ijfs-2026-14926",
-      "title": "Regional and seasonal influences on the microbiological quality of raw milk in northwestern Tunisia: insights into total flora, psychrotrophs, Pseudomonas spp., and heat-resistant spores",
-      "summary": "To our knowledge, this study provides the first comprehensive investigation in Tunisia of the combined influence of region and season on the microbiological quality of raw milk collected from the governorates of Jendouba, Béja, and Kef in northwestern Tunisia. A total of 1224 samples (102/month) were analyzed over a 12-month period from March 2023 to February 2024. Significant regional and seasona",
-      "date": "2026-09-23",
-      "sourceUrl": "https://doi.org/10.4081/ijfs.2026.14926",
-      "sourceName": "Italian Journal of Food Safety",
-      "function": "Quality & Food Safety",
-      "region": "Tunisia",
-      "institution": "University of Jendouba",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -2447,6 +2710,40 @@
       "tags": [
         "RSS",
         "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s44279-026-00772-4",
+      "title": "Integrating farmer preferences and ecological assessment to evaluate grazing management in semi-arid Ethiopian rangelands",
+      "summary": "This study examined grazing management on forage yield, species diversity, nutritive composition, defoliation intensity, and farmers’ preferences in the Dagabir watershed, Hawzen district, northern Ethiopia. A comparative field experiment used three grazing management systems (caged, locally protected, and freely grazed) with 30 plots (10 per treatment), complemented by surveys of 100 households, ",
+      "date": "2026-09-22",
+      "sourceUrl": "https://doi.org/10.1007/s44279-026-00772-4",
+      "sourceName": "Discover Agriculture",
+      "function": "Nutrition & Feeding",
+      "region": "Ethiopia",
+      "institution": "Samara University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-anifeedsci-2026-117078",
+      "title": "Total mixed ration silage containing pornunça (Manihot sp.) as the roughage source for feedlot-finished lambs: Effects on intake, ingestive behavior, growth performance and carcass traits",
+      "summary": "ABSTRACT The objective of this study was to evaluate the effect of pornunça ( Manihot sp.) silage as the roughage source, in different forms of supply and different roughage ratios on intake, performance, ingestive behavior and carcass traits in feedlot-finished lambs. Thirty-two uncastrated Santa Ines × Dorper crossbred lambs with average initial body weight (BW) of 19.69 ± 1.83 kg were used in a",
+      "date": "2026-09-22",
+      "sourceUrl": "https://doi.org/10.1016/j.anifeedsci.2026.117078",
+      "sourceName": "Animal Feed Science and Technology",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "institution": "Universidade Federal do Piauí",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -3576,6 +3873,23 @@
       "tags": [
         "RSS",
         "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s40550-026-00162-0",
+      "title": "Physicochemical and microbiological quality of raw cow milk across agro-ecological zones in Jarso District, Eastern Ethiopia",
+      "summary": "Improving the physicochemical characteristics and microbial safety of raw milk is essential for strengthening Ethiopia’s dairy supply chain, yet information on how agro-ecological conditions influence milk quality remains limited. This study evaluated the physicochemical properties and microbial quality of raw cow milk collected from three agro-ecological zones in Jarso District, eastern Ethiopia.",
+      "date": "2026-09-21",
+      "sourceUrl": "https://doi.org/10.1186/s40550-026-00162-0",
+      "sourceName": "Food Safety and Risk",
+      "function": "Quality & Food Safety",
+      "region": "Ethiopia",
+      "institution": "Haramaya University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -10709,22 +11023,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-68104-ijasit-v1-i3-30",
-      "title": "Advances in Agricultural and Food Processing Sectors using Artificial Intelligence",
-      "summary": "The three most attention attractions from the food industry are nutritional value, food quality, and processing methods. Subsequently, the food industry is experiencing growing pressure from consumers who are demanding foods that are of high quality, excellent taste, and long shelf life. Advanced applications in the food industry are today carried out using deep learning, AI, and ML algorithms. Id",
-      "date": "2026-09-11",
-      "sourceUrl": "https://doi.org/10.68104/ijasit.v1.i3.30",
-      "sourceName": "International Journal of Applied Smart Interdisciplinary Technologies",
-      "function": "Robotics & AI",
-      "region": "Global",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
