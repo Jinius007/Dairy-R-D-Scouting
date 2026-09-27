@@ -1,11 +1,92 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-09-26",
-    "nextRefresh": "2026-09-27",
-    "totalTracked": 15404,
+    "lastRefreshed": "2026-09-27",
+    "nextRefresh": "2026-09-28",
+    "totalTracked": 15413,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-northern-ireland-s-2026-dairy-confere",
+      "title": "Northern Ireland’s 2026 Dairy Conference Will Bring Farmers Together",
+      "summary": "Northern Ireland’s dairy industry will hold its 2026 conference on October 20 at Greenmount Campus. Organised by the Ulster Farmers’ Union, the Dairy Council NI, CAFRE and AgriSearch, the event will address profitability, sustainability, genetics, carbon emissions and nutrition.",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairynews.today/news/northern_ireland_s_2026_dairy_conference_will_bring_farmers_together_6892801.html",
+      "sourceName": "DairyNews.today",
+      "function": "Sustainability & Traceability",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-india-will-launch-its-livestock-insur",
+      "title": "India will launch its livestock insurance portal in New Delhi on September 28",
+      "summary": "India’s Department of Animal Husbandry and Dairying will launch a digital livestock insurance portal on September 28, 2026, in New Delhi. The platform is intended to provide online access to insurance services and improve transparency in the handling of beneficiaries’ requests.",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairynews.today/news/india_will_launch_its_livestock_insurance_portal_in_new_delhi_on_september_28_7164678.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-itc-expands-eastern-india-dairy-busin",
+      "title": "ITC expands eastern India dairy business with value-added products",
+      "summary": "ITC is enlarging its Aashirvaad fresh-dairy business in Bihar, West Bengal and Jharkhand, where its range includes milk, curd, paneer, lassi and Mishti Doi. The company says eastern India will remain central to its dairy expansion, supported by growing demand for branded products.",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairynews.today/news/itc_expands_eastern_india_dairy_business_with_value_added_products_8912890.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-experts-challenge-the-myth-of-lactose",
+      "title": "Experts challenge the myth of lactose-free diets",
+      "summary": "Nutritionists and medical specialists say that removing milk and dairy products does not itself prevent overweight or obesity in people without lactose intolerance or milk-protein allergy. They say dairy foods can provide calcium, protein and satiety, while recommending moderation rather than complete avoidance.",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairynews.today/news/experts_challenge_the_myth_of_lactose_free_diets_9927183.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-la-seren-sima-took-its-name-from-a-wa",
+      "title": "La Serenísima Took Its Name from a Wartime Italian Squadron",
+      "summary": "The name of Argentina’s La Serenísima dairy brand traces back to an Italian aviation unit active during the First World War. Its founder, Antonino Mastellone, later used the name for his dairy business, which became fully controlled by Arcor and Danone in 2026.",
+      "date": "2026-09-26",
+      "sourceUrl": "https://dairynews.today/news/la_seren_sima_took_its_name_from_a_wartime_italian_squadron_9661978.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Argentina",
+      "company": "Danone",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-santa-fe-bans-lechevit-powdered-milk-",
       "title": "Santa Fe bans Lechevit powdered milk after counterfeit finding",
@@ -36,6 +117,40 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s44279-026-00774-2",
+      "title": "Unveiling the energy metabolism of primiparous F1 Holstein × Gyr cows throughout lactation",
+      "summary": "Crossbreeding is central to dairy production in the tropics, where combining adaptability and productivity is essential. The Brazilian Girolando, a synthetic breed originating from Bos indicus Gyr and Bos taurus Holstein genes, successfully exemplifies this strategy. While F1 Holstein × Gyr cows seem to thrive under tropical conditions, their growth dynamics and energy use throughout lactation rem",
+      "date": "2026-09-25",
+      "sourceUrl": "https://doi.org/10.1007/s44279-026-00774-2",
+      "sourceName": "Discover Agriculture",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "institution": "Brazilian Agricultural Research Corporation",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1080-1828051x-2026-2687938",
+      "title": "Dietary Diutina rugosa DZ018 modulates rumen microbiota and fermentation while enhancing antioxidant capacity and immune function in sika deer",
+      "summary": "This study examined the effects of dietary yeast supplementation on antler production performance, serum biochemical indices, rumen fermentation characteristics, and the rumen bacterial community in sika deer (Cervus nippon) during the antler-growing period. Twelve 3-year-old male sika deer were randomly assigned to one of the three experimental diets: a basal diet supplemented with 0 cfu/kg (CON)",
+      "date": "2026-09-25",
+      "sourceUrl": "https://doi.org/10.1080/1828051x.2026.2687938",
+      "sourceName": "Italian Journal of Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Institute of Special Animal and Plant Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -460,22 +575,6 @@
       ]
     },
     {
-      "id": "rss-DairyNews-today-https-dairynews-today-news-ice-cream-alliance-invites-uk-makers-",
-      "title": "Ice Cream Alliance invites UK makers to enter 2027 Golden Scoop Awards",
-      "summary": "The Ice Cream Alliance has opened invitations for UK ice-cream businesses to enter the 2027 Golden Scoop Awards. The competition will name one business as Golden Scoop National Champion, with entries closing on 1 December and winners announced on 16 March 2027.",
-      "date": "2026-09-24",
-      "sourceUrl": "https://dairynews.today/news/ice_cream_alliance_invites_uk_makers_to_enter_2027_golden_scoop_awards_1244009.html",
-      "sourceName": "DairyNews.today",
-      "function": "Farm Management",
-      "region": "UK",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1186-s12982-026-02907-w",
       "title": "Transforming raw milk safety in Ethiopia through an integrated tiered strategy to address public health threats and economic losses",
       "summary": "Abstract Ethiopia’s widespread raw milk consumption, coupled with regulatory gaps, inadequate infrastructure, and dysfunctional market incentives, creates public health and economic crisis. While individual studies and recent systematic reviews have documented these crises separately, an integrated analytical synthesis that explicitly connects these distinct technical, economic, and policy dimensi",
@@ -489,6 +588,55 @@
       "tags": [
         "OpenAlex",
         "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-24099-vet-arhiv-3293",
+      "title": "The effects of microclimatic conditions and heat stress on production traits and udder health in Holstein cows in Eastern Croatia",
+      "summary": "The aim of this study was to evaluate the effects of microclimatic factors (ambient temperature, relative humidity, and the temperature–humidity index, THI) on production traits (daily milk yield, fat and protein content) and udder health indicators (somatic cell count and mastitis prevalence) in Holstein cows in Eastern Croatia, as well as to assess the changes across heat stress categories and m",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.24099/vet.arhiv.3293",
+      "sourceName": "Veterinarski arhiv",
+      "function": "Animal Health",
+      "region": "Croatia",
+      "institution": "Agricultural Institute Osijek",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-17268-sci-agropecu-2026-54",
+      "title": "Transferência nuclear de células somáticas na clonagem reprodutiva de ruminantes domésticos e selvagens: Uma revisão",
+      "summary": "Somatic cell nuclear transfer (SCNT) is a powerful reproductive biotechnology with wide-ranging applications in livestock breeding, biodiversity conservation, regenerative medicine, and developmental biology. Despite remarkable progress in mammalian cloning, the efficiency of SCNT remains low, particularly in wild ruminants, as only a small proportion of reconstructed embryos develop to terms. The",
+      "date": "2026-09-24",
+      "sourceUrl": "https://doi.org/10.17268/sci.agropecu.2026.54",
+      "sourceName": "Digital Magazine of Computing (National University of Trujillo)",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-ice-cream-alliance-invites-uk-makers-",
+      "title": "Ice Cream Alliance invites UK makers to enter 2027 Golden Scoop Awards",
+      "summary": "The Ice Cream Alliance has opened invitations for UK ice-cream businesses to enter the 2027 Golden Scoop Awards. The competition will name one business as Golden Scoop National Champion, with entries closing on 1 December and winners announced on 16 March 2027.",
+      "date": "2026-09-24",
+      "sourceUrl": "https://dairynews.today/news/ice_cream_alliance_invites_uk_makers_to_enter_2027_golden_scoop_awards_1244009.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
         "auto-ingested"
       ]
     },
@@ -516,7 +664,7 @@
       "date": "2026-09-24",
       "sourceUrl": "https://doi.org/10.1016/j.agsy.2026.104993",
       "sourceName": "Agricultural Systems",
-      "function": "Nutrition & Feeding",
+      "function": "Sustainability & Traceability",
       "region": "Peru",
       "institution": "Universidad Científica del Sur",
       "rdType": "Research Paper",
@@ -1615,15 +1763,15 @@
       ]
     },
     {
-      "id": "openalex-10-4081-ijfs-2026-14926",
-      "title": "Regional and seasonal influences on the microbiological quality of raw milk in northwestern Tunisia: insights into total flora, psychrotrophs, Pseudomonas spp., and heat-resistant spores",
-      "summary": "To our knowledge, this study provides the first comprehensive investigation in Tunisia of the combined influence of region and season on the microbiological quality of raw milk collected from the governorates of Jendouba, Béja, and Kef in northwestern Tunisia. A total of 1224 samples (102/month) were analyzed over a 12-month period from March 2023 to February 2024. Significant regional and seasona",
+      "id": "openalex-10-1016-j-theriogenology-2026-118189",
+      "title": "Machine learning prediction of pregnancy outcomes after vitrified-warmed bovine embryo transfer using field-derived variables",
+      "summary": "ABSTRACT Pregnancy outcomes after vitrified-warmed bovine embryo transfer (ET) remain variable, reflecting the influence of multiple field-derived factors. This exploratory study applied machine learning (ML) to predict pregnancy outcomes following vitrified-warmed bovine ET and identify field-derived variables contributing to the model-predicted probability of pregnancy. A total of 236 ET records",
       "date": "2026-09-23",
-      "sourceUrl": "https://doi.org/10.4081/ijfs.2026.14926",
-      "sourceName": "Italian Journal of Food Safety",
-      "function": "Quality & Food Safety",
-      "region": "Tunisia",
-      "institution": "University of Jendouba",
+      "sourceUrl": "https://doi.org/10.1016/j.theriogenology.2026.118189",
+      "sourceName": "Theriogenology",
+      "function": "Robotics & AI",
+      "region": "South Korea",
+      "institution": "Kyungpook National University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
