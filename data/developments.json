@@ -1,11 +1,207 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-02",
-    "nextRefresh": "2026-10-03",
-    "totalTracked": 15741,
+    "lastRefreshed": "2026-10-03",
+    "nextRefresh": "2026-10-04",
+    "totalTracked": 15765,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-chobani-commits-1-2bn-to-expand-dairy",
+      "title": "Chobani Commits $1.2bn to Expand Dairy, Coffee and Food Production",
+      "summary": "Chobani plans to spend $1.2bn acquiring and enlarging a 1.5m-square-foot facility in Allentown, Pennsylvania. The site is intended to support the company’s expansion in dairy products, coffee and ready-to-eat foods, while remaining close to milk suppliers and major consumer markets.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/chobani_commits_1_2bn_to_expand_dairy_coffee_and_food_production_1575260.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "company": "Chobani",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-canadian-teenager-wins-two-dairy-ti",
+      "title": "A Canadian Teenager Wins Two Dairy Titles Amid Trump’s Trade War",
+      "summary": "Alyson Doiron, a 16-year-old from Quebec, and her five-year-old cow, Ella, won two major awards at the World Dairy Expo in Madison, Wisconsin. The event also brought Canadian and American farmers together as some U.S. attendees criticised tariffs and the wider trade dispute with Canada.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/a_canadian_teenager_wins_two_dairy_titles_amid_trump_s_trade_war_8953812.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Canada",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-researchers-use-rumen-fistulas-to-stu",
+      "title": "Researchers use rumen fistulas to study cow digestion",
+      "summary": "A rumen fistula gives researchers lasting access to a cow’s rumen, allowing them to examine digestion and feed utilisation. The procedure is used in controlled studies and is governed in Brazil by animal-research legislation and ethics requirements.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/researchers_use_rumen_fistulas_to_study_cow_digestion_1675467.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fssai-finds-nestle-india-s-dairy-whit",
+      "title": "FSSAI Finds Nestle India's Dairy Whitener Unsafe at Hotel Lalit",
+      "summary": "India's food-safety regulator said a Nestle India low-fat dairy whitener sample collected at Hotel Lalit in New Delhi was classified as unsafe and substandard. Bharat Hotels Ltd, which operates the hotel, received a notice over the product.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/fssai_finds_nestle_india_s_dairy_whitener_unsafe_at_hotel_lalit_2082562.html",
+      "sourceName": "DairyNews.today",
+      "function": "Quality & Food Safety",
+      "region": "India",
+      "company": "Nestlé",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-climate-smart-dairy-programme-launc",
+      "title": "A Climate-Smart Dairy Programme Launches in Maharashtra",
+      "summary": "The Environmental Defense Fund, NDDB Dairy Services and the Marathvarhad Milk Producer Organization launched a climate-smart dairy entrepreneurship programme in Maharashtra’s Vidarbha-Marathwada region on September 28. It will train 130 entrepreneurs and more than 300 staff members of milk producer organisations on dairy development, entrepreneurship and climate-related challenges.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/a_climate_smart_dairy_programme_launches_in_maharashtra_2571165.html",
+      "sourceName": "DairyNews.today",
+      "function": "Sustainability & Traceability",
+      "region": "Global",
+      "company": "NDDB",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-goi-s-court-orders-italac-to-pay-over",
+      "title": "Goiás Court Orders Italac to Pay Over Insect in Dairy Drink",
+      "summary": "A court in Goiânia ordered Goiásminas Indústria de Laticínios, owner of the Italac brand, to compensate a consumer who found an insect in a dairy beverage. The award comprised R$3,000 in moral damages and R$11.98 for the two drinks purchased.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/goi_s_court_orders_italac_to_pay_over_insect_in_dairy_drink_1368523.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-ukraine-s-small-dairy-farms-are-disap",
+      "title": "Ukraine’s Small Dairy Farms Are Disappearing",
+      "summary": "Ukraine’s household and smaller dairy farms are declining as large operations expand. Producers face the effects of the war, weak milk prices, higher input costs and new European Union requirements.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/ukraine_s_small_dairy_farms_are_disappearing_1831810.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-understanding-financials-feed-economics-",
+      "title": "Understanding Financials & Feed Economics",
+      "summary": "Connect with leading experts during interactive webinars. Next week’s episodes of The Dairy Signal® from Professional Dairy Producers® (PDP) will provide critical insights for farm finances for the remainder of 2026. Tuesday’s episode will feature [Read More ...]",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairybusiness.com/understanding-financials-feed-economics/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-real-california-milk-excelerator-launches",
+      "title": "Real California Milk Excelerator Launches 2026 Cohort, Fueling Dairy Innovation",
+      "summary": "The California Milk Advisory Board (CMAB), in partnership with VentureFuel, today announced the 15 companies selected to participate in the 8th Annual Real California Milk (RCM) Excelerator. Since 2021 alumni of this award-winning program have [Read More ...]",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairybusiness.com/real-california-milk-excelerator-launches-2026-cohort-fueling-dairy-innovation/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-starter-intake-consistent-nutrition-topic",
+      "title": "Starter Intake, Consistent Nutrition Topics of Calf Care Workshops",
+      "summary": "Oct. 14, 15 PDP Calf Care Connection features breakout sessions and producer panel Caring for the youngest members of a dairy herd is a team effort; the care and management decisions made from day one [Read More ...]",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairybusiness.com/starter-intake-consistent-nutrition-topics-of-calf-care-workshops/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s13620-026-00362-2",
+      "title": "Evaluation of the non-specific effects of a two-dose BCG vaccination scheme on immune response and milk production in dairy cows",
+      "summary": "Abstract Bovine tuberculosis (bTB) is a chronic disease primarily caused by Mycobacterium bovis , a zoonotic pathogen with worldwide distribution that causes economic losses in milk and meat production systems. In dairy cattle from central Chile, disease prevalence remains high, and the national control and eradication program has faced the reluctance of producers to implement the test-and-slaught",
+      "date": "2026-10-02",
+      "sourceUrl": "https://doi.org/10.1186/s13620-026-00362-2",
+      "sourceName": "Irish Veterinary Journal",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-5194-aab-69-541-2026",
+      "title": "Genetic and non-genetic factors influencing milk composition and cow metabolism",
+      "summary": "The aim of this study was to evaluate the influence of genetic and non-genetic factors on milk composition and cow metabolism. Czech Holstein ( n =230) and Czech Simmental cows ( n =289) were analysed. The effects of farm, breed, parity, lactation stage, and polymorphisms on the AGPAT6 , SCD1 , FASN , LEP , and DGAT1 genes were evaluated. The contents of protein, fat, and fatty acids (FAs); the le",
+      "date": "2026-10-02",
+      "sourceUrl": "https://doi.org/10.5194/aab-69-541-2026",
+      "sourceName": "Archives animal breeding/Archiv für Tierzucht",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "Sewanee: The University of the South",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-us-dairy-processors-invest-14-4bn-as-",
       "title": "US Dairy Processors Invest $14.4bn as Farm Margins Tighten",
@@ -246,6 +442,123 @@
       "tags": [
         "RSS",
         "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s42003-026-10771-2",
+      "title": "Biotope-dependent resistance to reactive oxygen species, antibiotic tolerance, and virulence of Staphylococcus aureus",
+      "summary": "The human and livestock pathogen Staphylococcus aureus poses a major clinical challenge due to antibiotic treatment failure. Its resilience is mainly attributed to antibiotic resistance and tolerance mechanisms related to persistence. Here we investigate how two infection-relevant conditions, milk and serum, shape S. aureus pathogenic properties and capacity to withstand environmental stresses. Mi",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1038/s42003-026-10771-2",
+      "sourceName": "Communications Biology",
+      "function": "Animal Health",
+      "region": "France",
+      "institution": "AgroParisTech",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-22271-tpi-2026-v15-i10a-26660",
+      "title": "Comparative evaluation of California Mastitis Test, electrical conductivity and somatic cell count for detection of mastitis in Holstein Friesian crossbred and Deoni cows",
+      "summary": "Mastitis is one of the most important diseases affecting dairy cattle and is a major cause of reduced milk production and deterioration of milk quality. Early detection, particularly of subclinical mastitis, is therefore essential for effective udder-health management. The present study was undertaken to compare three commonly used mastitis screening methods, namely California Mastitis Test (CMT),",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.22271/tpi.2026.v15.i10a.26660",
+      "sourceName": "The Pharma Innovation",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-62810-jnsr-v4i3-566",
+      "title": "Milk Inducting in Non-Lactating Ewes (OvisAries) in Off-Breeding Season",
+      "summary": "Turkish ewes (Ovis aries) milk production is limited by seasonal breeding patterns, resulting in reduced milk availability during the off-breeding season when ewes are neither pregnant nor lactating. This study aimed to evaluate a hormonal protocol for inducing lactation and assess mammary gland development, milk production and composition, and physiological responses. The study was conducted at t",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.62810/jnsr.v4i3.566",
+      "sourceName": "Journal of Natural Science Review",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Kabul University",
+      "company": "IBM",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-62810-jnsr-v4i3-402",
+      "title": "Study On Prevalence of Acidosis in Dairy Cattle’s Farms in Zabul Province",
+      "summary": "Cattle are large ruminant animals, and family farmers keep them for economic income. Acidosis is a condition characterized by a decrease in the alkalinity of body fluids due to an increase in acid hydrogen ions. It occurs when organic acids accumulate physiologically, leading to a drop in rumen pH below normal levels. This study was conducted in the center of Zabul province to determine the preval",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.62810/jnsr.v4i3.402",
+      "sourceName": "Journal of Natural Science Review",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-18805-bkap933",
+      "title": "Effects of a Polyherbal Iron-mineral Feed Supplement on Hematological Indices, Milk Performance and Physiological Well Being in Lactating Dairy Cows",
+      "summary": "Background: Nutritional management supports productive performance and physiological resilience in dairy cows. This field study evaluated a polyherbal iron-mineral feed supplement (PIMFS) for its influence on field indicators associated with hematological status, milk yield and composition and general well being. Methods: Sixteen multiparous lactating cows received PIMFS orally (100 mL/animal/day)",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.18805/bkap933",
+      "sourceName": "Bhartiya Krishi Anusandhan Patrika",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-62810-jnsr-v4i3-432",
+      "title": "A Look at E. coli Contamination in Homemade Cheeses across Kabul's Districts",
+      "summary": "Foodborne illness remains a major public health concern, and dairy products—especially homemade cheeses—are frequently linked to pathogen transmission. In Kabul, the safety of such locally produced items has received little research attention. This study offers the first initial look at E. coli contamination in the city's homemade cheese supply, using it as. a reliable marker of fecal pollution an",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.62810/jnsr.v4i3.432",
+      "sourceName": "Journal of Natural Science Review",
+      "function": "Quality & Food Safety",
+      "region": "Global",
+      "institution": "Kabul University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1021-acsomega-5c11084",
+      "title": "Design and Characterization of Bovine Serum Albumin Hydrogels: A Promising Platform for Controlled Drug Delivery",
+      "summary": "Abstract Protein-based hydrogels have attracted increasing interest as biocompatible matrices for drug delivery; however, simple systems based exclusively on albumin remain relatively underexplored. Here, we report the formation of bovine serum albumin (BSA) hydrogels generated through mild thermal aggregation (65 °C) without chemical cross-linkers, employing low protein concentrations (1–1.5%). T",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1021/acsomega.5c11084",
+      "sourceName": "ACS Omega",
+      "function": "Animal Health",
+      "region": "Argentina",
+      "institution": "National University of Tucumán",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -1088,6 +1401,140 @@
       ]
     },
     {
+      "id": "rss-DairyReporter-https-www-foodmanufacture-co-uk-Article-2026-09-30-barry-callebaut",
+      "title": "Chocolate giant sets up base near Magnum Ice Cream",
+      "summary": "Chocolate giant sets up base near Magnum Ice Cream",
+      "date": "2026-09-30",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/09/30/barry-callebaut-has-established-a-base-at-gastronomica-next-to-the-magnum-ice-cream-company/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fbinf-2026-1924154",
+      "title": "Towards a holistic epidemiology of Streptococcus agalactiae using the BakRep repository",
+      "summary": "Background Streptococcus agalactiae is a versatile multi-host pathogen that can cause severe neonatal disease in humans and mastitis in dairy animals. Its ability to infect a wide range of hosts is largely driven by its high genomic plasticity and the acquisition of distinct accessory genes. The global population of S. agalactiae is characterized by multiple capsular serotypes and clonal complexes",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.3389/fbinf.2026.1924154",
+      "sourceName": "Frontiers in Bioinformatics",
+      "function": "Animal Health",
+      "region": "Germany",
+      "institution": "Justus-Liebig-Universität Gießen",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fmicb-2026-1928624",
+      "title": "Antifungal susceptibility and genomic profile associated with biosynthetic gene clusters of bovine mastitis-derived Aspergillus fumigatus DAH1043FM",
+      "summary": "The most frequently isolated fungus from mycotic mastitis in cattle is Aspergillus fumigatus , which can cause infection by germinating on the animal's surface to form hyphae that penetrate epithelial and endothelial barriers and initiate mastitis. In this study, the fungal strain DAH1043FM was isolated from the milk of a cow with mastitis and identified as Aspergillus fumigatus by internal transc",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1928624",
+      "sourceName": "Frontiers in Microbiology",
+      "function": "Breeding & Genetics",
+      "region": "India",
+      "institution": "Gujarat University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-12750-jarb-41-3-176",
+      "title": "Associations of plasma free amino acids and related metabolites with pregnancy outcomes following artificial insemination in Hanwoo cows: a preliminary study",
+      "summary": "Background: Reproductive efficiency is an important determinant of productivity in Hanwoo cow-calf production.Blood biochemical parameters and plasma metabolites may provide useful information on pregnancy outcomes because nutritional and metabolic status can influence fertilization and early embryonic development.This study evaluated their associations with first-service artificial insemination (",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.12750/jarb.41.3.176",
+      "sourceName": "Journal of Animal Reproduciton and Biotechnology",
+      "function": "Nutrition & Feeding",
+      "region": "South Korea",
+      "institution": "Rural Development Administration",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-4995-wrs-2026-24623",
+      "title": "Effects of the residual feed intake ranking on growth performance, serum biomarkers, carcass traits and adipose tissues in V-Line female rabbit during the pre-mating period",
+      "summary": "Recent studies have revealed that superior feed efficiency in cattle and swine based on residual feed intake (RFI) divergence is associated with unique adaptation in the gut and other major organs. This allows maintaining similar growth performance with lower feed intake in the most-efficient (ME) animals compared with their least-efficient (LE) counterparts. Whether similar adaptations occur in a",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.4995/wrs.2026.24623",
+      "sourceName": "World Rabbit Science",
+      "function": "Nutrition & Feeding",
+      "region": "Egypt",
+      "institution": "Cairo University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-22358-jafs-235722-2026",
+      "title": "Nutritive value of traditionally water-debittered white lupin grains for ruminants",
+      "summary": "White lupin (Lupinus albus L.) grains, locally known in Anatolia as termiye, is traditionally boiled and soaked under running water for 7-10 days to remove quinolizidine alkaloids.However, little is known about its nutritive value for ruminants after this processing.In this study, water-debittered L. albus from five smallholder production lots (L1-L5) was characterised for chemical composition, Co",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.22358/jafs/235722/2026",
+      "sourceName": "Journal of Animal and Feed Sciences",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Selçuk University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1878484",
+      "title": "Copper–molybdenum interactions in ruminant nutrition and reproductive physiology: mechanistic insights into growth, digestibility, and follicular development",
+      "summary": "The copper–molybdenum–sulfur (Cu–Mo–S) interaction is one of the most important mineral antagonisms in ruminant nutrition because it can induce functional copper deficiency even when dietary copper intake appears adequate. In the rumen, dietary sulfur is reduced to sulfide, which reacts with molybdate to form thiomolybdates. These compounds bind copper within ruminal digesta and, when produced in ",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1878484",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Shangqiu Normal University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-5897-ajar2026-17216",
+      "title": "Equal aspirations, unequal conditions: Gender differences in dairy technology adoption among smallholder farmers in Uasin Gishu County, Kenya",
+      "summary": "Gender differences in agricultural technology adoption continue to constrain productivity and livelihoods among smallholder farmers. However, the relative importance of behavioural and structural factors in explaining these differences remains insufficiently understood. This study examined gender differences in dairy technology adoption among smallholder dairy value-chain actors in Uasin Gishu Cou",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.5897/ajar2026.17216",
+      "sourceName": "African Journal of Agricultural Research",
+      "function": "Animal Welfare",
+      "region": "Kenya",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-southland-dairy-farmland-gains-lift-t",
       "title": "Southland Dairy Farmland Gains Lift the Fund’s Unit Price",
       "summary": "A revised appraisal of Southland dairy farmland increased the Private Land and Property Fund’s net asset value by 2.1%. The price used to issue fund units will rise from $1.229 to $1.255 when the change is included in the valuation dated September 30th 2026.",
@@ -1117,22 +1564,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "rss-DairyReporter-https-www-foodmanufacture-co-uk-Article-2026-09-30-barry-callebaut",
-      "title": "Chocolate giant sets up base near Magnum Ice Cream",
-      "summary": "Chocolate giant sets up base near Magnum Ice Cream",
-      "date": "2026-09-30",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/09/30/barry-callebaut-has-established-a-base-at-gastronomica-next-to-the-magnum-ice-cream-company/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Farm Management",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyReporter",
         "auto-ingested"
       ]
     },
@@ -2360,23 +2791,6 @@
       ]
     },
     {
-      "id": "openalex-10-3389-fmicb-2026-1986052",
-      "title": "Development and preliminary validation of an omp25-based RPA-CRISPR/Cas12a visual assay for rapid screening of brucellosis-associated Brucella DNA",
-      "summary": "Brucellosis remains an important zoonotic disease for livestock production and public health, creating a need for rapid molecular screening methods with limited equipment requirements. We developed a visual recombinase polymerase amplification (RPA)-CRISPR/Cas12a assay targeting a 642-bp region of the Brucella omp25 gene. Comparative sequence analysis was used to assess target conservation, after ",
-      "date": "2026-09-29",
-      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1986052",
-      "sourceName": "Frontiers in Microbiology",
-      "function": "Animal Health",
-      "region": "China",
-      "institution": "Ningxia University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1007-s00284-026-05159-8",
       "title": "Beyond the Rumen: Current Evidence and Knowledge Gaps in Microbial Diversity and Function Across the Bovine Gastrointestinal Tract",
       "summary": "The bovine gastrointestinal tract (GIT) is a spatially organised microbial ecosystem, but the evidence supporting a whole-tract interpretation is highly uneven. This critical review distinguishes well-established rumen biology from emerging observations in the reticulum, omasum, abomasum, small intestine and hindgut. Comparative studies show strong regional filtering of microbial communities, yet ",
@@ -3269,23 +3683,6 @@
       "tags": [
         "RSS",
         "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-53913-aduveterinary-1994349",
-      "title": "Clinical Value of Morphometric Measurements in Sheep: From Live Body Weight Estimation to Rational and Safe Drug Dosing",
-      "summary": "Sheep production in Türkiye is predominantly conducted under extensive farming systems where weighing scales are often unavailable. This limitation frequently leads to empirical drug dosing in Veterinary Internal Medicine, increasing the risk of both therapeutic failure due to underdosing and systemic toxicity due to overdosing. This study evaluates the role of morphometric measurements (heart gir",
-      "date": "2026-09-28",
-      "sourceUrl": "https://doi.org/10.53913/aduveterinary.1994349",
-      "sourceName": "Animal Health Production and Hygiene",
-      "function": "Digital Platforms & Innovation",
-      "region": "Turkey",
-      "institution": "Adnan Menderes University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -10039,6 +10436,22 @@
       ]
     },
     {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-two-cavan-farmers-win-2026-young-farm",
+      "title": "Two Cavan Farmers Win 2026 Young Farmer Awards",
+      "summary": "Charlie Smyth was runner-up in the overall FBD Young Farmer of the Year awards and won the drystock category. Patrick Breslin took the Career Farm Management award.",
+      "date": "2026-09-20",
+      "sourceUrl": "https://dairynews.today/news/two_cavan_farmers_win_2026_young_farmer_awards_3936400.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "arxiv-2609.23714v1",
       "title": "Infectious Bovine Pinkeye Detection Using Computer Vision and Imbalance-Aware Learning",
       "summary": "Infectious bovine pinkeye is a contagious ocular disease that adversely affects cattle health, welfare, and agricultural productivity. Conventional diagnosis relies primarily on clinical observation, which can be subjective, time-consuming, and difficult to implement efficiently in large herds or remote settings. This study evaluated and compared You Only Look Once (YOLO) v11 and YOLOv26 for autom",
@@ -11535,23 +11948,6 @@
       "function": "Animal Health",
       "region": "China",
       "institution": "Guangxi University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1080-01652176-2026-2715555",
-      "title": "Artificial intelligence and laboratory biomarkers in veterinary medicine: an update about machine learning applications",
-      "summary": "The use of artificial intelligence has been a revolution in human medicine in the last years. Machine learning (ML), a subset of artificial intelligence, has allowed the use of a large amount of data to search for associations of clinical significance. Although the use of ML with laboratory biomarkers in veterinary medicine is limited in comparison with the human side, the number of studies publis",
-      "date": "2026-09-17",
-      "sourceUrl": "https://doi.org/10.1080/01652176.2026.2715555",
-      "sourceName": "Veterinary Quarterly",
-      "function": "Robotics & AI",
-      "region": "Spain",
-      "institution": "Universidad de Murcia",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
