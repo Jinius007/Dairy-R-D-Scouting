@@ -1,11 +1,124 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-03",
-    "nextRefresh": "2026-10-04",
-    "totalTracked": 15765,
+    "lastRefreshed": "2026-10-04",
+    "nextRefresh": "2026-10-05",
+    "totalTracked": 15781,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-to-increase-milk-and-meat-",
+      "title": "Kazakhstan to Increase Milk and Meat Production by 2030",
+      "summary": "Kazakhstan will allocate 80 billion tenge for the development of animal husbandry between 2026 and 2030. As part of the program, farms intend to acquire 40,000 heads of cattle and 20,000 heads of small ruminants.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_to_increase_milk_and_meat_production_by_2030_5577035.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-president-cyril-ramaphosa-will-visit-",
+      "title": "President Cyril Ramaphosa will visit Redlands Dairy Farm",
+      "summary": "President Cyril Ramaphosa is scheduled to visit Redlands Dairy Farm in Stutterheim, Eastern Cape, on October 8. The farm is a black- and youth-owned commercial enterprise supported through the Blended Finance Scheme administered by Land Bank and the Department of Agriculture.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/president_cyril_ramaphosa_will_visit_redlands_dairy_farm_2241799.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-murilo-ben-cio-builds-a-dairy-cattle-",
+      "title": "Murilo Benício Builds a Dairy-Cattle Business Worth More Than R$10m",
+      "summary": "Brazilian actor Murilo Benício has invested more than R$10m in a high-genetics dairy-cattle operation in Minas Gerais. The business, established in 2008 with experienced cattle farmers, operates alongside a separate rural property in Rio de Janeiro state used mainly by his family.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/murilo_ben_cio_builds_a_dairy_cattle_business_worth_more_than_r_10m_9709681.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-prehistoric-animal-shaped-vessels-hel",
+      "title": "Prehistoric Animal-Shaped Vessels Held Milk 3,000 Years Ago",
+      "summary": "Chemical analysis has identified milk residues in small animal-shaped ceramic vessels dating back about 3,000 years. Three examples found in child burials in Bavaria indicate that the objects were used to feed children or support weaning.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/prehistoric_animal_shaped_vessels_held_milk_3_000_years_ago_9054357.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-and-mongolia-aim-to-increa",
+      "title": "Kazakhstan and Mongolia Aim to Increase Trade Fivefold",
+      "summary": "Kazakhstan and Mongolia have agreed to enhance cooperation to increase mutual trade fivefold. The parties are discussing projects in energy, the atomic industry, resource extraction and processing, agriculture, and transportation.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_and_mongolia_aim_to_increase_trade_fivefold_4814912.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-liam-rochford-expands-dairy-enterpris",
+      "title": "Liam Rochford Expands Dairy Enterprise Alongside Tillage and Sheep",
+      "summary": "Liam Rochford milks 152 cows near Cleariestown in County Wexford, with the dairy operation occupying 58ha of a 160ha holding. The remaining land supports silage, heifer rearing, finishing cattle, store lambs and tillage, while the herd produced 500kg of milk solids per cow in 2025.",
+      "date": "2026-10-03",
+      "sourceUrl": "https://dairynews.today/news/liam_rochford_expands_dairy_enterprise_alongside_tillage_and_sheep_8925330.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-14202-vetworld-2026-4322-4335",
+      "title": "Targeted plasma amino acid metabolomics reveals distinct signatures of subclinical ketosis, subclinical mastitis, and concurrent disease in early lactation dairy cows",
+      "summary": "Background and Aim: Subclinical ketosis (SCK) and subclinical mastitis (SCM) are common disorders of early lactation dairy cows, but their concurrent metabolic effects remain poorly characterized. This study aimed to characterize plasma amino acid profiles associated with SCK, SCM, and concurrent SCK+SCM, evaluate metabolite-based discrimination among disease states, and investigate associations b",
+      "date": "2026-10-03",
+      "sourceUrl": "https://doi.org/10.14202/vetworld.2026.4322-4335",
+      "sourceName": "Veterinary World",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Jordan University of Science and Technology",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-chobani-commits-1-2bn-to-expand-dairy",
       "title": "Chobani Commits $1.2bn to Expand Dairy, Coffee and Food Production",
@@ -16,6 +129,22 @@
       "function": "Marketing",
       "region": "Global",
       "company": "Chobani",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-fire-struck-an-essa-dairy-farm-barn",
+      "title": "A fire struck an Essa dairy farm barn without injuring animals",
+      "summary": "A barn at a large Holstein dairy farm in Essa caught fire on Friday evening. Firefighters confined the blaze to part of the building, while animals were moved away and no injuries were reported.",
+      "date": "2026-10-02",
+      "sourceUrl": "https://dairynews.today/news/a_fire_struck_an_essa_dairy_farm_barn_without_injuring_animals_9125115.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
       "rdType": "Industry News",
       "tags": [
         "RSS",
@@ -192,7 +321,7 @@
       "date": "2026-10-02",
       "sourceUrl": "https://doi.org/10.5194/aab-69-541-2026",
       "sourceName": "Archives animal breeding/Archiv für Tierzucht",
-      "function": "Animal Health",
+      "function": "Nutrition & Feeding",
       "region": "USA",
       "institution": "Sewanee: The University of the South",
       "rdType": "Research Paper",
@@ -446,6 +575,73 @@
       ]
     },
     {
+      "id": "openalex-10-1038-s41598-026-73917-6",
+      "title": "Staphylococcus aureus in bovine mastitis in northwestern Iran: patterns of antimicrobial and multidrug resistance, biofilm formation, and virulence/resistance gene carriage",
+      "summary": "Abstract Staphylococcus aureus ( S. aureus ), a major cause of bovine mastitis, represents a significant challenge for the dairy industry due to its economic and zoonotic importance. This study aimed to investigate the distribution of major virulence-associated genes (lukE, seA, sei), the methicillin-resistance gene (mecA), antimicrobial susceptibility, and biofilm formation in S. aureus isolates ",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-73917-6",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "Iran",
+      "institution": "University of Tabriz",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s13028-026-00880-7",
+      "title": "Physiological, genetic and inflammatory factors influencing somatic cell count in goat milk: a review",
+      "summary": "Somatic cell count (SCC) is widely used as an indicator of milk quality and udder health in ruminants; however, its interpretation in goats remains complex due to species-specific physiology and multifactorial variability. A key challenge in goat dairy production is distinguishing physiological from pathological SCC elevation. This critical narrative review synthesizes current knowledge on physiol",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1186/s13028-026-00880-7",
+      "sourceName": "Acta veterinaria Scandinavica",
+      "function": "Animal Health",
+      "region": "Lithuania",
+      "institution": "Lithuanian University of Health Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1002-fsn3-72367",
+      "title": "Effects of Supplementing the Diets of Mice With Different Concentrations of Conjugated Linoleic Acid on the Anti‐Inflammatory Function of the Mammary Gland",
+      "summary": "ABSTRACT In this study, we evaluated the impact of the dietary addition of different concentrations of conjugated linoleic acid (CLA) on the antioxidant capacity and anti‐inflammatory effects of serum and breast tissue in mice. Twenty‐four ICR mice (BW = 37.79 ± 2.17 g) at 7 days of pregnancy were divided into four groups ( n = 6 per group): a control (CN) group, which was fed a normal diet, and t",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1002/fsn3.72367",
+      "sourceName": "Food Science & Nutrition",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1984452",
+      "title": "Antimicrobial resistance patterns of Escherichia coli detected from milk, milking environment, and milk consumers in Addis Ababa milksheds, Ethiopia",
+      "summary": "Antimicrobial resistance (AMR), primarily caused by irrational antimicrobial use in humans, animals, and agriculture, poses a serious global public health threat, particularly in resource-limited low- and middle-income countries, where milk processing, hygiene standards, and prudent antimicrobial use regulations are minimal. Previous studies in Ethiopia reported the prevalence of AMR in Escherichi",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1984452",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Animal Health",
+      "region": "Ethiopia",
+      "institution": "Addis Ababa University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1038-s42003-026-10771-2",
       "title": "Biotope-dependent resistance to reactive oxygen species, antibiotic tolerance, and virulence of Staphylococcus aureus",
       "summary": "The human and livestock pathogen Staphylococcus aureus poses a major clinical challenge due to antibiotic treatment failure. Its resilience is mainly attributed to antibiotic resistance and tolerance mechanisms related to persistence. Here we investigate how two infection-relevant conditions, milk and serum, shape S. aureus pathogenic properties and capacity to withstand environmental stresses. Mi",
@@ -463,14 +659,32 @@
       ]
     },
     {
-      "id": "openalex-10-22271-tpi-2026-v15-i10a-26660",
-      "title": "Comparative evaluation of California Mastitis Test, electrical conductivity and somatic cell count for detection of mastitis in Holstein Friesian crossbred and Deoni cows",
-      "summary": "Mastitis is one of the most important diseases affecting dairy cattle and is a major cause of reduced milk production and deterioration of milk quality. Early detection, particularly of subclinical mastitis, is therefore essential for effective udder-health management. The present study was undertaken to compare three commonly used mastitis screening methods, namely California Mastitis Test (CMT),",
+      "id": "openalex-10-33462-jotaf-1831821",
+      "title": "Changes in Yield, Quality, and Nutrient Content According to Different Cutting Times of Meadows",
+      "summary": "This study was conducted in 2023 and 2024 to reveal the differences in yield, quality, and nutrient content of meadows in Bingöl province (Türkiye) semi-arid ecological conditions according to different cutting times. In the study, meadows were harvested at 15-day intervals starting in May and four cuttings were performed. Yield characteristics included green forage yield and dry matter yield; qua",
       "date": "2026-10-01",
-      "sourceUrl": "https://doi.org/10.22271/tpi.2026.v15.i10a.26660",
-      "sourceName": "The Pharma Innovation",
-      "function": "Animal Health",
-      "region": "Global",
+      "sourceUrl": "https://doi.org/10.33462/jotaf.1831821",
+      "sourceName": "Tekirdağ Ziraat Fakültesi Dergisi",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Bingöl University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-33462-jotaf-1921380",
+      "title": "Comparative Evaluation of Fatty Acid Profiles, Phenolic Content, and Antioxidant Activity in Seeds of Commonly Grown Forage Legumes",
+      "summary": "Legume forage crops are among the most important plant species due to their high protein content and bioactive compounds such as fatty acids and phenolic compounds. These compounds play a role in plant physiological processes and exhibit important functional properties in animal and human nutrition. The aim of this study is to determine the oil content, fatty acid composition, total phenolic conte",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.33462/jotaf.1921380",
+      "sourceName": "Tekirdağ Ziraat Fakültesi Dergisi",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Isparta University of Applied Sciences",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -489,6 +703,39 @@
       "region": "Global",
       "institution": "Kabul University",
       "company": "IBM",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-73174-7",
+      "title": "In silico design and immunogenic assessment of a strain-specific peptide in Brucella melitensis 16 M for DIVA diagnosis",
+      "summary": "Abstract Brucella melitensis is a facultative intracellular pathogen that causes brucellosis in small ruminants and humans. Strain-specific molecular targets are needed to improve vaccination monitoring and epidemiological surveillance, particularly for DIVA strategies aimed at distinguishing naturally infected animals from Rev.1-vaccinated animals. Here, we performed a computational, hypothesis-g",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-73174-7",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "Italy",
+      "institution": "Magna Graecia University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-22271-tpi-2026-v15-i10a-26660",
+      "title": "Comparative evaluation of California Mastitis Test, electrical conductivity and somatic cell count for detection of mastitis in Holstein Friesian crossbred and Deoni cows",
+      "summary": "Mastitis is one of the most important diseases affecting dairy cattle and is a major cause of reduced milk production and deterioration of milk quality. Early detection, particularly of subclinical mastitis, is therefore essential for effective udder-health management. The present study was undertaken to compare three commonly used mastitis screening methods, namely California Mastitis Test (CMT),",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.22271/tpi.2026.v15.i10a.26660",
+      "sourceName": "The Pharma Innovation",
+      "function": "Animal Health",
+      "region": "Global",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -552,7 +799,7 @@
       "date": "2026-10-01",
       "sourceUrl": "https://doi.org/10.1021/acsomega.5c11084",
       "sourceName": "ACS Omega",
-      "function": "Animal Health",
+      "function": "Nutrition & Feeding",
       "region": "Argentina",
       "institution": "National University of Tucumán",
       "rdType": "Research Paper",
@@ -1417,6 +1664,40 @@
       ]
     },
     {
+      "id": "openalex-10-12750-jarb-41-3-176",
+      "title": "Associations of plasma free amino acids and related metabolites with pregnancy outcomes following artificial insemination in Hanwoo cows: a preliminary study",
+      "summary": "Background: Reproductive efficiency is an important determinant of productivity in Hanwoo cow-calf production.Blood biochemical parameters and plasma metabolites may provide useful information on pregnancy outcomes because nutritional and metabolic status can influence fertilization and early embryonic development.This study evaluated their associations with first-service artificial insemination (",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.12750/jarb.41.3.176",
+      "sourceName": "Journal of Animal Reproduciton and Biotechnology",
+      "function": "Nutrition & Feeding",
+      "region": "South Korea",
+      "institution": "Rural Development Administration",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1937481",
+      "title": "Repeatability and genetic architecture of milk urea nitrogen in a multi-breed Romanian dual-purpose cattle population: a genome-wide association study and the impact of phenotype definition",
+      "summary": "Milk urea nitrogen (MUN) indicates nitrogen utilization efficiency in dual-purpose cattle, and the definition of its per-cow phenotype represents a decisive choice in small two-step genome-wide association studies (GWAS). We characterized MUN repeatability and genetic architecture in 406 Romanian dual-purpose cows from multiple breeds (324 Simmental, 57 Brown Swiss, and 25 Holstein), genotyped at ",
+      "date": "2026-09-30",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1937481",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Breeding & Genetics",
+      "region": "Romania",
+      "institution": "West University of Timişoara",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-3389-fbinf-2026-1924154",
       "title": "Towards a holistic epidemiology of Streptococcus agalactiae using the BakRep repository",
       "summary": "Background Streptococcus agalactiae is a versatile multi-host pathogen that can cause severe neonatal disease in humans and mastitis in dairy animals. Its ability to infect a wide range of hosts is largely driven by its high genomic plasticity and the acquisition of distinct accessory genes. The global population of S. agalactiae is characterized by multiple capsular serotypes and clonal complexes",
@@ -1440,26 +1721,9 @@
       "date": "2026-09-30",
       "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1928624",
       "sourceName": "Frontiers in Microbiology",
-      "function": "Breeding & Genetics",
+      "function": "Animal Health",
       "region": "India",
       "institution": "Gujarat University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-12750-jarb-41-3-176",
-      "title": "Associations of plasma free amino acids and related metabolites with pregnancy outcomes following artificial insemination in Hanwoo cows: a preliminary study",
-      "summary": "Background: Reproductive efficiency is an important determinant of productivity in Hanwoo cow-calf production.Blood biochemical parameters and plasma metabolites may provide useful information on pregnancy outcomes because nutritional and metabolic status can influence fertilization and early embryonic development.This study evaluated their associations with first-service artificial insemination (",
-      "date": "2026-09-30",
-      "sourceUrl": "https://doi.org/10.12750/jarb.41.3.176",
-      "sourceName": "Journal of Animal Reproduciton and Biotechnology",
-      "function": "Nutrition & Feeding",
-      "region": "South Korea",
-      "institution": "Rural Development Administration",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -1477,23 +1741,6 @@
       "function": "Nutrition & Feeding",
       "region": "Egypt",
       "institution": "Cairo University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-22358-jafs-235722-2026",
-      "title": "Nutritive value of traditionally water-debittered white lupin grains for ruminants",
-      "summary": "White lupin (Lupinus albus L.) grains, locally known in Anatolia as termiye, is traditionally boiled and soaked under running water for 7-10 days to remove quinolizidine alkaloids.However, little is known about its nutritive value for ruminants after this processing.In this study, water-debittered L. albus from five smallholder production lots (L1-L5) was characterised for chemical composition, Co",
-      "date": "2026-09-30",
-      "sourceUrl": "https://doi.org/10.22358/jafs/235722/2026",
-      "sourceName": "Journal of Animal and Feed Sciences",
-      "function": "Nutrition & Feeding",
-      "region": "Turkey",
-      "institution": "Selçuk University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -11952,6 +12199,23 @@
       "tags": [
         "OpenAlex",
         "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3389-fvets-2026-1912675",
+      "title": "Effects oflysophospholipids supplementation on production performance, serum biochemistry, rumen fermentation in lactating dairy cows.",
+      "summary": "<h4>Objective</h4>This study was designed to evaluate the effects of supplementing dairy cow diets with lysophosphatidylcholine (LPL) on production performance, serum biochemical parameters, and rumen fermentation profiles.<h4>Methods</h4>A total of 20 Holstein dairy cows in the early lactation stage with comparable body conditions (DIM = 73 ± 26 d; milk yield = 41 ± 10 kg; average parity = 2.6 ± ",
+      "date": "2026-09-17",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1912675",
+      "sourceName": "Europe PMC",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "College of Animal Science and Technology",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
