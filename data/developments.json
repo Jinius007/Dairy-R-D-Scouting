@@ -1,11 +1,1130 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-08",
-    "nextRefresh": "2026-10-09",
-    "totalTracked": 16015,
+    "lastRefreshed": "2026-10-09",
+    "nextRefresh": "2026-10-10",
+    "totalTracked": 16087,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-gulfood-manufacturing-2026-sternvitam",
+      "title": "Gulfood Manufacturing 2026: SternVitamin Showcases Its New Standard Premix Portfolio and Innovative Product Concepts",
+      "summary": "SternVitamin will present a new range of standardized micronutrient premixes for food and beverage makers in the Middle East and Africa at Gulfood Manufacturing 2026 in Dubai (3–5 November, Stand R-N14, Sheikh Rashid Hall). The company will also show two product concepts: a fortified protein bar and an instant supplement based on its SternVita Longevity premix",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/gulfood_manufacturing_2026_sternvitamin_showcases_its_new_standard_premix_portfolio_and_innovative_p_9884693.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-france-to-offer-farmers-hit-by-drough",
+      "title": "France to Offer Farmers Hit by Drought Loans with Interest Covered by the State",
+      "summary": "The French government has expanded support measures for farms affected by the summer drought. Agriculture Minister Annie Genevard announced the new measures at Sommet de l’Élevage. They also apply to livestock farmers who had to draw on their forage reserves earlier than usual.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/france-to-offer-farmers-hit-by-drought-loans-with-interest-covered-by-the-state.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "France",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-udmurtiya-s-agricultural-exports-incr",
+      "title": "Udmurtiya's Agricultural Exports Increased Significantly",
+      "summary": "From January to August 2026, the export of agricultural products from Udmurtiya rose by 55% year over year. In 2017, the supply volume was $1.7 million, with dairy products making up the majority of current exports.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/udmurtiya_s_agricultural_exports_increased_significantly_2527289.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-land-o-lakes-says-protein-demand-supp",
+      "title": "Land O’Lakes says protein demand supports US dairy margins",
+      "summary": "Beth Ford, Land O’Lakes’ president and chief executive, said resilient demand for dairy protein and revenue from beef-cross calves are supporting American dairy farms. She also described rising labour, input and credit costs, along with workforce shortages, as pressures on producers’ finances.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/land_o_lakes_says_protein_demand_supports_us_dairy_margins_7511071.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-amul-expands-its-global-footprint-thr",
+      "title": "Amul Expands Its Global Footprint Through Local Processing",
+      "summary": "Amul is expanding overseas by licensing its brand and production standards to foreign dairy cooperatives instead of shipping liquid milk from India. The Gujarat Cooperative Milk Marketing Federation has begun this model in North America and western Europe and is preparing to enter ten more territories in Southeast Asia and Africa.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/amul_expands_its_global_footprint_through_local_processing_3318731.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "India",
+      "company": "Amul",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-ornua-raises-indicative-irish-milk-pr",
+      "title": "Ornua Raises Indicative Irish Milk Price by Two Cents",
+      "summary": "Ornua’s Purchase Price Index rose to 135.8 in September from 130.4 in August. The increase lifted the indicative Irish farmgate milk return by €0.02 per litre, reflecting stronger returns from international dairy sales.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/ornua_raises_indicative_irish_milk_price_by_two_cents_5941813.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Ornua",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-usda-confirms-avian-flu-in-two-washin",
+      "title": "USDA Confirms Avian Flu in Two Washington Dairy Herds",
+      "summary": "The USDA has confirmed highly pathogenic avian influenza in two dairy cattle herds in Washington state, the first reported detections there. Testing began after lactating cows showed falling milk production, reduced feed intake, lethargy and unusually thick milk.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/usda_confirms_avian_flu_in_two_washington_dairy_herds_4565234.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-zabaykalsky-krai-restricts-grazing-du",
+      "title": "Zabaykalsky Krai Restricts Grazing Due to Foot-and-Mouth Disease in Mongolia",
+      "summary": "Zabaykalsky Krai declared a state of heightened readiness following a report of a foot-and-mouth disease outbreak in neighboring Mongolia. Booster vaccinations will be conducted in 12 border districts, and grazing within a 10-kilometer zone from the border will be limited.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/zabaykalsky_krai_restricts_grazing_due_to_foot_and_mouth_disease_in_mongolia_2367746.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-protein-demand-sustains-us-dairy-as-labor-and",
+      "title": "Protein demand sustains US dairy as labor and credit costs squeeze margins",
+      "summary": "Land O'Lakes CEO Beth Ford says strong dairy protein demand and beef-cross calves sustain farm P&Ls despite rising labor and agricultural credit costs.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://en.edairynews.com/protein-demand-sustains-us-dairy-as-labor-and-credit-costs-squeeze-margins/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "company": "Land O'Lakes",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-us-dairy-margins-tighten-as-milk-prices-drop-",
+      "title": "US dairy margins tighten as milk prices drop and feed costs rise",
+      "summary": "US dairy margins tighten as all-milk prices fall to $19.78 per cwt, feed costs rise, and beef-cross calf premiums soften heading into late 2026.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://en.edairynews.com/us-dairy-margins-tighten-as-milk-prices-drop-and-feed-costs-rise/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-corey-scott-assumes-dairy-management-inc-lead",
+      "title": "Corey Scott assumes Dairy Management Inc leadership to drive demand",
+      "summary": "Corey Scott is named president and CEO of Dairy Management Inc, leading the dairy checkoff to keep consumer demand ahead of on-farm efficiency.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://en.edairynews.com/corey-scott-assumes-dairy-management-inc-leadership-to-drive-demand/",
+      "sourceName": "eDairyNews",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-dairy-farmers-of-america-wins-top-honors-at-n",
+      "title": "Dairy Farmers of America wins top honors at NMPF communications awards",
+      "summary": "Dairy Farmers of America wins top honors at the NMPF communications contest, named Cooperative Communicator of the Year for 2026.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://en.edairynews.com/dairy-farmers-of-america-wins-top-honors-at-nmpf-communications-awards/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Dairy Farmers of America",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-australian-retirement-trust-raises-bega-chees",
+      "title": "Australian Retirement Trust raises Bega Cheese stake to six percent",
+      "summary": "Australian Retirement Trust lifts its stake in Bega Cheese to 6.056%, backing the dairy processor's branded consumer food and beverage growth.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://en.edairynews.com/australian-retirement-trust-raises-bega-cheese-stake-to-six-percent/",
+      "sourceName": "eDairyNews",
+      "function": "Marketing",
+      "region": "Australia",
+      "company": "Bega",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-environmental-college-students-visit-new-",
+      "title": "Environmental College Students Visit New York Dairy Farm",
+      "summary": "American Dairy Assocaition North East partnered with the Ontario County Soil and Water Conservation District in New York to coordinate a dairy farm tour for 25+ environmental students and faculty from Rochester Institute of [Read More ...]",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairybusiness.com/environmental-college-students-visit-new-york-dairy-farm/",
+      "sourceName": "Dairy Business",
+      "function": "Sustainability & Traceability",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-novus-expands-c-o-w-s-program-to-europe-w",
+      "title": "NOVUS Expands C.O.W.S.™ Program to Europe with New Dairy Sales Manager",
+      "summary": "NOVUS is expanding its dairy services in Europe with the addition of Moyna Bierma as C.O.W.S.™ Program and Dairy Sales Manager. In the newly appointed role, Bierma will lead adapting and introducing the dairy farm [Read More ...]",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairybusiness.com/novus-expands-c-o-w-s-program-to-europe-with-new-dairy-sales-manager/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "company": "Novus",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-idfa-launches-interactive-tool-to-expand-",
+      "title": "IDFA Launches Interactive Tool to Expand U.S. Dairy Export Diversification Efforts",
+      "summary": "Part of IDFA’s Project Diversify initiative, new tool allows dairy leaders to pinpoint emerging markets with long-range growth potential for dairy exports. The International Dairy Foods Association (IDFA) today launched a new interactive web [Read More ...]",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairybusiness.com/idfa-launches-interactive-tool-to-expand-u-s-dairy-export-diversification-efforts/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-10-09-arla-sweden-axes-co",
+      "title": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
+      "summary": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
+      "date": "2026-10-09",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/09/arla-sweden-axes-contracts-with-52-farms-amid-falling-demand-for-organic-milk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Farm Management",
+      "region": "Sweden",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-jersey-cattle-numbers-in-france-rise-",
+      "title": "Jersey Cattle Numbers in France Rise 145% Over Ten Years",
+      "summary": "The number of Jersey cattle in France has increased by 145% over ten years, while the country’s overall dairy herd has declined by 20%. Olivier Bulot, director of the breed selection organization BGS, presented these figures during the national Jersey competition at Sommet de l’Élevage.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/jersey-cattle-numbers-in-france-rise-145-over-ten-years.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "France",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakh-and-italian-entrepreneurs-sign",
+      "title": "Kazakh and Italian Entrepreneurs Sign Agreements Worth $436 Million",
+      "summary": "During Kazakhstan's trade and economic mission in Roma, representatives of the two countries signed bilateral agreements totaling $436 million. Over 70 Italian companies participated in the event; discussions covered agricultural supplies, transportation routes, and joint production.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/kazakh_and_italian_entrepreneurs_sign_agreements_worth_436_million_4836032.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-brazil-led-and-uruguay-trailed-region",
+      "title": "Brazil Led and Uruguay Trailed Regional Milk-Maize Ratios",
+      "summary": "A DairyLando comparison for July 2026 found that Brazilian dairy farmers could buy 2.64kg of maize with the proceeds from a litre of milk, the highest ratio among Argentina, Brazil, Chile and Uruguay. Uruguay recorded the lowest figure, at 1.66kg per litre.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/brazil_led_and_uruguay_trailed_regional_milk_maize_ratios_2823088.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-uruguay-s-dairy-market-sees-cheese-gr",
+      "title": "Uruguay’s Dairy Market Sees Cheese Grow, Liquid Milk Fall and Whey Gain Value",
+      "summary": "Uruguay’s dairy market is showing divergent trends: liquid-milk consumption has declined since 2020, while cheese consumption has continued to rise and butter has remained broadly stable. A presentation by Inale economists also identified higher-value uses for whey proteins and growing consumer interest in protein-rich, lower-sugar foods.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/uruguay_s_dairy_market_sees_cheese_grow_liquid_milk_fall_and_whey_gain_value_1065929.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Uruguay",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-farmers-of-america-wins-nmpf-s-",
+      "title": "Dairy Farmers of America Wins NMPF’s Top Communications Honor",
+      "summary": "The National Milk Producers Federation named Dairy Farmers of America its Cooperative Communicator of the Year. The federation also selected Maola member Ben Smith as Farmer Communicator of the Year in a contest involving 108 entries from ten dairy cooperatives.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/dairy_farmers_of_america_wins_nmpf_s_top_communications_honor_5732433.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Dairy Farmers of America",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-early-detection-of-cattle-pathologies",
+      "title": "Early Detection of Cattle Pathologies Can Save 12 Billion Rubles",
+      "summary": "Early diagnosis of lameness and metabolic disorders in cattle can reduce annual losses in the dairy industry by 12 billion rubles. Anastasiya Grecheneva announced this at the Zolotaya osen exhibition in Moscow.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/early_detection_of_cattle_pathologies_can_save_12_billion_rubles_1590605.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-spak-kuzminsky-to-build-robotic-farm-",
+      "title": "SPAk Kuzminsky to Build Robotic Farm in Moscow Oblast for 1 Billion Rubles by 2031",
+      "summary": "SPAk Kuzminsky plans to establish a robotic dairy complex in the Sergiyevo-Posadsky Urban Okrug of Moscow Oblast for 1,200 cattle. The project agreement was signed at the Zolotaya osen' — 2026 exhibition, with completion targeted by 2031.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/spak_kuzminsky_to_build_robotic_farm_in_moscow_oblast_for_1_billion_rubles_by_2031_3160037.html",
+      "sourceName": "DairyNews.today",
+      "function": "Robotics & AI",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-russia-plans-to-enter-the-top-ten-glo",
+      "title": "Russia Plans to Enter the Top Ten Global Exporters of Agricultural Products",
+      "summary": "Russia ranks 19th in the global ranking of food and agricultural commodity exporters, but could enter the top ten, said Ilya Ilyushin, head of Agroexport. According to him, the country needs to increase the supply of processed products with high added value.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/russia_plans_to_enter_the_top_ten_global_exporters_of_agricultural_products_8311361.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-augusto-pomodoro-discusses-tonadita-s",
+      "title": "Augusto Pomodoro Discusses Tonadita’s Foreign-Trade Expansion",
+      "summary": "Augusto Pomodoro, Tonadita’s head of foreign trade, described the dairy company’s expansion plans in an interview with EDairyNews Español. The Villa María-based producer projects monthly output of 15,000 tonnes by 2030 while adding international technology, broadening its product portfolio and entering new states in the North American market.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/augusto_pomodoro_discusses_tonadita_s_foreign_trade_expansion_7677394.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-european-dairy-firms-lifted-prices-to",
+      "title": "European dairy firms lifted prices to €40.83, still 18.1% below 2025",
+      "summary": "The average price paid for milk by 16 major European dairy companies rose to €40.83 per 100kg in August, up 1.4% from July. It remained 18.1% below the level recorded in August 2025.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/european_dairy_firms_lifted_prices_to_40_83_still_18_1_below_2025_8205866.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-mexico-s-dairy-farmers-demand-payment",
+      "title": "Mexico’s Dairy Farmers Demand Payment of 500m Pesos",
+      "summary": "Dairy producers in several Mexican regions are demanding settlement of more than 500m pesos in overdue payments for milk supplied during the last fiscal year. Protests included a blockade in Oaxaca, while producers said delayed transfers were disrupting farm operations and milk collection.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/mexico_s_dairy_farmers_demand_payment_of_500m_pesos_5501713.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Mexico",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dodla-dairy-identifies-bihar-and-jhar",
+      "title": "Dodla Dairy Identifies Bihar and Jharkhand for Expansion",
+      "summary": "Dodla Dairy has identified Bihar and Jharkhand as priority markets in eastern India and entered both states through acquisitions. Chief executive Venkat Krishna Reddy Busireddy said the company is looking beyond its established southern business while expanding procurement, processing and distribution.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/dodla_dairy_identifies_bihar_and_jharkhand_for_expansion_1352070.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-artisanal-market-buys-mundella-and-ma",
+      "title": "Artisanal Market buys Mundella and Margaret River brands",
+      "summary": "Artisanal Market has acquired the brands and assets of Mundella Foods and the Margaret River Dairy Company after both businesses entered liquidation in August. Yoghurt production is expected to resume near Margaret River before Christmas, returning Mundella products to Western Australian supermarket shelves.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/artisanal_market_buys_mundella_and_margaret_river_brands_3787592.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-rio-grande-do-norte-produces-440m-lit",
+      "title": "Rio Grande do Norte Produces 440m Litres Worth R$1.1bn",
+      "summary": "Rio Grande do Norte produced 440.2m litres of milk in 2025, up 11.6% from the previous year. The output generated more than R$1.11bn and placed the state sixth among Brazil’s north-eastern milk producers.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/rio_grande_do_norte_produces_440m_litres_worth_r_1_1bn_2700322.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-australian-retirement-trust-raises-be",
+      "title": "Australian Retirement Trust raises Bega Cheese stake to 6.056%",
+      "summary": "Australian Retirement Trust has increased its voting interest in Bega Cheese from 5.008% to 6.056%, according to disclosures filed with the Australian Securities Exchange. Its holding now totals 18,519,382 fully paid ordinary shares.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/australian_retirement_trust_raises_bega_cheese_stake_to_6_056_2265294.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Australia",
+      "company": "Bega",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-conaprole-starts-october-with-6-1m-li",
+      "title": "Conaprole Starts October With 6.1m Litres Daily",
+      "summary": "Conaprole collected 6.1m litres of milk per day during the first five days of October. That was 7.85% more than a year earlier, while limited rainfall moderated the spring increase.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/conaprole_starts_october_with_6_1m_litres_daily_3208657.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-us-nonfat-dry-milk-prices-rose-to-2-2",
+      "title": "US nonfat dry milk prices rose to $2.26 per pound",
+      "summary": "Grade A nonfat dry milk traded at $2.2600 per pound on the CME Group cash market in Chicago on October 8, 2026. The USDA reported an increase of $0.0050 per pound from the previous close.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/us_nonfat_dry_milk_prices_rose_to_2_26_per_pound_6940137.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fazenda-lima-turns-family-dairy-herit",
+      "title": "Fazenda Lima turns family dairy heritage into artisanal cheese business",
+      "summary": "Micarla transformed a family dairy background into a registered artisanal cheese business at Fazenda Lima in Rio Grande do Norte. The farm combines traditional products with matured cheeses, including Potiguar, developed with locally produced Café Jaçanã.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/fazenda_lima_turns_family_dairy_heritage_into_artisanal_cheese_business_3773871.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-investigative-committee-of-russia-sus",
+      "title": "Investigative Committee of Russia Suspects Rosselkhoznadzor Officer in Bribery Case in Rostov Region",
+      "summary": "A criminal case has been initiated in Shakhty against a Rosselkhoznadzor employee and an agribusiness representative. The investigation alleges the official received 265,000 rubles for expedited issuance of phytosanitary certificates.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/investigative_committee_of_russia_suspects_rosselkhoznadzor_officer_in_bribery_case_in_rostov_region_2611848.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-liconsa-cuts-chihuahua-milk-purchases",
+      "title": "Liconsa cuts Chihuahua milk purchases by 40%",
+      "summary": "Mexico’s public dairy company Liconsa has reduced the milk volumes accepted from producers in south-central Chihuahua by 40%, according to local producers. The change has left collection centres receiving less milk under a guaranteed-price programme while farmers report delayed federal payments.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/liconsa_cuts_chihuahua_milk_purchases_by_40_7121802.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Mexico",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-mexico-s-cattle-herd-contracts-offici",
+      "title": "Mexico's cattle herd contracts, official survey shows",
+      "summary": "Mexico's bovine inventory fell to 24.03m head, while the country recorded 2.35m cows in active milking at the end of the third quarter. Those cows produced an average of 32.9m litres of raw milk a day, with producers receiving 10.66 pesos per litre on average.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/mexico_s_cattle_herd_contracts_official_survey_shows_2158936.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Mexico",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-experts-identify-ccs-mastitis-a",
+      "title": "Dairy experts identify CCS, mastitis and milking-machine bottlenecks",
+      "summary": "Veterinarian Luis Pinho and technician Gian Nascimento identified subclinical mastitis, elevated somatic cell counts and milking-equipment performance as key management issues in dairy production. They presented prevention, diagnosis, maintenance and data monitoring as parts of managing milk quality and productivity.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/dairy_experts_identify_ccs_mastitis_and_milking_machine_bottlenecks_8920028.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-foodexpo-qazaqstan-2026-will-showcase",
+      "title": "FoodExpo Qazaqstan 2026 will showcase dairy processing technologies",
+      "summary": "From November 11 to 13, the FoodExpo Qazaqstan 2026 will be held in Almaty. Its program includes technologies for the dairy industry, food ingredients, and packaging solutions. Organizers plan to display agricultural processing equipment in a separate pavilion, No. 11 of the KCDS Atakent.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/foodexpo_qazaqstan_2026_will_showcase_dairy_processing_technologies_9900736.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-alaska-milk-corporation-highlighted-n",
+      "title": "Alaska Milk Corporation highlighted nutrition at ASEAN–EU summit",
+      "summary": "Alaska Milk Corporation, the Philippine operating company of FrieslandCampina, took part in the 12th ASEAN–EU Business Summit in Manila. The company presented nutrition and dairy access as topics linked to human-capital development, productivity and regional economic resilience.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/alaska_milk_corporation_highlighted_nutrition_at_asean_eu_summit_5829073.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "company": "FrieslandCampina",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-uruguay-s-2026-cheese-week-returns-to",
+      "title": "Uruguay’s 2026 Cheese Week Returns to Eastern Colonia",
+      "summary": "Uruguay’s Cheese Week will take place from October 9th to 18th in Montevideo and the eastern part of Colonia. Its programme includes the 20th Uruguayan Cheese Competition, which will again have an international format, and the third Uruguayan Cheese Festival in Nueva Helvecia.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/uruguay_s_2026_cheese_week_returns_to_eastern_colonia_6220122.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Uruguay",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-el-mexicano-drinkable-yogurts-win-two",
+      "title": "El Mexicano Drinkable Yogurts Win Two Categories at 2026 Contest",
+      "summary": "Marquez Brothers International received 11 awards for products sold under its El Mexicano and YoGusto brands at the 2026 World Dairy Expo Championship Dairy Product Contest. El Mexicano Mango and Strawberry drinkable yogurts won first place in their respective categories, scoring 99.70 and 98.90.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/el_mexicano_drinkable_yogurts_win_two_categories_at_2026_contest_8854023.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nestl-signs-global-nba-partnership-fo",
+      "title": "Nestlé Signs Global NBA Partnership for Three Brands",
+      "summary": "Nestlé has agreed a global marketing partnership with the National Basketball Association for Milo, Nescau and Nesquik. The agreement will begin on January 1st 2027 in 20 markets and expand to the Philippines in October, bringing the total to 21 countries.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/nestl_signs_global_nba_partnership_for_three_brands_8658813.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-joe-lyall-wins-young-farmer-of-the-ye",
+      "title": "Joe Lyall wins Young Farmer of the Year 2026",
+      "summary": "Joe Lyall, a 22-year-old dairy farmer from Calthwaite, has received the Young Farmer of the Year 2026 award at the Farmers Weekly Awards. The judges praised his approach to milk production, farm income and herd management.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/joe_lyall_wins_young_farmer_of_the_year_2026_2220857.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-m-ller-will-close-two-german-processi",
+      "title": "Müller will close two German processing sites by 2027",
+      "summary": "Theo Müller Group will shut its Homann sauce plant in Rogätz by September 2027 and end sliced-cheese production at Leppersdorf by December 2026. The closures will affect about 320 employees, with roughly 160 at each site.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/m_ller_will_close_two_german_processing_sites_by_2027_6483784.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "company": "Müller",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kaushiki-reports-145-01-crore-turnove",
+      "title": "Kaushiki Reports ₹145.01 Crore Turnover in 2025–26",
+      "summary": "Kaushiki Mahila Milk Producer Company recorded turnover of ₹145.01 crore in the 2025–26 financial year. The Bihar-based women-led dairy company had 49,344 members by August 2026 and was collecting more than 92,000 kilograms of milk a day.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/kaushiki_reports_145_01_crore_turnover_in_2025_26_4815677.html",
+      "sourceName": "DairyNews.today",
+      "function": "Robotics & AI",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-trabzon-butter-and-kaymak-rank-second",
+      "title": "Trabzon Butter and Kaymak Rank Second and Third in TasteAtlas List",
+      "summary": "TasteAtlas’s October 2026 ranking places Trabzon butter second and Turkish kaymak third among the world’s dairy products. Both received 4.4 points, while Irish butter led the list with 4.5.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/trabzon_butter_and_kaymak_rank_second_and_third_in_tasteatlas_list_9885215.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milk-production-requires-routine-inve",
+      "title": "Milk Production Requires Routine, Investment and Constant Attention",
+      "summary": "A dairy farm in Mandaguari, Paraná, produces about 3,000 litres of milk a day and is aiming to reach 5,000. Its operation combines twice-daily mechanical milking, refrigerated storage, herd nutrition and continuous animal care.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/milk_production_requires_routine_investment_and_constant_attention_9221510.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-leche-para-el-bienestar-expands-regis",
+      "title": "Leche para el Bienestar Expands Registration in Durango",
+      "summary": "Leche para el Bienestar held an extraordinary registration and records-update drive in El Salto, Pueblo Nuevo, Durango. The operation served new applicants and existing beneficiaries needing replacement cards so they could continue receiving subsidised fortified milk.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/leche_para_el_bienestar_expands_registration_in_durango_8893211.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-james-young-plans-a-cattle-tunnel-ben",
+      "title": "James Young plans a cattle tunnel beneath the A83",
+      "summary": "Farmer James Young plans to build an underpass beneath the A83 in Kintyre so his 170 dairy cows can reach their milking shed without crossing the road. The project received planning approval from Argyll and Bute Council in February 2025, but still requires further technical work and final approval.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/james_young_plans_a_cattle_tunnel_beneath_the_a83_1381608.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-mother-dairy-expands-west-bengal-camp",
+      "title": "Mother Dairy expands West Bengal campaign beyond Mishti Doi",
+      "summary": "Mother Dairy has launched a Durga Puja marketing campaign in West Bengal featuring Bengali actor Abir Chatterjee. The NDDB subsidiary is promoting pasteurised milk and plain curd alongside its established Mishti Doi brand.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/mother_dairy_expands_west_bengal_campaign_beyond_mishti_doi_4045291.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "company": "NDDB",
+      "rdType": "Product Launch",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-sommet-de-l-levage-recognizes-innovat",
+      "title": "Sommet de l’Élevage Recognizes Innovations for Milking and Dairy Cattle Management",
+      "summary": "Awards in the Sommets d’Or 2026 innovation competition were presented at Sommet de l’Élevage in France. The nine recognized innovations include solutions for milking, renovating milking parlours, forage harvesting and protecting cattle from insects.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/sommet-de-l-levage-recognizes-innovations-for-milking-and-dairy-cattle-management.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "France",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-five-of-six-chilean-dairy-categories-",
+      "title": "Five of six Chilean dairy categories rose in September",
+      "summary": "Prices increased in five of six dairy categories in Chile during September, with powdered milk recording the sharpest monthly rise at 2.4%. The overall consumer-price index rose by 0.4%, while the food division increased by 0.8%.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/five_of_six_chilean_dairy_categories_rose_in_september_9853344.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Chile",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-reported-dairy-venture-grew-from-50",
+      "title": "A Reported Dairy Venture Grew from 50 Cows to a ₹1,380 Crore Business",
+      "summary": "Two Indian Institute of Management alumni reportedly started a fresh-milk venture with 50 cows, according to a business-focused social-media post. The account places the business figure at ₹1,380 crore, but does not identify the company or establish whether the amount represents revenue, valuation or annual turnover.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/a_reported_dairy_venture_grew_from_50_cows_to_a_1_380_crore_business_1447917.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-tatua-delivers-record-twelve-dollar-milk-payo",
+      "title": "Tatua delivers record twelve dollar milk payout in New Zealand",
+      "summary": "Tatua delivers a record Tatua milk payout of $12.42 per kgMS for 2026, leading New Zealand processors with strong specialized dairy ingredient earnings.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://en.edairynews.com/tatua-delivers-record-twelve-dollar-milk-payout-in-new-zealand/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-muller-to-close-two-german-processing-sites-b",
+      "title": "Müller to close two German processing sites by September 2027",
+      "summary": "Theo Müller announces Müller factory closures in Rogätz and Leppersdorf, cutting unprofitable sliced cheese and sauce units by September 2027.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://en.edairynews.com/muller-to-close-two-german-processing-sites-by-september-2027/",
+      "sourceName": "eDairyNews",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "company": "Müller",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-ornua-ppi-lifts-indicative-irish-milk-price-b",
+      "title": "Ornua PPI lifts indicative Irish milk price by two cents",
+      "summary": "The Ornua PPI climbs to 135.8 for September, lifting the indicative milk price by 2c/L as stronger global dairy market returns support Irish cooperatives.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://en.edairynews.com/ornua-ppi-lifts-indicative-irish-milk-price-by-two-cents/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Ornua",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-usda-confirms-avian-influenza-in-two-washingt",
+      "title": "USDA confirms avian influenza in two Washington dairy herds",
+      "summary": "USDA confirms avian influenza in two Washington dairy herds, prompting biosecurity enforcement as the commercial milk supply remains fully safe.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://en.edairynews.com/usda-confirms-avian-influenza-in-two-washington-dairy-herds/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-dairy-margin-coverage-enrollment-now-open",
+      "title": "Dairy Margin Coverage Enrollment Now Open",
+      "summary": "Dairy Producers are Encouraged to Apply for DMC by December 18 for 2027 USDA announced that enrollment is open for 2027 Dairy Margin Coverage (DMC), a voluntary risk management program that was recently strengthened by [Read More ...]",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairybusiness.com/dairy-margin-coverage-enrollment-now-open/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-wcma-calls-on-usda-to-reverse-new-cost-sh",
+      "title": "WCMA Calls on USDA to Reverse New Cost-Share Requirement for Dairy Business Innovation Initiatives",
+      "summary": "The Wisconsin Cheese Makers Association (WCMA) is urging U.S. Department of Agriculture Secretary Brooke Rollins to reverse a newly imposed 25% cost-share requirement for the Dairy Business Innovation (DBI) Initiatives, warning that mandate will prevent [Read More ...]",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairybusiness.com/wcma-calls-on-usda-to-reverse-new-cost-share-requirement-for-dairy-business-innovation-initiatives/",
+      "sourceName": "Dairy Business",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-improve-dairy-farm-management-proficiency",
+      "title": "Improve Dairy Farm Management Proficiency at Upcoming Workshop",
+      "summary": "PDP Business Management & Advanced Finance Workshop designed to enhance financial competencies. Dairy professionals looking to expand their financial and business management skills have an opportunity to learn and apply advanced management concepts to the [Read More ...]",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairybusiness.com/improve-dairy-farm-management-proficiency-at-upcoming-workshop/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-alex-steer-hired-as-director-of-field-ser",
+      "title": "Alex Steer Hired as Director of Field Services by Jersey Organizations",
+      "summary": "Alex Steer, Grandview, Wash., has been named Director of Field Services for the American Jersey Cattle Association and National All-Jersey Inc. He will begin his duties in mid-October. Steer succeeds Kristin Barlass Paul in the [Read More ...]",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairybusiness.com/alex-steer-hired-as-director-of-field-services-by-jersey-organizations/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-nmpf-hosts-fireside-chat-with-house-ag-ch",
+      "title": "NMPF Hosts Fireside Chat with House Ag Chair, Panel Discussions at Expo",
+      "summary": "NMPF President & CEO Gregg Doud was joined by Congressman Glenn “GT” Thompson, Chairman of the House Agriculture Committee, for a fireside chat exploring the issues shaping dairy’s future Oct. 1 at the World Dairy [Read More ...]",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairybusiness.com/nmpf-hosts-fireside-chat-with-house-ag-chair-panel-discussions-at-expo/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-new-zealand-veterinary-guidance-will-",
+      "title": "New Zealand Veterinary Guidance Will Tighten Dry Cow Therapy",
+      "summary": "New Zealand’s updated veterinary guidance will place greater emphasis on justifying antibiotic dry cow therapy for each cow from January 1st 2027. DairyNZ says fewer than 5% of herds are likely to meet the conditions under which treating every cow provides a benefit.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/new_zealand_veterinary_guidance_will_tighten_dry_cow_therapy_3428019.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nutritionists-assess-oat-coconut-and-",
+      "title": "Nutritionists Assess Oat, Coconut and Soy Milk",
+      "summary": "Nutrition experts have compared oat, coconut and soy milk as consumers increasingly choose dairy-free alternatives. The global dairy-alternatives market was valued at up to $36.8 billion in 2025 and is expected to reach $66.9 billion by 2030.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/nutritionists_assess_oat_coconut_and_soy_milk_8944596.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-arla-in-sweden-ends-contracts-with-29",
+      "title": "Arla in Sweden ends contracts with 29 organic and 27 Arla farms",
+      "summary": "Arla Sweden is ending arrangements with 29 organic dairy farms and closing 27 other Arla farms. The organic farms will receive payment for organic milk for one more year before being allowed to supply milk as conventional producers.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/arla_in_sweden_ends_contracts_with_29_organic_and_27_arla_farms_9613849.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Sweden",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-5281-zenodo-23246337",
+      "title": "Mastitis in Dairy Animals: Recognize Early, Treat Wisely and Prevent Milk Losses",
+      "summary": "Mastitis is an inflammatory disease of the mammary gland and is one of the most important health and economic problems affecting dairy cattle and buffaloes. It is commonly associated with bacterial infection, although other infectious and non-infectious factors may also contribute. Mastitis may occur in clinical or subclinical forms. Clinical mastitis is characterized by visible abnormalities in t",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.5281/zenodo.23246337",
+      "sourceName": "Zenodo (CERN European Organization for Nuclear Research)",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-21203-rs-3-rs-11288680-v1",
+      "title": "From Rice to Dairy Cattle: A Cross-Kingdom Machine Learning Framework for Identifying Conserved Molecular Biomarkers of Thermal Stress.",
+      "summary": "<title>Abstract</title>  <p>Here, we propose an effective and applicable method to identify CSBMs in multi-species, the Conserved Stable Biomarker Fusion Algorithm (CSBFA), which implements four criteria of biomarkers including predictive relevance, stability, cross-species correspondence, and biological coherence. With the CSBMs identified by CSBFA, one can carry out follow-up investigation based",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.21203/rs.3.rs-11288680/v1",
+      "sourceName": "Europe PMC",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-milk-prices-in-australia-rise-5-3-yea",
       "title": "Milk Prices in Australia Rise 5.3% Year on Year, Cheese Prices 0.7%",
@@ -307,6 +1426,57 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1088-1752-7163-aeb152",
+      "title": "Mask for individual sampling of tidal and ruminal gas contaminated breath in dairy cows",
+      "summary": "Standardized breath sampling in dairy cows is helpful for health monitoring and emission control. Yet, controlled measurements of and discrimination between tidal and ruminal gas contaminated breath are challenging. Here, we introduce a sampler designed to collect exhaled breath reproducibly from dairy cows. The system integrates pressure regulators and valves to enable normal breathing patterns. ",
+      "date": "2026-10-07",
+      "sourceUrl": "https://doi.org/10.1088/1752-7163/aeb152",
+      "sourceName": "Journal of Breath Research",
+      "function": "Animal Health",
+      "region": "Switzerland",
+      "institution": "ETH Zurich",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1965119",
+      "title": "Transforming nutritional monitoring of free-grazing herbivores: four decades of progress in fecal near-infrared reflectance spectroscopy",
+      "summary": "Fecal near-infrared reflectance spectroscopy (fecal-NIRS) has been used for more than four decades to estimate the nutritional characteristics of herbivore diets, including crude protein, digestibility, and feed intake. Despite its widespread use, a comprehensive synthesis of advances in this technology remains lacking. This review summarizes the development and application of fecal-NIRS over the ",
+      "date": "2026-10-07",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1965119",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "institution": "Prairie View A&M University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s10653-026-03516-x",
+      "title": "Soil-plant-animal properties and microbial reassembly distinguish cattle oral disease prevalence across converted Amazon pasture systems",
+      "summary": "Forest-to-pasture conversion can alter soil properties, forage composition, and microbial communities, but whether these changes are associated with bovine periodontitis remains unclear. We compared eight pasture systems in the Western Brazilian Amazon classified by high or low herd-level prevalence of periodontal lesions. Soil physicochemical properties, forage composition, microbial communities ",
+      "date": "2026-10-07",
+      "sourceUrl": "https://doi.org/10.1007/s10653-026-03516-x",
+      "sourceName": "Environmental Geochemistry and Health",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "institution": "Universidade Federal Rural do Rio de Janeiro",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -1214,6 +2384,73 @@
       ]
     },
     {
+      "id": "rss-DairyReporter-https-www-foodnavigator-com-Article-2026-10-06-egg-and-milk-qualit",
+      "title": "Milk and egg quality hit by climate change",
+      "summary": "Crop yields are not the only part of food affected by extreme heat. Climate change can impact milk and eggs, with heat-stressed cows and chickens producing lower quality products.",
+      "date": "2026-10-06",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/06/egg-and-milk-quality-impacted-by-climate-change/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Quality & Food Safety",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-hazadv-2026-101640",
+      "title": "Effect of storage time on release of microplastics (MPs) from different milk packaging",
+      "summary": "The growing detection of microplastics (MPs) in the human body has raised concerns about the potential entrance of MPs into the food chain and subsequently into humans. Due to wide consumption of milk by different age groups, investigating the MPs release into milk during storage time from different commercial milk packaging materials is crucial. MPs release in three common packaging types of ESL ",
+      "date": "2026-10-06",
+      "sourceUrl": "https://doi.org/10.1016/j.hazadv.2026.101640",
+      "sourceName": "Journal of Hazardous Materials Advances",
+      "function": "Quality & Food Safety",
+      "region": "UK",
+      "institution": "University of Oxford",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-51699-qc6tvf91",
+      "title": "Development of Calf Feeding Rations Based on Tmr Technology and Assessment of Nutrient Supply (Using the Uzmu-25 Probiotic Preparation)",
+      "summary": "This article presents the results of developing feeding rations and assessing nutrient supply for local bulls and female calves of local origin and crossbreeds with Holstein cattle raised under household conditions in Furqat District, Fergana Region, using both traditional and Total Mixed Ration (TMR) feeding technologies. Rations developed for four experimental groups (I–IV) at 6, 9, 12, 15, and ",
+      "date": "2026-10-06",
+      "sourceUrl": "https://doi.org/10.51699/qc6tvf91",
+      "sourceName": "Central Asian Journal of Theoretical and Applied Science",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Research Institute of Animal Husbandry",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-prevetmed-2026-107045",
+      "title": "Seroprevalence and the determinants of lumpy skin disease virus (LSDV) in cattle reared under smallholder production systems in northwestern Bangladesh",
+      "summary": "Lumpy skin disease (LSD) is a vector-borne transboundary disease that causes substantial productivity losses in cattle. This study was undertaken to determine the seroprevalence of LSD and the associated determinants of non-vaccinated cattle reared in smallholder production systems of northwestern Bangladesh. A cross-sectional study was conducted from November 2024 to January 2025 covering ten dis",
+      "date": "2026-10-06",
+      "sourceUrl": "https://doi.org/10.1016/j.prevetmed.2026.107045",
+      "sourceName": "Preventive Veterinary Medicine",
+      "function": "Animal Health",
+      "region": "Bangladesh",
+      "institution": "Hajee Mohammad Danesh Science and Technology University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-nzx-milk-futures-exceed-10-across-thr",
       "title": "NZX Milk Futures Exceed $10 Across Three Seasons",
       "summary": "SGX-NZX milk-price futures moved above $10 per kilogram of milk solids for the 2026-27, 2027-28 and 2028-29 dairy seasons. The active 2026-27 contract reached $10.05, compared with cooperative forecast midpoints of $9.50.",
@@ -1247,29 +2484,13 @@
       ]
     },
     {
-      "id": "rss-DairyReporter-https-www-foodnavigator-com-Article-2026-10-06-egg-and-milk-qualit",
-      "title": "Milk and egg quality hit by climate change",
-      "summary": "Crop yields are not the only part of food affected by extreme heat. Climate change can impact milk and eggs, with heat-stressed cows and chickens producing lower quality products.",
-      "date": "2026-10-06",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/06/egg-and-milk-quality-impacted-by-climate-change/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Quality & Food Safety",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyReporter",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1093-tas-txag156",
       "title": "Evaluating the inoculation of four different bacterial pathogens on the development of liver abscesses in beef × dairy crossbred heifers",
       "summary": "Abstract Our objective was to assess liver abscess (LA) prevalence in beef × dairy heifers subjected to individual intraruminal bacterial inoculations of F. necrophorum subsp. necrophorum, subsp. funduliforme, Trueperella pyogenes, or Salmonella enterica serotype Lubbock to further understand their etiological roles in LA formation. Beef × dairy heifers (n = 40, initial BW = 126 ± 1.1 kg) were ass",
       "date": "2026-10-06",
       "sourceUrl": "https://doi.org/10.1093/tas/txag156",
       "sourceName": "Translational Animal Science",
-      "function": "Nutrition & Feeding",
+      "function": "Quality & Food Safety",
       "region": "USA",
       "institution": "Texas Tech University",
       "rdType": "Research Paper",
@@ -1289,23 +2510,6 @@
       "function": "Product Development",
       "region": "USA",
       "institution": "Center for Veterinary Medicine",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1016-j-hazadv-2026-101640",
-      "title": "Effect of storage time on release of microplastics (MPs) from different milk packaging",
-      "summary": "The growing detection of microplastics (MPs) in the human body has raised concerns about the potential entrance of MPs into the food chain and subsequently into humans. Due to wide consumption of milk by different age groups, investigating the MPs release into milk during storage time from different commercial milk packaging materials is crucial. MPs release in three common packaging types of ESL ",
-      "date": "2026-10-06",
-      "sourceUrl": "https://doi.org/10.1016/j.hazadv.2026.101640",
-      "sourceName": "Journal of Hazardous Materials Advances",
-      "function": "Quality & Food Safety",
-      "region": "UK",
-      "institution": "University of Oxford",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -2245,39 +3449,6 @@
       "tags": [
         "RSS",
         "DairyReporter",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1038-s41598-026-62401-w",
-      "title": "Breed-dependent metabolic and growth responses to saturated and unsaturated fat supplements in fat-tailed and thin-tailed lambs",
-      "summary": "Abstract This study was conducted to investigate the breed-specific effects of different dietary energy sources on performance, expression of energy metabolism-related genes, and metabolic parameters in fat tailed and thin tailed sheep. A 2 × 3 factorial arrangement (two breeds × three dietary treatments) was used. Thirty-six fat tailed (Taleshi breed) and 36 thin tailed lambs (zel breed) were ass",
-      "date": "2026-10-05",
-      "sourceUrl": "https://doi.org/10.1038/s41598-026-62401-w",
-      "sourceName": "Scientific Reports",
-      "function": "Nutrition & Feeding",
-      "region": "Iran",
-      "institution": "Urmia University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1186-s12982-026-03029-z",
-      "title": "Bacillus cereus in African food systems from 2000 to 2025 as an underrecognized foodborne pathogen and emerging public health challenge",
-      "summary": "Foodborne diseases pose a major public health threat in Africa, driven by rapid urbanization, expanding informal food markets, and limited cold-chain infrastructure. Among bacterial pathogens, Bacillus cereus is a persistent but often overlooked hazard due to its spore-forming, toxin-producing capabilities. This mini-review synthesizes peer-reviewed studies published between January 2000 and Octob",
-      "date": "2026-10-05",
-      "sourceUrl": "https://doi.org/10.1186/s12982-026-03029-z",
-      "sourceName": "Discover Public Health",
-      "function": "Animal Health",
-      "region": "Global",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -4437,7 +5608,7 @@
       "date": "2026-10-01",
       "sourceUrl": "https://doi.org/10.3390/ani16193095",
       "sourceName": "Animals",
-      "function": "Digital Platforms & Innovation",
+      "function": "Farm Management",
       "region": "UK",
       "institution": "University of Nottingham",
       "rdType": "Research Paper",
@@ -4454,7 +5625,7 @@
       "date": "2026-10-01",
       "sourceUrl": "https://doi.org/10.1016/j.atech.2026.102622",
       "sourceName": "Smart Agricultural Technology",
-      "function": "Nutrition & Feeding",
+      "function": "Robotics & AI",
       "region": "Thailand",
       "institution": "Chulalongkorn University",
       "rdType": "Research Paper",
