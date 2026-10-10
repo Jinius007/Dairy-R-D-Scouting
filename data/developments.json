@@ -1,11 +1,273 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-09",
-    "nextRefresh": "2026-10-10",
-    "totalTracked": 16087,
+    "lastRefreshed": "2026-10-10",
+    "nextRefresh": "2026-10-11",
+    "totalTracked": 16111,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-preventing-down-cows-in-focus-at-upcoming",
+      "title": "Preventing Down Cows in Focus at Upcoming Workshops",
+      "summary": "Early recognition of animal pain, tour of beef-processing plant also featured. View animal care from a different perspective at the 2026 Dairy Wellbeing Workshop, presented by Professional Dairy Producers® (PDP). A unique combination of interactive [Read More ...]",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairybusiness.com/preventing-down-cows-in-focus-at-upcoming-workshops/",
+      "sourceName": "Dairy Business",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-la-linque-ita-grew-from-homemade-chee",
+      "title": "La Linqueñita grew from homemade cheese to 50 varieties",
+      "summary": "La Linqueñita, founded by Gustavo Schiavi, now makes between 45 and 50 cheese varieties in small batches. Its products are supplied to wineries and restaurants, while Schiavi has kept production at roughly the same scale as five or six years ago.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/la_linque_ita_grew_from_homemade_cheese_to_50_varieties_9995694.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-17-year-old-turns-his-mother-s-milk",
+      "title": "A 17-Year-Old Turns His Mother’s Milk into a Cheese Business",
+      "summary": "At 17, Cuquinha has created Laticínios Cuquinha, a small dairy brand that processes milk produced by his mother. The business makes specialty coalho cheese, dairy drinks, yoghurt and dulce de leche, with reported capacity of up to 100 litres a day.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/a_17_year_old_turns_his_mother_s_milk_into_a_cheese_business_2070053.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-companies-sign-agreements-",
+      "title": "Kazakhstan Companies Sign Agreements with LuLu in United Arab Emirates",
+      "summary": "SBK Company, Brand Kazakhstan, and NEW Energy Drink have agreed to collaborate with the United Arab Emirates-based retail chain LuLu during the Global Food Week 2026 in Abu Dhabi. Before sales commence, the parties need to finalize product range, commercial terms, and logistics.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_companies_sign_agreements_with_lulu_in_united_arab_emirates_8477786.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-argentina-s-chocotorta-reaches-second",
+      "title": "Argentina’s Chocotorta Reaches Second Place in Global Ranking",
+      "summary": "Argentina’s chocotorta ranked second in a TasteAtlas listing of traditional desserts, behind Sweden’s kladdkaka and ahead of Italy’s torta caprese. The no-bake dessert combines chocolate biscuits, dulce de leche and cream cheese.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/argentina_s_chocotorta_reaches_second_place_in_global_ranking_9525800.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Sweden",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fbd-national-dairy-show-holds-its-sec",
+      "title": "FBD National Dairy Show Holds Its Second Day in Cork",
+      "summary": "The FBD National Dairy Show is continuing at the Green Glens Arena in Millstreet, County Cork, with Holstein and Jersey cattle classes scheduled for its second day. Mark Logan is due to choose the Supreme Champion during the evening.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/fbd_national_dairy_show_holds_its_second_day_in_cork_5047069.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-argentine-alfajor-brands-use-up-to-10",
+      "title": "Argentine Alfajor Brands Use Up to 100g of Dulce de Leche",
+      "summary": "Several Argentine alfajor brands are marketing products with unusually large amounts of dulce de leche, ranging from 50g to 100g per unit. The products were selected by Hernán Montes de Oca, a judge at the World Alfajor Championship and creator of the Probando Alfajores account.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/argentine_alfajor_brands_use_up_to_100g_of_dulce_de_leche_5399822.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-researchers-find-2-000-year-old-butte",
+      "title": "Researchers find 2,000-year-old butter in a bog",
+      "summary": "Researchers have identified ancient deposits known as bog butter in Irish peatlands, including material described as about 2,000 years old. A study of 32 samples found that most were consistent with dairy fat from ruminants and that the practice of burying butter continued for at least 3,500 years.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/researchers_find_2_000_year_old_butter_in_a_bog_6796574.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-review-finds-milk-is-not-inflammato",
+      "title": "A Review Finds Milk Is Not Inflammatory for Most People",
+      "summary": "A scientific review of 52 human studies found that dairy products did not show a pro-inflammatory effect in healthy people. It also reported neutral or potentially favourable findings among participants with metabolic conditions, including obesity and metabolic syndrome.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/a_review_finds_milk_is_not_inflammatory_for_most_people_9177292.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-u-s-china-trade-framework-what-we-know-no",
+      "title": "U.S.-China Trade Framework: What We Know Now",
+      "summary": "Key Takeaways China’s list of goods covered under the new “30-for-30″ trade framework includes major U.S. agricultural products such as beef, pork, poultry, dairy, corn, wheat, rice, sorghum and specialty crops, but whole soybeans are [Read More ...]",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairybusiness.com/u-s-china-trade-framework-what-we-know-now/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "China",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-10-09-arla-sweden-axes-co",
+      "title": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
+      "summary": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
+      "date": "2026-10-09",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/09/arla-sweden-axes-contracts-with-52-farms-amid-falling-demand-for-organic-milk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Farm Management",
+      "region": "Sweden",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fsufs-2026-1919149",
+      "title": "Rice straw for ruminants: processing technologies, nutritive value, feeding responses and environmental trade-offs",
+      "summary": "Rice straw is an abundant roughage resource for ruminants, but low crude protein, lignified and silicified cell walls, and limited fermentable energy constrain intake and nutrient utilization. This critical review synthesizes processing technologies, nutritive value, feeding responses and environmental trade-offs, drawing on recent literature and a descriptive evidence map of 10 representative in ",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1919149",
+      "sourceName": "Frontiers in Sustainable Food Systems",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Hunan Academy of Agricultural Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-54975-isubuzfd-1978640",
+      "title": "The Effect of Different Biochar Application Rates on the Yield and Quality of Buckwheat (Fagopyrum esculentum Moench) Silage",
+      "summary": "This study was conducted to determine the effects of different biochar application rates (0, 250, 500, 750, and 1000 kg da⁻¹) on silage yield and quality traits of buckwheat (Fagopyrum esculentum Moench) under the ecological conditions of Bilecik in 2024. The experiment was established according to a randomized complete block design with three replications. Silage yield, fermentation traits (pH, l",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.54975/isubuzfd.1978640",
+      "sourceName": "Ziraat fakültesi dergisi",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Bilecik Şeyh Edebali Üniversitesi",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-jbg-70080",
+      "title": "A Transformation From Methane Concentration From Sniffers to Methane Production for Implementation in Breeding Programs and Comparison With Tier 2 Equation",
+      "summary": "Reducing methane emissions from dairy cattle has gained considerable attention due to its dual benefits of improving feed efficiency and mitigating climate change. Consequently, phenotyping methane emissions in dairy populations has become increasingly important to enable direct genomic selection for lower methane emissions in breeding programs. Sniffer devices are receiving growing attention and ",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.1111/jbg.70080",
+      "sourceName": "Journal of Animal Breeding and Genetics",
+      "function": "Breeding & Genetics",
+      "region": "UK",
+      "institution": "Roslin Institute",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-26599-jfb-2026-95035456",
+      "title": "Probiotics characterization of fermented tiger nut-millet-blended beverage",
+      "summary": "Abstract This study investigated the functional characteristics and probiotic potential of lactic acid bacteria (LAB) isolated from a fermented tiger nut-millet beverage. The beverage was prepared using a traditional tiger nut fermentation process (sorting, cleaning, soaking, spicing, wet-grinding, fermentation, filtration, chilling, and storage), and samples were collected at 6-hour intervals thr",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.26599/jfb.2026.95035456",
+      "sourceName": "Journal of Food Bioactives",
+      "function": "Product Development",
+      "region": "Nigeria",
+      "institution": "Federal University Oye Ekiti",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s12602-026-11233-1",
+      "title": "Technological Potential of Native Lactic Acid Bacteria from Brazilian Canastra Cheese: Safety and Functional Characterization",
+      "summary": "Abstract Canastra artisanal Minas cheese is a traditional Brazilian raw-milk cheese whose fermentation relies on “ pingo ”, an endogenous whey culture that harbors autochthonous lactic acid bacteria (LAB) with technological relevance. This study evaluated the safety and technological properties of LAB isolated from pingo and cheeses from Serra da Canastra region, Brazil. Among 199 presumptive LAB ",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.1007/s12602-026-11233-1",
+      "sourceName": "Probiotics and Antimicrobial Proteins",
+      "function": "Product Development",
+      "region": "Brazil",
+      "institution": "Brf (Brazil)",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-gulfood-manufacturing-2026-sternvitam",
       "title": "Gulfood Manufacturing 2026: SternVitamin Showcases Its New Standard Premix Portfolio and Innovative Product Concepts",
@@ -269,19 +531,154 @@
       ]
     },
     {
-      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-10-09-arla-sweden-axes-co",
-      "title": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
-      "summary": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
-      "date": "2026-10-09",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/09/arla-sweden-axes-contracts-with-52-farms-amid-falling-demand-for-organic-milk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Farm Management",
-      "region": "Sweden",
-      "company": "Arla",
+      "id": "rss-DairyNews-today-https-dairynews-today-news-agrifoods-international-cooperative-w",
+      "title": "Agrifoods International Cooperative was fined $100,000 after worker injury",
+      "summary": "Agrifoods International Cooperative Ltd. has been ordered to pay $100,000 after a worker was seriously injured in Saskatoon. The company pleaded guilty to a workplace-safety offence linked to the operation of powered mobile equipment.",
+      "date": "2026-10-08",
+      "sourceUrl": "https://dairynews.today/news/agrifoods_international_cooperative_was_fined_100_000_after_worker_injury_8444400.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
       "rdType": "Industry News",
       "tags": [
         "RSS",
-        "DairyReporter",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12866-026-05745-7",
+      "title": "Multiple Staphylococcus species and modifiable production-related risk factors associated with bovine subclinical mastitis in Kenyan cattle systems",
+      "summary": "Bovine subclinical mastitis (SCM) remains a major constraint to dairy productivity and udder health in Kenya. However, most studies have not resolved non-aureus Staphylococcus (NAS) species beyond the genus level, limiting epidemiological understanding. We assessed Staphylococcus species diversity and modifiable production-related risk factors associated with SCM across heterogeneous cattle produc",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.1186/s12866-026-05745-7",
+      "sourceName": "BMC Microbiology",
+      "function": "Animal Health",
+      "region": "Kenya",
+      "institution": "University of Nairobi",
+      "company": "Genus",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1985819",
+      "title": "Welfare assessment in pasture-based and confined dairy farms in São Paulo State, Brazil: a descriptive multi-case study identifying health and hygiene constraints",
+      "summary": "Multidimensional on-farm assessment can identify welfare constraints that are not evident from production records alone, but protocols developed for housed cattle require careful interpretation when applied to pasture-based herds. This cross-sectional, descriptive multi-case study characterized dairy-cow welfare profiles in six purposively selected farms located in three milk-producing regions of ",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1985819",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Animal Health",
+      "region": "Brazil",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s11274-026-05319-9",
+      "title": "Phenotypic and genotypic assessment of antimicrobial and biocide resistance in enterobacteria from anaerobic digestion of dairy waste: implications for environmental and public health",
+      "summary": "Abstract Antimicrobial-resistant bacteria in agricultural waste represent a critical One Health concern. Anaerobic digestion of livestock waste is widely promoted; however, the fate of antimicrobial resistance and biocide tolerance in full-scale systems remains unclear, constraining safe digestate reuse. This study assessed phenotypic and genotypic resistance in Escherichia coli-like enterobacteri",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.1007/s11274-026-05319-9",
+      "sourceName": "World Journal of Microbiology and Biotechnology",
+      "function": "Animal Health",
+      "region": "Brazil",
+      "institution": "Universidade Federal do Espírito Santo",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1976936",
+      "title": "Dietary quercetin and glucoraphanin supplementation improves growth performance and modulates ruminal microbiota in meat sheep",
+      "summary": "Introduction This study investigated the effects of single or combined dietary supplementation with quercetin (QUE) and glucoraphanin (GRA) on growth performance, serum antioxidant capacity and biochemical parameters, rumen fermentation, and ruminal microbiota of meat sheep. Methods A total of 60 meat sheep (3–4 months old) with similar body weights were randomly divided into four groups, with thr",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1976936",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Henan Agricultural University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1371-journal-pone-0359231",
+      "title": "Effects of microwave or infrared radiation on protein ruminal degradation and in vitro intestinal digestibility in feedstuffs",
+      "summary": "Microbial crude protein (MCP) is the main source of amino acids (AA) in the small intestine, followed by rumen undegraded protein (RUP). Due to limited MCP synthesis and increased AA demand in high-producing ruminants, strategies to enhance intestinal protein availability are relevant. This study evaluated the effects of thermal processing on six protein-rich feedstuffs: soybean meal, wheat bran, ",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.1371/journal.pone.0359231",
+      "sourceName": "PLoS ONE",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "institution": "Universidade Federal de Viçosa",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fsufs-2026-1963997",
+      "title": "Biofortified feed crops: bridging plant biotechnology and animal-derived functional foods",
+      "summary": "Micronutrient deficiency continues to be a significant global nutritional problem, especially in populations relying on staple diets with limited micronutrient diversity. Biofortification presents a sustainable way to enhance crop nutritional quality through methods like agronomic practices, traditional breeding, microbial interventions, nanotechnology, transgenic techniques, and genome editing. T",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1963997",
+      "sourceName": "Frontiers in Sustainable Food Systems",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "institution": "Amity University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s11250-026-05351-9",
+      "title": "Genetic diversity of Caracu cattle reveals contrasting trends between general and closed populations",
+      "summary": "The conservation of genetic diversity and control of inbreeding rate are fundamental factors in animal breeding programs, especially programs for adapted cattle breeds such as Caracu. However, there are still knowledge gaps regarding the population structure of this breed as a whole and the genetic dynamics in subpopulations, like closed populations reared in experimental farms in Brazil. Within t",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.1007/s11250-026-05351-9",
+      "sourceName": "Tropical Animal Health and Production",
+      "function": "Breeding & Genetics",
+      "region": "Brazil",
+      "institution": "Universidade Estadual Paulista (Unesp)",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1948426",
+      "title": "In sickness and in health: profiling the bovine fecal eukaryome using optimized 18S metabarcoding with a mammal-blocking primer",
+      "summary": "Introduction Calf diarrhea, caused by the apicomplexan pathogen Cryptosporidium parvum ( C. parvum ), poses significant economic and production challenges to the livestock industry. While 16S rRNA sequencing has advanced understanding of the bovine bacterial gut microbiota, the eukaryotic community remains underexplored due to methodological constraints, notably host DNA contamination. This study ",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1948426",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Animal Health",
+      "region": "Japan",
+      "institution": "Tohoku University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -1116,7 +1513,7 @@
       "date": "2026-10-08",
       "sourceUrl": "https://doi.org/10.21203/rs.3.rs-11288680/v1",
       "sourceName": "Europe PMC",
-      "function": "Digital Platforms & Innovation",
+      "function": "Robotics & AI",
       "region": "Global",
       "rdType": "Academic Study",
       "tags": [
@@ -1430,23 +1827,6 @@
       ]
     },
     {
-      "id": "openalex-10-1088-1752-7163-aeb152",
-      "title": "Mask for individual sampling of tidal and ruminal gas contaminated breath in dairy cows",
-      "summary": "Standardized breath sampling in dairy cows is helpful for health monitoring and emission control. Yet, controlled measurements of and discrimination between tidal and ruminal gas contaminated breath are challenging. Here, we introduce a sampler designed to collect exhaled breath reproducibly from dairy cows. The system integrates pressure regulators and valves to enable normal breathing patterns. ",
-      "date": "2026-10-07",
-      "sourceUrl": "https://doi.org/10.1088/1752-7163/aeb152",
-      "sourceName": "Journal of Breath Research",
-      "function": "Animal Health",
-      "region": "Switzerland",
-      "institution": "ETH Zurich",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-3389-fanim-2026-1965119",
       "title": "Transforming nutritional monitoring of free-grazing herbivores: four decades of progress in fecal near-infrared reflectance spectroscopy",
       "summary": "Fecal near-infrared reflectance spectroscopy (fecal-NIRS) has been used for more than four decades to estimate the nutritional characteristics of herbivore diets, including crude protein, digestibility, and feed intake. Despite its widespread use, a comprehensive synthesis of advances in this technology remains lacking. This review summarizes the development and application of fecal-NIRS over the ",
@@ -1464,13 +1844,30 @@
       ]
     },
     {
+      "id": "openalex-10-1088-1752-7163-aeb152",
+      "title": "Mask for individual sampling of tidal and ruminal gas contaminated breath in dairy cows",
+      "summary": "Standardized breath sampling in dairy cows is helpful for health monitoring and emission control. Yet, controlled measurements of and discrimination between tidal and ruminal gas contaminated breath are challenging. Here, we introduce a sampler designed to collect exhaled breath reproducibly from dairy cows. The system integrates pressure regulators and valves to enable normal breathing patterns. ",
+      "date": "2026-10-07",
+      "sourceUrl": "https://doi.org/10.1088/1752-7163/aeb152",
+      "sourceName": "Journal of Breath Research",
+      "function": "Animal Health",
+      "region": "Switzerland",
+      "institution": "ETH Zurich",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1007-s10653-026-03516-x",
       "title": "Soil-plant-animal properties and microbial reassembly distinguish cattle oral disease prevalence across converted Amazon pasture systems",
       "summary": "Forest-to-pasture conversion can alter soil properties, forage composition, and microbial communities, but whether these changes are associated with bovine periodontitis remains unclear. We compared eight pasture systems in the Western Brazilian Amazon classified by high or low herd-level prevalence of periodontal lesions. Soil physicochemical properties, forage composition, microbial communities ",
       "date": "2026-10-07",
       "sourceUrl": "https://doi.org/10.1007/s10653-026-03516-x",
       "sourceName": "Environmental Geochemistry and Health",
-      "function": "Nutrition & Feeding",
+      "function": "Farm Management",
       "region": "Brazil",
       "institution": "Universidade Federal Rural do Rio de Janeiro",
       "rdType": "Research Paper",
