@@ -1,11 +1,171 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-10",
-    "nextRefresh": "2026-10-11",
-    "totalTracked": 16111,
+    "lastRefreshed": "2026-10-11",
+    "nextRefresh": "2026-10-12",
+    "totalTracked": 16126,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-new-zealand-opens-dairy-season-with-record-au",
+      "title": "New Zealand opens dairy season with record August milk collections",
+      "summary": "New Zealand opens the 2026/27 season with record milk collections of 131.2M kgMS in August, as markets balance protein demand against El Niño risks.",
+      "date": "2026-10-11",
+      "sourceUrl": "https://en.edairynews.com/new-zealand-opens-dairy-season-with-record-august-milk-collections/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-rescue-deal-revives-mundella-foods-and-margar",
+      "title": "Rescue deal revives Mundella Foods and Margaret River Dairy Company",
+      "summary": "Artisanal Market acquires Mundella Foods and Margaret River Dairy Company in a rescue deal, reviving iconic Western Australian dairy brands.",
+      "date": "2026-10-11",
+      "sourceUrl": "https://en.edairynews.com/rescue-deal-revives-mundella-foods-and-margaret-river-dairy-company/",
+      "sourceName": "eDairyNews",
+      "function": "Marketing",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-entries-open-for-2027-new-zealand-dairy-indus",
+      "title": "Entries open for 2027 New Zealand Dairy Industry Awards",
+      "summary": "Entries are open for the 2027 New Zealand Dairy Industry Awards, featuring a $1M prize pool to support career progression and farm ownership.",
+      "date": "2026-10-11",
+      "sourceUrl": "https://en.edairynews.com/entries-open-for-2027-new-zealand-dairy-industry-awards/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-us-butter-consumption-hit-a-record-as",
+      "title": "US Butter Consumption Hit a Record as Innovation Expanded",
+      "summary": "Per-capita butter consumption in the United States reached 6.8lb (about 3.08kg) in 2024, the highest level recorded in the country, according to USDA data cited by Dairy Processing. Manufacturers are introducing flavoured, fermented and higher-fat products, as well as formulations combining butter with other ingredients.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/us_butter_consumption_hit_a_record_as_innovation_expanded_5796518.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-eurasian-economic-union-countries-dis",
+      "title": "Eurasian Economic Union Countries Discuss Joint Agricultural Projects",
+      "summary": "The countries of the Eurasian Economic Union discussed joint agricultural projects during a roundtable at the 'Zolotaya osen — 2026' exhibition. Proposals include constructing seed plants, creating wholesale distribution centers, and digitalizing agricultural trade infrastructure.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/eurasian_economic_union_countries_discuss_joint_agricultural_projects_4331937.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fifty-six-nepalese-women-dairy-farmer",
+      "title": "Fifty-six Nepalese women dairy farmers complete field school",
+      "summary": "Fifty-six women in Nepal’s Sindhuli district have received certificates after completing a four-year dairy-training programme. The course combined livestock management with lessons on finance, public speaking and modern farm practices.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/fifty_six_nepalese_women_dairy_farmers_complete_field_school_5722637.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fire-at-meadowvale-dairy-was-extingui",
+      "title": "Fire at Meadowvale Dairy Was Extinguished Without Reported Injuries",
+      "summary": "Officials said a fire at the Meadowvale Dairy operation northwest of Rock Valley, Iowa, was fully extinguished after burning three structures. No injuries were reported.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/fire_at_meadowvale_dairy_was_extinguished_without_reported_injuries_2072888.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milky-mist-denies-fssai-inquiry-into-",
+      "title": "Milky Mist Denies FSSAI Inquiry Into Paneer Products",
+      "summary": "Milky Mist said in a stock-exchange filing that it had not received notice from India’s food-safety regulator or Tamil Nadu’s food-safety department ordering an inquiry into its paneer. The statement followed reports that authorities had sought paneer samples for laboratory testing.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/milky_mist_denies_fssai_inquiry_into_paneer_products_6733114.html",
+      "sourceName": "DairyNews.today",
+      "function": "Quality & Food Safety",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-global-foodtech-investment-is-shiftin",
+      "title": "Global FoodTech Investment Is Shifting Towards AgTech and Food Science",
+      "summary": "Investment in food technology is moving away from delivery businesses and towards agricultural technology and food science. Delivery represented 13% of global AgriFoodTech funding in the first half of 2026, while AgTech and Food Science together accounted for 64%.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/global_foodtech_investment_is_shifting_towards_agtech_and_food_science_5364170.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-cow-surprised-tourists-in-the-pyren",
+      "title": "A Cow Surprised Tourists in the Pyrenees",
+      "summary": "A cow named Vahine was transported by helicopter in the French Pyrenees after becoming unable to leave the area by land. The animal was anaesthetised during the flight and arrived safely at a place where it could receive care.",
+      "date": "2026-10-10",
+      "sourceUrl": "https://dairynews.today/news/a_cow_surprised_tourists_in_the_pyrenees_3323632.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-Dairy-Business-https-dairybusiness-com-preventing-down-cows-in-focus-at-upcoming",
       "title": "Preventing Down Cows in Focus at Upcoming Workshops",
@@ -19,6 +179,176 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-beth-temple-s-1969-blind-date-led-to-",
+      "title": "Beth Temple’s 1969 Blind Date Led to Tempest Farm’s Preservation",
+      "summary": "Beth Temple met surgeon Arvid Temple on a blind date in February 1969, and they married three months later. The 160-acre Illinois dairy farm they shared is now being protected through a land donation and a conservation easement.",
+      "date": "2026-10-09",
+      "sourceUrl": "https://dairynews.today/news/beth_temple_s_1969_blind_date_led_to_tempest_farm_s_preservation_6660857.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-10-09-arla-sweden-axes-co",
+      "title": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
+      "summary": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
+      "date": "2026-10-09",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/09/arla-sweden-axes-contracts-with-52-farms-amid-falling-demand-for-organic-milk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Farm Management",
+      "region": "Sweden",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-14202-vetworld-2026-4498-4528",
+      "title": "Genome-wide identification of candidate breed-specific markers and selection signatures in Kalmyk cattle",
+      "summary": "Background and Aim: Kalmyk cattle (KALMYK) represent an indigenous Russian beef breed with valuable adaptive and productive characteristics under harsh continental steppe conditions. However, previous genomic studies have involved relatively small populations, and candidate markers that distinguish KALMYK from both specialized beef and steppe cattle remain insufficiently characterized. This study ",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.14202/vetworld.2026.4498-4528",
+      "sourceName": "Veterinary World",
+      "function": "Breeding & Genetics",
+      "region": "Russia",
+      "institution": "Kalmyk State University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-69849-b56kyd27",
+      "title": "Importância das boas práticas de ordenha mecânica na prevenção da mastite clínica bovina",
+      "summary": "Clinical bovine mastitis is a disease of importance to milk production, characterized by visible changes in milk and/or the mammary gland, and can present different levels of severity. This study aimed to analyze, through a narrative literature review, the importance of good milking practices in the prevention of clinical bovine mastitis, considering the risk factors related to the milking routine",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.69849/b56kyd27",
+      "sourceName": "Revista fisio&terapia.",
+      "function": "Animal Health",
+      "region": "Brazil",
+      "institution": "Universidade do Tocantins",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1959684",
+      "title": "Validation of a computer-vision milking parlour monitoring system",
+      "summary": "Artificial intelligence can help identify suboptimal milking practices and provide reports without time-consuming visits. The objective of this study was to validate a computer-vision milking parlour monitoring system (CVS, Cattle Care Inc.) by comparing its reports against trained human observers (n = 2, comparison method). A camera was installed in the parlour of two dairy farms in Ontario, Cana",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1959684",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Engineering & Automation",
+      "region": "Canada",
+      "institution": "University of Guelph",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fsufs-2026-1919149",
+      "title": "Rice straw for ruminants: processing technologies, nutritive value, feeding responses and environmental trade-offs",
+      "summary": "Rice straw is an abundant roughage resource for ruminants, but low crude protein, lignified and silicified cell walls, and limited fermentable energy constrain intake and nutrient utilization. This critical review synthesizes processing technologies, nutritive value, feeding responses and environmental trade-offs, drawing on recent literature and a descriptive evidence map of 10 representative in ",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1919149",
+      "sourceName": "Frontiers in Sustainable Food Systems",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Hunan Academy of Agricultural Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-14202-vetworld-2026-4529-4544",
+      "title": "Growth performance, nutrient utilization, and nitrogen balance of Blackbelly ewe lambs fed densified complete feed blocks formulated exclusively from non-conventional tropical feed resources",
+      "summary": "Background and Aim: Sustainable livestock production requires feeding strategies that reduce competition between human food and animal feed while improving the utilization of locally available biomass. Although non-conventional feed resources have been incorporated into ruminant diets as supplements, their exclusive use in complete diets remains poorly investigated, particularly under tropical isl",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.14202/vetworld.2026.4529-4544",
+      "sourceName": "Veterinary World",
+      "function": "Nutrition & Feeding",
+      "region": "France",
+      "institution": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-74901-w",
+      "title": "Reducing enteric methane emissions alters carbon isotope ratio of animal-derived products",
+      "summary": "Numerous strategies to reduce methane emission from ruminant livestock are being developed, but evaluating their effectiveness is limited by the lack of widely available methods to quantify emissions. Here, we explore stable carbon isotope ratios of animal-derived products as a potential biomarker for inferring changes in enteric methane emission. Methanogenesis in the rumen preferentially uses th",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-74901-w",
+      "sourceName": "Scientific Reports",
+      "function": "Nutrition & Feeding",
+      "region": "Australia",
+      "institution": "Agriculture and Food",
+      "company": "Bovaer",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1371-journal-pone-0359646",
+      "title": "Characterisation of multidrug-resistant, avian pathogenic-like Escherichia coli O78 from dairy-bred calves with atypical colisepticaemia",
+      "summary": "The objective of this work was to identify and characterise the causative agent(s) of an atypical septicaemic syndrome in 3- to 6-month-old calves. Nine cattle from three Scottish dairy farms were subject to post-mortem in 2020 and 2021, and tissue samples were screened via routine bacteriology. Escherichia coli was isolated from all sampled tissues and a representative isolate from each calf was ",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.1371/journal.pone.0359646",
+      "sourceName": "PLoS ONE",
+      "function": "Animal Health",
+      "region": "UK",
+      "institution": "Scotland's Rural College",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-26599-jfb-2026-95035456",
+      "title": "Probiotics characterization of fermented tiger nut-millet-blended beverage",
+      "summary": "Abstract This study investigated the functional characteristics and probiotic potential of lactic acid bacteria (LAB) isolated from a fermented tiger nut-millet beverage. The beverage was prepared using a traditional tiger nut fermentation process (sorting, cleaning, soaking, spicing, wet-grinding, fermentation, filtration, chilling, and storage), and samples were collected at 6-hour intervals thr",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.26599/jfb.2026.95035456",
+      "sourceName": "Journal of Food Bioactives",
+      "function": "Product Development",
+      "region": "Nigeria",
+      "institution": "Federal University Oye Ekiti",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -167,40 +497,6 @@
       ]
     },
     {
-      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-10-09-arla-sweden-axes-co",
-      "title": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
-      "summary": "Arla Sweden axes contracts with 52 farms amid falling demand for organic milk",
-      "date": "2026-10-09",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/09/arla-sweden-axes-contracts-with-52-farms-amid-falling-demand-for-organic-milk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Farm Management",
-      "region": "Sweden",
-      "company": "Arla",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyReporter",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fsufs-2026-1919149",
-      "title": "Rice straw for ruminants: processing technologies, nutritive value, feeding responses and environmental trade-offs",
-      "summary": "Rice straw is an abundant roughage resource for ruminants, but low crude protein, lignified and silicified cell walls, and limited fermentable energy constrain intake and nutrient utilization. This critical review synthesizes processing technologies, nutritive value, feeding responses and environmental trade-offs, drawing on recent literature and a descriptive evidence map of 10 representative in ",
-      "date": "2026-10-09",
-      "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1919149",
-      "sourceName": "Frontiers in Sustainable Food Systems",
-      "function": "Nutrition & Feeding",
-      "region": "China",
-      "institution": "Hunan Academy of Agricultural Sciences",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-54975-isubuzfd-1978640",
       "title": "The Effect of Different Biochar Application Rates on the Yield and Quality of Buckwheat (Fagopyrum esculentum Moench) Silage",
       "summary": "This study was conducted to determine the effects of different biochar application rates (0, 250, 500, 750, and 1000 kg da⁻¹) on silage yield and quality traits of buckwheat (Fagopyrum esculentum Moench) under the ecological conditions of Bilecik in 2024. The experiment was established according to a randomized complete block design with three replications. Silage yield, fermentation traits (pH, l",
@@ -224,26 +520,9 @@
       "date": "2026-10-09",
       "sourceUrl": "https://doi.org/10.1111/jbg.70080",
       "sourceName": "Journal of Animal Breeding and Genetics",
-      "function": "Breeding & Genetics",
+      "function": "Nutrition & Feeding",
       "region": "UK",
       "institution": "Roslin Institute",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-26599-jfb-2026-95035456",
-      "title": "Probiotics characterization of fermented tiger nut-millet-blended beverage",
-      "summary": "Abstract This study investigated the functional characteristics and probiotic potential of lactic acid bacteria (LAB) isolated from a fermented tiger nut-millet beverage. The beverage was prepared using a traditional tiger nut fermentation process (sorting, cleaning, soaking, spicing, wet-grinding, fermentation, filtration, chilling, and storage), and samples were collected at 6-hour intervals thr",
-      "date": "2026-10-09",
-      "sourceUrl": "https://doi.org/10.26599/jfb.2026.95035456",
-      "sourceName": "Journal of Food Bioactives",
-      "function": "Product Development",
-      "region": "Nigeria",
-      "institution": "Federal University Oye Ekiti",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -531,6 +810,23 @@
       ]
     },
     {
+      "id": "openalex-10-3389-fsufs-2026-1963997",
+      "title": "Biofortified feed crops: bridging plant biotechnology and animal-derived functional foods",
+      "summary": "Micronutrient deficiency continues to be a significant global nutritional problem, especially in populations relying on staple diets with limited micronutrient diversity. Biofortification presents a sustainable way to enhance crop nutritional quality through methods like agronomic practices, traditional breeding, microbial interventions, nanotechnology, transgenic techniques, and genome editing. T",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1963997",
+      "sourceName": "Frontiers in Sustainable Food Systems",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "institution": "Amity University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-agrifoods-international-cooperative-w",
       "title": "Agrifoods International Cooperative was fined $100,000 after worker injury",
       "summary": "Agrifoods International Cooperative Ltd. has been ordered to pay $100,000 after a worker was seriously injured in Saskatoon. The company pleaded guilty to a workplace-safety offence linked to the operation of powered mobile equipment.",
@@ -571,7 +867,7 @@
       "date": "2026-10-08",
       "sourceUrl": "https://doi.org/10.3389/fanim.2026.1985819",
       "sourceName": "Frontiers in Animal Science",
-      "function": "Animal Health",
+      "function": "Farm Management",
       "region": "Brazil",
       "rdType": "Research Paper",
       "tags": [
@@ -624,23 +920,6 @@
       "function": "Nutrition & Feeding",
       "region": "Brazil",
       "institution": "Universidade Federal de Viçosa",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fsufs-2026-1963997",
-      "title": "Biofortified feed crops: bridging plant biotechnology and animal-derived functional foods",
-      "summary": "Micronutrient deficiency continues to be a significant global nutritional problem, especially in populations relying on staple diets with limited micronutrient diversity. Biofortification presents a sustainable way to enhance crop nutritional quality through methods like agronomic practices, traditional breeding, microbial interventions, nanotechnology, transgenic techniques, and genome editing. T",
-      "date": "2026-10-08",
-      "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1963997",
-      "sourceName": "Frontiers in Sustainable Food Systems",
-      "function": "Nutrition & Feeding",
-      "region": "India",
-      "institution": "Amity University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -1827,23 +2106,6 @@
       ]
     },
     {
-      "id": "openalex-10-3389-fanim-2026-1965119",
-      "title": "Transforming nutritional monitoring of free-grazing herbivores: four decades of progress in fecal near-infrared reflectance spectroscopy",
-      "summary": "Fecal near-infrared reflectance spectroscopy (fecal-NIRS) has been used for more than four decades to estimate the nutritional characteristics of herbivore diets, including crude protein, digestibility, and feed intake. Despite its widespread use, a comprehensive synthesis of advances in this technology remains lacking. This review summarizes the development and application of fecal-NIRS over the ",
-      "date": "2026-10-07",
-      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1965119",
-      "sourceName": "Frontiers in Animal Science",
-      "function": "Nutrition & Feeding",
-      "region": "USA",
-      "institution": "Prairie View A&M University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1088-1752-7163-aeb152",
       "title": "Mask for individual sampling of tidal and ruminal gas contaminated breath in dairy cows",
       "summary": "Standardized breath sampling in dairy cows is helpful for health monitoring and emission control. Yet, controlled measurements of and discrimination between tidal and ruminal gas contaminated breath are challenging. Here, we introduce a sampler designed to collect exhaled breath reproducibly from dairy cows. The system integrates pressure regulators and valves to enable normal breathing patterns. ",
@@ -2793,23 +3055,6 @@
       "tags": [
         "RSS",
         "DairyReporter",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1016-j-hazadv-2026-101640",
-      "title": "Effect of storage time on release of microplastics (MPs) from different milk packaging",
-      "summary": "The growing detection of microplastics (MPs) in the human body has raised concerns about the potential entrance of MPs into the food chain and subsequently into humans. Due to wide consumption of milk by different age groups, investigating the MPs release into milk during storage time from different commercial milk packaging materials is crucial. MPs release in three common packaging types of ESL ",
-      "date": "2026-10-06",
-      "sourceUrl": "https://doi.org/10.1016/j.hazadv.2026.101640",
-      "sourceName": "Journal of Hazardous Materials Advances",
-      "function": "Quality & Food Safety",
-      "region": "UK",
-      "institution": "University of Oxford",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
