@@ -1,11 +1,254 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-16",
-    "nextRefresh": "2026-10-17",
-    "totalTracked": 16442,
+    "lastRefreshed": "2026-10-17",
+    "nextRefresh": "2026-10-18",
+    "totalTracked": 16481,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-eurasian-economic-union-countries-pla",
+      "title": "Eurasian Economic Union Countries Plan to Establish Digital Platform for Agro-Innovations",
+      "summary": "The countries of the Eurasian Economic Union plan to create a digital platform to coordinate scientific and innovative cooperation in the agro-industrial sector. The concept of the platform and the report on the formation of a unified agro-innovation center were approved by the Eurasian Economic Commission's specialized advisory committee.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/eurasian_economic_union_countries_plan_to_establish_digital_platform_for_agro_innovations_5619690.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-three-butters-won-2026-world-dairy-ex",
+      "title": "Three Butters Won 2026 World Dairy Expo Honors Under $5",
+      "summary": "Keller’s Creamery, Winn-Dixie’s Know & Love and High Desert Milk received top awards for salted butter at the 2026 World Dairy Expo Championship Dairy Products Contest. Their prices range from about $3.60 to $4.99 per pound, with availability in parts of the Mid-Atlantic, Southeast and southern Idaho.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/three_butters_won_2026_world_dairy_expo_honors_under_5_9967489.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-central-sands-dairy-must-pay-245-000-",
+      "title": "Central Sands Dairy must pay $245,000 over wastewater violations",
+      "summary": "Central Sands Dairy, LLC will pay $245,000 to resolve a civil environmental enforcement action brought by Wisconsin authorities. The state alleged that the Nekoosa dairy farm violated wastewater discharge requirements through manure management and related failures.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/central_sands_dairy_must_pay_245_000_over_wastewater_violations_4869689.html",
+      "sourceName": "DairyNews.today",
+      "function": "Sustainability & Traceability",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-doctor-challenges-a-common-argument",
+      "title": "A Doctor Challenges a Common Argument Against Adult Milk Consumption",
+      "summary": "Argentine doctor Sebastián La Rosa has questioned the claim that adults should avoid milk because humans consume another species’ milk after infancy. He says the relevant questions concern evidence, nutritional needs and an individual’s ability to digest lactose.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/a_doctor_challenges_a_common_argument_against_adult_milk_consumption_4213945.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-go-zero-reported-350-growth-in-may-65",
+      "title": "Go Zero Reported 350% Growth in May",
+      "summary": "Go Zero reported 350% growth in May as India’s dairy and frozen-dessert market saw greater attention to reduced-sugar products. The brand presents its ice cream around flavour and enjoyment alongside lower conventional sugar intake.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/go_zero_reported_350_growth_in_may_6569482.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-cheese-rinds-are-not-automatically-sa",
+      "title": "Cheese Rinds Are Not Automatically Safe to Eat",
+      "summary": "Natural cheese rinds can contain complex communities of microorganisms that develop during maturation, but their natural origin does not establish that they are safe to eat. A 2024 Brazilian study found ochratoxin A in some of 130 samples of artisan cheeses with naturally moulded rinds.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/cheese_rinds_are_not_automatically_safe_to_eat_7249453.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-efko-s-project-included-in-the-list-o",
+      "title": "EFKO's Project Included in the List of Significant Investment Projects in Voronezh Region",
+      "summary": "EFKO Group's project for the production of food emulsifiers and medium-chain triglycerides has been included in the updated list of significant investment projects in the Voronezh Region. Investments are estimated at 2.1 billion rubles, with the completion scheduled for 2024–2034.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/efko_s_project_included_in_the_list_of_significant_investment_projects_in_voronezh_region_1950774.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-marat-kambolov-appoints-erislav-zasse",
+      "title": "Marat Kambolov Appoints Erislav Zasseev as Minister of Agriculture of South Ossetia",
+      "summary": "President of South Ossetia Marat Kambolov has appointed Erislav Zasseev as head of the Ministry of Agriculture and Food. The decree came into effect on October 15.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/marat_kambolov_appoints_erislav_zasseev_as_minister_of_agriculture_of_south_ossetia_5911156.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-koert-verkerk-elected-president-of-the-europe",
+      "title": "Koert Verkerk elected President of the European Dairy Association (EDA)",
+      "summary": "Today, at the EDA Annual Convention in Bratislava, the European Dairy Association (EDA) elected Koert Verkerk as its new President. As incoming President, Verkerk will work with EDA members and policymakers to strengthen the competitiveness, sustainability and resilience of the European dairy sector. In his first address, Verkerk called on Europe to recognise dairy as a strategic sector and safegu",
+      "date": "2026-10-16",
+      "sourceUrl": "https://en.edairynews.com/koert-verkerk-elected-president-of-the-european-dairy-association-eda/",
+      "sourceName": "eDairyNews",
+      "function": "Sustainability & Traceability",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-dcha-webinar-calf-behavior-monitoring-101",
+      "title": "DCHA Webinar: Calf Behavior Monitoring 101",
+      "summary": "October 21 This webinar will provide an overview of how behavior-based monitoring technology supports calf health management from birth through the heifer development period. Participants will learn how behavior data can be used to manage [Read More ...]",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairybusiness.com/dcha-webinar-calf-behavior-monitoring-101/",
+      "sourceName": "Dairy Business",
+      "function": "Animal Health",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-georgia-farmer-of-the-year-pete-gelber-re",
+      "title": "Georgia Farmer of the Year Pete Gelber recognized for dairy innovation and leadership",
+      "summary": "Takeaways Pete Gelber was named the 2026 Georgia Farmer of the Year after being nominated through UGA Extension. Barrington Dairy combines innovative production practices with a focus on sustainability and herd health. Gelber supports Georgia [Read More ...]",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairybusiness.com/georgia-farmer-of-the-year-pete-gelber-recognized-for-dairy-innovation-and-leadership/",
+      "sourceName": "Dairy Business",
+      "function": "Animal Health",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-scholarships-to-support-research-that-ben",
+      "title": "Scholarships to Support Research that Benefits Dairy",
+      "summary": "The NMPF National Dairy Leadership Scholarship Program supports graduate students enrolled in Master’s or Ph.D. programs who are actively pursuing dairy-related fields of research that directly benefit milk marketing cooperatives and the U.S. dairy industry at [Read More ...]",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairybusiness.com/scholarships-to-support-research-that-benefits-dairy-3/",
+      "sourceName": "Dairy Business",
+      "function": "Robotics & AI",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-novonesis-celebrates-major-expansion-of-w",
+      "title": "Novonesis celebrates major expansion of West Allis production facility",
+      "summary": "Strengthening North American dairy innovation and manufacturing, the investment increases production capacity, supports booming consumer demand and reinforces Wisconsin’s leadership in dairy biosolutions. Novonesis, a global leader in biosolutions, announced the completion of a major [Read More ...]",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairybusiness.com/novonesis-celebrates-major-expansion-of-west-allis-production-facility/",
+      "sourceName": "Dairy Business",
+      "function": "Marketing",
+      "region": "USA",
+      "company": "Novonesis",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-56825-bufbu-2026-4526053",
+      "title": "MOLECULAR IDENTIFICATION OF PATHOGENS CAUSING CLINICAL AND SUBCLINICAL MASTITIS IN NILI-RAVI BUFFALOES",
+      "summary": "Mastitis is the leading cause of substantial economic losses due to decreased milk yield and treatment costs in buffaloes. It occurs in two forms; clinical symptoms and subclinical without symptoms but affects the milk yield caused by a wide range of pathogens including bacteria and fungi. Identification of causative agents is important for management and treatment. In this study milk samples from",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.56825/bufbu.2026.4526053",
+      "sourceName": "Buffalo Bulletin",
+      "function": "Animal Health",
+      "region": "Pakistan",
+      "institution": "Virtual University of Pakistan",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3390-ijms27209198",
+      "title": "Development and Genomic Validation of a Population-Specific SNP Panel for Parentage Verification in Chinese Holstein Cattle",
+      "summary": "Accurate pedigree information is essential for genetic evaluation and genomic selection in dairy cattle. However, the performance of SNP-based parentage verification depends on marker informativeness, genomic distribution, and compatibility with the target population. In this study, we developed and validated a population-specific 260-SNP panel for parentage verification in Chinese Holstein cattle",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.3390/ijms27209198",
+      "sourceName": "International Journal of Molecular Sciences",
+      "function": "Breeding & Genetics",
+      "region": "China",
+      "institution": "Beijing University of Agriculture",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-koert-verkerk-takes-presidency-of-eur",
       "title": "Koert Verkerk Takes Presidency of European Dairy Association",
@@ -311,6 +554,270 @@
       "tags": [
         "RSS",
         "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-whey-protein-gains-ground-and-challen",
+      "title": "Whey Protein Gains Ground and Challenges the Dairy Industry",
+      "summary": "Demand for protein supplements is expanding beyond the traditional fitness market, while whey-based ingredients are attracting attention in Brazil’s dairy sector. The sector is also facing a trade deficit, with dairy imports far exceeding exports in September.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/whey_protein_gains_ground_and_challenges_the_dairy_industry_5576217.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-india-and-japan-expand-dairy-biogas-c",
+      "title": "India and Japan Expand Dairy Biogas Cooperation",
+      "summary": "India and Japan discussed cooperation on sustainable dairy production and compressed biogas (CBG) infrastructure in New Delhi on 15 October 2026. The framework includes a proposal to establish 1,000 CBG plants through India’s dairy-cooperative network, with possible support from Japan’s development agencies.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/india_and_japan_expand_dairy_biogas_cooperation_1059835.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-higher-imports-and-input-costs-pressu",
+      "title": "Higher Imports and Input Costs Pressure Minas Gerais Dairy Farmers",
+      "summary": "Milk paid to producers in Minas Gerais was nearly stable in September, at R$3.044 per litre for milk delivered in August, while the state’s reference price is set to fall by 1.8% in October. Increased domestic supply, elevated dairy imports and higher corn and soybean prices are weighing on producers’ revenues and costs.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/higher_imports_and_input_costs_pressure_minas_gerais_dairy_farmers_9084930.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-brazilian-rules-distinguish-requeij-o",
+      "title": "Brazilian Rules Distinguish Requeijão from Similar Dairy Spreads",
+      "summary": "Brazilian regulations reserve the name requeijão for products that meet specific requirements for their dairy composition. Similar spreads may instead be labelled as a mistura, including products containing vegetable fat or starch.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/brazilian_rules_distinguish_requeij_o_from_similar_dairy_spreads_7536654.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-industry-ireland-welcomed-irela",
+      "title": "Dairy Industry Ireland Welcomed Ireland’s Budget 2027 Measures",
+      "summary": "Dairy Industry Ireland, the association representing Irish dairy processors, responded to Budget 2027 on October 6. It welcomed measures covering water quality, biodiversity, research and development, taxation and the economics of dairy manufacturing, including an additional €21.6 million for European Innovation Partnerships.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/dairy_industry_ireland_welcomed_ireland_s_budget_2027_measures_7542220.html",
+      "sourceName": "DairyNews.today",
+      "function": "Quality & Food Safety",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-cascavel-opens-tender-for-infant-form",
+      "title": "Cascavel Opens Tender for Infant Formulas and Special Diets",
+      "summary": "Cascavel’s municipal government has opened a tender to purchase infant formulas and special diets for the city’s public health network. The estimated maximum value is R$11.22m, with the electronic bidding session scheduled for October 27th 2026.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/cascavel_opens_tender_for_infant_formulas_and_special_diets_8265008.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-consumers-are-turning-to-fermented-pr",
+      "title": "Consumers are turning to fermented products and probiotics",
+      "summary": "Kombucha, kefir and kimchi are gaining attention as consumers seek products associated with gut health, recognizable ingredients and distinctive flavours. Researchers and food companies are also examining fermentation-derived compounds and new applications in beverages, plant-based foods, sauces and other processed products.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/consumers_are_turning_to_fermented_products_and_probiotics_8003670.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-heritage-foods-reports-19-q2-fy27-rev",
+      "title": "Heritage Foods Reports 19% Q2 FY27 Revenue Growth",
+      "summary": "Heritage Foods’ consolidated revenue reached ₹1,320 crore in the second quarter of FY2027, up 19% from a year earlier. Value-added dairy products, higher volumes and product innovation supported the increase, while rising milk procurement costs weighed on profitability.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/heritage_foods_reports_19_q2_fy27_revenue_growth_5212661.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Heritage Foods",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-londrina-employees-can-donate-milk-to",
+      "title": "Londrina Employees Can Donate Milk to Four Charities",
+      "summary": "Employees of Londrina’s municipal government can contribute milk to a campaign organised by the Municipal Secretariat of Agriculture and Supply. Donations will be accepted until October 20 and distributed among four charitable organisations in the city.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://dairynews.today/news/londrina_employees_can_donate_milk_to_four_charities_5714351.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Product Launch",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-66219-4",
+      "title": "High prevalence and diversity of mesophilic bacteria detected in pre-enrichment raw milk from Ecuador using two multiplex TaqMan qPCR assays",
+      "summary": "The consumption of raw cow’s milk remains common and traditional in Ecuador, especially due to its sale in informal markets, despite its recognized potential to act as a vehicle for multiple zoonotic pathogens and chemical substances. This study aimed to validate a multiplex quantitative PCR (qPCR) assay for the simultaneous detection and semi-quantitative assessment of eight mesophilic bacteria o",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-66219-4",
+      "sourceName": "Scientific Reports",
+      "function": "Quality & Food Safety",
+      "region": "Argentina",
+      "institution": "Universidad de Buenos Aires",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-avj-70145",
+      "title": "Prediction of pregnancy following transfer of in‐vitro produced embryos using recipient health records, accelerometer sensors and meteorological data in Australian dairy cows",
+      "summary": "Embryo transfer (ET) in dairy cattle has long been used for the dissemination of elite genetics. However, achieving consistently high pregnancy rates remains a major challenge, particularly in high-producing lactating dairy cows receiving in-vitro produced (IVP) embryos. We hypothesised that recipient selection and ET program timing could be optimised using individual items of recipient and meteor",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.1111/avj.70145",
+      "sourceName": "Australian Veterinary Journal",
+      "function": "Animal Health",
+      "region": "Australia",
+      "institution": "The University of Sydney",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-76115-6",
+      "title": "Taurine ameliorates negative energy balance-induced gene expression alterations in buffalo granulosa cells",
+      "summary": "Negative Energy Balance (NEB), characterized by high serum free fatty acids (FFAs) and low glucose levels, is a common condition during early postpartum in dairy animals. NEB impairs postpartum fertility by negatively impacting the function of granulosa cells, the key cells in regulating ovarian folliculogenesis and estrogen production. Our previous studies identified reduced serum taurine levels,",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-76115-6",
+      "sourceName": "Scientific Reports",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "institution": "National Dairy Research Institute",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-56825-bufbu-2026-4525975",
+      "title": "ANALYSIS OF BETA-CASEIN GENE VARIANTS IN BUFFALO OF BOCHASAN FARM THROUGH PCR-RFLP",
+      "summary": "Bovine milk and dairy products play a significant role in traditional diets worldwide. Bovine milk protein consists of 80% casein and 20% whey. β-casein is the most common hydrophobic casein found in bovine milk. It has 2 frequent variants, A1 and A2. The only structural variation between the two beta-caseins is the location of amino acid 67, where histidine (CCT) in A1 is substituted by proline (",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.56825/bufbu.2026.4525975",
+      "sourceName": "Buffalo Bulletin",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "company": "a2 Milk",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-75525-w",
+      "title": "From embryo flushing to in vitro production: global trends in livestock reproductive biotechnology",
+      "summary": "Livestock embryo biotechnology is undergoing a transition from conventional in vivo-derived (IVD) embryo production to laboratory-based in vitro embryo production. This study analysed global trends in embryo production/collection and embryo transfer in domestic farm animals using International Embryo Technology Society data for 2017–2024. Embryo activity was classified by year, region, species, ac",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-75525-w",
+      "sourceName": "Scientific Reports",
+      "function": "Breeding & Genetics",
+      "region": "Portugal",
+      "institution": "Universidade Politécnica de Viana do Castelo",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-1984505",
+      "title": "Prevalence of fecal-detected gastrointestinal parasites in cattle, sheep, and goats across sub-Saharan Africa: a systematic evidence map and meta-analysis",
+      "summary": "Introduction Gastrointestinal parasites (GIPs) are a major constraint to the health and productive performance of ruminant livestock across sub-Saharan Africa (SSA). Yet, evidence of their occurrence in cattle, sheep, and goats (CSG) has not yet been synthesized at regional scale. This systematic evidence map and meta-analysis estimated the prevalence of fecal-detected GIP infection, described rep",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1984505",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Animal Health",
+      "region": "Germany",
+      "institution": "University of Göttingen",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "arxiv-2610.21293v1",
+      "title": "Audio-Based Condition Monitoring for Agricultural Machinery: Stakeholder Needs, Adoption Barriers, and MVP Requirements",
+      "summary": "Failures of agricultural machinery are costly when breakdowns occur during narrow work windows and are discovered too late for planned service. Audio-based condition monitoring offers a low-cost retrofit sensing path because operators already treat abnormal sound as an informal diagnostic cue. Whether such systems are adopted, however, depends on how well they fit farm workflows, repair constraint",
+      "date": "2026-10-15",
+      "sourceUrl": "http://arxiv.org/abs/2610.21293v1",
+      "sourceName": "arXiv",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Tashfain Ahmed",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
         "auto-ingested"
       ]
     },
@@ -1041,23 +1548,6 @@
       ]
     },
     {
-      "id": "arxiv-2610.21293v1",
-      "title": "Audio-Based Condition Monitoring for Agricultural Machinery: Stakeholder Needs, Adoption Barriers, and MVP Requirements",
-      "summary": "Failures of agricultural machinery are costly when breakdowns occur during narrow work windows and are discovered too late for planned service. Audio-based condition monitoring offers a low-cost retrofit sensing path because operators already treat abnormal sound as an informal diagnostic cue. Whether such systems are adopted, however, depends on how well they fit farm workflows, repair constraint",
-      "date": "2026-10-15",
-      "sourceUrl": "http://arxiv.org/abs/2610.21293v1",
-      "sourceName": "arXiv",
-      "function": "Nutrition & Feeding",
-      "region": "Global",
-      "institution": "Tashfain Ahmed",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-colombia-s-analac-calls-for-labels-id",
       "title": "Colombia's Analac Calls for Labels Identifying Imported Milk",
       "summary": "Colombia's National Association of Milk Producers, Analac, has called for clearer information about whether dairy products use domestic, imported or mixed milk inputs. The request follows a 59.8% rise in imports of milk and dairy products during the first seven months of 2026.",
@@ -1287,30 +1777,13 @@
       ]
     },
     {
-      "id": "openalex-10-1111-pcmr-70129",
-      "title": "Melanin as a Multifunctional Molecular System: Biosynthesis, Genetics, and Functional Roles in Livestock Species",
-      "summary": "Melanin is the primary pigment found in the skin, hair, wool and feathers of many vertebrates and plays a crucial role in determining the physical appearance and physiological performance of livestock species. Melanin functions in thermoregulation as well as coloration, photoprotection, and adaptation to diverse environmental conditions. This review examines the biosynthesis of melanin and the gen",
-      "date": "2026-10-14",
-      "sourceUrl": "https://doi.org/10.1111/pcmr.70129",
-      "sourceName": "Pigment Cell & Melanoma Research",
-      "function": "Breeding & Genetics",
-      "region": "India",
-      "institution": "Kurukshetra University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-61436-rietm-v5i4-pp394-406",
       "title": "Design and Construction of Web-Based and Mobile Cattle Feed Management System and Cattle Health Monitoring System Using the Prototyping Method",
       "summary": "Livestock management operations are often inefficient and error-prone because agricultural institutions frequently rely on manual recording of cattle feed and health data. This study aims to develop an integrated web and mobile information system for cattle feed management and health monitoring, implemented for the Herbal and Horticultural Science and Technology Park (TSTH2), Pollung, Humbang Hasu",
       "date": "2026-10-14",
       "sourceUrl": "https://doi.org/10.61436/rietm/v5i4.pp394-406",
       "sourceName": "Research in Education Technology and Multiculture",
-      "function": "Digital Platforms & Innovation",
+      "function": "Animal Health",
       "region": "China",
       "institution": "Hunan Vocational Institute of Technology",
       "rdType": "Research Paper",
@@ -3473,6 +3946,22 @@
       ]
     },
     {
+      "id": "epmc-10-64898-2026-10-09-757896",
+      "title": "From variants to networks: resolving low SNP overlap in dairy cattle meta-analysis through multi-level functional mapping",
+      "summary": "<h4>ABSTRACT</h4>  The objective of this study was to perform a systematic review and multi-level meta-analysis of genome-wide association studies (GWAS) for functional traits in dairy cattle, focusing on calving performance and udder health. We hypothesized that despite the limited replication of individual SNPs across independent studies, functionally related variants would converge on common ge",
+      "date": "2026-10-12",
+      "sourceUrl": "https://doi.org/10.64898/2026.10.09.757896",
+      "sourceName": "Europe PMC",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-shin-shin-initiates-food-ingredients-",
       "title": "Shin Shin initiates food ingredients plant operations",
       "summary": "Shin-Line Group, led by Shin Shin, has launched the Segmenta factory in the Almaty Region. The plant will produce flavorings, complex additives, and breadcrumb systems, and its projected capacity is up to 8,000 tons of products annually.",
@@ -5396,6 +5885,57 @@
       ]
     },
     {
+      "id": "epmc-10-3168-jds-2026-28531",
+      "title": "Invited review: Herd-level udder health indices derived from repeated individual somatic cell count measurements.",
+      "summary": "Subclinical mastitis persists as a challenge in dairy production, contributing to significant economic losses, compromising animal health and welfare, and driving antimicrobial use. It adversely affects milk quality, farm productivity, and overall profitability. This narrative review synthesizes historical literature, knowledge, and tools for herd-level udder health monitoring, with a focus on ind",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.3168/jds.2026-28531",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Canada",
+      "institution": "Département de pathologie et microbiologie",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1055-a-2920-1134",
+      "title": "[Teil 1: Mastitis und Lahmheit - Part 1: Mastitis and lameness].",
+      "summary": "<h4>Objective</h4>Production-limiting diseases such as mastitis and lameness are among the most common causes of early culling in dairy cows worldwide. The aim of this systematic literature review was to analyze the effects of these 2 disease complexes on culling risk in dairy cows based on scientific evidence.<h4>Material and methods</h4>The literature search was conducted in accordance with PRIS",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.1055/a-2920-1134",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Zentrum für angewandte Forschung und Technologie e.V.",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3168-jds-2026-28464",
+      "title": "Prioritization of candidate genomic regions for milking speed in Holstein cattle using international evaluations.",
+      "summary": "Milking speed (MSPD) is an economically important trait in dairy cattle affecting labor efficiency, animal welfare and milking parlor productivity. This complex quantitative trait has been investigated to characterize its genetic basis and support genomic selection. Previous genome-wide association studies (GWAS) have reported genomic regions potentially related to MSPD; however, results vary cons",
+      "date": "2026-10-09",
+      "sourceUrl": "https://doi.org/10.3168/jds.2026-28464",
+      "sourceName": "Europe PMC",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "institution": "University of Ljubljana",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-34188-bjaerv9n4-042",
       "title": "Método de ordeña producción de leche y presencia de mastitis en vacas lecheras",
       "summary": "La mastitis bovina es una enfermedad de gran relevancia en la industria lechera debido a su impacto en la salud animal, la calidad de la leche y las pérdidas económicas que genera. El presente estudio tuvo como objetivo analizar la relación entre el método de ordeño y la presencia de mastitis, así como su efecto sobre la producción de leche. Para ello, se evaluaron dos unidades de producción en Xo",
@@ -5985,6 +6525,23 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1155-vmi-9069263",
+      "title": "Bovine Mastitis and Detection of &lt;i&gt;Staphylococcus aureus&lt;/i&gt; Among Dairy Cows in Dessie Town, Northeast Ethiopia: Prevalence and Associated Risk Factors.",
+      "summary": "<h4>Background</h4>Bovine mastitis is a major economic challenge to dairy production globally. Despite its impact, there is limited information on the disease and its associated risk factors in the dairy sector of Dessie Town, Northeast Ethiopia. This study aimed to determine the prevalence of bovine mastitis, identify risk factors, and isolate <i>Staphylococcus aureus</i> from mastitic milk in th",
+      "date": "2026-10-08",
+      "sourceUrl": "https://doi.org/10.1155/vmi/9069263",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Ethiopia",
+      "institution": "Department of Veterinary Biomedical and Para-Clinical Sciences School of Veterinary Medicine Bahir Dar University P.O.Box: 5501 Bahir Dar Ethiopia bdu.edu.et.",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -8253,6 +8810,23 @@
       ]
     },
     {
+      "id": "epmc-10-1017-s0022029926102258",
+      "title": "Review and assessment of sensor-based disease detection in dairy cattle: conceptual and practical challenges.",
+      "summary": "Recent advances in sensor technologies and machine learning have increased expectations for actionable disease detection in dairy cattle, yet farm-level adoption remains limited. This conceptual review outlines an implementation trajectory from proof of concept to deployment as follows: (i) case definitions and defensible reference standards for diseases such as mastitis, lameness and respiratory ",
+      "date": "2026-10-06",
+      "sourceUrl": "https://doi.org/10.1017/s0022029926102258",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Germany",
+      "institution": "Working Group Metabolic Health",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-51699-qc6tvf91",
       "title": "Development of Calf Feeding Rations Based on Tmr Technology and Assessment of Nutrient Supply (Using the Uzmu-25 Probiotic Preparation)",
       "summary": "This article presents the results of developing feeding rations and assessing nutrient supply for local bulls and female calves of local origin and crossbreeds with Holstein cattle raised under household conditions in Furqat District, Fergana Region, using both traditional and Total Mixed Ration (TMR) feeding technologies. Rations developed for four experimental groups (I–IV) at 6, 9, 12, 15, and ",
@@ -9252,6 +9826,23 @@
       "tags": [
         "RSS",
         "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1007-s42770-026-02100-w",
+      "title": "Qualitative assessment of virulence and resistance gene transcripts in Staphylococcus aureus isolated from buffalo milk and dairy products.",
+      "summary": "Staphylococcus aureus is a major foodborne pathogen capable of producing enterotoxins and exhibiting antimicrobial resistance, posing a significant risk to public health through contaminated dairy products. This study investigated the occurrence of S. aureus isolates recovered from buffalo milk and dairy products, along with the potential presence of selected virulence and resistance gene transcri",
+      "date": "2026-10-05",
+      "sourceUrl": "https://doi.org/10.1007/s42770-026-02100-w",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Kocaeli Food Control Laboratory",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -11401,6 +11992,22 @@
       "tags": [
         "RSS",
         "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-Impacts-of-Climatic-Factors-on-Milking-Frequency-and-Milk-Yield-in-Automatic-Mil",
+      "title": "Impacts of Climatic Factors on Milking Frequency and Milk Yield in Automatic Milking Systems Under Hot-Humid Conditions",
+      "summary": "Impacts of Climatic Factors on Milking Frequency and Milk Yield in Automatic Milking Systems Under Hot-Humid Conditions",
+      "date": "2026-10-01",
+      "sourceUrl": "https://europepmc.org/article/MED/undefined",
+      "sourceName": "Europe PMC",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -14698,6 +15305,22 @@
       ]
     },
     {
+      "id": "epmc-Effects-of-Dietary-Active-Dry-Yeast-Supplementation-on-Lactation-Performance-and",
+      "title": "Effects of Dietary Active Dry Yeast Supplementation on Lactation Performance and Rumen Fermentation in Holstein Cows",
+      "summary": "Effects of Dietary Active Dry Yeast Supplementation on Lactation Performance and Rumen Fermentation in Holstein Cows",
+      "date": "2026-09-28",
+      "sourceUrl": "https://europepmc.org/article/MED/undefined",
+      "sourceName": "Europe PMC",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1007-s11250-026-05352-8",
       "title": "Avoidance distance in dairy cattle as a behavioural indicator of fear responses: the confounding role of clinical health status in two Algerian dairy farms",
       "summary": "Avoidance distance in dairy cattle as a behavioural indicator of fear responses: the confounding role of clinical health status in two Algerian dairy farms",
@@ -16641,6 +17264,22 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-Emerging-Biocontrol-Strategies-in-Cheese-Safety-A-Critical-Review-of-Bacteriopha",
+      "title": "Emerging Biocontrol Strategies in Cheese Safety: A Critical Review of Bacteriophages, Antimicrobial Peptides, and Postbiotics",
+      "summary": "Emerging Biocontrol Strategies in Cheese Safety: A Critical Review of Bacteriophages, Antimicrobial Peptides, and Postbiotics",
+      "date": "2026-09-25",
+      "sourceUrl": "https://europepmc.org/article/MED/undefined",
+      "sourceName": "Europe PMC",
+      "function": "Quality & Food Safety",
+      "region": "Global",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -20614,6 +21253,23 @@
       ]
     },
     {
+      "id": "epmc-10-3389-fvets-2026-1946092",
+      "title": "Integrative targeted blood gene-expression profiling, coding-region genetic variants, and machine learning identify candidate biomarkers of milk fever in Holstein dairy cattle.",
+      "summary": "<h4>Background</h4>Milk fever is a serious metabolic disease affecting high-yielding dairy cows during the transition period and can result in substantial economic losses due to reduced milk production, impaired health, increased treatment costs, and culling.<h4>Methods</h4>The present study aimed to identify molecular signatures associated with milk fever in Holstein dairy cows using targeted blo",
+      "date": "2026-09-21",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1946092",
+      "sourceName": "Europe PMC",
+      "function": "Breeding & Genetics",
+      "region": "Egypt",
+      "institution": "Department of Animal Wealth Development",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-1186-s40550-026-00162-0",
       "title": "Physicochemical and microbiological quality of raw cow milk across agro-ecological zones in Jarso District, Eastern Ethiopia",
       "summary": "Improving the physicochemical characteristics and microbial safety of raw milk is essential for strengthening Ethiopia’s dairy supply chain, yet information on how agro-ecological conditions influence milk quality remains limited. This study evaluated the physicochemical properties and microbial quality of raw cow milk collected from three agro-ecological zones in Jarso District, eastern Ethiopia.",
@@ -24094,6 +24750,23 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3390-foods15183274",
+      "title": "Prevalence and Phenotypic Antimicrobial Resistance of &lt;i&gt;Listeria monocytogenes&lt;/i&gt; from Animal-Derived Foods: A Scoping Review.",
+      "summary": "<i>Listeria monocytogenes</i> is one of the leading foodborne pathogens and an increasing public health concern because of the emergence of antimicrobial-resistant strains. This scoping review aimed to synthesize the available evidence on the prevalence and phenotypic antimicrobial resistance profiles of <i>L. monocytogenes</i> in animal-derived foods. The review was conducted following the Joanna",
+      "date": "2026-09-16",
+      "sourceUrl": "https://doi.org/10.3390/foods15183274",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Master's Program in Applied Microbiology",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -30229,23 +30902,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "epmc-10-1039-d6ra06744a",
-      "title": "Quercetin enhances the probiotic and functional characteristics of indigenous &lt;i&gt;Lactiplantibacillus plantarum&lt;/i&gt; SG1 isolated from raw cow milk.",
-      "summary": "The growing demand for functional foods has intensified interest in identifying indigenous probiotic strains with superior physiological properties and exploring natural compounds capable of enhancing their functionality. In the present study, the effects of quercetin on the probiotic-associated and functional characteristics of an indigenous <i>Lactiplantibacillus plantarum</i> SG1 isolated from ",
-      "date": "2026-09-08",
-      "sourceUrl": "https://doi.org/10.1039/d6ra06744a",
-      "sourceName": "Europe PMC",
-      "function": "Product Development",
-      "region": "Turkey",
-      "institution": "Department of Molecular Biology and Genetics",
-      "rdType": "Academic Study",
-      "tags": [
-        "Europe PMC",
-        "PubMed",
         "auto-ingested"
       ]
     },
@@ -62389,23 +63045,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "epmc-10-3390-ijms27146268",
-      "title": "Inherited Disorders and Disease-Resistance Genomics in Kazakhstan Ruminants: Evidence, Limits and Breeding Priorities.",
-      "summary": "Kazakhstan ruminant genomics is expanding through targeted diagnostic testing, SNP-array studies, whole-genome sequencing, runs of homozygosity, candidate-gene analyses, transcriptomic studies and pathogen molecular diagnostics. However, these evidence types differ substantially in their relevance for breeding decisions. This structured narrative review evaluates molecular evidence for inherited d",
-      "date": "2026-07-14",
-      "sourceUrl": "https://doi.org/10.3390/ijms27146268",
-      "sourceName": "Europe PMC",
-      "function": "Breeding & Genetics",
-      "region": "Global",
-      "institution": "Institute of Genetics and Physiology",
-      "rdType": "Academic Study",
-      "tags": [
-        "Europe PMC",
-        "PubMed",
         "auto-ingested"
       ]
     },
