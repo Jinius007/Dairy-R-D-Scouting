@@ -1,11 +1,387 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-17",
-    "nextRefresh": "2026-10-18",
-    "totalTracked": 16481,
+    "lastRefreshed": "2026-10-18",
+    "nextRefresh": "2026-10-19",
+    "totalTracked": 16504,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-goat-co-operative-cuts-debt-and",
+      "title": "Dairy Goat Co-operative Cuts Debt and Raises Farmer Payouts",
+      "summary": "New Zealand’s Dairy Goat Co-operative has reduced bank debt, cleared accumulated inventory and raised farmer payments to as much as $16 per kilogram of milksolids. A partnership with United States agribusiness investor AGR Partners is providing capital for international expansion while the co-operative remains fully farmer-owned.",
+      "date": "2026-10-18",
+      "sourceUrl": "https://dairynews.today/news/dairy_goat_co_operative_cuts_debt_and_raises_farmer_payouts_5143450.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-fonterra-cfo-andrew-murray-steps-down-from-da",
+      "title": "Fonterra CFO Andrew Murray steps down from dairy co-op",
+      "summary": "Fonterra CFO Andrew Murray steps down from the dairy co-operative to pursue an outside role, prompting an immediate search for his successor.",
+      "date": "2026-10-18",
+      "sourceUrl": "https://en.edairynews.com/fonterra-cfo-andrew-murray-steps-down-from-dairy-co-op/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Fonterra",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-balancing-dairy-rations-lifts-milk-solids-and",
+      "title": "Balancing dairy rations lifts milk solids and herd yield",
+      "summary": "Balancing dairy rations with rumen-protected fats optimizes maize silage, lifting milk solids and herd fertility while preventing rumen acidosis.",
+      "date": "2026-10-18",
+      "sourceUrl": "https://en.edairynews.com/balancing-dairy-rations-lifts-milk-solids-and-herd-yield/",
+      "sourceName": "eDairyNews",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-rural-transport-infrastructure-limits-artisan",
+      "title": "Rural transport infrastructure limits artisan dairy sales",
+      "summary": "Rural transport infrastructure bottlenecks and rising council rates squeeze New Zealand artisan dairy processors ahead of the national election.",
+      "date": "2026-10-18",
+      "sourceUrl": "https://en.edairynews.com/rural-transport-infrastructure-limits-artisan-dairy-sales/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-eDairyNews-https-en-edairynews-com-dairy-goat-co-operative-slashes-debt-and-lift",
+      "title": "Dairy Goat Co-operative slashes debt and lifts payout",
+      "summary": "Dairy Goat Co-operative slashes debt and clears excess inventory, lifting farmer payouts to $16 per kgMS through strategic restructuring.",
+      "date": "2026-10-18",
+      "sourceUrl": "https://en.edairynews.com/dairy-goat-co-operative-slashes-debt-and-lifts-payout/",
+      "sourceName": "eDairyNews",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "eDairyNews",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fonterra-cfo-andrew-murray-resigns-to",
+      "title": "Fonterra CFO Andrew Murray Resigns to Take an External Role",
+      "summary": "Andrew Murray has resigned as chief financial officer of Fonterra Co-operative Group to accept an executive position outside the company. He will remain in the role until the end of 2026 while Fonterra’s board and executive committee seek a permanent replacement.",
+      "date": "2026-10-17",
+      "sourceUrl": "https://dairynews.today/news/fonterra_cfo_andrew_murray_resigns_to_take_an_external_role_1452762.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Fonterra",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-rural-transport-disruptions-are-limit",
+      "title": "Rural Transport Disruptions Are Limiting Artisan Dairy Sales",
+      "summary": "Artisan dairy processors in New Zealand say road closures, rising local property rates and higher operating costs are putting pressure on small businesses. Remutaka Pass Creamery in Featherston says interruptions on State Highway 2 can cut access to retail customers and commercial outlets.",
+      "date": "2026-10-17",
+      "sourceUrl": "https://dairynews.today/news/rural_transport_disruptions_are_limiting_artisan_dairy_sales_2575880.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "New Zealand",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-heifer-prices-reached-3-700-in-irelan",
+      "title": "Heifer prices reached €3,700 in Ireland this week",
+      "summary": "Ireland’s autumn dairy trade strengthened this week after a slow opening, with sales taking place around the country. At Carnaross Mart in County Meath, a pedigree Holstein heifer achieved the top price of €3,700.",
+      "date": "2026-10-17",
+      "sourceUrl": "https://dairynews.today/news/heifer_prices_reached_3_700_in_ireland_this_week_1026697.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-livestock-product-prices-experience-t",
+      "title": "Livestock Product Prices Experience the Highest Increase in the EAEU",
+      "summary": "In August, agricultural producers in the EAEU raised prices by 1% compared to June. The most notable increase was in livestock products, which rose by 2.6%, while crop production experienced a 1.1% decrease.",
+      "date": "2026-10-17",
+      "sourceUrl": "https://dairynews.today/news/livestock_product_prices_experience_the_highest_increase_in_the_eaeu_8676422.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-queijo-minas-preserves-a-centuries-ol",
+      "title": "Queijo Minas Preserves a Centuries-Old Craft in Brazil",
+      "summary": "The traditional production of Queijo Minas combines raw milk, locally developed techniques and knowledge passed between generations. The craft was recognised as Brazilian cultural heritage in 2008 and added to UNESCO’s Representative List of the Intangible Cultural Heritage of Humanity in 2024.",
+      "date": "2026-10-17",
+      "sourceUrl": "https://dairynews.today/news/queijo_minas_preserves_a_centuries_old_craft_in_brazil_2220844.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-proteins-point-to-cheese-making-in-pr",
+      "title": "Proteins Point to Cheese-Making in Prehistoric Çatalhöyük",
+      "summary": "Proteins preserved in residues inside roughly 8,000-year-old vessels from Çatalhöyük in present-day Turkey included signals associated with whey and curd. A 2018 study said the findings supported an interpretation of dairy processing that may have involved stages resembling cheese-making, while not proving that every vessel contained cheese.",
+      "date": "2026-10-17",
+      "sourceUrl": "https://dairynews.today/news/proteins_point_to_cheese_making_in_prehistoric_atalh_y_k_8478549.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Turkey",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-proposes-linking-transport",
+      "title": "Kazakhstan Proposes Linking Transport Routes Across Asia with Cambodia",
+      "summary": "Kazakhstan's Prime Minister Olzhas Bektenov discussed with Cambodian Prime Minister Hun Manet the expansion of food supplies and the potential integration of the Trans-Caspian route with the China-Laos-Vietnam-Cambodia corridor. Other topics included investments, agricultural projects, digitalization, artificial intelligence, and tourism.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_proposes_linking_transport_routes_across_asia_with_cambodia_3263476.html",
+      "sourceName": "DairyNews.today",
+      "function": "Robotics & AI",
+      "region": "China",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-the-dunnes-expanded-their-cork-dairy-",
+      "title": "The Dunnes expanded their Cork dairy herd from 80 to 250 cows",
+      "summary": "John Dunne now milks 250 cows with his wife, Noreen, and their son, Billy, near Ladysbridge in County Cork. The family formed a farming partnership in 2019 and expanded the holding by 77 acres and more than 100 cows over seven years.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/the_dunnes_expanded_their_cork_dairy_herd_from_80_to_250_cows_8263144.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fssai-proposes-banning-added-sugars-i",
+      "title": "FSSAI Proposes Banning Added Sugars in Infant Foods",
+      "summary": "India’s Food Safety and Standards Authority has proposed prohibiting added sucrose and fructose in foods intended for infants up to six months old. The draft amendment was published in the Gazette of India on October 16, 2026, and would revise the country’s infant-nutrition standards.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/fssai_proposes_banning_added_sugars_in_infant_foods_4035971.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-rock-end-farm-dairy-opens-a-raw-milk-",
+      "title": "Rock End Farm Dairy opens a raw-milk vending machine",
+      "summary": "Rock End Farm Dairy has opened a vending machine selling its raw milk on Park Lane in Knypersley, North Staffordshire. The outlet operates daily and also sells the farm’s cheese and free-range eggs.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/rock_end_farm_dairy_opens_a_raw_milk_vending_machine_3454447.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dulce-de-leche-provides-about-60-calo",
+      "title": "Dulce de Leche Provides About 60 Calories per Tablespoon",
+      "summary": "A 20-gram serving of traditional dulce de leche, roughly one tablespoon, generally contains 60–65 kilocalories, 10–11 grams of carbohydrates and about 1 gram of protein. Its nutritional value depends on the wider diet, the product’s formulation and the amount consumed.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://dairynews.today/news/dulce_de_leche_provides_about_60_calories_per_tablespoon_2539412.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1080-1828051x-2026-2705678",
+      "title": "Differences in rumen fermentation, methane production, and microbiota of buffalo, cattle, and sheep: an in vitro study",
+      "summary": "The emission of methane (CH4) from the livestock sector is a particular concern and differences in rumen fermentation pathways lead to a variation in CH4 production among ruminant species. The present in vitro study evaluated the fermentation characteristics and CH4 output of rumen fluid from three different donor species (buffalo, cattle, and sheep) under standardised experimental conditions acro",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.1080/1828051x.2026.2705678",
+      "sourceName": "Italian Journal of Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Italy",
+      "institution": "University of Udine",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-75002-4",
+      "title": "The dynamic changes of rumen bacterial and fungal microbiota in free-ranged Gangba plateau sheep",
+      "summary": "Abstract Gangba sheep is an important sheep breed in Xizang plateau; however, little information is available about its rumen microbiota. This study revealed the composition and characteristics of rumen bacterial and fungal microbiota in free-ranged Gangba sheep. For bacterial and fungal microbiota sequencing, rumen fluid samples were collected from free-ranged Gangba sheep from four age groups (6",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-75002-4",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "China",
+      "institution": "Tibet Academy of Agricultural and Animal Husbandry Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1738803",
+      "title": "From cubic semen profiles to body form: linking seminal dynamics with LAS-derived zoometrics in Murciano-Granadina bucks",
+      "summary": "Introduction Selection of Murciano-Granadina goats has traditionally relied on Linear Appraisal Systems (LAS) to evaluate morphometric traits associated with dairy productivity. However, the relationship between LAS-derived traits and male reproductive performance remains insufficiently explored. This study aimed to assess the association between morphometric characteristics and semen quality para",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1738803",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Breeding & Genetics",
+      "region": "USA",
+      "institution": "Cordoba University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12711-026-01093-2",
+      "title": "Genomic architecture of non-nominal offspring risk in a simulated composite cattle breed",
+      "summary": "BACKGROUND: Composite cattle breeds are designed to combine complementary attributes from different founder breeds while retaining part of the heterosis generated by crossbreeding. Brangus cattle are nominally defined as 5/8 Angus and 3/8 Brahman, but the same global breed composition can be produced by different genomic architectures. This distinction may be important because animals with the sam",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.1186/s12711-026-01093-2",
+      "sourceName": "Genetics Selection Evolution",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-jbg-70083",
+      "title": "Genome‐Wide Association Studies for Anogenital Distance and Linear Type Traits in Gir Cattle",
+      "summary": "ABSTRACT Although linear type traits have been under selection in the Dairy Gir cattle for the past three decades, there are few studies exploring genetic architecture for these traits. The aim of this study was to identify candidate genes for anogenital distance and linear type traits in the Gir breed. For this study, the body measures of rump length (cm, RL), ilium width (cm, ILW), hip height (c",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.1111/jbg.70083",
+      "sourceName": "Journal of Animal Breeding and Genetics",
+      "function": "Breeding & Genetics",
+      "region": "Brazil",
+      "institution": "Universidade Federal de Viçosa",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-76412-0",
+      "title": "Cradle-to-gate life cycle assessment of pasteurized milk production in Uzbekistan identifies environmental hotspots and improvement opportunities",
+      "summary": "Dairy production is an important component of Uzbekistan's food system but is associated with environmental burdens. This study presents a cradle-to-gate life cycle assessment (LCA) of pasteurized milk production in Uzbekistan to quantify environmental impacts, identify hotspots, evaluate uncertainty, and assess environmental improvement options. A case-based inventory informed by farm records and",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-76412-0",
+      "sourceName": "Scientific Reports",
+      "function": "Sustainability & Traceability",
+      "region": "Global",
+      "institution": "Tashkent Chemical-Technological Institute",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s42770-026-02118-0",
+      "title": "Temporal and production-related determinants of microbial counts in pingo, the natural starter culture of minas artisanal cheese",
+      "summary": "Minas Artisanal Cheese (MAC) is among the most widely consumed and recognized artisanal cheeses in Brazil, produced from raw milk, rennet, salt, and a natural starter culture known locally as pingo. Pingo is an endogenous starter culture generated by backslopping, which carries into MAC cheese both technologically beneficial microorganisms and spoilage contaminants. Studies addressing the microbia",
+      "date": "2026-10-16",
+      "sourceUrl": "https://doi.org/10.1007/s42770-026-02118-0",
+      "sourceName": "Brazilian Journal of Microbiology",
+      "function": "Digital Platforms & Innovation",
+      "region": "Brazil",
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-eurasian-economic-union-countries-pla",
       "title": "Eurasian Economic Union Countries Plan to Establish Digital Platform for Agro-Innovations",
@@ -558,6 +934,57 @@
       ]
     },
     {
+      "id": "openalex-10-5281-zenodo-23330692",
+      "title": "Dairy Supply Chain of Bangladesh: Assessing Logistics, Cold Chain, Processing, Quality Control and Challenges",
+      "summary": "Bangladesh’s dairy industry plays an important role in food security, rural livelihoods, nutrition, and agricultural development. However, despite increasing milk production and the presence of established dairy processors, the sector continues to face significant supply-chain challenges involving production, milk collection, quality control, chilling, transportation, processing, distribution, and",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.5281/zenodo.23330692",
+      "sourceName": "Supply Chain Insider",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "Division of Human Resource Management",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-66219-4",
+      "title": "High prevalence and diversity of mesophilic bacteria detected in pre-enrichment raw milk from Ecuador using two multiplex TaqMan qPCR assays",
+      "summary": "The consumption of raw cow’s milk remains common and traditional in Ecuador, especially due to its sale in informal markets, despite its recognized potential to act as a vehicle for multiple zoonotic pathogens and chemical substances. This study aimed to validate a multiplex quantitative PCR (qPCR) assay for the simultaneous detection and semi-quantitative assessment of eight mesophilic bacteria o",
+      "date": "2026-10-15",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-66219-4",
+      "sourceName": "Scientific Reports",
+      "function": "Quality & Food Safety",
+      "region": "Argentina",
+      "institution": "Universidad de Buenos Aires",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "arxiv-2610.21293v1",
+      "title": "Audio-Based Condition Monitoring for Agricultural Machinery: Stakeholder Needs, Adoption Barriers, and MVP Requirements",
+      "summary": "Failures of agricultural machinery are costly when breakdowns occur during narrow work windows and are discovered too late for planned service. Audio-based condition monitoring offers a low-cost retrofit sensing path because operators already treat abnormal sound as an informal diagnostic cue. Whether such systems are adopted, however, depends on how well they fit farm workflows, repair constraint",
+      "date": "2026-10-15",
+      "sourceUrl": "http://arxiv.org/abs/2610.21293v1",
+      "sourceName": "arXiv",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Tashfain Ahmed",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-whey-protein-gains-ground-and-challen",
       "title": "Whey Protein Gains Ground and Challenges the Dairy Industry",
       "summary": "Demand for protein supplements is expanding beyond the traditional fitness market, while whey-based ingredients are attracting attention in Brazil’s dairy sector. The sector is also facing a trade deficit, with dairy imports far exceeding exports in September.",
@@ -703,30 +1130,13 @@
       ]
     },
     {
-      "id": "openalex-10-1038-s41598-026-66219-4",
-      "title": "High prevalence and diversity of mesophilic bacteria detected in pre-enrichment raw milk from Ecuador using two multiplex TaqMan qPCR assays",
-      "summary": "The consumption of raw cow’s milk remains common and traditional in Ecuador, especially due to its sale in informal markets, despite its recognized potential to act as a vehicle for multiple zoonotic pathogens and chemical substances. This study aimed to validate a multiplex quantitative PCR (qPCR) assay for the simultaneous detection and semi-quantitative assessment of eight mesophilic bacteria o",
-      "date": "2026-10-15",
-      "sourceUrl": "https://doi.org/10.1038/s41598-026-66219-4",
-      "sourceName": "Scientific Reports",
-      "function": "Quality & Food Safety",
-      "region": "Argentina",
-      "institution": "Universidad de Buenos Aires",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-1111-avj-70145",
       "title": "Prediction of pregnancy following transfer of in‐vitro produced embryos using recipient health records, accelerometer sensors and meteorological data in Australian dairy cows",
       "summary": "Embryo transfer (ET) in dairy cattle has long been used for the dissemination of elite genetics. However, achieving consistently high pregnancy rates remains a major challenge, particularly in high-producing lactating dairy cows receiving in-vitro produced (IVP) embryos. We hypothesised that recipient selection and ET program timing could be optimised using individual items of recipient and meteor",
       "date": "2026-10-15",
       "sourceUrl": "https://doi.org/10.1111/avj.70145",
       "sourceName": "Australian Veterinary Journal",
-      "function": "Animal Health",
+      "function": "Breeding & Genetics",
       "region": "Australia",
       "institution": "The University of Sydney",
       "rdType": "Research Paper",
@@ -760,26 +1170,9 @@
       "date": "2026-10-15",
       "sourceUrl": "https://doi.org/10.56825/bufbu.2026.4525975",
       "sourceName": "Buffalo Bulletin",
-      "function": "Breeding & Genetics",
+      "function": "Nutrition & Feeding",
       "region": "Global",
       "company": "a2 Milk",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1038-s41598-026-75525-w",
-      "title": "From embryo flushing to in vitro production: global trends in livestock reproductive biotechnology",
-      "summary": "Livestock embryo biotechnology is undergoing a transition from conventional in vivo-derived (IVD) embryo production to laboratory-based in vitro embryo production. This study analysed global trends in embryo production/collection and embryo transfer in domestic farm animals using International Embryo Technology Society data for 2017–2024. Embryo activity was classified by year, region, species, ac",
-      "date": "2026-10-15",
-      "sourceUrl": "https://doi.org/10.1038/s41598-026-75525-w",
-      "sourceName": "Scientific Reports",
-      "function": "Breeding & Genetics",
-      "region": "Portugal",
-      "institution": "Universidade Politécnica de Viana do Castelo",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -801,23 +1194,6 @@
       "tags": [
         "OpenAlex",
         "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2610.21293v1",
-      "title": "Audio-Based Condition Monitoring for Agricultural Machinery: Stakeholder Needs, Adoption Barriers, and MVP Requirements",
-      "summary": "Failures of agricultural machinery are costly when breakdowns occur during narrow work windows and are discovered too late for planned service. Audio-based condition monitoring offers a low-cost retrofit sensing path because operators already treat abnormal sound as an informal diagnostic cue. Whether such systems are adopted, however, depends on how well they fit farm workflows, repair constraint",
-      "date": "2026-10-15",
-      "sourceUrl": "http://arxiv.org/abs/2610.21293v1",
-      "sourceName": "arXiv",
-      "function": "Nutrition & Feeding",
-      "region": "Global",
-      "institution": "Tashfain Ahmed",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
@@ -11998,12 +12374,12 @@
     {
       "id": "epmc-Impacts-of-Climatic-Factors-on-Milking-Frequency-and-Milk-Yield-in-Automatic-Mil",
       "title": "Impacts of Climatic Factors on Milking Frequency and Milk Yield in Automatic Milking Systems Under Hot-Humid Conditions",
-      "summary": "Impacts of Climatic Factors on Milking Frequency and Milk Yield in Automatic Milking Systems Under Hot-Humid Conditions",
-      "date": "2026-10-01",
+      "summary": "Heat stress in hot and humid environments can severely limit the expected advantages of automatic milking systems (AMSs). This study was conducted to investigate the environmental thresholds for milking frequency (MF) and milk yield (MY) in AMSs under hot and humid conditions. We collected milking data over a 2-year period (from 29 March 2021 to 28 March 2023) from an AMS barn with an average herd",
+      "date": "2026-10-02",
       "sourceUrl": "https://europepmc.org/article/MED/undefined",
       "sourceName": "Europe PMC",
-      "function": "Engineering & Automation",
-      "region": "Global",
+      "function": "Nutrition & Feeding",
+      "region": "Taiwan",
       "rdType": "Academic Study",
       "tags": [
         "Europe PMC",
@@ -21259,7 +21635,7 @@
       "date": "2026-09-21",
       "sourceUrl": "https://doi.org/10.3389/fvets.2026.1946092",
       "sourceName": "Europe PMC",
-      "function": "Breeding & Genetics",
+      "function": "Animal Health",
       "region": "Egypt",
       "institution": "Department of Animal Wealth Development",
       "rdType": "Academic Study",
