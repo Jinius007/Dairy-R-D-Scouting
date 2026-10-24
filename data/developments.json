@@ -1,11 +1,223 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-23",
-    "nextRefresh": "2026-10-24",
-    "totalTracked": 16861,
+    "lastRefreshed": "2026-10-24",
+    "nextRefresh": "2026-10-25",
+    "totalTracked": 16880,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-tom-tiffany-outlined-school-meal-chan",
+      "title": "Tom Tiffany outlined school-meal changes at Wisconsin dairy farm",
+      "summary": "Republican U.S. Representative Tom Tiffany visited Morning Star Dairy Farm in Brice Prairie on Friday while campaigning for governor of Wisconsin. He discussed proposals to change school meals and create stronger links between students and local farms.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/tom_tiffany_outlined_school_meal_changes_at_wisconsin_dairy_farm_8563705.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-i-chekhiya-rasshiryayut-ag",
+      "title": "Kazakhstan and the Czech Republic Expand Agricultural Cooperation",
+      "summary": "Kazakhstan and the Czech Republic discussed expanding trade in agricultural products, livestock breeding, and the implementation of agrotechnologies. In the first eight months of 2026, mutual trade in agricultural products increased by 31%.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_i_chekhiya_rasshiryayut_agrarnoe_sotrudnichestvo_3124271.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Czech Republic",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-planning-applications-cover-arla-food",
+      "title": "Planning applications cover Arla Foods and farm buildings",
+      "summary": "Two planning applications have been submitted to Ceredigion County Council for developments in Llandysul and Lampeter. One concerns a farm building in Talgarreg, while the other proposes a production facility at the Arla Foods Ingredients site in Felinfach.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/planning_applications_cover_arla_foods_and_farm_buildings_5621213.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-visitors-tried-daresbury-dairy-s-new-",
+      "title": "Visitors tried Daresbury Dairy’s new Christmas ice-cream flavours",
+      "summary": "Daresbury Dairy has introduced a seasonal range of Christmas ice-cream flavours made on the farm with milk from its own dairy cows. The selection includes black forest, Turkish delight, white chocolate and hazelnut, and amaretto and cherry.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/visitors_tried_daresbury_dairy_s_new_christmas_ice_cream_flavours_9305399.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-china-releases-national-standard-for-",
+      "title": "China Releases National Standard for Milk Protein",
+      "summary": "China’s National Health Commission and State Administration for Market Regulation have issued a national food-safety standard covering milk proteins used by the food industry. The measure, GB31668-2026, was released on 22 September 2026 and is due to take effect on 18 August 2027.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/china_releases_national_standard_for_milk_protein_5393634.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "China",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-us-dairy-processors-commit-15-billion",
+      "title": "US Dairy Processors Commit $15 Billion to Expansion",
+      "summary": "US dairy processors are investing more than $15 billion in manufacturing capacity across 23 states. The IDFA has identified over 85 projects scheduled or in progress through 2030, covering new plants, expanded factories, production lines and equipment upgrades.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/us_dairy_processors_commit_15_billion_to_expansion_8518161.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-idfa-executive-council-names-matt-herrick",
+      "title": "IDFA Executive Council Names Matt Herrick Next President and CEO",
+      "summary": "Veteran food and agriculture executive returns to IDFA to build on association’s strong momentum and lead next chapter of growth and advocacy for U.S. dairy. The International Dairy Foods Association (IDFA) today announced that [Read More ...]",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairybusiness.com/idfa-executive-council-names-matt-herrick-next-president-and-ceo/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-lanco-pennland-wins-top-prize-at-nmpf-dai",
+      "title": "Lanco Pennland Wins Top Prize at NMPF Dairy Product Contest",
+      "summary": "A Reserve Extreme Irish Cheddar from Lanco Pennland took the top prize in NMPF’s annual dairy product competition. Land O’Lakes, Inc. and California Dairies, Inc. received Reserve Chairman’s award recognitions for their Sharp Cheddar and [Read More ...]",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairybusiness.com/lanco-pennland-wins-top-prize-at-nmpf-dairy-product-contest/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "company": "California Dairies",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-strengthen-management-skills-at-pdp-dairy",
+      "title": "Strengthen Management Skills at PDP Dairy Managers Institute",
+      "summary": "Two-day workshop offers three tiers of training to highlight different management aspects. Successful dairy farm teams manage more than animals, feed and finances; they also manage the practices they use to develop team members as [Read More ...]",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairybusiness.com/strengthen-management-skills-at-pdp-dairy-managers-institute/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-usda-announces-8-billion-harvest-fuel-rel",
+      "title": "USDA announces $8 billion Harvest Fuel Relief; ADC moves quickly to document dairy costs",
+      "summary": "Rapid-response survey targets milk hauling, fuel surcharges, forage harvest and other dairy fuel costs; broader survey goes farther. American Dairy Coalition is asking dairy farmers across the country to put real farm numbers behind two [Read More ...]",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairybusiness.com/usda-announces-8-billion-harvest-fuel-relief-adc-moves-quickly-to-document-dairy-costs/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-arla-recalls-protein-pudding-batches-",
+      "title": "Arla recalls Protein Pudding batches over possible glass fragments",
+      "summary": "Arla Foods is recalling selected batches of its Protein Pudding dessert as a precaution after identifying a possible risk of small glass fragments. The affected products were made in Esbjerg, Denmark, and carry best-before dates in April 2027.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/arla_recalls_protein_pudding_batches_over_possible_glass_fragments_8766142.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Denmark",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fimmu-2026-1978720",
+      "title": "Resolvin D1 engages FPR2–ARRB2 signaling and chromatin–microRNA regulation to restrain inflammatory activation in bovine mammary epithelial cells",
+      "summary": "Introduction Mammary epithelial cells are active participants in local innate immunity, mounting NF-κB-dependent cytokine responses to inflammatory stimuli. Excessive or persistent activation of this pathway, however, can sustain inflammation. Resolvin D1 (RvD1) is a lipid mediator with pro-resolving activity, but the specific mechanism by which RvD1 regulates inflammation in bovine mammary epithe",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.3389/fimmu.2026.1978720",
+      "sourceName": "Frontiers in Immunology",
+      "function": "Animal Health",
+      "region": "China",
+      "institution": "Ministry of Agriculture and Rural Affairs",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-18470-1992-1098-2026-3-7",
+      "title": "Inbreeding and runs of homozygosity (ROH) in red steppe cattle – genomic indicators of population resilience",
+      "summary": "The aim of the study was to characterise runs of homozygosity (ROH) patterns and the level of genomic inbreeding in Red Steppe cows from the Agrofirma Sogratl agricultural cooperative (Republic of Dagestan) based on SNP genotyping data, as well as to identify genomic regions with increased ROH overlap and interpret them using functional annotations. The material comprised 40 animals genotyped with",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.18470/1992-1098-2026-3-7",
+      "sourceName": "South of Russia ecology development",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-global-milk-supply-is-set-to-grow-2-2",
       "title": "Global milk supply is set to grow 2.2% in 2026",
@@ -328,6 +540,104 @@
       "tags": [
         "RSS",
         "Food Navigator",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-india-s-cattle-herd-is-forecast-to-di",
+      "title": "India’s Cattle Herd Is Forecast to Dip in 2027",
+      "summary": "India’s cattle inventory is expected to decline slightly in 2027 as slaughter rises to meet strong domestic and export demand for bovine meat. Dairy farms are increasingly replacing low-yielding animals with higher-producing cattle and buffalo.",
+      "date": "2026-10-22",
+      "sourceUrl": "https://dairynews.today/news/india_s_cattle_herd_is_forecast_to_dip_in_2027_5414349.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-aseptic-processing-offers-a-new-defin",
+      "title": "Aseptic Processing Offers a New Definition of Fresh Dairy",
+      "summary": "Aseptic processing combines ultra-high-temperature treatment with sterile filling to create dairy beverages that can remain safe without continuous refrigeration. The approach is gaining attention in the United States as demand rises for ready-to-drink dairy, protein and non-dairy beverages.",
+      "date": "2026-10-22",
+      "sourceUrl": "https://dairynews.today/news/aseptic_processing_offers_a_new_definition_of_fresh_dairy_7015754.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-daniyar-zhakypov-razvodit-v-kadamzhae",
+      "title": "Daniyar Zhakypov Breeds High-Value Swiss Cattle in Kadamzhai",
+      "summary": "Daniyar Zhakypov, a resident of the Kaltak village in Kadamzhai district, manages 50 Swiss cattle known for both their meat and milk production. These pedigree cows produce up to 25-30 liters of milk per day and can cost up to 500,000 soms.",
+      "date": "2026-10-22",
+      "sourceUrl": "https://dairynews.today/news/daniyar_zhakypov_razvodit_v_kadamzhae_korov_stoimostyu_do_500_000_somov_8576121.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-raw-the-story-of-a-small-cheese-will-",
+      "title": "RAW: The Story of a Small Cheese will be released in November",
+      "summary": "An independent film about Nottinghamshire cheesemaker Jake Goldstein will premiere online on November 4. It follows the co-founder of Primrose Creamery as he prepares two raw-milk cheeses for the Artisan Cheese Awards.",
+      "date": "2026-10-22",
+      "sourceUrl": "https://dairynews.today/news/raw_the_story_of_a_small_cheese_will_be_released_in_november_7716955.html",
+      "sourceName": "DairyNews.today",
+      "function": "Robotics & AI",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-77512-7",
+      "title": "Deviation of bovine milk leukocyte functions against Escherichia coli and Staphylococcus aureus after co-stimulation with Weissella paramesenteroides",
+      "summary": "Weissella paramesenteroides (WP) is a lactic acid bacterium found in the bovine udder microbiota, and some strains have been proposed as probiotics in the food industry. However, its immunomodulatory effects, particularly in the presence of mastitis pathogens, remain poorly understood. This study evaluated the effects of two W. paramesenteroides isolates (WPI1 and WPI2) on bovine milk white blood ",
+      "date": "2026-10-22",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-77512-7",
+      "sourceName": "Scientific Reports",
+      "function": "Animal Health",
+      "region": "Thailand",
+      "institution": "Chiang Mai University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3168-jds-2026-29148",
+      "title": "A cow individual milk fat percentage prediction method based on low-rank multimodal fusion of time-series, numerical, and textual data. ",
+      "summary": "Milk fat percentage (MFP) precise prediction is paramount for precision dairy farming and early warning of health issues. However, existing prediction methods primarily rely on single lactation time-series data or statistical models, which often fail to effectively fuse multi-source heterogeneous information and frequently overlook the impact of individual variability. To address current limitatio",
+      "date": "2026-10-22",
+      "sourceUrl": "https://doi.org/10.3168/jds.2026-29148",
+      "sourceName": "Europe PMC",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "College of Electric and Information",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
@@ -1117,7 +1427,7 @@
       "date": "2026-10-22",
       "sourceUrl": "https://doi.org/10.5281/zenodo.23570573",
       "sourceName": "Zenodo (CERN European Organization for Nuclear Research)",
-      "function": "Breeding & Genetics",
+      "function": "Animal Welfare",
       "region": "Global",
       "rdType": "Research Paper",
       "tags": [
@@ -2545,6 +2855,22 @@
       "tags": [
         "RSS",
         "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-55248-gengpi-07-1026-33056",
+      "title": "From Feed to One Health: Nutritional Modulation of the Gut Microbiome and Its Implications for Animal, Human and Environmental Health",
+      "summary": "The gut microbiome has emerged as a biological interface through which diet, host physiology, animal productivity, food safety and environmental processes become interconnected. In livestock, microorganisms inhabiting the rumen and intestinal tract transform dietary substrates into short-chain fatty acids, microbial protein, vitamins and other metabolites that influence nutrient capture, immune fu",
+      "date": "2026-10-20",
+      "sourceUrl": "https://doi.org/10.55248/gengpi.07.1026.33056",
+      "sourceName": "International Journal of Research Publication and Reviews",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -5030,23 +5356,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-68304-as-76420",
-      "title": "Bacterial Diseases of Ruminants in Iraq: Epidemiology, Clinical Manifestations, and Current Control Strategies",
-      "summary": "Bacterial diseases represent an important and persistent threat to ruminant health, animal welfare, livestock production, and public health in Iraq, with consequences for household livelihoods, food security, and the sustainability of agricultural enterprises. This narrative review examines the epidemiology, pathogenesis, clinical manifestations, diagnostic approaches, and current prevention and c",
-      "date": "2026-10-18",
-      "sourceUrl": "https://doi.org/10.68304/as/76420",
-      "sourceName": "Archives des sciences a multidisciplinary journal",
-      "function": "Animal Health",
-      "region": "Iraq",
-      "institution": "University of Fallujah",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
