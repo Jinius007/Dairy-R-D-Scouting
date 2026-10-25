@@ -1,11 +1,227 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-24",
-    "nextRefresh": "2026-10-25",
-    "totalTracked": 16880,
+    "lastRefreshed": "2026-10-25",
+    "nextRefresh": "2026-10-26",
+    "totalTracked": 16896,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-spain-increases-milk-output-by-3-3-bu",
+      "title": "Spain increases milk output by 3.3% but loses almost 500 farmers in a year",
+      "summary": "In August 2026, Spain produced 624,947 t of cow's milk, 3.3% more than a year earlier. The average farmgate price fell by 9.7% to €0.469/l. The number of producers dropped by 498 over the year to 8,425.",
+      "date": "2026-10-25",
+      "sourceUrl": "https://dairynews.today/news/spain-increases-milk-output-by-3-3-but-loses-almost-500-farmers-in-a-year.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Spain",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-turkish-farmer-fitted-cows-with-vir",
+      "title": "A Turkish farmer fitted cows with virtual-reality glasses and reported more milk",
+      "summary": "Izzet Koçak, a cattle farmer in Turkey’s Aksaray region, fitted two cows with virtual-reality headsets showing green pastures during the winter. He said the animals’ daily milk output rose from 22 to 27 litres each over a ten-day observation period.",
+      "date": "2026-10-24",
+      "sourceUrl": "https://dairynews.today/news/a_turkish_farmer_fitted_cows_with_virtual_reality_glasses_and_reported_more_milk_9670845.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Turkey",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-heritage-foods-plans-to-merge-with-it",
+      "title": "Heritage Foods Plans to Merge with Its Livo Yogurt Subsidiary",
+      "summary": "Heritage Foods has approved a proposed amalgamation with Heritage Novandie Foods, the subsidiary that operates its Livo yogurt business. The merger is intended to simplify the corporate structure, improve coordination and support the company’s value-added dairy portfolio.",
+      "date": "2026-10-24",
+      "sourceUrl": "https://dairynews.today/news/heritage_foods_plans_to_merge_with_its_livo_yogurt_subsidiary_2115072.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Global",
+      "company": "Heritage Foods",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-india-s-dairy-industry-is-rethinking-",
+      "title": "India’s Dairy Industry Is Rethinking Inventory Management to Address Wastage",
+      "summary": "India produced 247.87m tonnes of milk in 2024–25, but losses across the supply chain can reduce the value reaching consumers. An article by the chief executive of Heritage Foods calls for tighter temperature control, demand forecasting and inventory rotation.",
+      "date": "2026-10-24",
+      "sourceUrl": "https://dairynews.today/news/india_s_dairy_industry_is_rethinking_inventory_management_to_address_wastage_7262820.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "India",
+      "company": "Heritage Foods",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-a-former-dairy-farm-became-a-camel-nu",
+      "title": "A Former Dairy Farm Became a Camel Nursery With 100 Births",
+      "summary": "A former dairy farm in Kyabram, Australia, has been converted into a camel-breeding operation by owner Megan Williams. The farm recorded 100 camel births in its biggest season, while Covid-19 restrictions reduced tourism and shifted attention towards the herd.",
+      "date": "2026-10-24",
+      "sourceUrl": "https://dairynews.today/news/a_former_dairy_farm_became_a_camel_nursery_with_100_births_2763101.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-meal-replacement-drinks-can-replace-p",
+      "title": "Meal-Replacement Drinks Can Replace Parts of the Diet",
+      "summary": "Meal-replacement drinks are marketed as convenient, nutritionally complete alternatives to conventional meals. Nutrition experts say liquid diets can provide adequate nutrition in some circumstances, but their suitability depends on energy intake, composition, fibre, individual tolerance and how extensively they replace solid food.",
+      "date": "2026-10-24",
+      "sourceUrl": "https://dairynews.today/news/meal_replacement_drinks_can_replace_parts_of_the_diet_3455440.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12917-026-06056-9",
+      "title": "Yeast and enzyme supplementation in the diet for lactating buffalo: in vivo and in vitro evidence",
+      "summary": "Abstract Background Yeast cultures and exogenous enzymes are widely used as feed additives in ruminant nutrition, particularly in dairy cattle, due to their beneficial effects on rumen fermentation, nutrient degradability, and animal performance. However, information on their application in buffalo nutrition remains limited, and most available knowledge is extrapolated from studies conducted in ca",
+      "date": "2026-10-24",
+      "sourceUrl": "https://doi.org/10.1186/s12917-026-06056-9",
+      "sourceName": "BMC Veterinary Research",
+      "function": "Nutrition & Feeding",
+      "region": "Italy",
+      "institution": "University of Naples Federico II",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-maharashtra-launches-silage-subsidy-s",
+      "title": "Maharashtra launches silage subsidy scheme for drought-hit dairy farmers",
+      "summary": "Maharashtra’s animal husbandry department has introduced Mission Murghas to support fodder conservation in Marathwada and Vidarbha. Under the programme, eligible milk producers and livestock owners in 19 districts can receive Rs 3 per kg of purchased silage, calculated against five kg per animal a day for 90 days.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://dairynews.today/news/maharashtra_launches_silage_subsidy_scheme_for_drought_hit_dairy_farmers_3707693.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fcell-2026-1982804",
+      "title": "Epithelial and mesenchymal stem cell biology in the mammary gland: mechanisms, comparative insights, and translational perspectives",
+      "summary": "Mammary stem cell biology provides an important link between tissue regeneration, mammary development, metabolic adaptation, inflammation, and lactational function. This review examines epithelial and mesenchymal stem cell populations in the mammary gland, with emphasis on their complementary roles and interactions within the tissue microenvironment. Evidence from murine, human, and bovine studies",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.3389/fcell.2026.1982804",
+      "sourceName": "Frontiers in Cell and Developmental Biology",
+      "function": "Animal Health",
+      "region": "Israel",
+      "institution": "Agricultural Research Organization",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1371-journal-pone-0359629",
+      "title": "Analysis of genetic diversity and phylogenetic evolution of cattle population in the Ili River Valley region, Xinjiang, based on mtDNA D-loop sequence",
+      "summary": "This study used mitochondrial DNA (mtDNA) D-loop region sequence polymorphisms as molecular markers to investigate the genetic structure and maternal origin of six cattle breeds in the Ili River Valley region of Xinjiang, China. Blood samples were collected from six cattle breeds in the region, including Xinjiang Brown cattle (n = 30), Kazakh cattle (n = 33), Altay White-headed cattle (n = 33), Ch",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.1371/journal.pone.0359629",
+      "sourceName": "PLoS ONE",
+      "function": "Breeding & Genetics",
+      "region": "China",
+      "institution": "Xinjiang Academy of Animal Science",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-2478-aoas-2027-0021",
+      "title": "Replacing rapeseed meal with faba bean or lupin seeds in finishing diets for Holstein-Friesian bulls: Effects of tannins on beef quality and fatty acid composition",
+      "summary": "Abstract This study examined the effects of replacing rapeseed meal with faba bean seeds containing condensed tannins or with tannin-free white lupin seeds in finishing diets for Friesian bulls on beef quality and fatty acid composition. Thirty bulls were fed isoenergetic and isonitrogenous total mixed rations differing only in the protein source for 5 months, after which meat quality traits and t",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.2478/aoas-2027-0021",
+      "sourceName": "Annals of Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Poland",
+      "institution": "University of Warmia and Mazury in Olsztyn",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-22319-rmcp-v17i3-7071",
+      "title": "Efecto del coeficiente de consanguinidad sobre la estimación de parámetros genéticos y de confiabilidad de los valores genéticos en ganado Holstein de México",
+      "summary": "El presente estudio evaluó el impacto de la inclusión del coeficiente de consanguinidad (F) en la estimación de parámetros genéticos, predicción de valores genéticos y su confiabilidad para producción de leche, sus componentes (grasa y proteína) y conteo de células somáticas (CCS) en ganado Holstein de México. Se analizaron registros productivos ajustados a 305 días de ~368 mil vacas de 353 hatos ",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.22319/rmcp.v17i3.7071",
+      "sourceName": "Revista Mexicana de Ciencias Pecuarias",
+      "function": "Farm Management",
+      "region": "Mexico",
+      "institution": "Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-avj-70149",
+      "title": "Epidemiological impact of Neospora caninum in Victorian dairy farms: Modelling effective control strategies",
+      "summary": "Neospora caninum is a major cause of abortion in cattle worldwide, causing significant economic losses. Despite Victoria's critical role in Australian dairy production, little is known about the local epidemiology of N. caninum and the effectiveness of control measures. This study aimed to evaluate infection dynamics and management strategies in Victorian dairy farms. Field data were collected fro",
+      "date": "2026-10-23",
+      "sourceUrl": "https://doi.org/10.1111/avj.70149",
+      "sourceName": "Australian Veterinary Journal",
+      "function": "Animal Health",
+      "region": "Australia",
+      "institution": "The University of Melbourne",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-tom-tiffany-outlined-school-meal-chan",
       "title": "Tom Tiffany outlined school-meal changes at Wisconsin dairy farm",
@@ -544,6 +760,39 @@
       ]
     },
     {
+      "id": "openalex-10-3389-fvets-2026-1910975",
+      "title": "In situ expression of yak DEFB127 via plasmid-mediated delivery alleviates bovine Staphylococcus aureus-induced mastitis through anti-inflammatory mechanisms",
+      "summary": "Introduction Mastitis, a disease affecting milk production and quality, poses a significant challenge to agricultural practitioners. Conventional antibiotic treatments present potential issues such as drug resistance, disruption of animal intestinal microbiota, and milk safety issues, necessitating the development of novel alternative therapies for bovine mastitis. Yak β-defensin 127 ( DEFB127 ), ",
+      "date": "2026-10-22",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1910975",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Animal Health",
+      "region": "China",
+      "institution": "Southwest Minzu University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-34178-jbth-v9i9-720",
+      "title": "Bibliometric Analysis of Inhibitory Compounds in the Reduction of Enteric Methane in Ruminants: Trends, Advances and Sustainable Perspectives",
+      "summary": "Enteric fermentation is a major agricultural source of methane (CH₄), accounting for about 32% of anthropogenic emissions and contributing significantly to global warming. Research increasingly investigates natural and synthetic inhibitory compounds in ruminant diets to reduce emissions without compromising digestion or productivity. This work presents a bibliometric analysis of studies published ",
+      "date": "2026-10-22",
+      "sourceUrl": "https://doi.org/10.34178/jbth.v9i9.720",
+      "sourceName": "Journal of Bioengineering, Technologies and Health",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-india-s-cattle-herd-is-forecast-to-di",
       "title": "India’s Cattle Herd Is Forecast to Dip in 2027",
       "summary": "India’s cattle inventory is expected to decline slightly in 2027 as slaughter rises to meet strong domestic and export demand for bovine meat. Dairy farms are increasingly replacing low-yielding animals with higher-producing cattle and buffalo.",
@@ -631,7 +880,7 @@
       "date": "2026-10-22",
       "sourceUrl": "https://doi.org/10.3168/jds.2026-29148",
       "sourceName": "Europe PMC",
-      "function": "Nutrition & Feeding",
+      "function": "Animal Health",
       "region": "China",
       "institution": "College of Electric and Information",
       "rdType": "Academic Study",
@@ -9225,22 +9474,6 @@
         "auto-ingested"
       ],
       "company": "Phibro"
-    },
-    {
-      "id": "rss-DairyReporter-https-www-dairyreporter-com-Article-2026-10-13-global-milk-supply-",
-      "title": "Global milk supply forecast to rise 2.2% in 2026 despite drought and El Niño risks",
-      "summary": "Global milk supply forecast to rise 2.2% in 2026 despite drought and El Niño risks",
-      "date": "2026-10-13",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/13/global-milk-supply-forecast-to-rise-22-in-2026-despite-drought-and-el-nino-risks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Farm Management",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyReporter",
-        "auto-ingested"
-      ]
     },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-new-zealand-beef-targets-us-demand-as",
@@ -18415,6 +18648,23 @@
       "sourceName": "Europe PMC",
       "function": "Robotics & AI",
       "region": "Taiwan",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1021-acs-jafc-6c02196",
+      "title": "Eupatilin Attenuates Mastitis in Dairy Cows by Activating the NRF2 Pathway.",
+      "summary": "Antibiotic treatment of mastitis in dairy cows can cause antibiotic residues and antimicrobial resistance, highlighting the urgent need for eco-friendly and sustainable alternatives. Here, we show that dairy cows with mastitis have severe inflammation, apoptosis, and oxidative stress in mammary tissue. Eupatilin (EU), a natural compound derived from Artemisia argyi, alleviated LPS-induced patholog",
+      "date": "2026-10-01",
+      "sourceUrl": "https://doi.org/10.1021/acs.jafc.6c02196",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "China",
+      "institution": "College of Veterinary Medicine",
       "rdType": "Academic Study",
       "tags": [
         "Europe PMC",
@@ -42047,6 +42297,23 @@
       "tags": [
         "RSS",
         "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1021-acs-est-6c06417",
+      "title": "Long-Term Monitoring of Greenhouse Gas Emissions and Interpretable Machine Learning Models for Methane Prediction in Dairy Cattle Slurry Storage.",
+      "summary": "Greenhouse gas (GHG) emissions from continuously filled dairy cattle slurry storage remain difficult to estimate under practical conditions. This study monitored methane (CH4), nitrous oxide (N2O) emissions, and slurry physicochemical properties for 15 months in laboratory-scale storage tanks designed to reproduce key features of on-farm storage, including continuous filling, farm-derived temperat",
+      "date": "2026-09-01",
+      "sourceUrl": "https://doi.org/10.1021/acs.est.6c06417",
+      "sourceName": "Europe PMC",
+      "function": "Nutrition & Feeding",
+      "region": "Germany",
+      "institution": "Leibniz Institute for Agricultural Engineering and Bioeconomy",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
