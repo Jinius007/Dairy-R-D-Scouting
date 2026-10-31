@@ -1,11 +1,354 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-30",
-    "nextRefresh": "2026-10-31",
-    "totalTracked": 17275,
+    "lastRefreshed": "2026-10-31",
+    "nextRefresh": "2026-11-01",
+    "totalTracked": 17306,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-castilla-y-le-n-farmers-say-milk-prod",
+      "title": "Castilla y León farmers say milk production costs have exceeded 50 cents per kilogram",
+      "summary": "Spanish farmers’ organisation Unión de Campesinos de Castilla y León (UCCL) has called on the regional government of Castilla y León to urgently update its study of cow’s milk production costs. UCCL estimates that average production costs on the region’s farms have already exceeded 50 cents per kilogram, while the farmgate price has fallen by 14% since the start of 2026, Diario de León reports.",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairynews.today/news/castilla-y-le-n-farmers-say-milk-production-costs-have-exceeded-50-cents-per-kilogram.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-swisslane-farms-established-a-memorial-to",
+      "title": "SwissLane Farms established a memorial tournament to honor the memory of Sebastian Szymanski",
+      "summary": "Alltech, a global leader in animal health and nutrition, recently hosted soccer tournaments for local dairy workers in Kewaunee, Wisconsin, and Alto, Michigan. “Our goal is to bring people together by combining two important parts [Read More ...]",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairybusiness.com/swisslane-farms-established-a-memorial-tournament-to-honor-the-memory-of-sebastian-szymanski/",
+      "sourceName": "Dairy Business",
+      "function": "Animal Health",
+      "region": "USA",
+      "company": "Alltech",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milky-way-pochemu-v-ssha-i-evrope-pod",
+      "title": "Milky Way contains caramel in the US but not in Europe",
+      "summary": "The American Milky Way contains nougat, caramel and milk chocolate, while the European version is made without caramel. The differences emerged after Forrest Mars moved to Britain in 1932: there, he began producing a caramel bar under the name Mars and later used the Milky Way brand for a different recipe.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/milky_way_pochemu_v_ssha_i_evrope_pod_odnim_nazvaniem_prodayutsya_raznye_batonchiki_5542747.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-indian-state-imposes-one-year-ban-on-",
+      "title": "Indian state imposes one-year ban on non-standardised dairy analogues",
+      "summary": "Andhra Pradesh has prohibited non-standardised dairy analogues, including artificial paneer, across the state for one year. The restrictions cover production, sale and commercial use, with the government citing consumer protection and the prevention of misleading trade practices.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/indian_state_imposes_one_year_ban_on_non_standardised_dairy_analogues_8429879.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-eu-milk-prices-fall-19-7-as-milk-coll",
+      "title": "EU milk prices fall 19.7% as milk collection rises 3%",
+      "summary": "EU farm-gate milk prices fell 19.7% year on year in August 2026, according to European Commission figures. Milk deliveries increased by 3% over January–August, while dairy export volumes rose and export earnings declined.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/eu_milk_prices_fall_19_7_as_milk_collection_rises_3_6576503.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-animal-identification-market-forecast",
+      "title": "Animal-identification market forecast to reach $2.78 billion by 2031",
+      "summary": "MarketsandMarkets projects that the global animal-identification market will expand from $1.74 billion in 2025 to $2.78 billion in 2031, a compound annual growth rate of 8.1%. Technologies used to identify and track livestock include radio-frequency tags, GPS, low-energy Bluetooth, integrated data systems, artificial intelligence combined with blockchain, and genetic profiling.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/animal_identification_market_forecast_to_reach_2_78_billion_by_2031_5319589.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-caverswall-creamery-s-halloween-maze-",
+      "title": "Caverswall Creamery’s Halloween maze draws thousands as visitor numbers grow",
+      "summary": "A Halloween scare maze at Caverswall Creamery in Stoke-on-Trent has become essential to the dairy farm’s income, attracting thousands of visitors. The seasonal attraction began three years ago, and owner Dave Moseley described this year’s business as “phenomenal”.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/caverswall_creamery_s_halloween_maze_draws_thousands_as_visitor_numbers_grow_2569616.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dodla-dairy-analysts-cut-2027-eps-for",
+      "title": "Dodla Dairy analysts cut 2027 EPS forecast to ₹33.45, raise revenue estimate",
+      "summary": "Analysts covering Dodla Dairy revised their 2027 earnings-per-share forecast to ₹33.45 from ₹38.48 after its second-quarter results. They nudged their revenue projection up to ₹48.1bn from ₹47.8bn, while leaving the consensus share-price target unchanged.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/dodla_dairy_analysts_cut_2027_eps_forecast_to_33_45_raise_revenue_estimate_3741967.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-kazakhstan-develops-71-dairy-farms-wi",
+      "title": "Kazakhstan develops 71 dairy farms with annual milk capacity of 462,000 tonnes",
+      "summary": "Kazakhstan is implementing 71 dairy-farm projects designed to produce a combined 462,000 tonnes of milk annually. Agriculture Minister Aidarbek Saparov chaired a meeting on agricultural investment, processing and technology to implement priorities in the president’s annual address.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/kazakhstan_develops_71_dairy_farms_with_annual_milk_capacity_of_462_000_tonnes_6189479.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-james-brayley-and-anna-collins-take-o",
+      "title": "James Brayley and Anna Collins take on 20-year dairy farm tenancy",
+      "summary": "James Brayley and Anna Collins have secured their first farm tenancy on a county council holding. The pair are developing the dairy business under a 20-year agreement.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/james_brayley_and_anna_collins_take_on_20_year_dairy_farm_tenancy_9831298.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-embrapa-cattle-lack-upper-front-teeth",
+      "title": "Embrapa: cattle lack upper front teeth and grip grass with a fibrous pad",
+      "summary": "Cattle grasp grass between a firm, fibrous pad in the upper jaw and their lower incisors, explains Rodrigo Gomes, a researcher at Embrapa Gado de Corte. Their rear teeth then chew the material, while difficulties with either task can reduce feed intake and affect health and performance.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/embrapa_cattle_lack_upper_front_teeth_and_grip_grass_with_a_fibrous_pad_1410753.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-colorado-dairy-quarantined-after-stat",
+      "title": "Colorado dairy quarantined after state's first dairy bird-flu detection since August 2024",
+      "summary": "Highly pathogenic avian influenza has been confirmed at a dairy in Weld County, Colorado, prompting quarantine restrictions. State health officials said on Friday that the risk of infection through drinking milk is low and that pasteurisation kills the virus.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/colorado_dairy_quarantined_after_state_s_first_dairy_bird_flu_detection_since_august_2024_7558136.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nmpf-chairman-sets-out-dairy-labour-a",
+      "title": "NMPF chairman sets out dairy labour and school-milk lobbying priorities",
+      "summary": "The chairman of the National Milk Producers Federation (NMPF) outlined agricultural labour and dairy nutrition priorities in remarks on October 20 in Kissimmee, Florida. He urged farmers to maintain direct contact with policymakers and support the organisations representing their industry.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/nmpf_chairman_sets_out_dairy_labour_and_school_milk_lobbying_priorities_5515394.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-financial-literacy-program-brings-dairy-s",
+      "title": "Financial Literacy Program Brings Dairy-Specific Education to Producers, Industry Professionals",
+      "summary": "Participants learn from dairy-finance experts and apply core concepts to their own operations. Financial decisions shape the future of every dairy business, from managing cash flow and evaluating investments to planning for growth and navigating [Read More ...]",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairybusiness.com/financial-literacy-program-brings-dairy-specific-education-to-producers-industry-professionals/",
+      "sourceName": "Dairy Business",
+      "function": "Digital Platforms & Innovation",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3390-cells15211980",
+      "title": "Xinjiang Brown Cattle-Derived β-Defensin EBD Alleviates Enterococcus faecalis-Induced Mammary Inflammation in Mice",
+      "summary": "Bovine mastitis is a major infectious disease in dairy cattle, and the increasing prevalence of antimicrobial-resistant pathogens has created an urgent need for the development of effective antimicrobial agents. In this study, bovine enteric β-defensin (EBD) from Xinjiang Brown Cattle was cloned, expressed, and preliminarily evaluated for its antibacterial and protective effects against Enterococc",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.3390/cells15211980",
+      "sourceName": "Cells",
+      "function": "Animal Health",
+      "region": "China",
+      "institution": "Xinjiang Agricultural University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-56093-ijvasr-v55i6-185432",
+      "title": "PREVALENCE, ANTIMICROBIAL RESISTANCE PATTERNS, AND ASSOCIATED RISK FACTORS OF STAPHYLOCOCCUS AUREUS IN RAW MILK FROM DAIRY CATTLE IN TILOTTAMA MUNICIPALITY, NEPAL",
+      "summary": "Staphylococcus aureus (S. aureus)-associated bovine mastitis is a serious economic and animal health concern in Nepalese dairy production. Yet, antimicrobial resistance (AMR) data from commercial dairy herds remain scarce. A cross-sectional study was conducted from January to March 2020 in Tilottama Municipality, Rupandehi District, Nepal. A total of 207 lactating cows from 69 commercial dairy far",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.56093/ijvasr.v55i6.185432",
+      "sourceName": "Indian journal of veterinary and animal sciences research.",
+      "function": "Animal Health",
+      "region": "Nepal",
+      "institution": "Government of Nepal",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fagro-2026-1901565",
+      "title": "Application of statistical and artificial intelligence models to estimate in vitro ruminal methane production in tropical forage groups",
+      "summary": "Introduction Screening tropical forages for low ruminal methane (CH4) production is essential for reducing livestock emissions and supporting global methane mitigation efforts such as the Global Methane Pledge. Although in vitro fermentation systems offer a practical alternative to in vivo measurements, large-scale forage evaluation remains resource-intensive. In this context, statistical and arti",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.3389/fagro.2026.1901565",
+      "sourceName": "Frontiers in Agronomy",
+      "function": "Nutrition & Feeding",
+      "region": "Colombia",
+      "institution": "Universidad Nacional de Colombia",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-repbio-2026-101295",
+      "title": "Climate change and declining reproductive efficiency in dairy cattle: Global trends and adaptive solutions",
+      "summary": "Climate change and declining reproductive efficiency in dairy cattle: Global trends and adaptive solutions",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1016/j.repbio.2026.101295",
+      "sourceName": "Reproductive Biology",
+      "function": "Farm Management",
+      "region": "India",
+      "institution": "Sri Venkateswara Veterinary University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1128-spectrum-01637-26",
+      "title": "Genomic insights into the human gut commensal Megasphaera elsdenii : relatedness and metabolic potential compared to animal isolates",
+      "summary": "ABSTRACT Megasphaera elsdenii is best known as a prominent lactate consumer within the rumen microbial community in livestock, and its metabolic properties are relatively well studied. In humans, it can be isolated from healthy donors’ feces and, more often, from patients’ feces with diverse inflammatory conditions. Genetic diversity of this species is poorly understood, and it is currently unclea",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1128/spectrum.01637-26",
+      "sourceName": "Microbiology Spectrum",
+      "function": "Breeding & Genetics",
+      "region": "Russia",
+      "institution": "Saint-Petersburg Research Institute of Phthisiopulmonology",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12711-026-01097-y",
+      "title": "Assessing the predictive potential of the Holstein bovine sperm methylome for bull fertility using machine learning",
+      "summary": "Abstract Background Bull fertility is a key parameter in the dairy cattle industry, with significant economic implications. DNA methylation is an epigenetic mark essential for fertility, and recent works have highlighted sperm DNA methylation as a promising source of biomarkers for male fertility, but no operational tool has been developed for predicting bull fertility based on DNA methylation. He",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1186/s12711-026-01097-y",
+      "sourceName": "Genetics Selection Evolution",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1016-j-repbio-2026-101295",
+      "title": "Climate change and declining reproductive efficiency in dairy cattle: Global trends and adaptive solutions. ",
+      "summary": "Climate change is progressively limiting reproductive efficiency in dairy cattle, which has significant consequences for productivity, profitability and global food security. Increasing ambient temperatures, increased temperature-humidity index (THI), recurrent heat waves and climatic variability interfere with reproduction via interconnected endocrine, metabolic and cellular pathways. Heat stress",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1016/j.repbio.2026.101295",
+      "sourceName": "Europe PMC",
+      "function": "Breeding & Genetics",
+      "region": "India",
+      "institution": "Livestock Research Station",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-gfi-biomass-fermentation-proteins-gen",
       "title": "GFI: Biomass fermentation proteins generate 98% fewer emissions than beef",
@@ -211,6 +554,240 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dykelands-last-in-milk-animal-wins-ch",
+      "title": "Dykelands’ last in-milk animal wins championship and sells for £3,300",
+      "summary": "Janet and Percy Bolland’s final in-milk animal took the championship and the highest price, £3,300, at the late-October Craven Dairy Auction at CCM Skipton. The sale concluded more than two years of selling freshly calved cattle from their Dykelands farm at Airton.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://dairynews.today/news/dykelands_last_in_milk_animal_wins_championship_and_sells_for_3_300_2158534.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-home-bargains-stocks-limited-edition-",
+      "title": "Home Bargains stocks limited-edition Cadbury Dairy Milk PB&J imported from Australia",
+      "summary": "A limited-edition Cadbury Dairy Milk chocolate bar inspired by a peanut butter and jelly sandwich has appeared at Home Bargains. The imported PB&J flavour has drawn both interest and criticism from shoppers commenting on Facebook.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://dairynews.today/news/home_bargains_stocks_limited_edition_cadbury_dairy_milk_pb_j_imported_from_australia_3695412.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Australia",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyReporter-https-www-foodnavigator-com-Article-2026-10-29-the-magnum-ice-crea",
+      "title": "European summer gives the Magnum Ice Cream Company a boost in Q3",
+      "summary": "The Magnum Ice Cream Company has reported a strong Q3, boosted in part by the extended European summer. The company saw significant growth in key brands, with Magnum and Heartbrand in double-digit growth.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1111-eea-70211",
+      "title": "A Wasp's Sweet Tooth: Foraging Responses to Honeydew in Two Sympatric Invasive Yellowjackets",
+      "summary": "ABSTRACT Carbohydrate‐rich resources can influence the foraging ecology of invasive social wasps and may affect their population dynamics, particularly in environments where floral resources are seasonal or unpredictable. Aphid honeydew may provide a temporally stable and abundant carbohydrate resource, but its use by invasive Vespula species remains poorly understood. In this study, we evaluated ",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.1111/eea.70211",
+      "sourceName": "Entomologia Experimentalis et Applicata",
+      "function": "Nutrition & Feeding",
+      "region": "Argentina",
+      "institution": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-6090-jarq-26j03",
+      "title": "A Reduced Drug and Labor Timed Artificial Insemination Protocol for Lactating Dairy Cows: Evaluation of the 12-day PRID-DELTA Program",
+      "summary": "The present study examined a modified, low-drug timed artificial insemination protocol using PRID-DELTA (PRID), an intravaginal progesterone-releasing device with an estradiol benzoate (EB) capsule. The key modification was the omission of concomitant prostaglandin F2α (PG) administration, aimed at reducing drug use and labor. In 178 lactating cows confirmed to be clinically healthy (absence of en",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.6090/jarq.26j03",
+      "sourceName": "Japan Agricultural Research Quarterly JARQ",
+      "function": "Animal Health",
+      "region": "Japan",
+      "institution": "Okayama University of Science",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-11648-j-ijast-20261004-11",
+      "title": "Seasonal Variation in Milk Quality and Somatic Cell Count of Friesian Crossbred Cows in Southern Highlands, Tanzania",
+      "summary": "Seasonal variations in environmental conditions and forage availability can substantially influence milk composition and udder health, yet information from dairy production systems in the Southern Highlands of Tanzania remains limited. This study evaluated the effects of season on physicochemical milk quality parameters and somatic cell count (SCC) in Friesian crossbred cows managed under a semi-i",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.11648/j.ijast.20261004.11",
+      "sourceName": "International Journal of Animal Science and Technology",
+      "function": "Animal Health",
+      "region": "Tanzania",
+      "institution": "Taasisi ya Utafiti wa Mifugo Tanzania",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-6090-jarq-26j02",
+      "title": "Selection of Embryo Transfer Recipients Utilizing Milk Composition at Peak Lactation and During the Breeding Period: An Analysis Based on Production Records",
+      "summary": "Optimal recipient selection is crucial for embryo transfer (ET) efficiency in dairy herds, yet objective criteria remain limited. This retrospective study examined the associations of milk composition at peak lactation and during breeding period with subsequent ET pregnancy status. Data from 453 ET records from Holstein cows were analyzed using milk fat, protein, solids-non-fat, and milk urea nitr",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.6090/jarq.26j02",
+      "sourceName": "Japan Agricultural Research Quarterly JARQ",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-2009013",
+      "title": "Concentrate feed intake, metabolic response and growth in German Holstein bull calves vary depending on the composition of milk replacer and starter feed",
+      "summary": "Early-life nutrition affects growth, metabolic development, and subsequent productivity of dairy calves. This study aimed to explore whether a calf starter feed composed on basis of a mixture of the native legume pea ( Pisum sativum , 30%) and rapeseed (10%), can support performance-oriented calf rearing of conventionally reared calves, and whether the responses differ between qualities of milk re",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.2009013",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Germany",
+      "institution": "Friedrich-Loeffler-Institut",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s00580-026-03876-x",
+      "title": "Systemic granulomatous disease of unknown origin in cattle: epidemiologic investigation of a clustered outbreak",
+      "summary": "Abstract Systemic granulomatous disease in cattle is most commonly associated with hypersensitivity to ingested Vicia villosa . Cases occurring in the absence of recognized dietary causes or feed additives have rarely been reported. Here we describe an outbreak of systemic granulomatous disease of unknown cause in dairy and beef cattle in southern Brazil. Affected cattle underwent autopsy, histopa",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.1007/s00580-026-03876-x",
+      "sourceName": "Comparative Clinical Pathology",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "institution": "University of Georgia",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-77345-4",
+      "title": "Molecular evidence of Resiquimod-induced sperm sexing in bulls and its effect on semen cryosurvival",
+      "summary": "Demand for female calves in dairy herds has generated considerable interest in developing simple and cost-effective alternatives to conventional sperm sex-sorting techniques. The present study evaluated a Toll-like receptor (TLR7/8)-mediated sperm enrichment approach using Resiquimod (R848) during routine semen processing in Frieswal bulls. A total of 24 ejaculates collected from three clinically ",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-77345-4",
+      "sourceName": "Scientific Reports",
+      "function": "Dairy Processing",
+      "region": "India",
+      "institution": "Central Institute for Research on Cattle",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-6090-jarq-25j22",
+      "title": "Effects of Access to an Outdoor Yard on Hematological Values, Serum Biochemical Values and Peripheral Blood Mononuclear Cell Viability in Japanese Black Cattle",
+      "summary": "We investigated the effects of outdoor yard access in farm-reared Japanese Black breeding cattle. Sixteen cattle were randomly divided into a yard group allowed six hours of daily access to an outdoor yard but otherwise kept in an indoor barn (n = 8) and a control group kept exclusively in the indoor barn (n = 8), and were evaluated through an eight-week (week 0 to week 8) study period. As a resul",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.6090/jarq.25j22",
+      "sourceName": "Japan Agricultural Research Quarterly JARQ",
+      "function": "Breeding & Genetics",
+      "region": "Japan",
+      "institution": "Kagoshima University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1002-fbe2-70075",
+      "title": "Precision Fermentation for Next Generation Food Ingredients: Technological Foundations, Food Applications, Sustainability, and Regulatory Challenges",
+      "summary": "ABSTRACT Precision fermentation has emerged as one of the most transformative approaches in contemporary food biotechnology, enabling the targeted production of high‐value food ingredients through engineered microorganisms. Unlike traditional fermentation, which mainly relies on the metabolic activity of naturally occurring or selected microbial cultures to transform food substrates, precision fer",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.1002/fbe2.70075",
+      "sourceName": "Food Bioengineering",
+      "function": "Digital Platforms & Innovation",
+      "region": "Egypt",
+      "institution": "Cairo University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-52973-rcfcv-e3631034",
+      "title": "Comparative LC-MS profiling and antimicrobial evaluation of Kefir-derived and Lactobacillus-derived postbiotics",
+      "summary": "Kefir harbours a mixed community of lactic acid bacteria and yeasts, and the postbiotics obtained from it have attracted interest as natural functional ingredients with antimicrobial and health-promoting properties. It is not established, however, whether a postbiotic obtained directly from whole kefir grains differs from one produced by Lactobacillus strains isolated from the same grains. The obj",
+      "date": "2026-10-29",
+      "sourceUrl": "https://doi.org/10.52973/rcfcv-e3631034",
+      "sourceName": "Revista Científica de la Facultad de Ciencias Veterinarias",
+      "function": "Product Development",
+      "region": "Turkey",
+      "institution": "Sivas Cumhuriyet Üniversitesi",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "arxiv-2610.40506v1",
+      "title": "High-throughput quantification of interfacial protein load in monodisperse oil-in-water emulsions",
+      "summary": "Food proteins play a critical role as emulsifiers, where adsorption at the oil and water interface governs emulsion formation and stability. However, quantitative characterization of interfacial protein load remains challenging due to polydispersity in conventional emulsification methods. We combine microfluidic generation of monodisperse emulsions with colorimetric protein quantification to measu",
+      "date": "2026-10-29",
+      "sourceUrl": "http://arxiv.org/abs/2610.40506v1",
+      "sourceName": "arXiv",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Varun Potdar",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
         "auto-ingested"
       ]
     },
@@ -624,7 +1201,7 @@
       "date": "2026-10-29",
       "sourceUrl": "https://dairynews.today/news/konstantin-korneev-tsentralnaya-aziya-zaberet-vse-o-tom-kak-poymat-investitsionnuyu-zhar-ptitsu.html",
       "sourceName": "DairyNews.today",
-      "function": "Dairy Processing",
+      "function": "Farm Management",
       "region": "Global",
       "rdType": "Industry News",
       "tags": [
@@ -855,22 +1432,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "rss-DairyReporter-https-www-foodnavigator-com-Article-2026-10-29-the-magnum-ice-crea",
-      "title": "European summer gives the Magnum Ice Cream Company a boost in Q3",
-      "summary": "The Magnum Ice Cream Company has reported a strong Q3, boosted in part by the extended European summer. The company saw significant growth in key brands, with Magnum and Heartbrand in double-digit growth.",
-      "date": "2026-10-29",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Marketing",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyReporter",
         "auto-ingested"
       ]
     },
@@ -1110,7 +1671,7 @@
       "date": "2026-10-29",
       "sourceUrl": "https://doi.org/10.21005/asp.2026.25.2.03",
       "sourceName": "Acta Scientiarum Polonorum. Zootechnica",
-      "function": "Digital Platforms & Innovation",
+      "function": "Animal Welfare",
       "region": "Poland",
       "institution": "Warsaw University of Life Sciences",
       "rdType": "Research Paper",
@@ -1134,40 +1695,6 @@
       "tags": [
         "OpenAlex",
         "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1002-fbe2-70075",
-      "title": "Precision Fermentation for Next Generation Food Ingredients: Technological Foundations, Food Applications, Sustainability, and Regulatory Challenges",
-      "summary": "ABSTRACT Precision fermentation has emerged as one of the most transformative approaches in contemporary food biotechnology, enabling the targeted production of high‐value food ingredients through engineered microorganisms. Unlike traditional fermentation, which mainly relies on the metabolic activity of naturally occurring or selected microbial cultures to transform food substrates, precision fer",
-      "date": "2026-10-29",
-      "sourceUrl": "https://doi.org/10.1002/fbe2.70075",
-      "sourceName": "Food Bioengineering",
-      "function": "Digital Platforms & Innovation",
-      "region": "Egypt",
-      "institution": "Cairo University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2610.40506v1",
-      "title": "High-throughput quantification of interfacial protein load in monodisperse oil-in-water emulsions",
-      "summary": "Food proteins play a critical role as emulsifiers, where adsorption at the oil and water interface governs emulsion formation and stability. However, quantitative characterization of interfacial protein load remains challenging due to polydispersity in conventional emulsification methods. We combine microfluidic generation of monodisperse emulsions with colorimetric protein quantification to measu",
-      "date": "2026-10-29",
-      "sourceUrl": "http://arxiv.org/abs/2610.40506v1",
-      "sourceName": "arXiv",
-      "function": "Nutrition & Feeding",
-      "region": "Global",
-      "institution": "Varun Potdar",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
@@ -1581,7 +2108,7 @@
       "date": "2026-10-28",
       "sourceUrl": "https://doi.org/10.2478/aoas-2027-0004",
       "sourceName": "Annals of Animal Science",
-      "function": "Robotics & AI",
+      "function": "Breeding & Genetics",
       "region": "Poland",
       "institution": "Bydgoszcz University of Science and Technology",
       "company": "Lely",
@@ -1602,23 +2129,6 @@
       "function": "Nutrition & Feeding",
       "region": "Indonesia",
       "institution": "Universitas Papua",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1093-tas-txag175",
-      "title": "Effects of increasing milk replacer feeding frequency from 2 to 3 times per day on calf growth performance",
-      "summary": "Abstract Several calf studies have demonstrated growth performance advantages when feeding greater protein and/or milk solids amounts as a 3rd feeding. However, a prior experiment feeding additional milk replacer (MR) as a 3rd feeding demonstrated no growth performance improvements compared with feeding 2X/d during the first 14 d of the experiment. In addition, an aggressive weaning program (feed ",
-      "date": "2026-10-28",
-      "sourceUrl": "https://doi.org/10.1093/tas/txag175",
-      "sourceName": "Translational Animal Science",
-      "function": "Nutrition & Feeding",
-      "region": "USA",
-      "institution": "North Carolina Agricultural and Technical State University",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
@@ -2974,6 +3484,23 @@
       ]
     },
     {
+      "id": "openalex-10-1016-j-idairyj-2026-106880",
+      "title": "Influence of dairy production system on minerals, fatty acids, microRNAs, and microbiota profiles of bulk tank milk",
+      "summary": "Milk is considered an essential source of nutrients for humans that provides high quality protein, various vitamins and minerals, along with bioactive compounds such as microorganism and miRNAs. The presence of the latter in bovine milk confers functionality beyond nutrient supply. In this context, the composition of bovine milk is influenced by several factors related to the environment or to the",
+      "date": "2026-10-27",
+      "sourceUrl": "https://doi.org/10.1016/j.idairyj.2026.106880",
+      "sourceName": "International Dairy Journal",
+      "function": "Nutrition & Feeding",
+      "region": "Spain",
+      "institution": "Universidade de Santiago de Compostela",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "openalex-10-53913-aduveterinary-2016163",
       "title": "Data Quality, Quarter-Level Organism Records, and Treatment Components in Bovine Clinical Mastitis in a University Dairy Herd: A Retrospective Record-Based Study",
       "summary": "This retrospective, single-herd, record-based study assessed the availability and interpretability of quarter-level organism and treatment records from a university dairy herd. Seventeen documented mastitis episodes from 14 cows (1 August 2025–9 July 2026) included 36 quarter fields with organism entries. Escherichia coli, Streptococcus spp., coagulase-negative staphylococci, and Streptococcus ube",
@@ -4298,23 +4825,6 @@
       "tags": [
         "RSS",
         "Food Navigator",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-3389-fmicb-2026-1995937",
-      "title": "Feed additives as systems-level modulators of the ruminant host–microbiome interaction: a multi-omics perspective on efficiency, resistance, and reproduction",
-      "summary": "Ruminant livestock face converging pressures from climatic variation, antimicrobial agents, and the imperative for sustainable intensification. However, the molecular imprints through which nutritional interventions modulate host–microbiome interactions across physiological contexts remain fragmented across disciplinary themes. Here, we synthesize evidence from metagenomics, metatranscriptomics, m",
-      "date": "2026-10-26",
-      "sourceUrl": "https://doi.org/10.3389/fmicb.2026.1995937",
-      "sourceName": "Frontiers in Microbiology",
-      "function": "Nutrition & Feeding",
-      "region": "USA",
-      "institution": "New Mexico State University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -12447,7 +12957,7 @@
       "date": "2026-10-17",
       "sourceUrl": "https://doi.org/10.3390/vetsci13101107",
       "sourceName": "Europe PMC",
-      "function": "Nutrition & Feeding",
+      "function": "Animal Health",
       "region": "Saudi Arabia",
       "institution": "Department of Health Informatics",
       "rdType": "Academic Study",
