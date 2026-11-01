@@ -1,11 +1,206 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-10-31",
-    "nextRefresh": "2026-11-01",
-    "totalTracked": 17306,
+    "lastRefreshed": "2026-11-01",
+    "nextRefresh": "2026-11-02",
+    "totalTracked": 17326,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-dairy-farmer-david-valadao-seeks-re-e",
+      "title": "Dairy farmer David Valadao seeks re-election after backing Trump's impeachment in 2021",
+      "summary": "Republican David Valadao is running for a seventh House term in California’s 22nd Congressional District against Democrat Randy Villegas in the 2026 midterms. He took 40.7% of the vote in the June primary, placing ahead of Villegas and fellow Democrat Jasmeet Bains; his campaign covers agriculture, healthcare, immigration and the economy.",
+      "date": "2026-11-01",
+      "sourceUrl": "https://dairynews.today/news/dairy_farmer_david_valadao_seeks_re_election_after_backing_trump_s_impeachment_in_2021_8639514.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s40104-026-01510-y",
+      "title": "Integrating pangenome and imputation framework reveals structural variants affecting stature and milk composition traits in French dairy cattle",
+      "summary": "Abstract Background Structural variants (SVs) are most effectively identified using long-read (LR) sequencing. However, such data remain scarce, and sequenced samples often lack associated phenotypic information. To overcome this limitation, we integrated pangenome-based (variation graph-based) and imputation approaches to enable large-scale SV association studies in the three main French dairy ca",
+      "date": "2026-11-01",
+      "sourceUrl": "https://doi.org/10.1186/s40104-026-01510-y",
+      "sourceName": "Journal of Animal Science and Biotechnology/Journal of animal science and biotechnology",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1002-vms3-71282",
+      "title": "Isolation and Identification of Staphylococcus Species From Mastitic Dairy Cows and Associated Risk Factors in and Around Bahir Dar, Ethiopia.",
+      "summary": "<h4>Background</h4>Bovine mastitis remains one of the most frequent and costly diseases affecting dairy cattle, with significant impacts on health, welfare, and productivity. Staphylococcus species are among the major pathogens responsible for bovine mastitis, leading to reduced milk yield and posing a potential risk to public health. However, there has been limited research on the specific mastit",
+      "date": "2026-11-01",
+      "sourceUrl": "https://doi.org/10.1002/vms3.71282",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Ethiopia",
+      "institution": "School of Veterinary Medicine",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-1002-vms3-71265",
+      "title": "Molecular Characterisation and Antimicrobial Resistance Patterns of Listeria monocytogenes From Dairy Sources.",
+      "summary": "<h4>Introduction and aim</h4>Listeria monocytogenes (L. monocytogenes) is a major food pathogen that causes severe infections, especially in the susceptible population. Dairy products and milk are some of the possible vehicles through which it can be transmitted both as a threat to the health of people and as an economic issue. The study conducted was to explore the prevalence, virulence character",
+      "date": "2026-11-01",
+      "sourceUrl": "https://doi.org/10.1002/vms3.71265",
+      "sourceName": "Europe PMC",
+      "function": "Animal Health",
+      "region": "Global",
+      "institution": "Department of Food Hygiene",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-cargill-clean-label-seekers-rise-to-4",
+      "title": "Cargill: clean-label seekers rise to 43% for creamers, fall to 38% for ice-cream",
+      "summary": "Cargill’s research shows that close scrutiny of ingredients is becoming more common among creamer buyers but less common among ice-cream buyers. Its IngredienTracker 2026 also found that 45% of consumers actively seek particular ingredients, up six percentage points from 2022, with an 18-point increase among Generation Z.",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairynews.today/news/cargill_clean_label_seekers_rise_to_43_for_creamers_fall_to_38_for_ice_cream_2250866.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "company": "Cargill",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-student-survey-5-5-linked-food-to-cha",
+      "title": "Student survey: 5.5% linked food to changes in their dreams",
+      "summary": "A study published in Frontiers in Psychology found that 5.5% of surveyed students felt food directly affected the quality of their dreams. Among those respondents, sweets and dairy products were most often blamed for making dreams stranger and more disturbing.",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairynews.today/news/student_survey_5_5_linked_food_to_changes_in_their_dreams_1142933.html",
+      "sourceName": "DairyNews.today",
+      "function": "Robotics & AI",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-bsi-97-of-food-and-beverage-firms-ide",
+      "title": "BSI: 97% of food-and-beverage firms identified modern slavery or serious labour-rights violations",
+      "summary": "A report commissioned by the British Standards Institution (BSI) found that 97% of surveyed food-and-beverage companies had identified modern slavery or serious labour-rights violations in their supply chains during the previous 12 months. The proportion was the highest of any sector examined.",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairynews.today/news/bsi_97_of_food_and_beverage_firms_identified_modern_slavery_or_serious_labour_rights_violations_2039815.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-what-25-years-with-checkoff-has-taught-me",
+      "title": "What 25 Years with Checkoff Has Taught Me",
+      "summary": "As I retire from Dairy Management Inc., I have found myself reflecting on just how much the past 25 years have meant to me. I have had opportunities I never could have imagined when [Read More ...]",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairybusiness.com/what-25-years-with-checkoff-has-taught-me/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-dairys-big-glp-1-moment-5-risks-processor",
+      "title": "Dairy’s Big GLP-1 Moment: 5 Risks Processors Need to Know",
+      "summary": "The dairy industry is uniquely positioned to capitalize on one of the biggest shifts happening in food and beverage right now. As more consumers turn to GLP-1 weight-loss drugs, demand for high-protein, gut-friendly products is [Read More ...]",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairybusiness.com/dairys-big-glp-1-moment-5-risks-processors-need-to-know/",
+      "sourceName": "Dairy Business",
+      "function": "Nutrition & Feeding",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-summer-is-over-use-this-fall-to-evaluate-",
+      "title": "Summer Is Over: Use This Fall to Evaluate Summer Heat Stress",
+      "summary": "October brings something Texas dairy producers and cows alike have been waiting for: cooler temperatures. After months of managing heat, it can be tempting to turn off the soakers, enjoy the cooler mornings and put [Read More ...]",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairybusiness.com/summer-is-over-use-this-fall-to-evaluate-summer-heat-stress/",
+      "sourceName": "Dairy Business",
+      "function": "Animal Welfare",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-virus-that-sickens-cows-kills-deer-still-",
+      "title": "Virus that sickens cows, kills deer, still rare in NYS – for now",
+      "summary": "An insect-driven disease that causes high mortality in white-tailed deer, and mimics the symptoms of foot and mouth disease in cattle, is still rare in New York state, but the warming climate may increase [Read More ...]",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairybusiness.com/virus-that-sickens-cows-kills-deer-still-rare-in-nys-for-now/",
+      "sourceName": "Dairy Business",
+      "function": "Animal Health",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-meagan-hempfling-featured-in-portraits-of",
+      "title": "Meagan Hempfling featured in Portraits of Modern Dairy",
+      "summary": "Meagan is a sixth-generation dairy farmer in Van Wert County, Ohio. Together with her dad and brother, they use robotic milkers and other technology to care for their 250 Holstein cows. Meagan also partners [Read More ...]",
+      "date": "2026-10-31",
+      "sourceUrl": "https://dairybusiness.com/meagan-hempfling-featured-in-portraits-of-modern-dairy/",
+      "sourceName": "Dairy Business",
+      "function": "Robotics & AI",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-castilla-y-le-n-farmers-say-milk-prod",
       "title": "Castilla y León farmers say milk production costs have exceeded 50 cents per kilogram",
@@ -36,6 +231,174 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-arla-opens-investigation-after-expert",
+      "title": "Arla opens investigation after experts identify 360 potential welfare breaches at supplying farms",
+      "summary": "Arla Foods launched an urgent investigation after receiving footage from a year-long undercover inquiry into 15 British farms supplying the cooperative. Independent experts reviewing the material identified 360 potential breaches of animal-welfare law and said similar problems occurred at multiple farms.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/arla_opens_investigation_after_experts_identify_360_potential_welfare_breaches_at_supplying_farms_1394945.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Welfare",
+      "region": "Global",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-shivakumar-karnataka-milk-federation-",
+      "title": "Shivakumar: Karnataka Milk Federation decided curd price increase",
+      "summary": "DK Shivakumar attributed the curd price increase to Karnataka Milk Federation (KMF), distancing the Karnataka government from the decision. He said the government had intervened only on milk prices and that KMF adjusted other rates according to fat content.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://dairynews.today/news/shivakumar_karnataka_milk_federation_decided_curd_price_increase_7154343.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fvets-2026-2004069",
+      "title": "Association between mineral-vitamin bolus supplementation during the breeding period and reproductive outcomes in dairy cows",
+      "summary": "The period between calving and first artificial insemination (AI) is characterised by major metabolic adaptations that may influence subsequent reproductive performance in dairy cows. In this retrospective matched cohort study, we examined the association between mineral-vitamin bolus supplementation during the early breeding period and reproductive performance and blood biochemical parameters und",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.3389/fvets.2026.2004069",
+      "sourceName": "Frontiers in Veterinary Science",
+      "function": "Animal Health",
+      "region": "Lithuania",
+      "institution": "Lithuanian University of Health Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-56093-ijvasr-v55i6-185427",
+      "title": "THE IMPACTS OF FLY MENACE ON LIVESTOCK PRODUCTION IN A CHANGING CLIMATE: A REVIEW",
+      "summary": "Livestock Production in India has been showing a steady and strong growth in recent years; milk production has reached a record high of 247.87 million tonnes in 2025 and total meat production rising to 10.50 million tonnes. However, fly menace has become one of the major constraints for the profitable livestock farming in the face of global warming, particularly in tropical countries like India. T",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.56093/ijvasr.v55i6.185427",
+      "sourceName": "Indian journal of veterinary and animal sciences research.",
+      "function": "Animal Health",
+      "region": "India",
+      "institution": "Tamil Nadu Veterinary and Animal Sciences University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1080-01652176-2026-2747449",
+      "title": "Heat stress enhances Klebsiella pneumoniae -induced cellular injury and impairs milk fat synthesis in bovine mammary epithelial cells",
+      "summary": "Heat stress (HS) poses a significant threat to dairy production by reducing milk yield and elevating the incidence of mastitis. Concurrently, mastitis caused by Klebsiella pneumoniae (K. pneumoniae) occurs more frequently during the summer months, further exacerbating udder health challenges. Our study demonstrates that combined HS and K. pneumoniae exposure significantly exacerbates cellular dama",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1080/01652176.2026.2747449",
+      "sourceName": "Veterinary Quarterly",
+      "function": "Animal Health",
+      "region": "China",
+      "institution": "Yangzhou University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-fanim-2026-1972520",
+      "title": "Future-ready livestock systems: climate resilience, animal welfare and sustainable adaptation",
+      "summary": "Climate change is increasingly challenging the sustainability, productivity, and welfare of livestock systems worldwide. Rising temperatures, prolonged droughts, water scarcity, changing precipitation patterns, and emerging disease risks directly affect animal health, welfare, feed availability, reproductive performance, and farm profitability. These pressures are particularly pronounced in climat",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.3389/fanim.2026.1972520",
+      "sourceName": "Frontiers in Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Turkey",
+      "institution": "Cukurova University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-62643-ijerst-2026-v22-n4-s-4802",
+      "title": "RISING DEMAND FOR ANIMAL PRODUCTS AND FEED IN INDIA: PROSPECTS FOR PRODUCTION, TRADE, AND TECHNOLOGICAL ADVANCEMENT",
+      "summary": "India's livestock sector plays a major role in food security, rural livelihoods, agricultural diversification, and the supply of nutritious animal-source foods. Population growth, rising household incomes, urbanization, changing consumption preferences, and the expansion of food-processing industries are expected to increase demand for milk, meat, eggs, and other animal products over the coming de",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.62643/ijerst.2026.v22.n4(s).4802",
+      "sourceName": "International Journal of Engineering Research and Science & Technology",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12866-026-05752-8",
+      "title": "Early-life forage modulation is associated with ruminal microbiota and metabolic profiles in yak calves",
+      "summary": "Early-life dietary intervention plays an important role in rumen development and is associated with changes in ruminal microbial communities and metabolic profiles in young ruminants. However, the relationships among forage composition, ruminal microbial characteristics, and metabolic profiles during early yak development remain poorly understood. This study investigated the effects of replacing a",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1186/s12866-026-05752-8",
+      "sourceName": "BMC Microbiology",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Qinghai University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41598-026-78209-7",
+      "title": "Nutritional values, phytochemical profiles and enteric methane mitigation potential of West African indigenous forage species for sustainable ruminant livestock production systems",
+      "summary": "Manipulating feed rations with forages containing specific natural phytochemicals that reduce enteric methane emissions is a sustainable strategy for cattle farming. This study aimed to select forages based on their secondary metabolites, nutritional value and methane production. A total of fifteen forage species identified by cattle farmers were studied. Phytochemical parameters were measured in ",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1038/s41598-026-78209-7",
+      "sourceName": "Scientific Reports",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Université d'Agriculture de Kétou",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1186-s12711-026-01098-x",
+      "title": "Genotype by environment interaction under two production systems utilizing a random regression model for milk production traits in multiparous South African Holstein dairy cattle",
+      "summary": "BACKGROUND: Dairy cattle in South Africa (SA) have to produce in varying environments which can roughly be separated as total mixed ration (TMR) and pasture (PAST) production systems according to the level of rainfall in the herd area. Previous studies aimed to determine a possible genotype × environment interaction (GxE) using 305-day lactation records, finding no interaction, but different herit",
+      "date": "2026-10-30",
+      "sourceUrl": "https://doi.org/10.1186/s12711-026-01098-x",
+      "sourceName": "Genetics Selection Evolution",
+      "function": "Nutrition & Feeding",
+      "region": "France",
+      "institution": "AgroParisTech",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -339,7 +702,7 @@
       "date": "2026-10-30",
       "sourceUrl": "https://doi.org/10.1016/j.repbio.2026.101295",
       "sourceName": "Europe PMC",
-      "function": "Breeding & Genetics",
+      "function": "Animal Welfare",
       "region": "India",
       "institution": "Livestock Research Station",
       "rdType": "Academic Study",
@@ -558,6 +921,39 @@
       ]
     },
     {
+      "id": "rss-DairyReporter-https-www-foodnavigator-com-Article-2026-10-29-the-magnum-ice-crea",
+      "title": "European summer gives the Magnum Ice Cream Company a boost in Q3",
+      "summary": "The Magnum Ice Cream Company has reported a strong Q3, boosted in part by the extended European summer. The company saw significant growth in key brands, with Magnum and Heartbrand in double-digit growth.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "sourceName": "DairyReporter",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "arxiv-2610.40506v1",
+      "title": "High-throughput quantification of interfacial protein load in monodisperse oil-in-water emulsions",
+      "summary": "Food proteins play a critical role as emulsifiers, where adsorption at the oil and water interface governs emulsion formation and stability. However, quantitative characterization of interfacial protein load remains challenging due to polydispersity in conventional emulsification methods. We combine microfluidic generation of monodisperse emulsions with colorimetric protein quantification to measu",
+      "date": "2026-10-29",
+      "sourceUrl": "http://arxiv.org/abs/2610.40506v1",
+      "sourceName": "arXiv",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "institution": "Varun Potdar",
+      "rdType": "Research Paper",
+      "tags": [
+        "arXiv",
+        "preprint",
+        "auto-ingested"
+      ]
+    },
+    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-dykelands-last-in-milk-animal-wins-ch",
       "title": "Dykelands’ last in-milk animal wins championship and sells for £3,300",
       "summary": "Janet and Percy Bolland’s final in-milk animal took the championship and the highest price, £3,300, at the late-October Craven Dairy Auction at CCM Skipton. The sale concluded more than two years of selling freshly calved cattle from their Dykelands farm at Airton.",
@@ -586,39 +982,6 @@
       "tags": [
         "RSS",
         "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "rss-DairyReporter-https-www-foodnavigator-com-Article-2026-10-29-the-magnum-ice-crea",
-      "title": "European summer gives the Magnum Ice Cream Company a boost in Q3",
-      "summary": "The Magnum Ice Cream Company has reported a strong Q3, boosted in part by the extended European summer. The company saw significant growth in key brands, with Magnum and Heartbrand in double-digit growth.",
-      "date": "2026-10-29",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "sourceName": "DairyReporter",
-      "function": "Marketing",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyReporter",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1111-eea-70211",
-      "title": "A Wasp's Sweet Tooth: Foraging Responses to Honeydew in Two Sympatric Invasive Yellowjackets",
-      "summary": "ABSTRACT Carbohydrate‐rich resources can influence the foraging ecology of invasive social wasps and may affect their population dynamics, particularly in environments where floral resources are seasonal or unpredictable. Aphid honeydew may provide a temporally stable and abundant carbohydrate resource, but its use by invasive Vespula species remains poorly understood. In this study, we evaluated ",
-      "date": "2026-10-29",
-      "sourceUrl": "https://doi.org/10.1111/eea.70211",
-      "sourceName": "Entomologia Experimentalis et Applicata",
-      "function": "Nutrition & Feeding",
-      "region": "Argentina",
-      "institution": "Consejo Nacional de Investigaciones Científicas y Técnicas",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -663,7 +1026,7 @@
       "date": "2026-10-29",
       "sourceUrl": "https://doi.org/10.6090/jarq.26j02",
       "sourceName": "Japan Agricultural Research Quarterly JARQ",
-      "function": "Nutrition & Feeding",
+      "function": "Breeding & Genetics",
       "region": "Global",
       "rdType": "Research Paper",
       "tags": [
@@ -713,7 +1076,7 @@
       "date": "2026-10-29",
       "sourceUrl": "https://doi.org/10.1038/s41598-026-77345-4",
       "sourceName": "Scientific Reports",
-      "function": "Dairy Processing",
+      "function": "Breeding & Genetics",
       "region": "India",
       "institution": "Central Institute for Research on Cattle",
       "rdType": "Research Paper",
@@ -741,53 +1104,19 @@
       ]
     },
     {
-      "id": "openalex-10-1002-fbe2-70075",
-      "title": "Precision Fermentation for Next Generation Food Ingredients: Technological Foundations, Food Applications, Sustainability, and Regulatory Challenges",
-      "summary": "ABSTRACT Precision fermentation has emerged as one of the most transformative approaches in contemporary food biotechnology, enabling the targeted production of high‐value food ingredients through engineered microorganisms. Unlike traditional fermentation, which mainly relies on the metabolic activity of naturally occurring or selected microbial cultures to transform food substrates, precision fer",
-      "date": "2026-10-29",
-      "sourceUrl": "https://doi.org/10.1002/fbe2.70075",
-      "sourceName": "Food Bioengineering",
-      "function": "Digital Platforms & Innovation",
-      "region": "Egypt",
-      "institution": "Cairo University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-52973-rcfcv-e3631034",
       "title": "Comparative LC-MS profiling and antimicrobial evaluation of Kefir-derived and Lactobacillus-derived postbiotics",
       "summary": "Kefir harbours a mixed community of lactic acid bacteria and yeasts, and the postbiotics obtained from it have attracted interest as natural functional ingredients with antimicrobial and health-promoting properties. It is not established, however, whether a postbiotic obtained directly from whole kefir grains differs from one produced by Lactobacillus strains isolated from the same grains. The obj",
       "date": "2026-10-29",
       "sourceUrl": "https://doi.org/10.52973/rcfcv-e3631034",
       "sourceName": "Revista Científica de la Facultad de Ciencias Veterinarias",
-      "function": "Product Development",
+      "function": "Animal Health",
       "region": "Turkey",
       "institution": "Sivas Cumhuriyet Üniversitesi",
       "rdType": "Research Paper",
       "tags": [
         "OpenAlex",
         "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "arxiv-2610.40506v1",
-      "title": "High-throughput quantification of interfacial protein load in monodisperse oil-in-water emulsions",
-      "summary": "Food proteins play a critical role as emulsifiers, where adsorption at the oil and water interface governs emulsion formation and stability. However, quantitative characterization of interfacial protein load remains challenging due to polydispersity in conventional emulsification methods. We combine microfluidic generation of monodisperse emulsions with colorimetric protein quantification to measu",
-      "date": "2026-10-29",
-      "sourceUrl": "http://arxiv.org/abs/2610.40506v1",
-      "sourceName": "arXiv",
-      "function": "Nutrition & Feeding",
-      "region": "Global",
-      "institution": "Varun Potdar",
-      "rdType": "Research Paper",
-      "tags": [
-        "arXiv",
-        "preprint",
         "auto-ingested"
       ]
     },
