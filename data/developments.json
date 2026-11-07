@@ -1,11 +1,349 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-11-06",
-    "nextRefresh": "2026-11-07",
-    "totalTracked": 17705,
+    "lastRefreshed": "2026-11-07",
+    "nextRefresh": "2026-11-08",
+    "totalTracked": 17729,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-circularity-fuels-raises-7-million-to",
+      "title": "Circularity Fuels raises $7 million to turn dairy biogas into aviation fuel",
+      "summary": "US renewable-fuels developer Circularity Fuels has secured $7 million in seed financing for technology that converts biogas from dairy manure into sustainable aviation fuel. Trucks Venture Capital and DCVC led the round, joined by Sum Ventures and Automotive Ventures.",
+      "date": "2026-11-07",
+      "sourceUrl": "https://dairynews.today/news/circularity_fuels_raises_7_million_to_turn_dairy_biogas_into_aviation_fuel_1340471.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-risk-management-know-your-options-free-we",
+      "title": "Risk Management: Know Your Options Free Webinar Next Week",
+      "summary": "Most dairy producers have felt the margin squeeze on the farm over the past few years. Join us on Friday, November 13 at 12 p.m. EST, for this month’s “Protecting Your Profits” webinar titled “Risk [Read More ...]",
+      "date": "2026-11-07",
+      "sourceUrl": "https://dairybusiness.com/risk-management-know-your-options-free-webinar-next-week/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-espa-a-eleva-al-10-la-reducci-n-fisca",
+      "title": "Spain raises tax reduction to 10% for farmers under flat-rate assessment",
+      "summary": "Spain's Finance Ministry has published an order introducing exceptional relief for the agricultural sector for the 2026 tax year and setting out flat-rate taxation rules for 2027. The Ministry of Agriculture, Fisheries and Food estimates that the measures will reduce the personal income tax base by around €860 million and benefit 800,000 crop and livestock farmers.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/espa_a_eleva_al_10_la_reducci_n_fiscal_para_agricultores_y_ganaderos_por_m_dulos_8834962.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Spain",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-las-ayudas-agrarias-por-incendios-sup",
+      "title": "Agricultural wildfire aid in Spain exceeds €2.2 million for 418 beneficiaries",
+      "summary": "Direct grants of €5,500 for agricultural professionals affected by the summer 2026 wildfires have reached 418 people in Castile and León, with disbursements exceeding €2.2 million. The León Agricultural Council reviewed recovery measures at its meeting on Thursday in Villaquejida.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/las_ayudas_agrarias_por_incendios_superan_2_2_millones_de_euros_para_418_beneficiarios_2445815.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Spain",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-madhusudan-backs-diwali-dairy-checks-",
+      "title": "Madhusudan backs Diwali dairy checks and pledges to share gains with farmers",
+      "summary": "Sandeep Aggarwal of Madhusudan welcomed India's festive-season dairy enforcement drive and said the company would pass part of the season's gains to farmers. In an interview with DairyNews7x7 before Diwali, he urged processors to avoid using the crackdown to increase prices.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/madhusudan_backs_diwali_dairy_checks_and_pledges_to_share_gains_with_farmers_1013424.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-cattle-farmers-use-stomach-magnets-to",
+      "title": "Cattle farmers use stomach magnets to trap swallowed metal",
+      "summary": "Farmers facing the risk of hardware disease give cattle magnets to retain swallowed metal fragments inside the stomach. Some administer them across their herds as a preventive measure.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/cattle_farmers_use_stomach_magnets_to_trap_swallowed_metal_4805068.html",
+      "sourceName": "DairyNews.today",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-efpra-urges-eu-feed-rule-changes-to-u",
+      "title": "EFPRA urges EU feed-rule changes to unlock 1.2 million tonnes of protein",
+      "summary": "The European Fat Processors and Renderers Association (EFPRA) has asked EU regulators to permit broader use of processed animal proteins, particularly in aquaculture feeds. The association estimates that allowing proteins from ruminants under controlled conditions could make an additional 1.2 million tonnes available each year.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/efpra_urges_eu_feed_rule_changes_to_unlock_1_2_million_tonnes_of_protein_7006303.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nigeria-s-livestock-minister-calls-fo",
+      "title": "Nigeria’s livestock minister calls for investment in domestic dairy production",
+      "summary": "Nigeria’s livestock development minister, Alhaji Idi Maiha, called for sustained investment and cooperation to expand local dairy production, support farmers’ incomes and create employment. He made the appeal at the 2026 Arla-Dano Damau Open Day, organised by Arla Foods Nigeria.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/nigeria_s_livestock_minister_calls_for_investment_in_domestic_dairy_production_7989065.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Nigeria",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-two-robotic-milkers-replace-ageing-pa",
+      "title": "Two robotic milkers replace ageing parlour and lift yields at Shropshire dairy",
+      "summary": "Walkmills Farm has replaced its ageing milking parlour with two robotic units, increasing milk yields. The change followed sisters Lucy and Katy Mason’s return to their family’s dairy farm in 2023.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/two_robotic_milkers_replace_ageing_parlour_and_lift_yields_at_shropshire_dairy_9242083.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-doodhvale-farms-ceo-traceability-will",
+      "title": "Doodhvale Farms CEO: traceability will differentiate India’s dairy brands",
+      "summary": "The co-founder and chief executive of Doodhvale Farms argues that verifiable milk origins will distinguish dairy companies in India over the next decade. In an article published on November 7, 2026, the executive described the company’s use of separate farms, repeated testing and customer access to records.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/doodhvale_farms_ceo_traceability_will_differentiate_india_s_dairy_brands_5693374.html",
+      "sourceName": "DairyNews.today",
+      "function": "Sustainability & Traceability",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-rob-higgins-wins-dairy-farming-cup-fo",
+      "title": "Rob Higgins wins dairy farming cup for fourth time in five years",
+      "summary": "Rob Higgins of Bentley Ford Farm, near Shrewsbury, won the Bill Higgins Cup at Shrewsbury Auction Centre’s October dairy show and sale. It was his fourth victory in five years, and his winning cow sold for £3,280.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/rob_higgins_wins_dairy_farming_cup_for_fourth_time_in_five_years_6274318.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-sabanero-dairy-and-wild-churn-gelato-",
+      "title": "Sabanero Dairy and Wild Churn Gelato win at Ireland’s national dairy awards",
+      "summary": "Galway producers Sabanero Dairy and Wild Churn Gelato won artisan categories at the 2026 FBD National Dairy Awards. Sabanero’s Stracciatella received the Best Artisan Dairy Cheese award, while Wild Churn took the Best Artisan Non-Cheese Product title.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/sabanero_dairy_and_wild_churn_gelato_win_at_ireland_s_national_dairy_awards_2113495.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-switzerland-s-gruy-re-d-alpage-aop-is",
+      "title": "Switzerland’s Gruyère d’Alpage AOP is made only in summer",
+      "summary": "Gruyère d’Alpage AOP is produced during the summer grazing season using raw milk from cows feeding on Alpine vegetation. At Hauta Chia, a chalet roughly 1,450 metres above sea level in Charmey, cheesemaker Laurent Gachet turns milk from about 20 cows into Gruyère and Vacherin Fribourgeois, producing around five tonnes of cheese annually.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/switzerland_s_gruy_re_d_alpage_aop_is_made_only_in_summer_6264596.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Switzerland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-garden-spray-recipe-specifies-10-whey",
+      "title": "Garden-spray recipe specifies 10% whey and 90% chlorine-free water",
+      "summary": "A gardening article published by eDairyNews, drawing on UAI Notícias, recommends diluted whey for treating white fungal growth on plants. It prescribes a mixture of 10% whey and 90% chlorine-free water, applied in the early morning.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/garden_spray_recipe_specifies_10_whey_and_90_chlorine_free_water_9669865.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-us-milk-output-rises-2-6-as-european-",
+      "title": "US milk output rises 2.6% as European and New Zealand growth slows",
+      "summary": "September milk figures show production growth weakening more quickly in Europe and New Zealand than in the United States. A November 5 analysis from Hoard's Dairyman Intel expects American supply growth to remain above average into 2027, while identifying weather-related uncertainty for New Zealand.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/us_milk_output_rises_2_6_as_european_and_new_zealand_growth_slows_4976289.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-dfas-henderson-earns-dairy-girl-networks-",
+      "title": "DFA’s Henderson earns Dairy Girl Network’s Forward Under 40​",
+      "summary": "There was a lot to celebrate at Dairy Girl Network’s Forward TogetHER National Conference last week, including DFA farmer-owner Courtney Henderson being named one of the organization’s Forward Under 40 award recipients. The biennial [Read More ...]",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairybusiness.com/dfas-henderson-earns-dairy-girl-networks-forward-under-40/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-dairy-science-club-launches-holiday-chees",
+      "title": "Dairy Science Club launches holiday cheesebox sale supporting educational opportunities for students",
+      "summary": "The Penn State Dairy Science Club is kicking off its holiday cheesebox fundraiser, an annual partnership between the club and the Penn State Berkey Creamery dating back to 1978. The Dairy Science Club, which [Read More ...]",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairybusiness.com/dairy-science-club-launches-holiday-cheesebox-sale-supporting-educational-opportunities-for-students/",
+      "sourceName": "Dairy Business",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-build-dairy-management-skills-for-stronge",
+      "title": "Build Dairy Management Skills for Stronger Communication, Teams",
+      "summary": "Two-day Dairy Managers Institute set for Dec. 15-16 in Green Bay. Strong dairy businesses are built on strong teams, and strong teams depend on effective leadership and communication. As dairy operations grow and evolve, managers [Read More ...]",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairybusiness.com/build-dairy-management-skills-for-stronger-communication-teams/",
+      "sourceName": "Dairy Business",
+      "function": "Robotics & AI",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-good-culture-adds-dedicated-production-li",
+      "title": "Good Culture Adds Dedicated Production Line with Associated Milk Producers Inc.",
+      "summary": "Expands Capacity Dedicated Blair, Wisconsin, facility strengthens Good Culture’s supply chain and supports future innovation. Good Culture, the clean-label cultured dairy brand credited for revolutionizing cottage cheese, today announced its partnership with Associated Milk Producers [Read More ...]",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairybusiness.com/good-culture-adds-dedicated-production-line-with-associated-milk-producers-inc/",
+      "sourceName": "Dairy Business",
+      "function": "Dairy Processing",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-news-general-mills-haagen-dazs-options-",
+      "title": "General Mills ‘mulling future of Häagen-Dazs’",
+      "summary": "General Mills is reportedly considering separating its Häagen-Dazs ice-cream business outside North America, a move that could lead to a sale. The post General Mills ‘mulling future of Häagen-Dazs’ appeared first on Just Food .",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.just-food.com/news/general-mills-haagen-dazs-options/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3390-ijms27219940",
+      "title": "Paper-Mulberry-Silage-Enhanced Lipid Metabolism and Milk Polyunsaturated Fatty Acid Concentration in Dairy Cows: A Multi-Omics Study",
+      "summary": "Developing alternative forages that modify milk fatty acid composition is important for improving milk nutritional quality and diversifying feed resources in dairy production. Previous studies have demonstrated the potential of paper mulberry (PM, Broussonetia papyrifera) silage to partially replace conventional roughages and influence antioxidant status and milk fatty acid composition. However, i",
+      "date": "2026-11-06",
+      "sourceUrl": "https://doi.org/10.3390/ijms27219940",
+      "sourceName": "International Journal of Molecular Sciences",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Henan University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-adecoagro-seeks-sancor-production-dea",
       "title": "Adecoagro seeks SanCor production deal for up to 900 tonnes a month",
@@ -266,22 +604,6 @@
       ]
     },
     {
-      "id": "rss-Just-Food-https-www-just-food-com-news-general-mills-haagen-dazs-options-",
-      "title": "General Mills ‘mulling future of Häagen-Dazs’",
-      "summary": "General Mills is reportedly considering separating its Häagen-Dazs ice-cream business outside North America, a move that could lead to a sale. The post General Mills ‘mulling future of Häagen-Dazs’ appeared first on Just Food .",
-      "date": "2026-11-06",
-      "sourceUrl": "https://www.just-food.com/news/general-mills-haagen-dazs-options/",
-      "sourceName": "Just Food",
-      "function": "Digital Platforms & Innovation",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Just Food",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-study-replacing-dairy-with-plant-base",
       "title": "Study: replacing dairy with plant-based alternatives could lower nutrient intake",
       "summary": "Replacing dairy foods with plant-based substitutes could lower nutrient intake, according to a modelling study. Children, teenagers and women appeared to be the groups most affected.",
@@ -375,6 +697,72 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-uk-and-eu-agree-draft-deal-to-remove-",
+      "title": "UK and EU agree draft deal to remove food-export checks",
+      "summary": "The UK and EU have agreed a draft sanitary and phytosanitary (SPS) agreement ahead of their summit later this month, the BBC reported. Wyke Farms, a British cheese producer, said simpler access to European markets could lower export costs and support investment.",
+      "date": "2026-11-05",
+      "sourceUrl": "https://dairynews.today/news/uk_and_eu_agree_draft_deal_to_remove_food_export_checks_3354663.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-34188-bjaerv9n4-180",
+      "title": "Impacto do manejo sanitário no perfil qualitativo do leite e na eficiência produtiva: aspectos produtivos e qualitativos",
+      "summary": "A mastite subclínica é uma das principais enfermidades que acometem vacas leiteiras, causando prejuízos à qualidade do leite, à produtividade e à rentabilidade da atividade leiteira. Este estudo teve como objetivo avaliar a influência do manejo sanitário sobre a ocorrência de mastite subclínica e a qualidade do leite em uma propriedade rural localizada no município de Timon, Maranhão. Foram avalia",
+      "date": "2026-11-05",
+      "sourceUrl": "https://doi.org/10.34188/bjaerv9n4-180",
+      "sourceName": "Brazilian Journal of Animal and Environmental Research",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1017-s0022029926102696",
+      "title": "Interactions between nutritional interventions and dual mitigation of methane and ammonia emissions in dairy cows: a Bayesian meta-analysis",
+      "summary": "Livestock agriculture is a major contributor to both climate change and air pollution, through emissions of methane and ammonia. Despite their shared origins, mitigation policies for greenhouse gases and air pollutants are usually developed independently, creating a risk that interventions targeting one emission may have an unintended impact (cross-effect) on the others. Here, we present a meta-an",
+      "date": "2026-11-05",
+      "sourceUrl": "https://doi.org/10.1017/s0022029926102696",
+      "sourceName": "Journal of Dairy Research",
+      "function": "Nutrition & Feeding",
+      "region": "UK",
+      "institution": "Biomathematics and Statistics Scotland",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3390-ani16213496",
+      "title": "Beef-on-Dairy Crossbreeding: A Multidimensional Analysis and Gaps for Pasture-Based Production Systems",
+      "summary": "Beef-on-dairy (BoD) crossbreeding, defined as the planned use of beef sires on dairy dams, has expanded as a strategy to increase the value of dairy-origin calves while maintaining herd replacement requirements. This review critically synthesizes research published since 2016 across six interconnected dimensions: genetics and genomics, management and productive efficiency, carcass performance and ",
+      "date": "2026-11-05",
+      "sourceUrl": "https://doi.org/10.3390/ani16213496",
+      "sourceName": "Animals",
+      "function": "Breeding & Genetics",
+      "region": "Chile",
+      "institution": "Austral University of Chile",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -1362,7 +1750,7 @@
       "date": "2026-11-05",
       "sourceUrl": "https://doi.org/10.3389/fnut.2026.1959512",
       "sourceName": "Frontiers in Nutrition",
-      "function": "Product Development",
+      "function": "Digital Platforms & Innovation",
       "region": "Saudi Arabia",
       "institution": "King Abdulaziz University",
       "rdType": "Research Paper",
@@ -2951,7 +3339,7 @@
       "date": "2026-11-03",
       "sourceUrl": "https://doi.org/10.1016/j.afres.2026.102801",
       "sourceName": "Applied Food Research",
-      "function": "Animal Health",
+      "function": "Nutrition & Feeding",
       "region": "UK",
       "institution": "Queen's University Belfast",
       "rdType": "Research Paper",
@@ -15074,7 +15462,7 @@
       "date": "2026-10-21",
       "sourceUrl": "https://doi.org/10.1080/1828051x.2026.2715235",
       "sourceName": "Italian Journal of Animal Science",
-      "function": "Animal Health",
+      "function": "Quality & Food Safety",
       "region": "Italy",
       "institution": "University of Naples Federico II",
       "rdType": "Research Paper",
