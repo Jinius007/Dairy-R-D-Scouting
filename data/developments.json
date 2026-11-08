@@ -1,11 +1,27 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-11-07",
-    "nextRefresh": "2026-11-08",
-    "totalTracked": 17729,
+    "lastRefreshed": "2026-11-08",
+    "nextRefresh": "2026-11-09",
+    "totalTracked": 17735,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-spanish-dairy-processors-propose-eigh",
+      "title": "Spanish dairy processors propose eight measures to reduce import dependence",
+      "summary": "On November 4 in Madrid, Spain's National Federation of Dairy Industries (FeNIL) presented its report \"X-ray of the Dairy Industry: a nutritional, territorial and economic engine\". In it, the federation assesses the sector's contribution to the Spanish economy and proposes eight measures to strengthen domestic production and food self-sufficiency. \"Strengthening the dairy industry means strengthen",
+      "date": "2026-11-08",
+      "sourceUrl": "https://dairynews.today/news/spanish-dairy-processors-propose-eight-measures-to-reduce-import-dependence.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Spain",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-circularity-fuels-raises-7-million-to",
       "title": "Circularity Fuels raises $7 million to turn dairy biogas into aviation fuel",
@@ -35,6 +51,89 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-bethany-nutt-combines-dairy-farming-s",
+      "title": "Bethany Nutt combines dairy farming, sheep rearing and agricultural studies",
+      "summary": "Bethany Nutt works on her family’s dairy farm in Mosside, County Antrim, while studying A-level agriculture and tending her own sheep. In a profile of her farming life, she describes her upbringing in the industry and her hopes for greater inclusion and more career opportunities for women in Northern Ireland.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://dairynews.today/news/bethany_nutt_combines_dairy_farming_sheep_rearing_and_agricultural_studies_6657443.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Ireland",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-news-general-mills-haagen-dazs-options-",
+      "title": "General Mills ‘mulling future of Häagen-Dazs’",
+      "summary": "General Mills is reportedly considering separating its Häagen-Dazs ice-cream business outside North America, a move that could lead to a sale. The post General Mills ‘mulling future of Häagen-Dazs’ appeared first on Just Food .",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.just-food.com/news/general-mills-haagen-dazs-options/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-compag-2026-112520",
+      "title": "Machine learning-based core body temperature estimation and thermal coupling correction from subcutaneous implants in dairy calves",
+      "summary": "Continuous biothermal monitoring is valuable for evaluating dairy calf health, but conventional methods are usually labor-intensive or invasive. This study evaluated a minimally invasive subcutaneous implant (SCI) system and assessed a LightGBM regression model to mitigate peripheral environmental thermal coupling. In a two-farm trial (n = 720 calves), SCIs were deployed under three presurgical sk",
+      "date": "2026-11-06",
+      "sourceUrl": "https://doi.org/10.1016/j.compag.2026.112520",
+      "sourceName": "Computers and Electronics in Agriculture",
+      "function": "Digital Platforms & Innovation",
+      "region": "Estonia",
+      "institution": "Estonian University of Life Sciences",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1038-s41467-026-78994-9",
+      "title": "Microbiome-derived proline dipeptides underpin improved nitrogen utilization efficiency in dairy cattle",
+      "summary": "Dairy production is constrained by low nitrogen utilization efficiency (NUE; milk N/intake N), leading to nitrogen losses and environmental pollution. Although the rumen microbiome is central to nitrogen turnover, the role of small peptides, a critical nitrogen pool, remains poorly understood. Here, we constructed a genome-resolved atlas of predicted small-peptide metabolism and integrated high-pe",
+      "date": "2026-11-06",
+      "sourceUrl": "https://doi.org/10.1038/s41467-026-78994-9",
+      "sourceName": "Nature Communications",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "Zhejiang University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s10705-026-10530-z",
+      "title": "High-frequency monitoring and model-assisted analysis of N2O emission pulses after cattle slurry application under contrasting soil management systems",
+      "summary": "Nitrous oxide (N 2 O) emissions from fertilised agricultural soils are often dominated by short-lived emission pulses, but their regulation under contrasting tillage systems remains uncertain. This study combined high-frequency automated chamber measurements, process-based estimates of mineral nitrogen availability and Random Forest analysis to investigate N 2 O emission dynamics after cattle slur",
+      "date": "2026-11-06",
+      "sourceUrl": "https://doi.org/10.1007/s10705-026-10530-z",
+      "sourceName": "Nutrient Cycling in Agroecosystems",
+      "function": "Sustainability & Traceability",
+      "region": "Italy",
+      "institution": "University of Milan",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -308,22 +407,6 @@
       "tags": [
         "RSS",
         "Dairy Business",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "rss-Just-Food-https-www-just-food-com-news-general-mills-haagen-dazs-options-",
-      "title": "General Mills ‘mulling future of Häagen-Dazs’",
-      "summary": "General Mills is reportedly considering separating its Häagen-Dazs ice-cream business outside North America, a move that could lead to a sale. The post General Mills ‘mulling future of Häagen-Dazs’ appeared first on Just Food .",
-      "date": "2026-11-06",
-      "sourceUrl": "https://www.just-food.com/news/general-mills-haagen-dazs-options/",
-      "sourceName": "Just Food",
-      "function": "Digital Platforms & Innovation",
-      "region": "Global",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Just Food",
         "auto-ingested"
       ]
     },
@@ -701,22 +784,6 @@
       ]
     },
     {
-      "id": "rss-DairyNews-today-https-dairynews-today-news-uk-and-eu-agree-draft-deal-to-remove-",
-      "title": "UK and EU agree draft deal to remove food-export checks",
-      "summary": "The UK and EU have agreed a draft sanitary and phytosanitary (SPS) agreement ahead of their summit later this month, the BBC reported. Wyke Farms, a British cheese producer, said simpler access to European markets could lower export costs and support investment.",
-      "date": "2026-11-05",
-      "sourceUrl": "https://dairynews.today/news/uk_and_eu_agree_draft_deal_to_remove_food_export_checks_3354663.html",
-      "sourceName": "DairyNews.today",
-      "function": "Dairy Processing",
-      "region": "UK",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "DairyNews.today",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "openalex-10-34188-bjaerv9n4-180",
       "title": "Impacto do manejo sanitário no perfil qualitativo do leite e na eficiência produtiva: aspectos produtivos e qualitativos",
       "summary": "A mastite subclínica é uma das principais enfermidades que acometem vacas leiteiras, causando prejuízos à qualidade do leite, à produtividade e à rentabilidade da atividade leiteira. Este estudo teve como objetivo avaliar a influência do manejo sanitário sobre a ocorrência de mastite subclínica e a qualidade do leite em uma propriedade rural localizada no município de Timon, Maranhão. Foram avalia",
@@ -729,6 +796,22 @@
       "tags": [
         "OpenAlex",
         "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-uk-and-eu-agree-draft-deal-to-remove-",
+      "title": "UK and EU agree draft deal to remove food-export checks",
+      "summary": "The UK and EU have agreed a draft sanitary and phytosanitary (SPS) agreement ahead of their summit later this month, the BBC reported. Wyke Farms, a British cheese producer, said simpler access to European markets could lower export costs and support investment.",
+      "date": "2026-11-05",
+      "sourceUrl": "https://dairynews.today/news/uk_and_eu_agree_draft_deal_to_remove_food_export_checks_3354663.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "UK",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
         "auto-ingested"
       ]
     },
@@ -5586,6 +5669,23 @@
       "tags": [
         "RSS",
         "DairyReporter",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1016-j-atech-2026-102712",
+      "title": "Comparison of feeding and management practices in two farms for the early age of dairy calves",
+      "summary": "Dairy calf management during the pre-weaning period is crucial for ensuring optimal growth, health, welfare, and future productive performance. This study compared two Italian Holstein dairy farms of Northern Italy with similar farm management choices but different rearing and feeding systems for pre-weaned calves. These animals are traditionally bucket-fed in farm A, whereas in farm B they are fe",
+      "date": "2026-11-01",
+      "sourceUrl": "https://doi.org/10.1016/j.atech.2026.102712",
+      "sourceName": "Smart Agricultural Technology",
+      "function": "Digital Platforms & Innovation",
+      "region": "Italy",
+      "institution": "University of Milan",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
