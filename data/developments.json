@@ -1,11 +1,206 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-11-14",
-    "nextRefresh": "2026-11-15",
-    "totalTracked": 18120,
+    "lastRefreshed": "2026-11-15",
+    "nextRefresh": "2026-11-16",
+    "totalTracked": 18136,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milk-production-costs-exceed-farmgate",
+      "title": "Milk production costs exceed farmgate price in Castilla y León",
+      "summary": "The average cost of producing cow’s milk in the Spanish region of Castilla y León is €47.79 per 100 kg of solids-corrected milk, or about 49.2 euro cents per litre. Meanwhile, the farmgate price fell to 48.7 cents per litre in September, according to Infolac, 12.6% below January’s level of 55.7 cents. The figures come from a new milk cost study presented in Palencia by the regional agriculture min",
+      "date": "2026-11-15",
+      "sourceUrl": "https://dairynews.today/news/milk-production-costs-exceed-farmgate-price-in-castilla-y-le-n.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-arcor-and-danone-acquire-remaining-st",
+      "title": "Arcor and Danone acquire remaining stake in La Serenísima owner Mastellone",
+      "summary": "Arcor and Danone announced the joint acquisition of the remaining shares in Mastellone Hermanos in March 2026, completing a process that began with their investment in 2015. The companies are moving to integrate dairy production and commercial operations involving the owner of La Serenísima.",
+      "date": "2026-11-15",
+      "sourceUrl": "https://dairynews.today/news/arcor_and_danone_acquire_remaining_stake_in_la_seren_sima_owner_mastellone_2223287.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Danone",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-espa-a-un-estudio-regional-sit-a-el-c",
+      "title": "Spanish regional study puts milk production costs at €47.79 per 100 kg",
+      "summary": "The regional government of Castile and León presented a study on November 14, 2026, estimating average production costs at €47.79 per 100 kilograms of solids-corrected milk (SCM). The analysis records an 11.66% increase in feed ration costs during 2026 and a 12.6% decline in prices received by producers between January and September.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/espa_a_un_estudio_regional_sit_a_el_coste_lechero_en_47_79_euros_100_kg_5949635.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-global-dairy-drinks-market-forecast-t",
+      "title": "Global dairy-drinks market forecast to reach approximately $210 billion by 2031",
+      "summary": "Recent estimates put the global market for dairy-based beverages at approximately $210 billion by 2031, amid consumer demand for functional nutrition. In Brazil, Yakult is promoting its Yodel fruit-and-dairy drink through a home-sales campaign offering discounts and a bag made with renewable raw material.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/global_dairy_drinks_market_forecast_to_reach_approximately_210_billion_by_2031_2868041.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Brazil",
+      "rdType": "Product Launch",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-nddb-chairman-meets-idf-national-comm",
+      "title": "NDDB chairman meets IDF national committee secretaries at World Dairy Summit 2026",
+      "summary": "Meenesh Shah, chairman of India’s National Dairy Development Board (NDDB), attended a meeting of International Dairy Federation (IDF) national committee secretaries in Auckland, New Zealand. Held alongside the IDF World Dairy Summit 2026, the meeting covered the federation’s work, current initiatives and plans.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/nddb_chairman_meets_idf_national_committee_secretaries_at_world_dairy_summit_2026_5681502.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "New Zealand",
+      "company": "NDDB",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-india-s-whey-concentrate-remains-at-2",
+      "title": "India’s whey concentrate remains at ₹2,000–2,300/kg as global prices fall",
+      "summary": "Industry estimates put Indian whey concentrate prices at ₹2,000–2,300 per kg, compared with ₹700–800 per kg until 2024. Domestic prices remain elevated despite declines in international whey protein concentrate markets, where Vesper, a dairy-market intelligence firm, has identified a price correction.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/india_s_whey_concentrate_remains_at_2_000_2_300_kg_as_global_prices_fall_1235873.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "India",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-fromageries-arnaud-s-24-month-comt-wi",
+      "title": "Fromageries Arnaud’s 24-month Comté wins World Cheese Awards 2026 after three-way tie",
+      "summary": "Comté DOP Fort des Rousses, made by Fromageries Arnaud and sold under the JuraFlore brand, was named World Champion Cheese at the World Cheese Awards on November 12th in Córdoba, Spain. The French cheese, matured for 24 months, took the title after three finalists finished level on 81 points.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/fromageries_arnaud_s_24_month_comt_wins_world_cheese_awards_2026_after_three_way_tie_1887664.html",
+      "sourceName": "DairyNews.today",
+      "function": "Dairy Processing",
+      "region": "Spain",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-vi-osa-wins-brazilian-doce-de-leite-t",
+      "title": "Viçosa wins Brazilian doce de leite tasting of 14 brands",
+      "summary": "Viçosa, a dairy brand from Minas Gerais, took first place among 14 doce de leite brands sold in Brazil in a June 2025 tasting organised by Paladar, the food website of Estado de S. Paulo. Momento Mambo finished second, followed by Aviação.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/vi_osa_wins_brazilian_doce_de_leite_tasting_of_14_brands_8165478.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Brazil",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-milk-s-colour-how-proteins-and-fat-sc",
+      "title": "Milk’s colour: how proteins and fat scatter light",
+      "summary": "Milk appears white because microscopic protein structures and fat globules scatter visible light, according to an explanation published by Mundo Lácteo. Its shade can also vary with fat content, the animals’ diet and species, and processing conditions.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/milk_s_colour_how_proteins_and_fat_scatter_light_1567824.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-mastellone-cuts-debt-by-64-4-as-real-",
+      "title": "Mastellone cuts debt by 64.4% as real sales fall 6.5%",
+      "summary": "Mastellone Hermanos, the company behind La Serenísima, reduced its financial debt during the first nine months of 2026 as Arcor and Danone advanced a corporate reorganisation. The dairy company recorded a net profit despite lower inflation-adjusted sales and an operating loss.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/mastellone_cuts_debt_by_64_4_as_real_sales_fall_6_5_4845361.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "company": "Danone",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-argentina-requires-heat-treated-ferme",
+      "title": "Argentina requires heat-treated fermented dairy products to carry labels identifying inactive cultures",
+      "summary": "Argentina has amended its food code to require fermented dairy products heated after fermentation to identify that treatment and the absence of viable cultures. The requirements apply from November 5 and follow a request by L3N S.A. to introduce a category for products made from heat-treated yoghurt.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/argentina_requires_heat_treated_fermented_dairy_products_to_carry_labels_identifying_inactive_cultur_2634110.html",
+      "sourceName": "DairyNews.today",
+      "function": "Product Development",
+      "region": "Argentina",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-sancor-s-51-6m-asset-sale-could-slip-",
+      "title": "SanCor’s $51.6m asset sale could slip to first quarter of 2027",
+      "summary": "The sale of Argentine dairy cooperative SanCor’s principal assets could take place in the first quarter of 2027, according to estimates reported by La Voz. The tender covers six factories and a portfolio of brands and other intangible assets, with a combined reference valuation of $51.6m.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://dairynews.today/news/sancor_s_51_6m_asset_sale_could_slip_to_first_quarter_of_2027_8983175.html",
+      "sourceName": "DairyNews.today",
+      "function": "Marketing",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-vinamilk-hosts-sole-dairy-factory-vis",
       "title": "Vinamilk hosts sole dairy-factory visit on largest US agricultural mission to Vietnam",
@@ -35,6 +230,87 @@
       "tags": [
         "RSS",
         "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-irish-dairy-farmer-more-than-halves-m",
+      "title": "Irish dairy farmer more than halves milking time with new Dairymaster parlour",
+      "summary": "John Doran, who milks 80 cows near Asdee in County Kerry, says a new parlour has reduced milking sessions to within an hour, from as much as two hours or more. The installation is his latest investment in a farm overlooking the Shannon Estuary.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://dairynews.today/news/irish_dairy_farmer_more_than_halves_milking_time_with_new_dairymaster_parlour_6340253.html",
+      "sourceName": "DairyNews.today",
+      "function": "Engineering & Automation",
+      "region": "Global",
+      "company": "Kerry",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-advances-in-nutrition-review-lactose-",
+      "title": "Advances in Nutrition review: Lactose maldigestion need not cause intolerance",
+      "summary": "A scientific review published in Advances in Nutrition argues that declining lactase activity alone should not determine whether dietary guidelines recommend dairy. The authors say many people who digest lactose incompletely can consume moderate amounts of dairy without significant symptoms.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://dairynews.today/news/advances_in_nutrition_review_lactose_maldigestion_need_not_cause_intolerance_4292100.html",
+      "sourceName": "DairyNews.today",
+      "function": "Nutrition & Feeding",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-chile-agrees-to-cut-diesel-prices-by-",
+      "title": "Chile agrees to cut diesel prices by 142 pesos a litre after truckers’ strike",
+      "summary": "Chile’s government announced an agreement with major haulage associations to end a truckers’ strike, including a diesel-price reduction of 142 Chilean pesos per litre. The announcement followed an appeal by dairy producers in Osorno to keep milk trucks moving.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://dairynews.today/news/chile_agrees_to_cut_diesel_prices_by_142_pesos_a_litre_after_truckers_strike_2018870.html",
+      "sourceName": "DairyNews.today",
+      "function": "Digital Platforms & Innovation",
+      "region": "Chile",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-more-than-50-sacks-of-milk-powder-all",
+      "title": "More than 50 sacks of milk powder allegedly stolen from Cuban state dairy",
+      "summary": "Several people were detained following the alleged theft of more than 50 sacks of skimmed-milk powder from Cuba’s state-owned Empresa de Productos Lácteos Río Zaza. The case prompted complaints about dairy distribution as families reported difficulties obtaining milk.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://dairynews.today/news/more_than_50_sacks_of_milk_powder_allegedly_stolen_from_cuban_state_dairy_8895939.html",
+      "sourceName": "DairyNews.today",
+      "function": "Farm Management",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-DairyNews-today-https-dairynews-today-news-honduras-completes-95-cattle-embryo-t",
+      "title": "Honduras completes 95 cattle embryo transfers under genetic-improvement programme",
+      "summary": "Honduras has carried out 95 cattle embryo transfers through a programme led by the Secretaría de Agricultura y Ganadería (SAG). The initiative benefits 17 producers, with a preliminary investment of 7 million lempiras and a target of 516 transfers across three departments.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://dairynews.today/news/honduras_completes_95_cattle_embryo_transfers_under_genetic_improvement_programme_6122938.html",
+      "sourceName": "DairyNews.today",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "DairyNews.today",
         "auto-ingested"
       ]
     },
@@ -272,7 +548,7 @@
       "date": "2026-11-13",
       "sourceUrl": "https://doi.org/10.1638/2026-0078",
       "sourceName": "Journal of Zoo and Wildlife Medicine",
-      "function": "Animal Health",
+      "function": "Breeding & Genetics",
       "region": "Global",
       "rdType": "Research Paper",
       "tags": [
@@ -321,7 +597,7 @@
       "date": "2026-11-13",
       "sourceUrl": "https://doi.org/10.3389/fsufs.2026.1939835",
       "sourceName": "Frontiers in Sustainable Food Systems",
-      "function": "Nutrition & Feeding",
+      "function": "Sustainability & Traceability",
       "region": "South Africa",
       "institution": "Stellenbosch University",
       "rdType": "Research Paper",
@@ -349,48 +625,13 @@
       ]
     },
     {
-      "id": "openalex-10-3389-fvets-2026-1966945",
-      "title": "Laboratory surveillance of epizootic animal diseases in Kazakhstan, 2016–2018: testing patterns, geographic concentration, and data gaps",
-      "summary": "Aggregated national laboratory records can provide insight into the allocation and outputs of veterinary surveillance, although they cannot independently establish population-level disease occurrence. We retrospectively analyzed annual territorial laboratory records to characterize surveillance for epizootic animal diseases in Kazakhstan from 2016 to 2018. The dataset comprised aggregated numbers ",
-      "date": "2026-11-13",
-      "sourceUrl": "https://doi.org/10.3389/fvets.2026.1966945",
-      "sourceName": "Frontiers in Veterinary Science",
-      "function": "Animal Health",
-      "region": "Global",
-      "institution": "Kazakh Scientific Research Veterinary Institute",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-1007-s44197-026-00664-2",
-      "title": "Further Analysis for Surveillance-Based Associations in Foodborne Disease: Leafy Greens and Raw Milk",
-      "summary": "Abstract Background Transdisciplinary collaborations with risk analysis practitioners may enhance epidemiologic investigations and expand public health protections in light of federal and state laws and policies. Methods Previous analysis of US outbreak data for a 16-year period (2005–2020) reported in Microsoft Access ® data tables was extended for deeper analysis of foodborne public health burde",
-      "date": "2026-11-13",
-      "sourceUrl": "https://doi.org/10.1007/s44197-026-00664-2",
-      "sourceName": "Journal of Epidemiology and Global Health",
-      "function": "Animal Health",
-      "region": "USA",
-      "institution": "Syracuse University",
-      "company": "Microsoft",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "epmc-10-21203-rs-3-rs-11495015-v1",
       "title": "Machine Learning-Based Prediction of Brucella Seropositivity and Associated Factors among Rwandan Dairy Cattle with Reproductive Disorders",
       "summary": "<title>Abstract</title>  <p>  Brucellosis poses significant economic and zoonotic challenges to Rwanda’s dairy sector. This study assessed factors associated with  <italic>Brucella</italic>  seropositivity among high-risk dairy cattle and benchmarked machine learning (ML) algorithms for predictive surveillance. A cross-sectional survey was conducted from June to December 2025 across four Rwandan d",
       "date": "2026-11-13",
       "sourceUrl": "https://doi.org/10.21203/rs.3.rs-11495015/v1",
       "sourceName": "Europe PMC",
-      "function": "Animal Health",
+      "function": "Robotics & AI",
       "region": "Global",
       "rdType": "Academic Study",
       "tags": [
@@ -633,7 +874,7 @@
       "date": "2026-11-12",
       "sourceUrl": "https://doi.org/10.1038/s41598-026-78317-4",
       "sourceName": "Scientific Reports",
-      "function": "Nutrition & Feeding",
+      "function": "Breeding & Genetics",
       "region": "China",
       "institution": "Xinjiang Academy of Animal Science",
       "rdType": "Research Paper",
@@ -9641,6 +9882,23 @@
       "tags": [
         "RSS",
         "DairyNews.today",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "epmc-10-3390-ani16213476",
+      "title": "Evaluation of Coated Urea Products as Supplemental Nitrogen Alternatives to Soybean Meal in Dairy Cow Diets.",
+      "summary": "Coated slow-release urea (SRU) may provide an alternative source of supplemental nitrogen in dairy cattle diets, but its ruminal release behavior can vary among formulations. This study compared three palm-oil-coated SRU products with different nominal release specifications using nonlactating, nonpregnant, rumen-cannulated Chinese Holstein cows. Three cows were used in an in situ experiment to ch",
+      "date": "2026-11-03",
+      "sourceUrl": "https://doi.org/10.3390/ani16213476",
+      "sourceName": "Europe PMC",
+      "function": "Nutrition & Feeding",
+      "region": "China",
+      "institution": "College of Animal Science and Technology",
+      "rdType": "Academic Study",
+      "tags": [
+        "Europe PMC",
+        "PubMed",
         "auto-ingested"
       ]
     },
