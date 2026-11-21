@@ -1,11 +1,160 @@
 {
   "metadata": {
-    "lastRefreshed": "2026-11-20",
-    "nextRefresh": "2026-11-21",
-    "totalTracked": 18490,
+    "lastRefreshed": "2026-11-21",
+    "nextRefresh": "2026-11-22",
+    "totalTracked": 18498,
     "coverageStart": "2024-01-01"
   },
   "developments": [
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-u-s-exports-maintain-record-pace-through-",
+      "title": "U.S. Exports Maintain Record Pace Through Three Quarters",
+      "summary": "Third-quarter MSE export volume was largest ever. Year-over-year (YOY) U.S. dairy exports increased 10% on a milk solids equivalent (MSE) basis in September, as robust global demand continued to fuel trade. The increase lifted [Read More ...]",
+      "date": "2026-11-21",
+      "sourceUrl": "https://dairybusiness.com/u-s-exports-maintain-record-pace-through-three-quarters/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-thriving-small-dairies-practical-manageme",
+      "title": "Thriving small dairies: Practical management solutions",
+      "summary": "Webinar series offered in partnership with Cornell Small Farms Program Looking for practical ideas you can put to work on your dairy farm? Cornell PRO-DAIRY and the Cornell Small Farms Program are teaming up to [Read More ...]",
+      "date": "2026-11-21",
+      "sourceUrl": "https://dairybusiness.com/thriving-small-dairies-practical-management-solutions/",
+      "sourceName": "Dairy Business",
+      "function": "Farm Management",
+      "region": "USA",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Dairy-Business-https-dairybusiness-com-the-dairy-alliance-launches-portraits-of-",
+      "title": "The Dairy Alliance Launches Portraits of Modern Dairy",
+      "summary": "Southern Stories Campaign with Virginia Dairy Family’s Story of Community, Care and Innovation The Dairy Alliance is spotlighting Oakmulgee Dairy in its Portraits of Modern Dairy: Southern Stories campaign, showcasing how six generations of the [Read More ...]",
+      "date": "2026-11-20",
+      "sourceUrl": "https://dairybusiness.com/the-dairy-alliance-launches-portraits-of-modern-dairy/",
+      "sourceName": "Dairy Business",
+      "function": "Marketing",
+      "region": "USA",
+      "rdType": "Product Launch",
+      "tags": [
+        "RSS",
+        "Dairy Business",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "rss-Just-Food-https-www-just-food-com-news-arla-reviews-ice-cream-exit-",
+      "title": "Arla weighs ice-cream exit after DMK merger",
+      "summary": "Arla Foods is reviewing options for the future ownership of its ice-cream business, less than six months after completing its merger with German peer DMK. The post Arla weighs ice-cream exit after DMK merger appeared first on Just Food .",
+      "date": "2026-11-20",
+      "sourceUrl": "https://www.just-food.com/news/arla-reviews-ice-cream-exit/",
+      "sourceName": "Just Food",
+      "function": "Digital Platforms & Innovation",
+      "region": "Global",
+      "company": "Arla",
+      "rdType": "Industry News",
+      "tags": [
+        "RSS",
+        "Just Food",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s11250-026-05510-y",
+      "title": "Unlocking the potential of microalga (Arthrospira platensis) as a sustainable feed supplement for sheep: impacts on rumen dynamics, productive performance, health and product quality",
+      "summary": "Sheep production plays a crucial role in the global meat market, with nutrition being a primary factor influencing ruminant productivity and well-being. Growing consumer demand for healthy animal products has driven a shift towards natural feed supplements, spurring significant interest in nutrient-dense microalgae like Arthrospira platensis (AP), often referred to as the “feed supplement of the f",
+      "date": "2026-11-20",
+      "sourceUrl": "https://doi.org/10.1007/s11250-026-05510-y",
+      "sourceName": "Tropical Animal Health and Production",
+      "function": "Nutrition & Feeding",
+      "region": "South Africa",
+      "institution": "University of South Africa",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1093-ismeco-ycag339",
+      "title": "Target-enriched sequencing enables genomic characterization within diverse microbial populations",
+      "summary": "Understanding the ecological and epidemiological dynamics of microbial populations requires resolution of genetic diversity beyond the species level, yet conventional culture-based surveys and standard sequencing of metagenomic samples rarely provide sufficient on-target depth for variant-level analysis. Here, we present a generalizable molecular and computational framework for variant-resolved an",
+      "date": "2026-11-20",
+      "sourceUrl": "https://doi.org/10.1093/ismeco/ycag339",
+      "sourceName": "ISME Communications",
+      "function": "Animal Health",
+      "region": "USA",
+      "institution": "West Texas A&M University",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1007-s11250-026-05493-w",
+      "title": "Regional morphometric variation and weak phenotypic clustering of Moorish zebu cows (Bos indicus) in Mauritania",
+      "summary": "The Moorish zebu supports pastoral livelihoods in Mauritania, but regional morphometric variation has not been quantified using a common field protocol. To describe phenotypic variation among adult lactating cows from three Mauritanian regions and explore whether the sample contained distinct morphometric groups. A purposive cross-sectional sample included 352 cows from 158 herds in Hodh Chargui, ",
+      "date": "2026-11-20",
+      "sourceUrl": "https://doi.org/10.1007/s11250-026-05493-w",
+      "sourceName": "Tropical Animal Health and Production",
+      "function": "Breeding & Genetics",
+      "region": "Global",
+      "institution": "Université de Nouakchott",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-3389-frabi-2026-2017566",
+      "title": "Synergistic combination of essential oils and nisin as a hurdle technology strategy for controlling spoilage and pathogenic microorganisms in fresh cheese-mimicking matrix",
+      "summary": "Fresh cheeses are highly perishable products due to their high moisture content, near- neutral pH, and nutrient-rich composition, which make them susceptible to contamination by spoilage microorganisms such as Pseudomonas spp. and foodborne pathogens such as Staphylococcus aureus . The dairy industry faces the challenge of extending shelf life while ensuring food safety, particularly in response t",
+      "date": "2026-11-20",
+      "sourceUrl": "https://doi.org/10.3389/frabi.2026.2017566",
+      "sourceName": "Frontiers in Antibiotics",
+      "function": "Quality & Food Safety",
+      "region": "Brazil",
+      "institution": "Universidade Federal de Viçosa",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-18805-ajdfr-drf-706",
+      "title": "Technological and Probiotic Characterization of Lactobacilli and Bifidobacteria Strains Isolated from Dairy Products",
+      "summary": "Background: This research explores the vital functions of lactic acid bacteria and bifidobacteria in biotechnology, with emphasis on fermented food production. Their distinctive growth patterns and metabolic capabilities drive numerous applications, prompting research into novel strains with enhanced technological attributes. The present study concerns the characterization of technological and pro",
+      "date": "2026-11-20",
+      "sourceUrl": "https://doi.org/10.18805/ajdfr.drf-706",
+      "sourceName": "Asian Journal of Dairy and Food Research",
+      "function": "Animal Health",
+      "region": "Global",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
     {
       "id": "rss-DairyNews-today-https-dairynews-today-news-it-s-not-protectionism-it-s-informati",
       "title": "“It’s not protectionism, it’s information”: a quick-fire interview with the president of Sodiaal",
@@ -394,19 +543,53 @@
       ]
     },
     {
-      "id": "rss-Just-Food-https-www-just-food-com-news-arla-reviews-ice-cream-exit-",
-      "title": "Arla weighs ice-cream exit after DMK merger",
-      "summary": "Arla Foods is reviewing options for the future ownership of its ice-cream business, less than six months after completing its merger with German peer DMK. The post Arla weighs ice-cream exit after DMK merger appeared first on Just Food .",
-      "date": "2026-11-20",
-      "sourceUrl": "https://www.just-food.com/news/arla-reviews-ice-cream-exit/",
-      "sourceName": "Just Food",
-      "function": "Digital Platforms & Innovation",
-      "region": "Global",
-      "company": "Arla",
-      "rdType": "Industry News",
+      "id": "openalex-10-5194-aab-69-709-2026",
+      "title": "Associations of physiological stage and body condition score with circulating asprosin and resistin, thyroid–metabolic markers, and oxidative status in Holstein cows: a longitudinal observational stud",
+      "summary": "Physiological transitions from gestation to lactation alter adipose-tissue mobilization, thyroid function, and redox balance in dairy cows. The aim of this longitudinal observational study was to investigate the associations of physiological stage and concurrent body condition score (BCS) with circulating asprosin, resistin, thyroid–metabolic indicators (T3; T4; non-esterified fatty acids, NEFAs; ",
+      "date": "2026-11-19",
+      "sourceUrl": "https://doi.org/10.5194/aab-69-709-2026",
+      "sourceName": "Archives animal breeding/Archiv für Tierzucht",
+      "function": "Animal Welfare",
+      "region": "Turkey",
+      "institution": "Hitit Üniversitesi",
+      "rdType": "Research Paper",
       "tags": [
-        "RSS",
-        "Just Food",
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1093-jas-skag372",
+      "title": "Influence of Feeding Level on Mammary Antioxidant and Immune Gene Expression in Sheep and Goats",
+      "summary": "Twenty-four dairy goats and an equal number of sheep were divided into three homogeneous subgroups per species and fed the same diet at quantities meeting 70% (underfeeding), 100% (control), or 130% (overfeeding) of their daily energy and crude protein requirements. Mammary tissue (MT) samples were collected on the 30th and 60th experimental days. Gene expression was analyzed using a repeated-meas",
+      "date": "2026-11-19",
+      "sourceUrl": "https://doi.org/10.1093/jas/skag372",
+      "sourceName": "Journal of Animal Science",
+      "function": "Nutrition & Feeding",
+      "region": "Greece",
+      "institution": "Agricultural University of Athens",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
+        "auto-ingested"
+      ]
+    },
+    {
+      "id": "openalex-10-1093-tas-txag188",
+      "title": "Behavioral Responses of Dairy Cows to Wearable Vibration Signals: A Pilot Study",
+      "summary": "Understanding the emotional state of animals is central to welfare assessment. Unlike humans, these internal experiences cannot be examined by simply asking animals how they feel. Researchers must therefore rely on indirect approaches, such as probing perception through measurable behavioral responses to controlled stimuli. Here, we tested whether vibration-based stimulation delivered through wear",
+      "date": "2026-11-19",
+      "sourceUrl": "https://doi.org/10.1093/tas/txag188",
+      "sourceName": "Translational Animal Science",
+      "function": "Digital Platforms & Innovation",
+      "region": "Israel",
+      "institution": "Hebrew University of Jerusalem",
+      "rdType": "Research Paper",
+      "tags": [
+        "OpenAlex",
+        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -996,24 +1179,6 @@
       ]
     },
     {
-      "id": "openalex-10-31073-onehealthjournal2026-v-01",
-      "title": "Characteristics of the Epizootiology, Epidemiology, Diagnostics and Prevention of Crimean-Congo Hemorrhagic Fever",
-      "summary": "Crimean-Congo hemorrhagic fever (CCHF) is a particularly dangerous zoonotic arboviral infection caused by the RNA-containing CCHF virus (CCHFV) of the genus Orthonairovirus in the family Nairoviridae. The disease is characterized by a wide geographic range, covering more than 50 countries in Africa, Asia, and Europe, including regions of Ukraine. The natural circulation of the pathogen is sustaine",
-      "date": "2026-11-19",
-      "sourceUrl": "https://doi.org/10.31073/onehealthjournal2026-v-01",
-      "sourceName": "One Health Journal",
-      "function": "Animal Health",
-      "region": "Ukraine",
-      "institution": "L.V. Gromashevsky Institute of Epidemiology and Infectious Diseases of the National Academy of Medical Sciences of Ukraine",
-      "company": "Genus",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
-        "auto-ingested"
-      ]
-    },
-    {
       "id": "rss-DairyNews-today-https-dairynews-today-news-los-dem-cratas-de-wisconsin-planean-f",
       "title": "Wisconsin Democrats plan to ease dairy rules and tighten environmental oversight",
       "summary": "Wisconsin's new Democratic majorities and farm organizations are preparing changes to dairy processing and direct-sales rules, alongside tighter oversight of large livestock operations. The number of state-licensed dairy farms fell below 5,000 for the first time in 2026.",
@@ -1285,23 +1450,6 @@
       "tags": [
         "RSS",
         "Food Navigator",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "openalex-10-36956-rwae-v7i4-105717",
-      "title": "Business Model Integration and Economic Performance in Livestock Farming: Evidence from Medium-Scale Sheep Enterprises in Indonesia",
-      "summary": "This study aims to analyze how the Business Model Canvas (BMC) is implemented and strengthened in medium-scale sheep farming businesses in southeastern West Java, as well as its implications for agribusiness income and sustainability. The research focused on farmers with farms of 150–3,000 heads, representing the transition phase from production-based businesses to a more structured agribusiness s",
-      "date": "2026-11-18",
-      "sourceUrl": "https://doi.org/10.36956/rwae.v7i4.105717",
-      "sourceName": "Research on World Agricultural Economy",
-      "function": "Nutrition & Feeding",
-      "region": "Indonesia",
-      "institution": "President University",
-      "rdType": "Research Paper",
-      "tags": [
-        "OpenAlex",
-        "peer-reviewed",
         "auto-ingested"
       ]
     },
@@ -8838,22 +8986,6 @@
       "tags": [
         "RSS",
         "eDairyNews",
-        "auto-ingested"
-      ]
-    },
-    {
-      "id": "rss-Dairy-Business-https-dairybusiness-com-thriving-small-dairies-practical-manageme",
-      "title": "Thriving small dairies: Practical management solutions",
-      "summary": "Webinar series offered in partnership with Cornell Small Farms Program Looking for practical ideas you can put to work on your dairy farm? Cornell PRO-DAIRY and the Cornell Small Farms Program are teaming up [Read More ...]",
-      "date": "2026-11-11",
-      "sourceUrl": "https://dairybusiness.com/thriving-small-dairies-practical-management-solutions/",
-      "sourceName": "Dairy Business",
-      "function": "Farm Management",
-      "region": "USA",
-      "rdType": "Industry News",
-      "tags": [
-        "RSS",
-        "Dairy Business",
         "auto-ingested"
       ]
     },
